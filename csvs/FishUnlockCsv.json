@@ -1,0 +1,102 @@
+[
+  {
+    "FishUnlockRow": {
+      "ID": 1,
+      "UnlockWeight": 3000,
+      "UnlockFishRod": 1414,
+      "UnlockPayFishRod": 0,
+      "UnlockArea": 0,
+      "UnlockTask": [],
+      "UnlockExchange": [],
+      "UnlockLanguage": 501210
+    }
+  },
+  {
+    "FishUnlockRow": {
+      "ID": 2,
+      "UnlockWeight": 7500,
+      "UnlockFishRod": 0,
+      "UnlockPayFishRod": 0,
+      "UnlockArea": 2,
+      "UnlockTask": [],
+      "UnlockExchange": [
+        24121109,
+        24121110,
+        24121111,
+        24121112,
+        24121113,
+        24121114,
+        24121115,
+        24121116
+      ],
+      "UnlockLanguage": 501248
+    }
+  },
+  {
+    "FishUnlockRow": {
+      "ID": 3,
+      "UnlockWeight": 12000,
+      "UnlockFishRod": 1415,
+      "UnlockPayFishRod": 1416,
+      "UnlockArea": 0,
+      "UnlockTask": [],
+      "UnlockExchange": [],
+      "UnlockLanguage": 501211
+    }
+  },
+  {
+    "FishUnlockRow": {
+      "ID": 4,
+      "UnlockWeight": 23000,
+      "UnlockFishRod": 0,
+      "UnlockPayFishRod": 0,
+      "UnlockArea": 3,
+      "UnlockTask": [],
+      "UnlockExchange": [
+        24121117,
+        24121118,
+        24121119,
+        24121120,
+        24121121,
+        24121122,
+        24121123
+      ],
+      "UnlockLanguage": 501249
+    }
+  },
+  {
+    "FishUnlockRow": {
+      "ID": 5,
+      "UnlockWeight": 30000,
+      "UnlockFishRod": 1417,
+      "UnlockPayFishRod": 1418,
+      "UnlockArea": 0,
+      "UnlockTask": [],
+      "UnlockExchange": [],
+      "UnlockLanguage": 501213
+    }
+  },
+  {
+    "FishUnlockRow": {
+      "ID": 6,
+      "UnlockWeight": 50000,
+      "UnlockFishRod": 0,
+      "UnlockPayFishRod": 0,
+      "UnlockArea": 4,
+      "UnlockTask": [],
+      "UnlockExchange": [
+        24121124,
+        24121125,
+        24121126,
+        24121127,
+        24121128,
+        24121129,
+        24121130,
+        24121131,
+        24121132,
+        24121133
+      ],
+      "UnlockLanguage": 501250
+    }
+  }
+]

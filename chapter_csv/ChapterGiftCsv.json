@@ -1,0 +1,5750 @@
+[
+  {
+    "ChapterGiftRow": {
+      "id": 1,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 3,
+      "name_beizhu": "第2章助力礼包1",
+      "FinishChapter": 2,
+      "UnlockOrder": 1,
+      "gift_time": 86400,
+      "iap_id": 31001,
+      "Reward": [
+        [
+          1,
+          160
+        ],
+        [
+          7,
+          5
+        ],
+        [
+          1006,
+          10
+        ],
+        [
+          2,
+          50000
+        ]
+      ],
+      "SaleRate": 1300
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 2,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 3,
+      "name_beizhu": "第2章助力礼包2",
+      "FinishChapter": 2,
+      "UnlockOrder": 2,
+      "gift_time": 86400,
+      "iap_id": 31002,
+      "Reward": [
+        [
+          1,
+          500
+        ],
+        [
+          7,
+          10
+        ],
+        [
+          1006,
+          25
+        ],
+        [
+          2,
+          100000
+        ]
+      ],
+      "SaleRate": 900
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 3,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 3,
+      "name_beizhu": "第2章助力礼包3",
+      "FinishChapter": 2,
+      "UnlockOrder": 3,
+      "gift_time": 86400,
+      "iap_id": 31003,
+      "Reward": [
+        [
+          31104,
+          1
+        ],
+        [
+          31,
+          15
+        ],
+        [
+          1006,
+          45
+        ],
+        [
+          2,
+          200000
+        ]
+      ],
+      "SaleRate": 700
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 4,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 3,
+      "name_beizhu": "第2章助力礼包4",
+      "FinishChapter": 2,
+      "UnlockOrder": 4,
+      "gift_time": 86400,
+      "iap_id": 31004,
+      "Reward": [
+        [
+          31104,
+          2
+        ],
+        [
+          31,
+          20
+        ],
+        [
+          1006,
+          60
+        ],
+        [
+          2,
+          450000
+        ]
+      ],
+      "SaleRate": 700
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 5,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 3,
+      "name_beizhu": "第5章助力礼包1",
+      "FinishChapter": 5,
+      "UnlockOrder": 1,
+      "gift_time": 86400,
+      "iap_id": 31005,
+      "Reward": [
+        [
+          1,
+          500
+        ],
+        [
+          7,
+          10
+        ],
+        [
+          1006,
+          45
+        ],
+        [
+          2,
+          200000
+        ]
+      ],
+      "SaleRate": 1000
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 6,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 3,
+      "name_beizhu": "第5章助力礼包2",
+      "FinishChapter": 5,
+      "UnlockOrder": 2,
+      "gift_time": 86400,
+      "iap_id": 31006,
+      "Reward": [
+        [
+          1,
+          1200
+        ],
+        [
+          31,
+          15
+        ],
+        [
+          1006,
+          60
+        ],
+        [
+          2,
+          450000
+        ]
+      ],
+      "SaleRate": 800
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 7,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 3,
+      "name_beizhu": "第5章助力礼包3",
+      "FinishChapter": 5,
+      "UnlockOrder": 3,
+      "gift_time": 86400,
+      "iap_id": 31007,
+      "Reward": [
+        [
+          31104,
+          2
+        ],
+        [
+          31,
+          20
+        ],
+        [
+          1006,
+          60
+        ],
+        [
+          2,
+          450000
+        ]
+      ],
+      "SaleRate": 700
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 8,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 3,
+      "name_beizhu": "第5章助力礼包4",
+      "FinishChapter": 5,
+      "UnlockOrder": 4,
+      "gift_time": 86400,
+      "iap_id": 31008,
+      "Reward": [
+        [
+          31104,
+          2
+        ],
+        [
+          31,
+          25
+        ],
+        [
+          1006,
+          150
+        ],
+        [
+          2,
+          800000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 9,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 3,
+      "name_beizhu": "第5章助力礼包5",
+      "FinishChapter": 5,
+      "UnlockOrder": 5,
+      "gift_time": 86400,
+      "iap_id": 31009,
+      "Reward": [
+        [
+          31105,
+          1
+        ],
+        [
+          31,
+          30
+        ],
+        [
+          1006,
+          180
+        ],
+        [
+          2,
+          1200000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 10,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 4,
+      "name_beizhu": "第10章助力礼包1",
+      "FinishChapter": 10,
+      "UnlockOrder": 1,
+      "gift_time": 86400,
+      "iap_id": 31010,
+      "Reward": [
+        [
+          30310,
+          10
+        ],
+        [
+          65,
+          10
+        ],
+        [
+          34,
+          800
+        ],
+        [
+          2,
+          450000
+        ]
+      ],
+      "SaleRate": 800
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 11,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 4,
+      "name_beizhu": "第10章助力礼包2",
+      "FinishChapter": 10,
+      "UnlockOrder": 2,
+      "gift_time": 86400,
+      "iap_id": 31011,
+      "Reward": [
+        [
+          30310,
+          15
+        ],
+        [
+          65,
+          15
+        ],
+        [
+          34,
+          2000
+        ],
+        [
+          2,
+          450000
+        ]
+      ],
+      "SaleRate": 800
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 12,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 4,
+      "name_beizhu": "第10章助力礼包3",
+      "FinishChapter": 10,
+      "UnlockOrder": 3,
+      "gift_time": 86400,
+      "iap_id": 31012,
+      "Reward": [
+        [
+          30305,
+          1
+        ],
+        [
+          65,
+          20
+        ],
+        [
+          34,
+          5000
+        ],
+        [
+          2,
+          1000000
+        ]
+      ],
+      "SaleRate": 800
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 13,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 4,
+      "name_beizhu": "第10章助力礼包4",
+      "FinishChapter": 10,
+      "UnlockOrder": 4,
+      "gift_time": 86400,
+      "iap_id": 31013,
+      "Reward": [
+        [
+          32105,
+          1
+        ],
+        [
+          65,
+          25
+        ],
+        [
+          30310,
+          5
+        ],
+        [
+          34,
+          6000
+        ],
+        [
+          2,
+          850000
+        ]
+      ],
+      "SaleRate": 700
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 14,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 4,
+      "name_beizhu": "第10章助力礼包5",
+      "FinishChapter": 10,
+      "UnlockOrder": 5,
+      "gift_time": 86400,
+      "iap_id": 31014,
+      "Reward": [
+        [
+          32105,
+          1
+        ],
+        [
+          30305,
+          2
+        ],
+        [
+          30310,
+          15
+        ],
+        [
+          34,
+          12000
+        ],
+        [
+          2,
+          1500000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 15,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 4,
+      "name_beizhu": "第10章助力礼包6",
+      "FinishChapter": 10,
+      "UnlockOrder": 6,
+      "gift_time": 86400,
+      "iap_id": 31015,
+      "Reward": [
+        [
+          32105,
+          3
+        ],
+        [
+          30305,
+          4
+        ],
+        [
+          30310,
+          15
+        ],
+        [
+          34,
+          25000
+        ],
+        [
+          2,
+          3000000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 16,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 3,
+      "name_beizhu": "第15章助力礼包1",
+      "FinishChapter": 15,
+      "UnlockOrder": 1,
+      "gift_time": 86400,
+      "iap_id": 31016,
+      "Reward": [
+        [
+          1,
+          1200
+        ],
+        [
+          31,
+          15
+        ],
+        [
+          1006,
+          45
+        ],
+        [
+          34,
+          800
+        ],
+        [
+          2,
+          200000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 17,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 3,
+      "name_beizhu": "第15章助力礼包2",
+      "FinishChapter": 15,
+      "UnlockOrder": 2,
+      "gift_time": 86400,
+      "iap_id": 31017,
+      "Reward": [
+        [
+          1,
+          1600
+        ],
+        [
+          31,
+          20
+        ],
+        [
+          1006,
+          60
+        ],
+        [
+          34,
+          2000
+        ],
+        [
+          2,
+          450000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 18,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 3,
+      "name_beizhu": "第15章助力礼包3",
+      "FinishChapter": 15,
+      "UnlockOrder": 3,
+      "gift_time": 86400,
+      "iap_id": 31018,
+      "Reward": [
+        [
+          1,
+          2500
+        ],
+        [
+          31,
+          20
+        ],
+        [
+          1006,
+          150
+        ],
+        [
+          34,
+          5000
+        ],
+        [
+          2,
+          750000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 19,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 3,
+      "name_beizhu": "第15章助力礼包4",
+      "FinishChapter": 15,
+      "UnlockOrder": 4,
+      "gift_time": 86400,
+      "iap_id": 31019,
+      "Reward": [
+        [
+          30207,
+          1
+        ],
+        [
+          1,
+          2500
+        ],
+        [
+          1006,
+          200
+        ],
+        [
+          34,
+          12000
+        ],
+        [
+          2,
+          1000000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 20,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 3,
+      "name_beizhu": "第15章助力礼包5",
+      "FinishChapter": 15,
+      "UnlockOrder": 5,
+      "gift_time": 86400,
+      "iap_id": 31020,
+      "Reward": [
+        [
+          31211,
+          1
+        ],
+        [
+          31,
+          25
+        ],
+        [
+          1006,
+          400
+        ],
+        [
+          34,
+          18000
+        ],
+        [
+          2,
+          2000000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 21,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 3,
+      "name_beizhu": "第15章助力礼包6",
+      "FinishChapter": 15,
+      "UnlockOrder": 6,
+      "gift_time": 86400,
+      "iap_id": 31021,
+      "Reward": [
+        [
+          31107,
+          1
+        ],
+        [
+          30207,
+          1
+        ],
+        [
+          31,
+          50
+        ],
+        [
+          1006,
+          2000
+        ],
+        [
+          2,
+          3200000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 22,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 3,
+      "name_beizhu": "第20章助力礼包1",
+      "FinishChapter": 20,
+      "UnlockOrder": 1,
+      "gift_time": 86400,
+      "iap_id": 31022,
+      "Reward": [
+        [
+          30207,
+          1
+        ],
+        [
+          31,
+          12
+        ],
+        [
+          1006,
+          200
+        ],
+        [
+          34,
+          12000
+        ],
+        [
+          2,
+          1000000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 23,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 3,
+      "name_beizhu": "第20章助力礼包2",
+      "FinishChapter": 20,
+      "UnlockOrder": 2,
+      "gift_time": 86400,
+      "iap_id": 31023,
+      "Reward": [
+        [
+          31211,
+          1
+        ],
+        [
+          31,
+          25
+        ],
+        [
+          1006,
+          400
+        ],
+        [
+          34,
+          18000
+        ],
+        [
+          2,
+          2000000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 24,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 3,
+      "name_beizhu": "第20章助力礼包3",
+      "FinishChapter": 20,
+      "UnlockOrder": 3,
+      "gift_time": 86400,
+      "iap_id": 31024,
+      "Reward": [
+        [
+          31107,
+          1
+        ],
+        [
+          30207,
+          1
+        ],
+        [
+          31,
+          50
+        ],
+        [
+          1006,
+          2000
+        ],
+        [
+          2,
+          3200000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 25,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 3,
+      "name_beizhu": "第20章助力礼包4",
+      "FinishChapter": 20,
+      "UnlockOrder": 4,
+      "gift_time": 86400,
+      "iap_id": 31025,
+      "Reward": [
+        [
+          31107,
+          1
+        ],
+        [
+          31211,
+          2
+        ],
+        [
+          31,
+          80
+        ],
+        [
+          1006,
+          2200
+        ],
+        [
+          2,
+          4500000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 26,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 3,
+      "name_beizhu": "第20章助力礼包5",
+      "FinishChapter": 20,
+      "UnlockOrder": 5,
+      "gift_time": 86400,
+      "iap_id": 31026,
+      "Reward": [
+        [
+          31107,
+          2
+        ],
+        [
+          31211,
+          3
+        ],
+        [
+          31,
+          80
+        ],
+        [
+          1006,
+          2400
+        ],
+        [
+          2,
+          7000000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 27,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 3,
+      "name_beizhu": "第20章助力礼包6",
+      "FinishChapter": 20,
+      "UnlockOrder": 6,
+      "gift_time": 86400,
+      "iap_id": 31027,
+      "Reward": [
+        [
+          31107,
+          2
+        ],
+        [
+          31211,
+          3
+        ],
+        [
+          31,
+          80
+        ],
+        [
+          1006,
+          2400
+        ],
+        [
+          2,
+          7000000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 28,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 3,
+      "name_beizhu": "第20章助力礼包7",
+      "FinishChapter": 20,
+      "UnlockOrder": 7,
+      "gift_time": 86400,
+      "iap_id": 31028,
+      "Reward": [
+        [
+          31107,
+          2
+        ],
+        [
+          31211,
+          3
+        ],
+        [
+          31,
+          80
+        ],
+        [
+          1006,
+          2400
+        ],
+        [
+          2,
+          7000000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 29,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 3,
+      "name_beizhu": "第30章助力礼包1",
+      "FinishChapter": 30,
+      "UnlockOrder": 1,
+      "gift_time": 86400,
+      "iap_id": 31029,
+      "Reward": [
+        [
+          30207,
+          1
+        ],
+        [
+          31,
+          12
+        ],
+        [
+          1006,
+          200
+        ],
+        [
+          34,
+          12000
+        ],
+        [
+          2,
+          1000000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 30,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 3,
+      "name_beizhu": "第30章助力礼包2",
+      "FinishChapter": 30,
+      "UnlockOrder": 2,
+      "gift_time": 86400,
+      "iap_id": 31030,
+      "Reward": [
+        [
+          31211,
+          1
+        ],
+        [
+          31,
+          25
+        ],
+        [
+          1006,
+          400
+        ],
+        [
+          34,
+          18000
+        ],
+        [
+          2,
+          2000000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 31,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 3,
+      "name_beizhu": "第30章助力礼包3",
+      "FinishChapter": 30,
+      "UnlockOrder": 3,
+      "gift_time": 86400,
+      "iap_id": 31031,
+      "Reward": [
+        [
+          31107,
+          1
+        ],
+        [
+          30207,
+          1
+        ],
+        [
+          31,
+          50
+        ],
+        [
+          1006,
+          2000
+        ],
+        [
+          2,
+          3200000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 32,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 3,
+      "name_beizhu": "第30章助力礼包4",
+      "FinishChapter": 30,
+      "UnlockOrder": 4,
+      "gift_time": 86400,
+      "iap_id": 31032,
+      "Reward": [
+        [
+          31107,
+          1
+        ],
+        [
+          31211,
+          2
+        ],
+        [
+          31,
+          80
+        ],
+        [
+          1006,
+          2200
+        ],
+        [
+          2,
+          4500000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 33,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 3,
+      "name_beizhu": "第30章助力礼包5",
+      "FinishChapter": 30,
+      "UnlockOrder": 5,
+      "gift_time": 86400,
+      "iap_id": 31033,
+      "Reward": [
+        [
+          31107,
+          2
+        ],
+        [
+          31211,
+          3
+        ],
+        [
+          31,
+          80
+        ],
+        [
+          1006,
+          2400
+        ],
+        [
+          2,
+          7000000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 34,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 3,
+      "name_beizhu": "第30章助力礼包6",
+      "FinishChapter": 30,
+      "UnlockOrder": 6,
+      "gift_time": 86400,
+      "iap_id": 31034,
+      "Reward": [
+        [
+          31107,
+          2
+        ],
+        [
+          31211,
+          3
+        ],
+        [
+          31,
+          80
+        ],
+        [
+          1006,
+          2400
+        ],
+        [
+          2,
+          7000000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 35,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 3,
+      "name_beizhu": "第30章助力礼包7",
+      "FinishChapter": 30,
+      "UnlockOrder": 7,
+      "gift_time": 86400,
+      "iap_id": 31035,
+      "Reward": [
+        [
+          31107,
+          2
+        ],
+        [
+          31211,
+          3
+        ],
+        [
+          31,
+          80
+        ],
+        [
+          1006,
+          2400
+        ],
+        [
+          2,
+          7000000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 36,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 4,
+      "name_beizhu": "第40章助力礼包1",
+      "FinishChapter": 40,
+      "UnlockOrder": 1,
+      "gift_time": 86400,
+      "iap_id": 31036,
+      "Reward": [
+        [
+          32105,
+          1
+        ],
+        [
+          65,
+          25
+        ],
+        [
+          30310,
+          5
+        ],
+        [
+          34,
+          6000
+        ],
+        [
+          2,
+          850000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 37,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 4,
+      "name_beizhu": "第40章助力礼包2",
+      "FinishChapter": 40,
+      "UnlockOrder": 2,
+      "gift_time": 86400,
+      "iap_id": 31037,
+      "Reward": [
+        [
+          32105,
+          1
+        ],
+        [
+          30305,
+          2
+        ],
+        [
+          30310,
+          15
+        ],
+        [
+          34,
+          12000
+        ],
+        [
+          2,
+          1500000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 38,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 4,
+      "name_beizhu": "第40章助力礼包3",
+      "FinishChapter": 40,
+      "UnlockOrder": 3,
+      "gift_time": 86400,
+      "iap_id": 31038,
+      "Reward": [
+        [
+          32105,
+          3
+        ],
+        [
+          30305,
+          4
+        ],
+        [
+          30310,
+          15
+        ],
+        [
+          34,
+          25000
+        ],
+        [
+          2,
+          3000000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 39,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 4,
+      "name_beizhu": "第40章助力礼包4",
+      "FinishChapter": 40,
+      "UnlockOrder": 4,
+      "gift_time": 86400,
+      "iap_id": 31039,
+      "Reward": [
+        [
+          32105,
+          4
+        ],
+        [
+          30305,
+          6
+        ],
+        [
+          30310,
+          30
+        ],
+        [
+          34,
+          25000
+        ],
+        [
+          2,
+          5200000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 40,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 4,
+      "name_beizhu": "第40章助力礼包5",
+      "FinishChapter": 40,
+      "UnlockOrder": 5,
+      "gift_time": 86400,
+      "iap_id": 31040,
+      "Reward": [
+        [
+          32105,
+          8
+        ],
+        [
+          30305,
+          6
+        ],
+        [
+          30310,
+          30
+        ],
+        [
+          34,
+          28000
+        ],
+        [
+          2,
+          6400000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 41,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 4,
+      "name_beizhu": "第40章助力礼包6",
+      "FinishChapter": 40,
+      "UnlockOrder": 6,
+      "gift_time": 86400,
+      "iap_id": 31041,
+      "Reward": [
+        [
+          32105,
+          8
+        ],
+        [
+          30305,
+          6
+        ],
+        [
+          30310,
+          30
+        ],
+        [
+          34,
+          28000
+        ],
+        [
+          2,
+          6400000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 42,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 4,
+      "name_beizhu": "第40章助力礼包7",
+      "FinishChapter": 40,
+      "UnlockOrder": 7,
+      "gift_time": 86400,
+      "iap_id": 31042,
+      "Reward": [
+        [
+          32105,
+          8
+        ],
+        [
+          30305,
+          6
+        ],
+        [
+          30310,
+          30
+        ],
+        [
+          34,
+          28000
+        ],
+        [
+          2,
+          6400000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 43,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 1,
+      "name_beizhu": "第50章助力礼包1",
+      "FinishChapter": 50,
+      "UnlockOrder": 1,
+      "gift_time": 86400,
+      "iap_id": 31043,
+      "Reward": [
+        [
+          6110,
+          10
+        ],
+        [
+          30207,
+          1
+        ],
+        [
+          34,
+          10000
+        ],
+        [
+          1006,
+          60
+        ],
+        [
+          2,
+          800000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 44,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 1,
+      "name_beizhu": "第50章助力礼包2",
+      "FinishChapter": 50,
+      "UnlockOrder": 2,
+      "gift_time": 86400,
+      "iap_id": 31044,
+      "Reward": [
+        [
+          6110,
+          20
+        ],
+        [
+          31212,
+          1
+        ],
+        [
+          34,
+          25000
+        ],
+        [
+          1006,
+          160
+        ],
+        [
+          2,
+          1500000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 45,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 1,
+      "name_beizhu": "第50章助力礼包3",
+      "FinishChapter": 50,
+      "UnlockOrder": 3,
+      "gift_time": 86400,
+      "iap_id": 31045,
+      "Reward": [
+        [
+          6110,
+          40
+        ],
+        [
+          31107,
+          1
+        ],
+        [
+          31,
+          50
+        ],
+        [
+          1006,
+          1800
+        ],
+        [
+          2,
+          1650000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 46,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 1,
+      "name_beizhu": "第50章助力礼包4",
+      "FinishChapter": 50,
+      "UnlockOrder": 4,
+      "gift_time": 86400,
+      "iap_id": 31046,
+      "Reward": [
+        [
+          6110,
+          60
+        ],
+        [
+          31107,
+          1
+        ],
+        [
+          31,
+          80
+        ],
+        [
+          1006,
+          2400
+        ],
+        [
+          2,
+          4200000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 47,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 1,
+      "name_beizhu": "第50章助力礼包5",
+      "FinishChapter": 50,
+      "UnlockOrder": 5,
+      "gift_time": 86400,
+      "iap_id": 31047,
+      "Reward": [
+        [
+          6110,
+          80
+        ],
+        [
+          31107,
+          2
+        ],
+        [
+          31,
+          80
+        ],
+        [
+          1006,
+          2500
+        ],
+        [
+          2,
+          7000000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 48,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 1,
+      "name_beizhu": "第50章助力礼包6",
+      "FinishChapter": 50,
+      "UnlockOrder": 6,
+      "gift_time": 86400,
+      "iap_id": 31048,
+      "Reward": [
+        [
+          6110,
+          80
+        ],
+        [
+          31107,
+          2
+        ],
+        [
+          31,
+          80
+        ],
+        [
+          1006,
+          2500
+        ],
+        [
+          2,
+          7000000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 49,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 1,
+      "name_beizhu": "第50章助力礼包7",
+      "FinishChapter": 50,
+      "UnlockOrder": 7,
+      "gift_time": 86400,
+      "iap_id": 31049,
+      "Reward": [
+        [
+          6110,
+          80
+        ],
+        [
+          31107,
+          2
+        ],
+        [
+          31,
+          80
+        ],
+        [
+          1006,
+          2500
+        ],
+        [
+          2,
+          7000000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 50,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 3,
+      "name_beizhu": "第60章助力礼包1",
+      "FinishChapter": 60,
+      "UnlockOrder": 1,
+      "gift_time": 86400,
+      "iap_id": 31050,
+      "Reward": [
+        [
+          30207,
+          1
+        ],
+        [
+          31,
+          12
+        ],
+        [
+          1006,
+          200
+        ],
+        [
+          34,
+          12000
+        ],
+        [
+          2,
+          1000000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 51,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 3,
+      "name_beizhu": "第60章助力礼包2",
+      "FinishChapter": 60,
+      "UnlockOrder": 2,
+      "gift_time": 86400,
+      "iap_id": 31051,
+      "Reward": [
+        [
+          31211,
+          1
+        ],
+        [
+          31,
+          25
+        ],
+        [
+          1006,
+          400
+        ],
+        [
+          34,
+          18000
+        ],
+        [
+          2,
+          2000000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 52,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 3,
+      "name_beizhu": "第60章助力礼包3",
+      "FinishChapter": 60,
+      "UnlockOrder": 3,
+      "gift_time": 86400,
+      "iap_id": 31052,
+      "Reward": [
+        [
+          31107,
+          1
+        ],
+        [
+          30207,
+          1
+        ],
+        [
+          31,
+          50
+        ],
+        [
+          1006,
+          2000
+        ],
+        [
+          2,
+          3200000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 53,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 3,
+      "name_beizhu": "第60章助力礼包4",
+      "FinishChapter": 60,
+      "UnlockOrder": 4,
+      "gift_time": 86400,
+      "iap_id": 31053,
+      "Reward": [
+        [
+          31107,
+          1
+        ],
+        [
+          31211,
+          2
+        ],
+        [
+          31,
+          80
+        ],
+        [
+          1006,
+          2200
+        ],
+        [
+          2,
+          4500000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 54,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 3,
+      "name_beizhu": "第60章助力礼包5",
+      "FinishChapter": 60,
+      "UnlockOrder": 5,
+      "gift_time": 86400,
+      "iap_id": 31054,
+      "Reward": [
+        [
+          31107,
+          2
+        ],
+        [
+          31211,
+          3
+        ],
+        [
+          31,
+          80
+        ],
+        [
+          1006,
+          2400
+        ],
+        [
+          2,
+          7000000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 55,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 3,
+      "name_beizhu": "第60章助力礼包6",
+      "FinishChapter": 60,
+      "UnlockOrder": 6,
+      "gift_time": 86400,
+      "iap_id": 31055,
+      "Reward": [
+        [
+          31107,
+          2
+        ],
+        [
+          31211,
+          3
+        ],
+        [
+          31,
+          80
+        ],
+        [
+          1006,
+          2400
+        ],
+        [
+          2,
+          7000000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 56,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 3,
+      "name_beizhu": "第60章助力礼包7",
+      "FinishChapter": 60,
+      "UnlockOrder": 7,
+      "gift_time": 86400,
+      "iap_id": 31056,
+      "Reward": [
+        [
+          31107,
+          2
+        ],
+        [
+          31211,
+          3
+        ],
+        [
+          31,
+          80
+        ],
+        [
+          1006,
+          2400
+        ],
+        [
+          2,
+          7000000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 57,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 4,
+      "name_beizhu": "第70章助力礼包1",
+      "FinishChapter": 70,
+      "UnlockOrder": 1,
+      "gift_time": 86400,
+      "iap_id": 31057,
+      "Reward": [
+        [
+          32105,
+          1
+        ],
+        [
+          65,
+          25
+        ],
+        [
+          30310,
+          5
+        ],
+        [
+          34,
+          6000
+        ],
+        [
+          2,
+          850000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 58,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 4,
+      "name_beizhu": "第70章助力礼包2",
+      "FinishChapter": 70,
+      "UnlockOrder": 2,
+      "gift_time": 86400,
+      "iap_id": 31058,
+      "Reward": [
+        [
+          32105,
+          1
+        ],
+        [
+          30305,
+          2
+        ],
+        [
+          30310,
+          15
+        ],
+        [
+          34,
+          12000
+        ],
+        [
+          2,
+          1500000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 59,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 4,
+      "name_beizhu": "第70章助力礼包3",
+      "FinishChapter": 70,
+      "UnlockOrder": 3,
+      "gift_time": 86400,
+      "iap_id": 31059,
+      "Reward": [
+        [
+          32105,
+          3
+        ],
+        [
+          30305,
+          4
+        ],
+        [
+          30310,
+          15
+        ],
+        [
+          34,
+          25000
+        ],
+        [
+          2,
+          3000000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 60,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 4,
+      "name_beizhu": "第70章助力礼包4",
+      "FinishChapter": 70,
+      "UnlockOrder": 4,
+      "gift_time": 86400,
+      "iap_id": 31060,
+      "Reward": [
+        [
+          32105,
+          4
+        ],
+        [
+          30305,
+          6
+        ],
+        [
+          30310,
+          30
+        ],
+        [
+          34,
+          25000
+        ],
+        [
+          2,
+          5200000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 61,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 4,
+      "name_beizhu": "第70章助力礼包5",
+      "FinishChapter": 70,
+      "UnlockOrder": 5,
+      "gift_time": 86400,
+      "iap_id": 31061,
+      "Reward": [
+        [
+          32105,
+          8
+        ],
+        [
+          30305,
+          6
+        ],
+        [
+          30310,
+          30
+        ],
+        [
+          34,
+          28000
+        ],
+        [
+          2,
+          6400000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 62,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 4,
+      "name_beizhu": "第70章助力礼包6",
+      "FinishChapter": 70,
+      "UnlockOrder": 6,
+      "gift_time": 86400,
+      "iap_id": 31062,
+      "Reward": [
+        [
+          32105,
+          8
+        ],
+        [
+          30305,
+          6
+        ],
+        [
+          30310,
+          30
+        ],
+        [
+          34,
+          28000
+        ],
+        [
+          2,
+          6400000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 63,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 4,
+      "name_beizhu": "第70章助力礼包7",
+      "FinishChapter": 70,
+      "UnlockOrder": 7,
+      "gift_time": 86400,
+      "iap_id": 31063,
+      "Reward": [
+        [
+          32105,
+          8
+        ],
+        [
+          30305,
+          6
+        ],
+        [
+          30310,
+          30
+        ],
+        [
+          34,
+          28000
+        ],
+        [
+          2,
+          6400000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 64,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 1,
+      "name_beizhu": "第80章助力礼包1",
+      "FinishChapter": 80,
+      "UnlockOrder": 1,
+      "gift_time": 86400,
+      "iap_id": 31064,
+      "Reward": [
+        [
+          6110,
+          10
+        ],
+        [
+          30207,
+          1
+        ],
+        [
+          34,
+          10000
+        ],
+        [
+          1006,
+          60
+        ],
+        [
+          2,
+          800000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 65,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 1,
+      "name_beizhu": "第80章助力礼包2",
+      "FinishChapter": 80,
+      "UnlockOrder": 2,
+      "gift_time": 86400,
+      "iap_id": 31065,
+      "Reward": [
+        [
+          6110,
+          20
+        ],
+        [
+          31212,
+          1
+        ],
+        [
+          34,
+          25000
+        ],
+        [
+          1006,
+          160
+        ],
+        [
+          2,
+          1500000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 66,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 1,
+      "name_beizhu": "第80章助力礼包3",
+      "FinishChapter": 80,
+      "UnlockOrder": 3,
+      "gift_time": 86400,
+      "iap_id": 31066,
+      "Reward": [
+        [
+          6110,
+          40
+        ],
+        [
+          31107,
+          1
+        ],
+        [
+          31,
+          50
+        ],
+        [
+          1006,
+          1800
+        ],
+        [
+          2,
+          1650000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 67,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 1,
+      "name_beizhu": "第80章助力礼包4",
+      "FinishChapter": 80,
+      "UnlockOrder": 4,
+      "gift_time": 86400,
+      "iap_id": 31067,
+      "Reward": [
+        [
+          6110,
+          60
+        ],
+        [
+          31107,
+          1
+        ],
+        [
+          31,
+          80
+        ],
+        [
+          1006,
+          2400
+        ],
+        [
+          2,
+          4200000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 68,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 1,
+      "name_beizhu": "第80章助力礼包5",
+      "FinishChapter": 80,
+      "UnlockOrder": 5,
+      "gift_time": 86400,
+      "iap_id": 31068,
+      "Reward": [
+        [
+          6110,
+          80
+        ],
+        [
+          31107,
+          2
+        ],
+        [
+          31,
+          80
+        ],
+        [
+          1006,
+          2500
+        ],
+        [
+          2,
+          7000000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 69,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 1,
+      "name_beizhu": "第80章助力礼包6",
+      "FinishChapter": 80,
+      "UnlockOrder": 6,
+      "gift_time": 86400,
+      "iap_id": 31069,
+      "Reward": [
+        [
+          6110,
+          80
+        ],
+        [
+          31107,
+          2
+        ],
+        [
+          31,
+          80
+        ],
+        [
+          1006,
+          2500
+        ],
+        [
+          2,
+          7000000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 70,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 1,
+      "name_beizhu": "第80章助力礼包7",
+      "FinishChapter": 80,
+      "UnlockOrder": 7,
+      "gift_time": 86400,
+      "iap_id": 31070,
+      "Reward": [
+        [
+          6110,
+          80
+        ],
+        [
+          31107,
+          2
+        ],
+        [
+          31,
+          80
+        ],
+        [
+          1006,
+          2500
+        ],
+        [
+          2,
+          7000000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 71,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 3,
+      "name_beizhu": "第90章助力礼包1",
+      "FinishChapter": 90,
+      "UnlockOrder": 1,
+      "gift_time": 86400,
+      "iap_id": 31071,
+      "Reward": [
+        [
+          30207,
+          1
+        ],
+        [
+          31,
+          12
+        ],
+        [
+          1006,
+          200
+        ],
+        [
+          34,
+          12000
+        ],
+        [
+          2,
+          1000000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 72,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 3,
+      "name_beizhu": "第90章助力礼包2",
+      "FinishChapter": 90,
+      "UnlockOrder": 2,
+      "gift_time": 86400,
+      "iap_id": 31072,
+      "Reward": [
+        [
+          31212,
+          1
+        ],
+        [
+          31,
+          25
+        ],
+        [
+          1006,
+          400
+        ],
+        [
+          34,
+          18000
+        ],
+        [
+          2,
+          2000000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 73,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 3,
+      "name_beizhu": "第90章助力礼包3",
+      "FinishChapter": 90,
+      "UnlockOrder": 3,
+      "gift_time": 86400,
+      "iap_id": 31073,
+      "Reward": [
+        [
+          31107,
+          1
+        ],
+        [
+          30207,
+          1
+        ],
+        [
+          31,
+          50
+        ],
+        [
+          1006,
+          2000
+        ],
+        [
+          2,
+          3200000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 74,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 3,
+      "name_beizhu": "第90章助力礼包4",
+      "FinishChapter": 90,
+      "UnlockOrder": 4,
+      "gift_time": 86400,
+      "iap_id": 31074,
+      "Reward": [
+        [
+          31107,
+          1
+        ],
+        [
+          31212,
+          2
+        ],
+        [
+          31,
+          80
+        ],
+        [
+          1006,
+          2200
+        ],
+        [
+          2,
+          4500000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 75,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 3,
+      "name_beizhu": "第90章助力礼包5",
+      "FinishChapter": 90,
+      "UnlockOrder": 5,
+      "gift_time": 86400,
+      "iap_id": 31075,
+      "Reward": [
+        [
+          31107,
+          2
+        ],
+        [
+          31212,
+          3
+        ],
+        [
+          31,
+          80
+        ],
+        [
+          1006,
+          2400
+        ],
+        [
+          2,
+          7000000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 76,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 3,
+      "name_beizhu": "第90章助力礼包6",
+      "FinishChapter": 90,
+      "UnlockOrder": 6,
+      "gift_time": 86400,
+      "iap_id": 31076,
+      "Reward": [
+        [
+          31107,
+          2
+        ],
+        [
+          31212,
+          3
+        ],
+        [
+          31,
+          80
+        ],
+        [
+          1006,
+          2400
+        ],
+        [
+          2,
+          7000000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 77,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 3,
+      "name_beizhu": "第90章助力礼包7",
+      "FinishChapter": 90,
+      "UnlockOrder": 7,
+      "gift_time": 86400,
+      "iap_id": 31077,
+      "Reward": [
+        [
+          31107,
+          2
+        ],
+        [
+          31212,
+          3
+        ],
+        [
+          31,
+          80
+        ],
+        [
+          1006,
+          2400
+        ],
+        [
+          2,
+          7000000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 78,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 4,
+      "name_beizhu": "第100章助力礼包1",
+      "FinishChapter": 100,
+      "UnlockOrder": 1,
+      "gift_time": 86400,
+      "iap_id": 31078,
+      "Reward": [
+        [
+          32105,
+          1
+        ],
+        [
+          65,
+          25
+        ],
+        [
+          30310,
+          5
+        ],
+        [
+          34,
+          6000
+        ],
+        [
+          2,
+          850000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 79,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 4,
+      "name_beizhu": "第100章助力礼包2",
+      "FinishChapter": 100,
+      "UnlockOrder": 2,
+      "gift_time": 86400,
+      "iap_id": 31079,
+      "Reward": [
+        [
+          32105,
+          1
+        ],
+        [
+          30305,
+          2
+        ],
+        [
+          30310,
+          15
+        ],
+        [
+          34,
+          12000
+        ],
+        [
+          2,
+          1500000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 80,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 4,
+      "name_beizhu": "第100章助力礼包3",
+      "FinishChapter": 100,
+      "UnlockOrder": 3,
+      "gift_time": 86400,
+      "iap_id": 31080,
+      "Reward": [
+        [
+          32105,
+          3
+        ],
+        [
+          30305,
+          4
+        ],
+        [
+          30310,
+          15
+        ],
+        [
+          34,
+          25000
+        ],
+        [
+          2,
+          3000000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 81,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 4,
+      "name_beizhu": "第100章助力礼包4",
+      "FinishChapter": 100,
+      "UnlockOrder": 4,
+      "gift_time": 86400,
+      "iap_id": 31081,
+      "Reward": [
+        [
+          32105,
+          4
+        ],
+        [
+          30305,
+          6
+        ],
+        [
+          30310,
+          30
+        ],
+        [
+          34,
+          25000
+        ],
+        [
+          2,
+          5200000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 82,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 4,
+      "name_beizhu": "第100章助力礼包5",
+      "FinishChapter": 100,
+      "UnlockOrder": 5,
+      "gift_time": 86400,
+      "iap_id": 31082,
+      "Reward": [
+        [
+          32105,
+          8
+        ],
+        [
+          30305,
+          6
+        ],
+        [
+          30310,
+          30
+        ],
+        [
+          34,
+          28000
+        ],
+        [
+          2,
+          6400000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 83,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 4,
+      "name_beizhu": "第100章助力礼包6",
+      "FinishChapter": 100,
+      "UnlockOrder": 6,
+      "gift_time": 86400,
+      "iap_id": 31083,
+      "Reward": [
+        [
+          32105,
+          8
+        ],
+        [
+          30305,
+          6
+        ],
+        [
+          30310,
+          30
+        ],
+        [
+          34,
+          28000
+        ],
+        [
+          2,
+          6400000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 84,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 4,
+      "name_beizhu": "第100章助力礼包7",
+      "FinishChapter": 100,
+      "UnlockOrder": 7,
+      "gift_time": 86400,
+      "iap_id": 31084,
+      "Reward": [
+        [
+          32105,
+          8
+        ],
+        [
+          30305,
+          6
+        ],
+        [
+          30310,
+          30
+        ],
+        [
+          34,
+          28000
+        ],
+        [
+          2,
+          6400000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 85,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 1,
+      "name_beizhu": "第110章助力礼包1",
+      "FinishChapter": 110,
+      "UnlockOrder": 1,
+      "gift_time": 86400,
+      "iap_id": 31085,
+      "Reward": [
+        [
+          6110,
+          10
+        ],
+        [
+          30207,
+          1
+        ],
+        [
+          34,
+          10000
+        ],
+        [
+          1006,
+          60
+        ],
+        [
+          2,
+          800000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 86,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 1,
+      "name_beizhu": "第110章助力礼包2",
+      "FinishChapter": 110,
+      "UnlockOrder": 2,
+      "gift_time": 86400,
+      "iap_id": 31086,
+      "Reward": [
+        [
+          6110,
+          20
+        ],
+        [
+          31212,
+          1
+        ],
+        [
+          34,
+          25000
+        ],
+        [
+          1006,
+          160
+        ],
+        [
+          2,
+          1500000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 87,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 1,
+      "name_beizhu": "第110章助力礼包3",
+      "FinishChapter": 110,
+      "UnlockOrder": 3,
+      "gift_time": 86400,
+      "iap_id": 31087,
+      "Reward": [
+        [
+          6110,
+          40
+        ],
+        [
+          31107,
+          1
+        ],
+        [
+          31,
+          50
+        ],
+        [
+          1006,
+          1800
+        ],
+        [
+          2,
+          1650000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 88,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 1,
+      "name_beizhu": "第110章助力礼包4",
+      "FinishChapter": 110,
+      "UnlockOrder": 4,
+      "gift_time": 86400,
+      "iap_id": 31088,
+      "Reward": [
+        [
+          6110,
+          60
+        ],
+        [
+          31107,
+          1
+        ],
+        [
+          31,
+          80
+        ],
+        [
+          1006,
+          2400
+        ],
+        [
+          2,
+          4200000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 89,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 1,
+      "name_beizhu": "第110章助力礼包5",
+      "FinishChapter": 110,
+      "UnlockOrder": 5,
+      "gift_time": 86400,
+      "iap_id": 31089,
+      "Reward": [
+        [
+          6110,
+          80
+        ],
+        [
+          31107,
+          2
+        ],
+        [
+          31,
+          80
+        ],
+        [
+          1006,
+          2500
+        ],
+        [
+          2,
+          7000000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 90,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 1,
+      "name_beizhu": "第110章助力礼包6",
+      "FinishChapter": 110,
+      "UnlockOrder": 6,
+      "gift_time": 86400,
+      "iap_id": 31090,
+      "Reward": [
+        [
+          6110,
+          80
+        ],
+        [
+          31107,
+          2
+        ],
+        [
+          31,
+          80
+        ],
+        [
+          1006,
+          2500
+        ],
+        [
+          2,
+          7000000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 91,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 1,
+      "name_beizhu": "第110章助力礼包7",
+      "FinishChapter": 110,
+      "UnlockOrder": 7,
+      "gift_time": 86400,
+      "iap_id": 31091,
+      "Reward": [
+        [
+          6110,
+          80
+        ],
+        [
+          31107,
+          2
+        ],
+        [
+          31,
+          80
+        ],
+        [
+          1006,
+          2500
+        ],
+        [
+          2,
+          7000000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 92,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 3,
+      "name_beizhu": "第120章助力礼包1",
+      "FinishChapter": 120,
+      "UnlockOrder": 1,
+      "gift_time": 86400,
+      "iap_id": 31092,
+      "Reward": [
+        [
+          30207,
+          1
+        ],
+        [
+          31,
+          12
+        ],
+        [
+          1006,
+          200
+        ],
+        [
+          34,
+          12000
+        ],
+        [
+          2,
+          1000000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 93,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 3,
+      "name_beizhu": "第120章助力礼包2",
+      "FinishChapter": 120,
+      "UnlockOrder": 2,
+      "gift_time": 86400,
+      "iap_id": 31093,
+      "Reward": [
+        [
+          31212,
+          1
+        ],
+        [
+          31,
+          25
+        ],
+        [
+          1006,
+          400
+        ],
+        [
+          34,
+          18000
+        ],
+        [
+          2,
+          2000000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 94,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 3,
+      "name_beizhu": "第120章助力礼包3",
+      "FinishChapter": 120,
+      "UnlockOrder": 3,
+      "gift_time": 86400,
+      "iap_id": 31094,
+      "Reward": [
+        [
+          31107,
+          1
+        ],
+        [
+          30207,
+          1
+        ],
+        [
+          31,
+          50
+        ],
+        [
+          1006,
+          2000
+        ],
+        [
+          2,
+          3200000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 95,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 3,
+      "name_beizhu": "第120章助力礼包4",
+      "FinishChapter": 120,
+      "UnlockOrder": 4,
+      "gift_time": 86400,
+      "iap_id": 31095,
+      "Reward": [
+        [
+          31107,
+          1
+        ],
+        [
+          31212,
+          2
+        ],
+        [
+          31,
+          80
+        ],
+        [
+          1006,
+          2200
+        ],
+        [
+          2,
+          4500000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 96,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 3,
+      "name_beizhu": "第120章助力礼包5",
+      "FinishChapter": 120,
+      "UnlockOrder": 5,
+      "gift_time": 86400,
+      "iap_id": 31096,
+      "Reward": [
+        [
+          31107,
+          2
+        ],
+        [
+          31212,
+          3
+        ],
+        [
+          31,
+          80
+        ],
+        [
+          1006,
+          2400
+        ],
+        [
+          2,
+          7000000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 97,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 3,
+      "name_beizhu": "第120章助力礼包6",
+      "FinishChapter": 120,
+      "UnlockOrder": 6,
+      "gift_time": 86400,
+      "iap_id": 31097,
+      "Reward": [
+        [
+          31107,
+          2
+        ],
+        [
+          31212,
+          3
+        ],
+        [
+          31,
+          80
+        ],
+        [
+          1006,
+          2400
+        ],
+        [
+          2,
+          7000000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 98,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 3,
+      "name_beizhu": "第120章助力礼包7",
+      "FinishChapter": 120,
+      "UnlockOrder": 7,
+      "gift_time": 86400,
+      "iap_id": 31098,
+      "Reward": [
+        [
+          31107,
+          2
+        ],
+        [
+          31212,
+          3
+        ],
+        [
+          31,
+          80
+        ],
+        [
+          1006,
+          2400
+        ],
+        [
+          2,
+          7000000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 99,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 4,
+      "name_beizhu": "第130章助力礼包1",
+      "FinishChapter": 130,
+      "UnlockOrder": 1,
+      "gift_time": 86400,
+      "iap_id": 31099,
+      "Reward": [
+        [
+          32105,
+          1
+        ],
+        [
+          65,
+          25
+        ],
+        [
+          30310,
+          5
+        ],
+        [
+          34,
+          6000
+        ],
+        [
+          2,
+          850000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 100,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 4,
+      "name_beizhu": "第130章助力礼包2",
+      "FinishChapter": 130,
+      "UnlockOrder": 2,
+      "gift_time": 86400,
+      "iap_id": 31100,
+      "Reward": [
+        [
+          32105,
+          1
+        ],
+        [
+          30305,
+          2
+        ],
+        [
+          30310,
+          15
+        ],
+        [
+          34,
+          12000
+        ],
+        [
+          2,
+          1500000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 101,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 4,
+      "name_beizhu": "第130章助力礼包3",
+      "FinishChapter": 130,
+      "UnlockOrder": 3,
+      "gift_time": 86400,
+      "iap_id": 31101,
+      "Reward": [
+        [
+          32105,
+          3
+        ],
+        [
+          30305,
+          4
+        ],
+        [
+          30310,
+          15
+        ],
+        [
+          34,
+          25000
+        ],
+        [
+          2,
+          3000000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 102,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 4,
+      "name_beizhu": "第130章助力礼包4",
+      "FinishChapter": 130,
+      "UnlockOrder": 4,
+      "gift_time": 86400,
+      "iap_id": 31102,
+      "Reward": [
+        [
+          32105,
+          4
+        ],
+        [
+          30305,
+          6
+        ],
+        [
+          30310,
+          30
+        ],
+        [
+          34,
+          25000
+        ],
+        [
+          2,
+          5200000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 103,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 4,
+      "name_beizhu": "第130章助力礼包5",
+      "FinishChapter": 130,
+      "UnlockOrder": 5,
+      "gift_time": 86400,
+      "iap_id": 31103,
+      "Reward": [
+        [
+          32105,
+          8
+        ],
+        [
+          30305,
+          6
+        ],
+        [
+          30310,
+          30
+        ],
+        [
+          34,
+          28000
+        ],
+        [
+          2,
+          6400000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 104,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 4,
+      "name_beizhu": "第130章助力礼包6",
+      "FinishChapter": 130,
+      "UnlockOrder": 6,
+      "gift_time": 86400,
+      "iap_id": 31104,
+      "Reward": [
+        [
+          32105,
+          8
+        ],
+        [
+          30305,
+          6
+        ],
+        [
+          30310,
+          30
+        ],
+        [
+          34,
+          28000
+        ],
+        [
+          2,
+          6400000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 105,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 4,
+      "name_beizhu": "第130章助力礼包7",
+      "FinishChapter": 130,
+      "UnlockOrder": 7,
+      "gift_time": 86400,
+      "iap_id": 31105,
+      "Reward": [
+        [
+          32105,
+          8
+        ],
+        [
+          30305,
+          6
+        ],
+        [
+          30310,
+          30
+        ],
+        [
+          34,
+          28000
+        ],
+        [
+          2,
+          6400000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 106,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 3,
+      "name_beizhu": "第140章助力礼包1",
+      "FinishChapter": 140,
+      "UnlockOrder": 1,
+      "gift_time": 86400,
+      "iap_id": 31106,
+      "Reward": [
+        [
+          30207,
+          1
+        ],
+        [
+          31,
+          12
+        ],
+        [
+          1006,
+          200
+        ],
+        [
+          34,
+          12000
+        ],
+        [
+          2,
+          1000000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 107,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 3,
+      "name_beizhu": "第140章助力礼包2",
+      "FinishChapter": 140,
+      "UnlockOrder": 2,
+      "gift_time": 86400,
+      "iap_id": 31107,
+      "Reward": [
+        [
+          31212,
+          1
+        ],
+        [
+          31,
+          25
+        ],
+        [
+          1006,
+          400
+        ],
+        [
+          34,
+          18000
+        ],
+        [
+          2,
+          2000000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 108,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 3,
+      "name_beizhu": "第140章助力礼包3",
+      "FinishChapter": 140,
+      "UnlockOrder": 3,
+      "gift_time": 86400,
+      "iap_id": 31108,
+      "Reward": [
+        [
+          31107,
+          1
+        ],
+        [
+          30207,
+          1
+        ],
+        [
+          31,
+          50
+        ],
+        [
+          1006,
+          2000
+        ],
+        [
+          2,
+          3200000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 109,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 3,
+      "name_beizhu": "第140章助力礼包4",
+      "FinishChapter": 140,
+      "UnlockOrder": 4,
+      "gift_time": 86400,
+      "iap_id": 31109,
+      "Reward": [
+        [
+          31107,
+          1
+        ],
+        [
+          31212,
+          2
+        ],
+        [
+          31,
+          80
+        ],
+        [
+          1006,
+          2200
+        ],
+        [
+          2,
+          4500000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 110,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 3,
+      "name_beizhu": "第140章助力礼包5",
+      "FinishChapter": 140,
+      "UnlockOrder": 5,
+      "gift_time": 86400,
+      "iap_id": 31110,
+      "Reward": [
+        [
+          31107,
+          2
+        ],
+        [
+          31212,
+          3
+        ],
+        [
+          31,
+          80
+        ],
+        [
+          1006,
+          2400
+        ],
+        [
+          2,
+          7000000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 111,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 3,
+      "name_beizhu": "第140章助力礼包6",
+      "FinishChapter": 140,
+      "UnlockOrder": 6,
+      "gift_time": 86400,
+      "iap_id": 31111,
+      "Reward": [
+        [
+          31107,
+          2
+        ],
+        [
+          31212,
+          3
+        ],
+        [
+          31,
+          80
+        ],
+        [
+          1006,
+          2400
+        ],
+        [
+          2,
+          7000000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 112,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 3,
+      "name_beizhu": "第140章助力礼包7",
+      "FinishChapter": 140,
+      "UnlockOrder": 7,
+      "gift_time": 86400,
+      "iap_id": 31112,
+      "Reward": [
+        [
+          31107,
+          2
+        ],
+        [
+          31212,
+          3
+        ],
+        [
+          31,
+          80
+        ],
+        [
+          1006,
+          2400
+        ],
+        [
+          2,
+          7000000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 113,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 4,
+      "name_beizhu": "第150章助力礼包1",
+      "FinishChapter": 150,
+      "UnlockOrder": 1,
+      "gift_time": 86400,
+      "iap_id": 31113,
+      "Reward": [
+        [
+          32105,
+          1
+        ],
+        [
+          65,
+          25
+        ],
+        [
+          30310,
+          5
+        ],
+        [
+          34,
+          6000
+        ],
+        [
+          2,
+          850000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 114,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 4,
+      "name_beizhu": "第150章助力礼包2",
+      "FinishChapter": 150,
+      "UnlockOrder": 2,
+      "gift_time": 86400,
+      "iap_id": 31114,
+      "Reward": [
+        [
+          32105,
+          1
+        ],
+        [
+          30305,
+          2
+        ],
+        [
+          30310,
+          15
+        ],
+        [
+          34,
+          12000
+        ],
+        [
+          2,
+          1500000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 115,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 4,
+      "name_beizhu": "第150章助力礼包3",
+      "FinishChapter": 150,
+      "UnlockOrder": 3,
+      "gift_time": 86400,
+      "iap_id": 31115,
+      "Reward": [
+        [
+          32105,
+          3
+        ],
+        [
+          30305,
+          4
+        ],
+        [
+          30310,
+          15
+        ],
+        [
+          34,
+          25000
+        ],
+        [
+          2,
+          3000000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 116,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 4,
+      "name_beizhu": "第150章助力礼包4",
+      "FinishChapter": 150,
+      "UnlockOrder": 4,
+      "gift_time": 86400,
+      "iap_id": 31116,
+      "Reward": [
+        [
+          32105,
+          4
+        ],
+        [
+          30305,
+          6
+        ],
+        [
+          30310,
+          30
+        ],
+        [
+          34,
+          25000
+        ],
+        [
+          2,
+          5200000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 117,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 4,
+      "name_beizhu": "第150章助力礼包5",
+      "FinishChapter": 150,
+      "UnlockOrder": 5,
+      "gift_time": 86400,
+      "iap_id": 31117,
+      "Reward": [
+        [
+          32105,
+          8
+        ],
+        [
+          30305,
+          6
+        ],
+        [
+          30310,
+          30
+        ],
+        [
+          34,
+          28000
+        ],
+        [
+          2,
+          6400000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 118,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 4,
+      "name_beizhu": "第150章助力礼包6",
+      "FinishChapter": 150,
+      "UnlockOrder": 6,
+      "gift_time": 86400,
+      "iap_id": 31118,
+      "Reward": [
+        [
+          32105,
+          8
+        ],
+        [
+          30305,
+          6
+        ],
+        [
+          30310,
+          30
+        ],
+        [
+          34,
+          28000
+        ],
+        [
+          2,
+          6400000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 119,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 4,
+      "name_beizhu": "第150章助力礼包7",
+      "FinishChapter": 150,
+      "UnlockOrder": 7,
+      "gift_time": 86400,
+      "iap_id": 31119,
+      "Reward": [
+        [
+          32105,
+          8
+        ],
+        [
+          30305,
+          6
+        ],
+        [
+          30310,
+          30
+        ],
+        [
+          34,
+          28000
+        ],
+        [
+          2,
+          6400000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 120,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 2,
+      "name_beizhu": "第160章助力礼包1",
+      "FinishChapter": 160,
+      "UnlockOrder": 1,
+      "gift_time": 86400,
+      "iap_id": 31120,
+      "Reward": [
+        [
+          32214,
+          1
+        ],
+        [
+          32204,
+          1
+        ],
+        [
+          63,
+          20
+        ],
+        [
+          34,
+          8000
+        ],
+        [
+          2,
+          850000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 121,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 2,
+      "name_beizhu": "第160章助力礼包2",
+      "FinishChapter": 160,
+      "UnlockOrder": 2,
+      "gift_time": 86400,
+      "iap_id": 31121,
+      "Reward": [
+        [
+          32214,
+          1
+        ],
+        [
+          32204,
+          2
+        ],
+        [
+          63,
+          40
+        ],
+        [
+          34,
+          12000
+        ],
+        [
+          2,
+          1500000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 122,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 2,
+      "name_beizhu": "第160章助力礼包3",
+      "FinishChapter": 160,
+      "UnlockOrder": 3,
+      "gift_time": 86400,
+      "iap_id": 31122,
+      "Reward": [
+        [
+          32215,
+          1
+        ],
+        [
+          32214,
+          3
+        ],
+        [
+          63,
+          60
+        ],
+        [
+          34,
+          25000
+        ],
+        [
+          2,
+          3200000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 123,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 2,
+      "name_beizhu": "第160章助力礼包4",
+      "FinishChapter": 160,
+      "UnlockOrder": 4,
+      "gift_time": 86400,
+      "iap_id": 31123,
+      "Reward": [
+        [
+          32215,
+          1
+        ],
+        [
+          32214,
+          6
+        ],
+        [
+          63,
+          80
+        ],
+        [
+          34,
+          26000
+        ],
+        [
+          2,
+          6000000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 124,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 2,
+      "name_beizhu": "第160章助力礼包5",
+      "FinishChapter": 160,
+      "UnlockOrder": 5,
+      "gift_time": 86400,
+      "iap_id": 31124,
+      "Reward": [
+        [
+          32215,
+          2
+        ],
+        [
+          32214,
+          8
+        ],
+        [
+          63,
+          80
+        ],
+        [
+          34,
+          28000
+        ],
+        [
+          2,
+          7500000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 125,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 2,
+      "name_beizhu": "第160章助力礼包6",
+      "FinishChapter": 160,
+      "UnlockOrder": 6,
+      "gift_time": 86400,
+      "iap_id": 31125,
+      "Reward": [
+        [
+          32215,
+          2
+        ],
+        [
+          32214,
+          8
+        ],
+        [
+          63,
+          80
+        ],
+        [
+          34,
+          28000
+        ],
+        [
+          2,
+          7500000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 126,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 2,
+      "name_beizhu": "第160章助力礼包7",
+      "FinishChapter": 160,
+      "UnlockOrder": 7,
+      "gift_time": 86400,
+      "iap_id": 31126,
+      "Reward": [
+        [
+          32215,
+          2
+        ],
+        [
+          32214,
+          8
+        ],
+        [
+          63,
+          80
+        ],
+        [
+          34,
+          28000
+        ],
+        [
+          2,
+          7500000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 127,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 4,
+      "name_beizhu": "第170章助力礼包1",
+      "FinishChapter": 170,
+      "UnlockOrder": 1,
+      "gift_time": 86400,
+      "iap_id": 31127,
+      "Reward": [
+        [
+          32105,
+          1
+        ],
+        [
+          65,
+          25
+        ],
+        [
+          30310,
+          5
+        ],
+        [
+          34,
+          6000
+        ],
+        [
+          2,
+          850000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 128,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 4,
+      "name_beizhu": "第170章助力礼包2",
+      "FinishChapter": 170,
+      "UnlockOrder": 2,
+      "gift_time": 86400,
+      "iap_id": 31128,
+      "Reward": [
+        [
+          32105,
+          1
+        ],
+        [
+          30305,
+          2
+        ],
+        [
+          30310,
+          15
+        ],
+        [
+          34,
+          12000
+        ],
+        [
+          2,
+          1500000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 129,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 4,
+      "name_beizhu": "第170章助力礼包3",
+      "FinishChapter": 170,
+      "UnlockOrder": 3,
+      "gift_time": 86400,
+      "iap_id": 31129,
+      "Reward": [
+        [
+          32105,
+          3
+        ],
+        [
+          30305,
+          4
+        ],
+        [
+          30310,
+          15
+        ],
+        [
+          34,
+          25000
+        ],
+        [
+          2,
+          3000000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 130,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 4,
+      "name_beizhu": "第170章助力礼包4",
+      "FinishChapter": 170,
+      "UnlockOrder": 4,
+      "gift_time": 86400,
+      "iap_id": 31130,
+      "Reward": [
+        [
+          32105,
+          4
+        ],
+        [
+          30305,
+          6
+        ],
+        [
+          30310,
+          30
+        ],
+        [
+          34,
+          25000
+        ],
+        [
+          2,
+          5200000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 131,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 4,
+      "name_beizhu": "第170章助力礼包5",
+      "FinishChapter": 170,
+      "UnlockOrder": 5,
+      "gift_time": 86400,
+      "iap_id": 31131,
+      "Reward": [
+        [
+          32105,
+          8
+        ],
+        [
+          30305,
+          6
+        ],
+        [
+          30310,
+          30
+        ],
+        [
+          34,
+          28000
+        ],
+        [
+          2,
+          6400000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 132,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 4,
+      "name_beizhu": "第170章助力礼包6",
+      "FinishChapter": 170,
+      "UnlockOrder": 6,
+      "gift_time": 86400,
+      "iap_id": 31132,
+      "Reward": [
+        [
+          32105,
+          8
+        ],
+        [
+          30305,
+          6
+        ],
+        [
+          30310,
+          30
+        ],
+        [
+          34,
+          28000
+        ],
+        [
+          2,
+          6400000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 133,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 4,
+      "name_beizhu": "第170章助力礼包7",
+      "FinishChapter": 170,
+      "UnlockOrder": 7,
+      "gift_time": 86400,
+      "iap_id": 31133,
+      "Reward": [
+        [
+          32105,
+          8
+        ],
+        [
+          30305,
+          6
+        ],
+        [
+          30310,
+          30
+        ],
+        [
+          34,
+          28000
+        ],
+        [
+          2,
+          6400000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 134,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 2,
+      "name_beizhu": "第180章助力礼包1",
+      "FinishChapter": 180,
+      "UnlockOrder": 1,
+      "gift_time": 86400,
+      "iap_id": 31134,
+      "Reward": [
+        [
+          32214,
+          1
+        ],
+        [
+          32204,
+          1
+        ],
+        [
+          63,
+          20
+        ],
+        [
+          34,
+          8000
+        ],
+        [
+          2,
+          850000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 135,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 2,
+      "name_beizhu": "第180章助力礼包2",
+      "FinishChapter": 180,
+      "UnlockOrder": 2,
+      "gift_time": 86400,
+      "iap_id": 31135,
+      "Reward": [
+        [
+          32214,
+          1
+        ],
+        [
+          32204,
+          2
+        ],
+        [
+          63,
+          40
+        ],
+        [
+          34,
+          12000
+        ],
+        [
+          2,
+          1500000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 136,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 2,
+      "name_beizhu": "第180章助力礼包3",
+      "FinishChapter": 180,
+      "UnlockOrder": 3,
+      "gift_time": 86400,
+      "iap_id": 31136,
+      "Reward": [
+        [
+          32215,
+          1
+        ],
+        [
+          32214,
+          3
+        ],
+        [
+          63,
+          60
+        ],
+        [
+          34,
+          25000
+        ],
+        [
+          2,
+          3200000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 137,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 2,
+      "name_beizhu": "第180章助力礼包4",
+      "FinishChapter": 180,
+      "UnlockOrder": 4,
+      "gift_time": 86400,
+      "iap_id": 31137,
+      "Reward": [
+        [
+          32215,
+          1
+        ],
+        [
+          32214,
+          6
+        ],
+        [
+          63,
+          80
+        ],
+        [
+          34,
+          26000
+        ],
+        [
+          2,
+          6000000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 138,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 2,
+      "name_beizhu": "第180章助力礼包5",
+      "FinishChapter": 180,
+      "UnlockOrder": 5,
+      "gift_time": 86400,
+      "iap_id": 31138,
+      "Reward": [
+        [
+          32215,
+          2
+        ],
+        [
+          32214,
+          8
+        ],
+        [
+          63,
+          80
+        ],
+        [
+          34,
+          28000
+        ],
+        [
+          2,
+          7500000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 139,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 2,
+      "name_beizhu": "第180章助力礼包6",
+      "FinishChapter": 180,
+      "UnlockOrder": 6,
+      "gift_time": 86400,
+      "iap_id": 31139,
+      "Reward": [
+        [
+          32215,
+          2
+        ],
+        [
+          32214,
+          8
+        ],
+        [
+          63,
+          80
+        ],
+        [
+          34,
+          28000
+        ],
+        [
+          2,
+          7500000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 140,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 2,
+      "name_beizhu": "第180章助力礼包7",
+      "FinishChapter": 180,
+      "UnlockOrder": 7,
+      "gift_time": 86400,
+      "iap_id": 31140,
+      "Reward": [
+        [
+          32215,
+          2
+        ],
+        [
+          32214,
+          8
+        ],
+        [
+          63,
+          80
+        ],
+        [
+          34,
+          28000
+        ],
+        [
+          2,
+          7500000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 141,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 4,
+      "name_beizhu": "第190章助力礼包1",
+      "FinishChapter": 190,
+      "UnlockOrder": 1,
+      "gift_time": 86400,
+      "iap_id": 31141,
+      "Reward": [
+        [
+          32105,
+          1
+        ],
+        [
+          65,
+          25
+        ],
+        [
+          30310,
+          5
+        ],
+        [
+          34,
+          6000
+        ],
+        [
+          2,
+          850000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 142,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 4,
+      "name_beizhu": "第190章助力礼包2",
+      "FinishChapter": 190,
+      "UnlockOrder": 2,
+      "gift_time": 86400,
+      "iap_id": 31142,
+      "Reward": [
+        [
+          32105,
+          1
+        ],
+        [
+          30305,
+          2
+        ],
+        [
+          30310,
+          15
+        ],
+        [
+          34,
+          12000
+        ],
+        [
+          2,
+          1500000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 143,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 4,
+      "name_beizhu": "第190章助力礼包3",
+      "FinishChapter": 190,
+      "UnlockOrder": 3,
+      "gift_time": 86400,
+      "iap_id": 31143,
+      "Reward": [
+        [
+          32105,
+          3
+        ],
+        [
+          30305,
+          4
+        ],
+        [
+          30310,
+          15
+        ],
+        [
+          34,
+          25000
+        ],
+        [
+          2,
+          3000000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 144,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 4,
+      "name_beizhu": "第190章助力礼包4",
+      "FinishChapter": 190,
+      "UnlockOrder": 4,
+      "gift_time": 86400,
+      "iap_id": 31144,
+      "Reward": [
+        [
+          32105,
+          4
+        ],
+        [
+          30305,
+          6
+        ],
+        [
+          30310,
+          30
+        ],
+        [
+          34,
+          25000
+        ],
+        [
+          2,
+          5200000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 145,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 4,
+      "name_beizhu": "第190章助力礼包5",
+      "FinishChapter": 190,
+      "UnlockOrder": 5,
+      "gift_time": 86400,
+      "iap_id": 31145,
+      "Reward": [
+        [
+          32105,
+          8
+        ],
+        [
+          30305,
+          6
+        ],
+        [
+          30310,
+          30
+        ],
+        [
+          34,
+          28000
+        ],
+        [
+          2,
+          6400000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 146,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 4,
+      "name_beizhu": "第190章助力礼包6",
+      "FinishChapter": 190,
+      "UnlockOrder": 6,
+      "gift_time": 86400,
+      "iap_id": 31146,
+      "Reward": [
+        [
+          32105,
+          8
+        ],
+        [
+          30305,
+          6
+        ],
+        [
+          30310,
+          30
+        ],
+        [
+          34,
+          28000
+        ],
+        [
+          2,
+          6400000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 147,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 4,
+      "name_beizhu": "第190章助力礼包7",
+      "FinishChapter": 190,
+      "UnlockOrder": 7,
+      "gift_time": 86400,
+      "iap_id": 31147,
+      "Reward": [
+        [
+          32105,
+          8
+        ],
+        [
+          30305,
+          6
+        ],
+        [
+          30310,
+          30
+        ],
+        [
+          34,
+          28000
+        ],
+        [
+          2,
+          6400000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 148,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 2,
+      "name_beizhu": "第200章助力礼包1",
+      "FinishChapter": 200,
+      "UnlockOrder": 1,
+      "gift_time": 86400,
+      "iap_id": 31148,
+      "Reward": [
+        [
+          32214,
+          1
+        ],
+        [
+          32204,
+          1
+        ],
+        [
+          63,
+          20
+        ],
+        [
+          34,
+          8000
+        ],
+        [
+          2,
+          850000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 149,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 2,
+      "name_beizhu": "第200章助力礼包2",
+      "FinishChapter": 200,
+      "UnlockOrder": 2,
+      "gift_time": 86400,
+      "iap_id": 31149,
+      "Reward": [
+        [
+          32214,
+          1
+        ],
+        [
+          32204,
+          2
+        ],
+        [
+          63,
+          40
+        ],
+        [
+          34,
+          12000
+        ],
+        [
+          2,
+          1500000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 150,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 2,
+      "name_beizhu": "第200章助力礼包3",
+      "FinishChapter": 200,
+      "UnlockOrder": 3,
+      "gift_time": 86400,
+      "iap_id": 31150,
+      "Reward": [
+        [
+          32215,
+          1
+        ],
+        [
+          32214,
+          3
+        ],
+        [
+          63,
+          60
+        ],
+        [
+          34,
+          25000
+        ],
+        [
+          2,
+          3200000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 151,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 2,
+      "name_beizhu": "第200章助力礼包4",
+      "FinishChapter": 200,
+      "UnlockOrder": 4,
+      "gift_time": 86400,
+      "iap_id": 31151,
+      "Reward": [
+        [
+          32215,
+          1
+        ],
+        [
+          32214,
+          6
+        ],
+        [
+          63,
+          80
+        ],
+        [
+          34,
+          26000
+        ],
+        [
+          2,
+          6000000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 152,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 2,
+      "name_beizhu": "第200章助力礼包5",
+      "FinishChapter": 200,
+      "UnlockOrder": 5,
+      "gift_time": 86400,
+      "iap_id": 31152,
+      "Reward": [
+        [
+          32215,
+          2
+        ],
+        [
+          32214,
+          8
+        ],
+        [
+          63,
+          80
+        ],
+        [
+          34,
+          28000
+        ],
+        [
+          2,
+          7500000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 153,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 2,
+      "name_beizhu": "第200章助力礼包6",
+      "FinishChapter": 200,
+      "UnlockOrder": 6,
+      "gift_time": 86400,
+      "iap_id": 31153,
+      "Reward": [
+        [
+          32215,
+          2
+        ],
+        [
+          32214,
+          8
+        ],
+        [
+          63,
+          80
+        ],
+        [
+          34,
+          28000
+        ],
+        [
+          2,
+          7500000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 154,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 2,
+      "name_beizhu": "第200章助力礼包7",
+      "FinishChapter": 200,
+      "UnlockOrder": 7,
+      "gift_time": 86400,
+      "iap_id": 31154,
+      "Reward": [
+        [
+          32215,
+          2
+        ],
+        [
+          32214,
+          8
+        ],
+        [
+          63,
+          80
+        ],
+        [
+          34,
+          28000
+        ],
+        [
+          2,
+          7500000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 155,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 4,
+      "name_beizhu": "第210章助力礼包1",
+      "FinishChapter": 210,
+      "UnlockOrder": 1,
+      "gift_time": 86400,
+      "iap_id": 31155,
+      "Reward": [
+        [
+          32105,
+          1
+        ],
+        [
+          65,
+          25
+        ],
+        [
+          30310,
+          5
+        ],
+        [
+          34,
+          6000
+        ],
+        [
+          2,
+          850000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 156,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 4,
+      "name_beizhu": "第210章助力礼包2",
+      "FinishChapter": 210,
+      "UnlockOrder": 2,
+      "gift_time": 86400,
+      "iap_id": 31156,
+      "Reward": [
+        [
+          32105,
+          1
+        ],
+        [
+          30305,
+          2
+        ],
+        [
+          30310,
+          15
+        ],
+        [
+          34,
+          12000
+        ],
+        [
+          2,
+          1500000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 157,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 4,
+      "name_beizhu": "第210章助力礼包3",
+      "FinishChapter": 210,
+      "UnlockOrder": 3,
+      "gift_time": 86400,
+      "iap_id": 31157,
+      "Reward": [
+        [
+          32105,
+          3
+        ],
+        [
+          30305,
+          4
+        ],
+        [
+          30310,
+          15
+        ],
+        [
+          34,
+          25000
+        ],
+        [
+          2,
+          3000000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 158,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 4,
+      "name_beizhu": "第210章助力礼包4",
+      "FinishChapter": 210,
+      "UnlockOrder": 4,
+      "gift_time": 86400,
+      "iap_id": 31158,
+      "Reward": [
+        [
+          32105,
+          4
+        ],
+        [
+          30305,
+          6
+        ],
+        [
+          30310,
+          30
+        ],
+        [
+          34,
+          25000
+        ],
+        [
+          2,
+          5200000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 159,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 4,
+      "name_beizhu": "第210章助力礼包5",
+      "FinishChapter": 210,
+      "UnlockOrder": 5,
+      "gift_time": 86400,
+      "iap_id": 31159,
+      "Reward": [
+        [
+          32105,
+          8
+        ],
+        [
+          30305,
+          6
+        ],
+        [
+          30310,
+          30
+        ],
+        [
+          34,
+          28000
+        ],
+        [
+          2,
+          6400000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 160,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 4,
+      "name_beizhu": "第210章助力礼包6",
+      "FinishChapter": 210,
+      "UnlockOrder": 6,
+      "gift_time": 86400,
+      "iap_id": 31160,
+      "Reward": [
+        [
+          32105,
+          8
+        ],
+        [
+          30305,
+          6
+        ],
+        [
+          30310,
+          30
+        ],
+        [
+          34,
+          28000
+        ],
+        [
+          2,
+          6400000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  },
+  {
+    "ChapterGiftRow": {
+      "id": 161,
+      "name": 14640,
+      "tag": 14641,
+      "Type": 4,
+      "name_beizhu": "第210章助力礼包7",
+      "FinishChapter": 210,
+      "UnlockOrder": 7,
+      "gift_time": 86400,
+      "iap_id": 31161,
+      "Reward": [
+        [
+          32105,
+          8
+        ],
+        [
+          30305,
+          6
+        ],
+        [
+          30310,
+          30
+        ],
+        [
+          34,
+          28000
+        ],
+        [
+          2,
+          6400000
+        ]
+      ],
+      "SaleRate": 600
+    }
+  }
+]

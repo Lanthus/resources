@@ -1,0 +1,704 @@
+{
+    "Int32 _key": 1837575481,
+    "Int32 _rndIdx": 465,
+    "Dictionary<System.Int32,AccessoryHarmonyMultiRow> _dict": {
+        "Int32[] _buckets": [
+            10,
+            13,
+            12,
+            15,
+            14,
+            17,
+            16,
+            3,
+            2,
+            5,
+            4,
+            7,
+            6,
+            9,
+            8,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            19,
+            18,
+            21,
+            20,
+            0,
+            0,
+            0,
+            0,
+            11
+        ],
+        "Entry<System.Int32,AccessoryHarmonyMultiRow>[] _entries": [
+            {
+                "Int32 hashCode": 1837493614,
+                "Int32 next": -1,
+                "Int32 key": 1837493614,
+                "AccessoryHarmonyMultiRow value": {
+                    "Int32 <ID>k__BackingField": 1,
+                    "Int32 <harmony_multi>k__BackingField": 100,
+                    "List<System.Int32[]> <need_item>k__BackingField": [],
+                    "List<System.Int32[]> <combie_need_item>k__BackingField": [],
+                    "List<System.Int32[]> <extra_need_item>k__BackingField": [],
+                    "Int32 <onlyCombie>k__BackingField": 0
+                }
+            },
+            {
+                "Int32 hashCode": 1837493601,
+                "Int32 next": -1,
+                "Int32 key": 1837493601,
+                "AccessoryHarmonyMultiRow value": {
+                    "Int32 <ID>k__BackingField": 2,
+                    "Int32 <harmony_multi>k__BackingField": 120,
+                    "List<System.Int32[]> <need_item>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                615,
+                                1
+                            ]
+                        }
+                    ],
+                    "List<System.Int32[]> <combie_need_item>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                615,
+                                1
+                            ]
+                        }
+                    ],
+                    "List<System.Int32[]> <extra_need_item>k__BackingField": [],
+                    "Int32 <onlyCombie>k__BackingField": 0
+                }
+            },
+            {
+                "Int32 hashCode": 1837493600,
+                "Int32 next": -1,
+                "Int32 key": 1837493600,
+                "AccessoryHarmonyMultiRow value": {
+                    "Int32 <ID>k__BackingField": 3,
+                    "Int32 <harmony_multi>k__BackingField": 140,
+                    "List<System.Int32[]> <need_item>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                615,
+                                1
+                            ]
+                        }
+                    ],
+                    "List<System.Int32[]> <combie_need_item>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                615,
+                                1
+                            ]
+                        }
+                    ],
+                    "List<System.Int32[]> <extra_need_item>k__BackingField": [],
+                    "Int32 <onlyCombie>k__BackingField": 0
+                }
+            },
+            {
+                "Int32 hashCode": 1837493603,
+                "Int32 next": -1,
+                "Int32 key": 1837493603,
+                "AccessoryHarmonyMultiRow value": {
+                    "Int32 <ID>k__BackingField": 4,
+                    "Int32 <harmony_multi>k__BackingField": 160,
+                    "List<System.Int32[]> <need_item>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                615,
+                                2
+                            ]
+                        }
+                    ],
+                    "List<System.Int32[]> <combie_need_item>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                615,
+                                2
+                            ]
+                        }
+                    ],
+                    "List<System.Int32[]> <extra_need_item>k__BackingField": [],
+                    "Int32 <onlyCombie>k__BackingField": 0
+                }
+            },
+            {
+                "Int32 hashCode": 1837493602,
+                "Int32 next": -1,
+                "Int32 key": 1837493602,
+                "AccessoryHarmonyMultiRow value": {
+                    "Int32 <ID>k__BackingField": 5,
+                    "Int32 <harmony_multi>k__BackingField": 180,
+                    "List<System.Int32[]> <need_item>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                615,
+                                3
+                            ]
+                        }
+                    ],
+                    "List<System.Int32[]> <combie_need_item>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                615,
+                                2
+                            ]
+                        }
+                    ],
+                    "List<System.Int32[]> <extra_need_item>k__BackingField": [],
+                    "Int32 <onlyCombie>k__BackingField": 0
+                }
+            },
+            {
+                "Int32 hashCode": 1837493605,
+                "Int32 next": -1,
+                "Int32 key": 1837493605,
+                "AccessoryHarmonyMultiRow value": {
+                    "Int32 <ID>k__BackingField": 6,
+                    "Int32 <harmony_multi>k__BackingField": 200,
+                    "List<System.Int32[]> <need_item>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                615,
+                                5
+                            ]
+                        }
+                    ],
+                    "List<System.Int32[]> <combie_need_item>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                615,
+                                3
+                            ]
+                        }
+                    ],
+                    "List<System.Int32[]> <extra_need_item>k__BackingField": [],
+                    "Int32 <onlyCombie>k__BackingField": 0
+                }
+            },
+            {
+                "Int32 hashCode": 1837493604,
+                "Int32 next": -1,
+                "Int32 key": 1837493604,
+                "AccessoryHarmonyMultiRow value": {
+                    "Int32 <ID>k__BackingField": 7,
+                    "Int32 <harmony_multi>k__BackingField": 220,
+                    "List<System.Int32[]> <need_item>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                615,
+                                5
+                            ]
+                        }
+                    ],
+                    "List<System.Int32[]> <combie_need_item>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                615,
+                                3
+                            ]
+                        }
+                    ],
+                    "List<System.Int32[]> <extra_need_item>k__BackingField": [],
+                    "Int32 <onlyCombie>k__BackingField": 0
+                }
+            },
+            {
+                "Int32 hashCode": 1837493607,
+                "Int32 next": -1,
+                "Int32 key": 1837493607,
+                "AccessoryHarmonyMultiRow value": {
+                    "Int32 <ID>k__BackingField": 8,
+                    "Int32 <harmony_multi>k__BackingField": 240,
+                    "List<System.Int32[]> <need_item>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                615,
+                                7
+                            ]
+                        }
+                    ],
+                    "List<System.Int32[]> <combie_need_item>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                615,
+                                4
+                            ]
+                        }
+                    ],
+                    "List<System.Int32[]> <extra_need_item>k__BackingField": [],
+                    "Int32 <onlyCombie>k__BackingField": 0
+                }
+            },
+            {
+                "Int32 hashCode": 1837493606,
+                "Int32 next": -1,
+                "Int32 key": 1837493606,
+                "AccessoryHarmonyMultiRow value": {
+                    "Int32 <ID>k__BackingField": 9,
+                    "Int32 <harmony_multi>k__BackingField": 260,
+                    "List<System.Int32[]> <need_item>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                615,
+                                9
+                            ]
+                        }
+                    ],
+                    "List<System.Int32[]> <combie_need_item>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                615,
+                                4
+                            ]
+                        }
+                    ],
+                    "List<System.Int32[]> <extra_need_item>k__BackingField": [],
+                    "Int32 <onlyCombie>k__BackingField": 0
+                }
+            },
+            {
+                "Int32 hashCode": 1837493593,
+                "Int32 next": -1,
+                "Int32 key": 1837493593,
+                "AccessoryHarmonyMultiRow value": {
+                    "Int32 <ID>k__BackingField": 10,
+                    "Int32 <harmony_multi>k__BackingField": 280,
+                    "List<System.Int32[]> <need_item>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                615,
+                                12
+                            ]
+                        }
+                    ],
+                    "List<System.Int32[]> <combie_need_item>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                615,
+                                5
+                            ]
+                        }
+                    ],
+                    "List<System.Int32[]> <extra_need_item>k__BackingField": [],
+                    "Int32 <onlyCombie>k__BackingField": 0
+                }
+            },
+            {
+                "Int32 hashCode": 1837493592,
+                "Int32 next": -1,
+                "Int32 key": 1837493592,
+                "AccessoryHarmonyMultiRow value": {
+                    "Int32 <ID>k__BackingField": 11,
+                    "Int32 <harmony_multi>k__BackingField": 300,
+                    "List<System.Int32[]> <need_item>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                615,
+                                15
+                            ]
+                        }
+                    ],
+                    "List<System.Int32[]> <combie_need_item>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                615,
+                                5
+                            ]
+                        }
+                    ],
+                    "List<System.Int32[]> <extra_need_item>k__BackingField": [],
+                    "Int32 <onlyCombie>k__BackingField": 0
+                }
+            },
+            {
+                "Int32 hashCode": 1837493595,
+                "Int32 next": -1,
+                "Int32 key": 1837493595,
+                "AccessoryHarmonyMultiRow value": {
+                    "Int32 <ID>k__BackingField": 12,
+                    "Int32 <harmony_multi>k__BackingField": 320,
+                    "List<System.Int32[]> <need_item>k__BackingField": [],
+                    "List<System.Int32[]> <combie_need_item>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                615,
+                                6
+                            ]
+                        }
+                    ],
+                    "List<System.Int32[]> <extra_need_item>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                11,
+                                1
+                            ]
+                        }
+                    ],
+                    "Int32 <onlyCombie>k__BackingField": 1
+                }
+            },
+            {
+                "Int32 hashCode": 1837493594,
+                "Int32 next": -1,
+                "Int32 key": 1837493594,
+                "AccessoryHarmonyMultiRow value": {
+                    "Int32 <ID>k__BackingField": 13,
+                    "Int32 <harmony_multi>k__BackingField": 340,
+                    "List<System.Int32[]> <need_item>k__BackingField": [],
+                    "List<System.Int32[]> <combie_need_item>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                615,
+                                6
+                            ]
+                        }
+                    ],
+                    "List<System.Int32[]> <extra_need_item>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                11,
+                                1
+                            ]
+                        }
+                    ],
+                    "Int32 <onlyCombie>k__BackingField": 1
+                }
+            },
+            {
+                "Int32 hashCode": 1837493597,
+                "Int32 next": -1,
+                "Int32 key": 1837493597,
+                "AccessoryHarmonyMultiRow value": {
+                    "Int32 <ID>k__BackingField": 14,
+                    "Int32 <harmony_multi>k__BackingField": 360,
+                    "List<System.Int32[]> <need_item>k__BackingField": [],
+                    "List<System.Int32[]> <combie_need_item>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                615,
+                                6
+                            ]
+                        }
+                    ],
+                    "List<System.Int32[]> <extra_need_item>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                11,
+                                1
+                            ]
+                        }
+                    ],
+                    "Int32 <onlyCombie>k__BackingField": 1
+                }
+            },
+            {
+                "Int32 hashCode": 1837493596,
+                "Int32 next": -1,
+                "Int32 key": 1837493596,
+                "AccessoryHarmonyMultiRow value": {
+                    "Int32 <ID>k__BackingField": 15,
+                    "Int32 <harmony_multi>k__BackingField": 380,
+                    "List<System.Int32[]> <need_item>k__BackingField": [],
+                    "List<System.Int32[]> <combie_need_item>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                615,
+                                6
+                            ]
+                        }
+                    ],
+                    "List<System.Int32[]> <extra_need_item>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                11,
+                                1
+                            ]
+                        }
+                    ],
+                    "Int32 <onlyCombie>k__BackingField": 1
+                }
+            },
+            {
+                "Int32 hashCode": 1837493599,
+                "Int32 next": -1,
+                "Int32 key": 1837493599,
+                "AccessoryHarmonyMultiRow value": {
+                    "Int32 <ID>k__BackingField": 16,
+                    "Int32 <harmony_multi>k__BackingField": 400,
+                    "List<System.Int32[]> <need_item>k__BackingField": [],
+                    "List<System.Int32[]> <combie_need_item>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                615,
+                                6
+                            ]
+                        }
+                    ],
+                    "List<System.Int32[]> <extra_need_item>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                11,
+                                1
+                            ]
+                        }
+                    ],
+                    "Int32 <onlyCombie>k__BackingField": 1
+                }
+            },
+            {
+                "Int32 hashCode": 1837493598,
+                "Int32 next": -1,
+                "Int32 key": 1837493598,
+                "AccessoryHarmonyMultiRow value": {
+                    "Int32 <ID>k__BackingField": 17,
+                    "Int32 <harmony_multi>k__BackingField": 420,
+                    "List<System.Int32[]> <need_item>k__BackingField": [],
+                    "List<System.Int32[]> <combie_need_item>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                615,
+                                6
+                            ]
+                        }
+                    ],
+                    "List<System.Int32[]> <extra_need_item>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                11,
+                                1
+                            ]
+                        }
+                    ],
+                    "Int32 <onlyCombie>k__BackingField": 1
+                }
+            },
+            {
+                "Int32 hashCode": 1837493585,
+                "Int32 next": -1,
+                "Int32 key": 1837493585,
+                "AccessoryHarmonyMultiRow value": {
+                    "Int32 <ID>k__BackingField": 18,
+                    "Int32 <harmony_multi>k__BackingField": 440,
+                    "List<System.Int32[]> <need_item>k__BackingField": [],
+                    "List<System.Int32[]> <combie_need_item>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                615,
+                                6
+                            ]
+                        }
+                    ],
+                    "List<System.Int32[]> <extra_need_item>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                11,
+                                1
+                            ]
+                        }
+                    ],
+                    "Int32 <onlyCombie>k__BackingField": 1
+                }
+            },
+            {
+                "Int32 hashCode": 1837493584,
+                "Int32 next": -1,
+                "Int32 key": 1837493584,
+                "AccessoryHarmonyMultiRow value": {
+                    "Int32 <ID>k__BackingField": 19,
+                    "Int32 <harmony_multi>k__BackingField": 460,
+                    "List<System.Int32[]> <need_item>k__BackingField": [],
+                    "List<System.Int32[]> <combie_need_item>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                615,
+                                6
+                            ]
+                        }
+                    ],
+                    "List<System.Int32[]> <extra_need_item>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                11,
+                                1
+                            ]
+                        }
+                    ],
+                    "Int32 <onlyCombie>k__BackingField": 1
+                }
+            },
+            {
+                "Int32 hashCode": 1837493587,
+                "Int32 next": -1,
+                "Int32 key": 1837493587,
+                "AccessoryHarmonyMultiRow value": {
+                    "Int32 <ID>k__BackingField": 20,
+                    "Int32 <harmony_multi>k__BackingField": 480,
+                    "List<System.Int32[]> <need_item>k__BackingField": [],
+                    "List<System.Int32[]> <combie_need_item>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                615,
+                                6
+                            ]
+                        }
+                    ],
+                    "List<System.Int32[]> <extra_need_item>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                11,
+                                1
+                            ]
+                        }
+                    ],
+                    "Int32 <onlyCombie>k__BackingField": 1
+                }
+            },
+            {
+                "Int32 hashCode": 1837493586,
+                "Int32 next": -1,
+                "Int32 key": 1837493586,
+                "AccessoryHarmonyMultiRow value": {
+                    "Int32 <ID>k__BackingField": 21,
+                    "Int32 <harmony_multi>k__BackingField": 500,
+                    "List<System.Int32[]> <need_item>k__BackingField": [],
+                    "List<System.Int32[]> <combie_need_item>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                615,
+                                6
+                            ]
+                        }
+                    ],
+                    "List<System.Int32[]> <extra_need_item>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                11,
+                                1
+                            ]
+                        }
+                    ],
+                    "Int32 <onlyCombie>k__BackingField": 1
+                }
+            },
+            {
+                "Int32 hashCode": 0,
+                "Int32 next": 0,
+                "Int32 key": 0,
+                "AccessoryHarmonyMultiRow value": "(null-object)"
+            },
+            {
+                "Int32 hashCode": 0,
+                "Int32 next": 0,
+                "Int32 key": 0,
+                "AccessoryHarmonyMultiRow value": "(null-object)"
+            },
+            {
+                "Int32 hashCode": 0,
+                "Int32 next": 0,
+                "Int32 key": 0,
+                "AccessoryHarmonyMultiRow value": "(null-object)"
+            },
+            {
+                "Int32 hashCode": 0,
+                "Int32 next": 0,
+                "Int32 key": 0,
+                "AccessoryHarmonyMultiRow value": "(null-object)"
+            },
+            {
+                "Int32 hashCode": 0,
+                "Int32 next": 0,
+                "Int32 key": 0,
+                "AccessoryHarmonyMultiRow value": "(null-object)"
+            },
+            {
+                "Int32 hashCode": 0,
+                "Int32 next": 0,
+                "Int32 key": 0,
+                "AccessoryHarmonyMultiRow value": "(null-object)"
+            },
+            {
+                "Int32 hashCode": 0,
+                "Int32 next": 0,
+                "Int32 key": 0,
+                "AccessoryHarmonyMultiRow value": "(null-object)"
+            },
+            {
+                "Int32 hashCode": 0,
+                "Int32 next": 0,
+                "Int32 key": 0,
+                "AccessoryHarmonyMultiRow value": "(null-object)"
+            },
+            {
+                "Int32 hashCode": 0,
+                "Int32 next": 0,
+                "Int32 key": 0,
+                "AccessoryHarmonyMultiRow value": "(null-object)"
+            },
+            {
+                "Int32 hashCode": 0,
+                "Int32 next": 0,
+                "Int32 key": 0,
+                "AccessoryHarmonyMultiRow value": "(null-object)"
+            },
+            {
+                "Int32 hashCode": 0,
+                "Int32 next": 0,
+                "Int32 key": 0,
+                "AccessoryHarmonyMultiRow value": "(null-object)"
+            },
+            {
+                "Int32 hashCode": 0,
+                "Int32 next": 0,
+                "Int32 key": 0,
+                "AccessoryHarmonyMultiRow value": "(null-object)"
+            },
+            {
+                "Int32 hashCode": 0,
+                "Int32 next": 0,
+                "Int32 key": 0,
+                "AccessoryHarmonyMultiRow value": "(null-object)"
+            },
+            {
+                "Int32 hashCode": 0,
+                "Int32 next": 0,
+                "Int32 key": 0,
+                "AccessoryHarmonyMultiRow value": "(null-object)"
+            },
+            {
+                "Int32 hashCode": 0,
+                "Int32 next": 0,
+                "Int32 key": 0,
+                "AccessoryHarmonyMultiRow value": "(null-object)"
+            },
+            {
+                "Int32 hashCode": 0,
+                "Int32 next": 0,
+                "Int32 key": 0,
+                "AccessoryHarmonyMultiRow value": "(null-object)"
+            }
+        ],
+        "Int32 _count": 21,
+        "Int32 _freeList": -1,
+        "Int32 _freeCount": 0,
+        "Int32 _version": 21,
+        "IEqualityComparer<System.Int32> _comparer": "(null-object)",
+        "KeyCollection<System.Int32,AccessoryHarmonyMultiRow> _keys": "(null-object)",
+        "ValueCollection<System.Int32,AccessoryHarmonyMultiRow> _values": "(null-object)",
+        "Object _syncRoot": "(null-object)"
+    }
+}

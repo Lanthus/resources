@@ -1,0 +1,453 @@
+{
+    "Int32 _key": 1191061545,
+    "Int32 _rndIdx": 626,
+    "Dictionary<System.Int32,AccessoryQualityCfgRow> _dict": {
+        "Int32[] _buckets": [
+            15,
+            0,
+            2,
+            1,
+            4,
+            3,
+            6,
+            5,
+            0,
+            8,
+            7,
+            10,
+            9,
+            12,
+            11,
+            14,
+            16
+        ],
+        "Entry<System.Int32,AccessoryQualityCfgRow>[] _entries": [
+            {
+                "Int32 hashCode": 1190175307,
+                "Int32 next": -1,
+                "Int32 key": 1190175307,
+                "AccessoryQualityCfgRow value": {
+                    "Int32 <quality>k__BackingField": 1,
+                    "Int32[] <special_type>k__BackingField": [
+                        0,
+                        1
+                    ],
+                    "String <des>k__BackingField": "白",
+                    "Int32 <quality_add>k__BackingField": 0,
+                    "Int32[] <cost>k__BackingField": [
+                        1,
+                        1,
+                        2
+                    ],
+                    "Int32 <exp>k__BackingField": 0,
+                    "Int32 <extra_coin>k__BackingField": 0,
+                    "Int32 <extra_item>k__BackingField": 0,
+                    "Int32 <opentime>k__BackingField": 0,
+                    "Int32 <version>k__BackingField": 0,
+                    "Int32 <harmony_energy>k__BackingField": 0,
+                    "Int32 <unlock_slot>k__BackingField": 0
+                }
+            },
+            {
+                "Int32 hashCode": 1190175306,
+                "Int32 next": -1,
+                "Int32 key": 1190175306,
+                "AccessoryQualityCfgRow value": {
+                    "Int32 <quality>k__BackingField": 2,
+                    "Int32[] <special_type>k__BackingField": [
+                        0,
+                        1
+                    ],
+                    "String <des>k__BackingField": "绿",
+                    "Int32 <quality_add>k__BackingField": 0,
+                    "Int32[] <cost>k__BackingField": [
+                        1,
+                        2,
+                        2
+                    ],
+                    "Int32 <exp>k__BackingField": 0,
+                    "Int32 <extra_coin>k__BackingField": 0,
+                    "Int32 <extra_item>k__BackingField": 0,
+                    "Int32 <opentime>k__BackingField": 0,
+                    "Int32 <version>k__BackingField": 0,
+                    "Int32 <harmony_energy>k__BackingField": 0,
+                    "Int32 <unlock_slot>k__BackingField": 0
+                }
+            },
+            {
+                "Int32 hashCode": 1190175309,
+                "Int32 next": -1,
+                "Int32 key": 1190175309,
+                "AccessoryQualityCfgRow value": {
+                    "Int32 <quality>k__BackingField": 3,
+                    "Int32[] <special_type>k__BackingField": [
+                        0,
+                        1
+                    ],
+                    "String <des>k__BackingField": "蓝",
+                    "Int32 <quality_add>k__BackingField": 0,
+                    "Int32[] <cost>k__BackingField": [
+                        1,
+                        3,
+                        2
+                    ],
+                    "Int32 <exp>k__BackingField": 0,
+                    "Int32 <extra_coin>k__BackingField": 0,
+                    "Int32 <extra_item>k__BackingField": 0,
+                    "Int32 <opentime>k__BackingField": 0,
+                    "Int32 <version>k__BackingField": 0,
+                    "Int32 <harmony_energy>k__BackingField": 0,
+                    "Int32 <unlock_slot>k__BackingField": 0
+                }
+            },
+            {
+                "Int32 hashCode": 1190175308,
+                "Int32 next": -1,
+                "Int32 key": 1190175308,
+                "AccessoryQualityCfgRow value": {
+                    "Int32 <quality>k__BackingField": 4,
+                    "Int32[] <special_type>k__BackingField": [
+                        0,
+                        1
+                    ],
+                    "String <des>k__BackingField": "紫",
+                    "Int32 <quality_add>k__BackingField": 0,
+                    "Int32[] <cost>k__BackingField": [
+                        1,
+                        4,
+                        1
+                    ],
+                    "Int32 <exp>k__BackingField": 0,
+                    "Int32 <extra_coin>k__BackingField": 0,
+                    "Int32 <extra_item>k__BackingField": 0,
+                    "Int32 <opentime>k__BackingField": 0,
+                    "Int32 <version>k__BackingField": 0,
+                    "Int32 <harmony_energy>k__BackingField": 0,
+                    "Int32 <unlock_slot>k__BackingField": 0
+                }
+            },
+            {
+                "Int32 hashCode": 1190175311,
+                "Int32 next": -1,
+                "Int32 key": 1190175311,
+                "AccessoryQualityCfgRow value": {
+                    "Int32 <quality>k__BackingField": 5,
+                    "Int32[] <special_type>k__BackingField": [
+                        0,
+                        1
+                    ],
+                    "String <des>k__BackingField": "紫+1",
+                    "Int32 <quality_add>k__BackingField": 1,
+                    "Int32[] <cost>k__BackingField": [
+                        1,
+                        5,
+                        1
+                    ],
+                    "Int32 <exp>k__BackingField": 0,
+                    "Int32 <extra_coin>k__BackingField": 0,
+                    "Int32 <extra_item>k__BackingField": 0,
+                    "Int32 <opentime>k__BackingField": 0,
+                    "Int32 <version>k__BackingField": 0,
+                    "Int32 <harmony_energy>k__BackingField": 0,
+                    "Int32 <unlock_slot>k__BackingField": 0
+                }
+            },
+            {
+                "Int32 hashCode": 1190175310,
+                "Int32 next": -1,
+                "Int32 key": 1190175310,
+                "AccessoryQualityCfgRow value": {
+                    "Int32 <quality>k__BackingField": 6,
+                    "Int32[] <special_type>k__BackingField": [
+                        0,
+                        1
+                    ],
+                    "String <des>k__BackingField": "紫+2",
+                    "Int32 <quality_add>k__BackingField": 2,
+                    "Int32[] <cost>k__BackingField": [
+                        1,
+                        6,
+                        1
+                    ],
+                    "Int32 <exp>k__BackingField": 0,
+                    "Int32 <extra_coin>k__BackingField": 0,
+                    "Int32 <extra_item>k__BackingField": 0,
+                    "Int32 <opentime>k__BackingField": 0,
+                    "Int32 <version>k__BackingField": 0,
+                    "Int32 <harmony_energy>k__BackingField": 0,
+                    "Int32 <unlock_slot>k__BackingField": 0
+                }
+            },
+            {
+                "Int32 hashCode": 1190175297,
+                "Int32 next": -1,
+                "Int32 key": 1190175297,
+                "AccessoryQualityCfgRow value": {
+                    "Int32 <quality>k__BackingField": 7,
+                    "Int32[] <special_type>k__BackingField": [
+                        0,
+                        1
+                    ],
+                    "String <des>k__BackingField": "金",
+                    "Int32 <quality_add>k__BackingField": 0,
+                    "Int32[] <cost>k__BackingField": [
+                        1,
+                        7,
+                        1
+                    ],
+                    "Int32 <exp>k__BackingField": 0,
+                    "Int32 <extra_coin>k__BackingField": 0,
+                    "Int32 <extra_item>k__BackingField": 0,
+                    "Int32 <opentime>k__BackingField": 0,
+                    "Int32 <version>k__BackingField": 0,
+                    "Int32 <harmony_energy>k__BackingField": 50,
+                    "Int32 <unlock_slot>k__BackingField": 0
+                }
+            },
+            {
+                "Int32 hashCode": 1190175296,
+                "Int32 next": -1,
+                "Int32 key": 1190175296,
+                "AccessoryQualityCfgRow value": {
+                    "Int32 <quality>k__BackingField": 8,
+                    "Int32[] <special_type>k__BackingField": [
+                        0,
+                        1
+                    ],
+                    "String <des>k__BackingField": "金+1",
+                    "Int32 <quality_add>k__BackingField": 1,
+                    "Int32[] <cost>k__BackingField": [
+                        1,
+                        8,
+                        1
+                    ],
+                    "Int32 <exp>k__BackingField": 0,
+                    "Int32 <extra_coin>k__BackingField": 0,
+                    "Int32 <extra_item>k__BackingField": 0,
+                    "Int32 <opentime>k__BackingField": 0,
+                    "Int32 <version>k__BackingField": 0,
+                    "Int32 <harmony_energy>k__BackingField": 100,
+                    "Int32 <unlock_slot>k__BackingField": 0
+                }
+            },
+            {
+                "Int32 hashCode": 1190175299,
+                "Int32 next": -1,
+                "Int32 key": 1190175299,
+                "AccessoryQualityCfgRow value": {
+                    "Int32 <quality>k__BackingField": 9,
+                    "Int32[] <special_type>k__BackingField": [
+                        0,
+                        1
+                    ],
+                    "String <des>k__BackingField": "金+2",
+                    "Int32 <quality_add>k__BackingField": 2,
+                    "Int32[] <cost>k__BackingField": [
+                        1,
+                        9,
+                        1
+                    ],
+                    "Int32 <exp>k__BackingField": 0,
+                    "Int32 <extra_coin>k__BackingField": 0,
+                    "Int32 <extra_item>k__BackingField": 0,
+                    "Int32 <opentime>k__BackingField": 0,
+                    "Int32 <version>k__BackingField": 0,
+                    "Int32 <harmony_energy>k__BackingField": 150,
+                    "Int32 <unlock_slot>k__BackingField": 0
+                }
+            },
+            {
+                "Int32 hashCode": 1190175298,
+                "Int32 next": -1,
+                "Int32 key": 1190175298,
+                "AccessoryQualityCfgRow value": {
+                    "Int32 <quality>k__BackingField": 10,
+                    "Int32[] <special_type>k__BackingField": [
+                        0,
+                        1
+                    ],
+                    "String <des>k__BackingField": "金+3",
+                    "Int32 <quality_add>k__BackingField": 3,
+                    "Int32[] <cost>k__BackingField": [
+                        1,
+                        10,
+                        1
+                    ],
+                    "Int32 <exp>k__BackingField": 0,
+                    "Int32 <extra_coin>k__BackingField": 0,
+                    "Int32 <extra_item>k__BackingField": 0,
+                    "Int32 <opentime>k__BackingField": 0,
+                    "Int32 <version>k__BackingField": 0,
+                    "Int32 <harmony_energy>k__BackingField": 200,
+                    "Int32 <unlock_slot>k__BackingField": 0
+                }
+            },
+            {
+                "Int32 hashCode": 1190175301,
+                "Int32 next": -1,
+                "Int32 key": 1190175301,
+                "AccessoryQualityCfgRow value": {
+                    "Int32 <quality>k__BackingField": 11,
+                    "Int32[] <special_type>k__BackingField": [
+                        0,
+                        1
+                    ],
+                    "String <des>k__BackingField": "红",
+                    "Int32 <quality_add>k__BackingField": 0,
+                    "Int32[] <cost>k__BackingField": [
+                        1,
+                        11,
+                        1
+                    ],
+                    "Int32 <exp>k__BackingField": 0,
+                    "Int32 <extra_coin>k__BackingField": 0,
+                    "Int32 <extra_item>k__BackingField": 0,
+                    "Int32 <opentime>k__BackingField": 0,
+                    "Int32 <version>k__BackingField": 0,
+                    "Int32 <harmony_energy>k__BackingField": 300,
+                    "Int32 <unlock_slot>k__BackingField": 3
+                }
+            },
+            {
+                "Int32 hashCode": 1190175300,
+                "Int32 next": -1,
+                "Int32 key": 1190175300,
+                "AccessoryQualityCfgRow value": {
+                    "Int32 <quality>k__BackingField": 12,
+                    "Int32[] <special_type>k__BackingField": [
+                        0,
+                        1
+                    ],
+                    "String <des>k__BackingField": "红+1",
+                    "Int32 <quality_add>k__BackingField": 1,
+                    "Int32[] <cost>k__BackingField": [
+                        3,
+                        11,
+                        1
+                    ],
+                    "Int32 <exp>k__BackingField": 0,
+                    "Int32 <extra_coin>k__BackingField": 0,
+                    "Int32 <extra_item>k__BackingField": 0,
+                    "Int32 <opentime>k__BackingField": 1697644800,
+                    "Int32 <version>k__BackingField": 1310,
+                    "Int32 <harmony_energy>k__BackingField": 400,
+                    "Int32 <unlock_slot>k__BackingField": 3
+                }
+            },
+            {
+                "Int32 hashCode": 1190175303,
+                "Int32 next": -1,
+                "Int32 key": 1190175303,
+                "AccessoryQualityCfgRow value": {
+                    "Int32 <quality>k__BackingField": 13,
+                    "Int32[] <special_type>k__BackingField": [
+                        0,
+                        1
+                    ],
+                    "String <des>k__BackingField": "红+2",
+                    "Int32 <quality_add>k__BackingField": 2,
+                    "Int32[] <cost>k__BackingField": [
+                        3,
+                        11,
+                        1
+                    ],
+                    "Int32 <exp>k__BackingField": 0,
+                    "Int32 <extra_coin>k__BackingField": 0,
+                    "Int32 <extra_item>k__BackingField": 0,
+                    "Int32 <opentime>k__BackingField": 1697644800,
+                    "Int32 <version>k__BackingField": 1310,
+                    "Int32 <harmony_energy>k__BackingField": 550,
+                    "Int32 <unlock_slot>k__BackingField": 3
+                }
+            },
+            {
+                "Int32 hashCode": 1190175302,
+                "Int32 next": -1,
+                "Int32 key": 1190175302,
+                "AccessoryQualityCfgRow value": {
+                    "Int32 <quality>k__BackingField": 14,
+                    "Int32[] <special_type>k__BackingField": [
+                        0,
+                        1
+                    ],
+                    "String <des>k__BackingField": "红+3",
+                    "Int32 <quality_add>k__BackingField": 3,
+                    "Int32[] <cost>k__BackingField": [
+                        3,
+                        11,
+                        1
+                    ],
+                    "Int32 <exp>k__BackingField": 0,
+                    "Int32 <extra_coin>k__BackingField": 0,
+                    "Int32 <extra_item>k__BackingField": 0,
+                    "Int32 <opentime>k__BackingField": 1697644800,
+                    "Int32 <version>k__BackingField": 1310,
+                    "Int32 <harmony_energy>k__BackingField": 700,
+                    "Int32 <unlock_slot>k__BackingField": 3
+                }
+            },
+            {
+                "Int32 hashCode": 1190175321,
+                "Int32 next": -1,
+                "Int32 key": 1190175321,
+                "AccessoryQualityCfgRow value": {
+                    "Int32 <quality>k__BackingField": 15,
+                    "Int32[] <special_type>k__BackingField": [
+                        0,
+                        1
+                    ],
+                    "String <des>k__BackingField": "红+4",
+                    "Int32 <quality_add>k__BackingField": 4,
+                    "Int32[] <cost>k__BackingField": [
+                        3,
+                        11,
+                        2
+                    ],
+                    "Int32 <exp>k__BackingField": 0,
+                    "Int32 <extra_coin>k__BackingField": 0,
+                    "Int32 <extra_item>k__BackingField": 0,
+                    "Int32 <opentime>k__BackingField": 1698681600,
+                    "Int32 <version>k__BackingField": 1400,
+                    "Int32 <harmony_energy>k__BackingField": 850,
+                    "Int32 <unlock_slot>k__BackingField": 3
+                }
+            },
+            {
+                "Int32 hashCode": 1190175320,
+                "Int32 next": 12,
+                "Int32 key": 1190175320,
+                "AccessoryQualityCfgRow value": {
+                    "Int32 <quality>k__BackingField": 16,
+                    "Int32[] <special_type>k__BackingField": [
+                        0,
+                        1
+                    ],
+                    "String <des>k__BackingField": "白金",
+                    "Int32 <quality_add>k__BackingField": 0,
+                    "Int32[] <cost>k__BackingField": [],
+                    "Int32 <exp>k__BackingField": 0,
+                    "Int32 <extra_coin>k__BackingField": 0,
+                    "Int32 <extra_item>k__BackingField": 0,
+                    "Int32 <opentime>k__BackingField": 0,
+                    "Int32 <version>k__BackingField": 0,
+                    "Int32 <harmony_energy>k__BackingField": 1000,
+                    "Int32 <unlock_slot>k__BackingField": 3
+                }
+            },
+            {
+                "Int32 hashCode": 0,
+                "Int32 next": 0,
+                "Int32 key": 0,
+                "AccessoryQualityCfgRow value": "(null-object)"
+            }
+        ],
+        "Int32 _count": 16,
+        "Int32 _freeList": -1,
+        "Int32 _freeCount": 0,
+        "Int32 _version": 16,
+        "IEqualityComparer<System.Int32> _comparer": "(null-object)",
+        "KeyCollection<System.Int32,AccessoryQualityCfgRow> _keys": "(null-object)",
+        "ValueCollection<System.Int32,AccessoryQualityCfgRow> _values": "(null-object)",
+        "Object _syncRoot": "(null-object)"
+    }
+}

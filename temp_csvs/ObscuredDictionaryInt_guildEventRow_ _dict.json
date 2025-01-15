@@ -1,0 +1,63 @@
+{
+    "Int32 _key": 1742829635,
+    "Int32 _rndIdx": 265,
+    "Dictionary<System.Int32,guildEventRow> _dict": {
+        "Int32[] _buckets": [
+            1,
+            3,
+            2
+        ],
+        "Entry<System.Int32,guildEventRow>[] _entries": [
+            {
+                "Int32 hashCode": 1743751299,
+                "Int32 next": -1,
+                "Int32 key": 1743751299,
+                "guildEventRow value": {
+                    "Int32 <id>k__BackingField": 101,
+                    "Int32 <type>k__BackingField": 1,
+                    "Int32 <name>k__BackingField": 90225,
+                    "Int32 <eventLanguage>k__BackingField": 90258,
+                    "String <eventAtlas>k__BackingField": "uiguild",
+                    "String <eventShow>k__BackingField": "specialBtn",
+                    "Int32 <eventSort>k__BackingField": 1
+                }
+            },
+            {
+                "Int32 hashCode": 1743751298,
+                "Int32 next": -1,
+                "Int32 key": 1743751298,
+                "guildEventRow value": {
+                    "Int32 <id>k__BackingField": 102,
+                    "Int32 <type>k__BackingField": 1,
+                    "Int32 <name>k__BackingField": 90225,
+                    "Int32 <eventLanguage>k__BackingField": 90258,
+                    "String <eventAtlas>k__BackingField": "uiguild",
+                    "String <eventShow>k__BackingField": "specialBtn",
+                    "Int32 <eventSort>k__BackingField": 2
+                }
+            },
+            {
+                "Int32 hashCode": 1743751297,
+                "Int32 next": -1,
+                "Int32 key": 1743751297,
+                "guildEventRow value": {
+                    "Int32 <id>k__BackingField": 103,
+                    "Int32 <type>k__BackingField": 2,
+                    "Int32 <name>k__BackingField": 90225,
+                    "Int32 <eventLanguage>k__BackingField": 90258,
+                    "String <eventAtlas>k__BackingField": "uiguild",
+                    "String <eventShow>k__BackingField": "specialBtn",
+                    "Int32 <eventSort>k__BackingField": 3
+                }
+            }
+        ],
+        "Int32 _count": 3,
+        "Int32 _freeList": -1,
+        "Int32 _freeCount": 0,
+        "Int32 _version": 3,
+        "IEqualityComparer<System.Int32> _comparer": "(null-object)",
+        "KeyCollection<System.Int32,guildEventRow> _keys": "(null-object)",
+        "ValueCollection<System.Int32,guildEventRow> _values": "(null-object)",
+        "Object _syncRoot": "(null-object)"
+    }
+}

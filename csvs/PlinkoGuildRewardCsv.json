@@ -1,0 +1,142 @@
+[
+  {
+    "PlinkoGuildRewardRow": {
+      "ID": 1,
+      "ConnectActivityId": 20241219,
+      "PlinkoCostItemNeed": 1000,
+      "Rewards": [
+        [
+          6199,
+          1
+        ]
+      ],
+      "LanguageID": 14813
+    }
+  },
+  {
+    "PlinkoGuildRewardRow": {
+      "ID": 2,
+      "ConnectActivityId": 20241219,
+      "PlinkoCostItemNeed": 2000,
+      "Rewards": [
+        [
+          6199,
+          1
+        ]
+      ],
+      "LanguageID": 14813
+    }
+  },
+  {
+    "PlinkoGuildRewardRow": {
+      "ID": 3,
+      "ConnectActivityId": 20241219,
+      "PlinkoCostItemNeed": 4000,
+      "Rewards": [
+        [
+          6199,
+          1
+        ]
+      ],
+      "LanguageID": 14813
+    }
+  },
+  {
+    "PlinkoGuildRewardRow": {
+      "ID": 4,
+      "ConnectActivityId": 20241219,
+      "PlinkoCostItemNeed": 6000,
+      "Rewards": [
+        [
+          6199,
+          1
+        ]
+      ],
+      "LanguageID": 14813
+    }
+  },
+  {
+    "PlinkoGuildRewardRow": {
+      "ID": 5,
+      "ConnectActivityId": 20241219,
+      "PlinkoCostItemNeed": 10000,
+      "Rewards": [
+        [
+          6199,
+          2
+        ]
+      ],
+      "LanguageID": 14813
+    }
+  },
+  {
+    "PlinkoGuildRewardRow": {
+      "ID": 6,
+      "ConnectActivityId": 20241219,
+      "PlinkoCostItemNeed": 15000,
+      "Rewards": [
+        [
+          6199,
+          2
+        ]
+      ],
+      "LanguageID": 14813
+    }
+  },
+  {
+    "PlinkoGuildRewardRow": {
+      "ID": 7,
+      "ConnectActivityId": 20241219,
+      "PlinkoCostItemNeed": 20000,
+      "Rewards": [
+        [
+          6199,
+          2
+        ]
+      ],
+      "LanguageID": 14813
+    }
+  },
+  {
+    "PlinkoGuildRewardRow": {
+      "ID": 8,
+      "ConnectActivityId": 20241219,
+      "PlinkoCostItemNeed": 25000,
+      "Rewards": [
+        [
+          6113,
+          3
+        ]
+      ],
+      "LanguageID": 14813
+    }
+  },
+  {
+    "PlinkoGuildRewardRow": {
+      "ID": 9,
+      "ConnectActivityId": 20241219,
+      "PlinkoCostItemNeed": 30000,
+      "Rewards": [
+        [
+          6113,
+          5
+        ]
+      ],
+      "LanguageID": 14813
+    }
+  },
+  {
+    "PlinkoGuildRewardRow": {
+      "ID": 10,
+      "ConnectActivityId": 20241219,
+      "PlinkoCostItemNeed": 40000,
+      "Rewards": [
+        [
+          33105,
+          1
+        ]
+      ],
+      "LanguageID": 14813
+    }
+  }
+]

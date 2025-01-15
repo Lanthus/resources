@@ -1,0 +1,9236 @@
+[
+  {
+    "EchoBattleBossRow": {
+      "ID": 1,
+      "Bossid": 40001,
+      "Tag": 1,
+      "Period": 0,
+      "RankLevel": 0,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            60,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            120,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 2,
+      "Bossid": 40002,
+      "Tag": 1,
+      "Period": 0,
+      "RankLevel": 0,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            60,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            120,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 3,
+      "Bossid": 40003,
+      "Tag": 1,
+      "Period": 0,
+      "RankLevel": 0,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            60,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            120,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 4,
+      "Bossid": 40004,
+      "Tag": 1,
+      "Period": 0,
+      "RankLevel": 0,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            60,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            120,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 5,
+      "Bossid": 40001,
+      "Tag": 2,
+      "Period": 0,
+      "RankLevel": 0,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            60,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            120,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 6,
+      "Bossid": 40002,
+      "Tag": 2,
+      "Period": 0,
+      "RankLevel": 0,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            60,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            120,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 7,
+      "Bossid": 40003,
+      "Tag": 2,
+      "Period": 0,
+      "RankLevel": 0,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            60,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            120,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 8,
+      "Bossid": 40004,
+      "Tag": 2,
+      "Period": 0,
+      "RankLevel": 0,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            60,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            120,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 9,
+      "Bossid": 40001,
+      "Tag": 3,
+      "Period": 0,
+      "RankLevel": 0,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            60,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            120,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 10,
+      "Bossid": 40002,
+      "Tag": 3,
+      "Period": 0,
+      "RankLevel": 0,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            60,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            120,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 11,
+      "Bossid": 40003,
+      "Tag": 3,
+      "Period": 0,
+      "RankLevel": 0,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            60,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            120,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 12,
+      "Bossid": 40004,
+      "Tag": 3,
+      "Period": 0,
+      "RankLevel": 0,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            60,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            120,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 13,
+      "Bossid": 40005,
+      "Tag": 4,
+      "Period": 0,
+      "RankLevel": 0,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 14,
+      "Bossid": 40006,
+      "Tag": 4,
+      "Period": 0,
+      "RankLevel": 0,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 15,
+      "Bossid": 40007,
+      "Tag": 4,
+      "Period": 0,
+      "RankLevel": 0,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 16,
+      "Bossid": 40008,
+      "Tag": 4,
+      "Period": 0,
+      "RankLevel": 0,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 17,
+      "Bossid": 40005,
+      "Tag": 5,
+      "Period": 0,
+      "RankLevel": 0,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 18,
+      "Bossid": 40006,
+      "Tag": 5,
+      "Period": 0,
+      "RankLevel": 0,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 19,
+      "Bossid": 40007,
+      "Tag": 5,
+      "Period": 0,
+      "RankLevel": 0,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 20,
+      "Bossid": 40008,
+      "Tag": 5,
+      "Period": 0,
+      "RankLevel": 0,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 21,
+      "Bossid": 40005,
+      "Tag": 6,
+      "Period": 0,
+      "RankLevel": 0,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 22,
+      "Bossid": 40006,
+      "Tag": 6,
+      "Period": 0,
+      "RankLevel": 0,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 23,
+      "Bossid": 40007,
+      "Tag": 6,
+      "Period": 0,
+      "RankLevel": 0,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 24,
+      "Bossid": 40008,
+      "Tag": 6,
+      "Period": 0,
+      "RankLevel": 0,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 25,
+      "Bossid": 40009,
+      "Tag": 7,
+      "Period": 0,
+      "RankLevel": 0,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 26,
+      "Bossid": 40010,
+      "Tag": 7,
+      "Period": 0,
+      "RankLevel": 0,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 27,
+      "Bossid": 40011,
+      "Tag": 7,
+      "Period": 0,
+      "RankLevel": 0,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 28,
+      "Bossid": 40012,
+      "Tag": 7,
+      "Period": 0,
+      "RankLevel": 0,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 29,
+      "Bossid": 40009,
+      "Tag": 8,
+      "Period": 0,
+      "RankLevel": 0,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 30,
+      "Bossid": 40010,
+      "Tag": 8,
+      "Period": 0,
+      "RankLevel": 0,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 31,
+      "Bossid": 40011,
+      "Tag": 8,
+      "Period": 0,
+      "RankLevel": 0,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 32,
+      "Bossid": 40012,
+      "Tag": 8,
+      "Period": 0,
+      "RankLevel": 0,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 33,
+      "Bossid": 40009,
+      "Tag": 9,
+      "Period": 0,
+      "RankLevel": 0,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 34,
+      "Bossid": 40010,
+      "Tag": 9,
+      "Period": 0,
+      "RankLevel": 0,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 35,
+      "Bossid": 40011,
+      "Tag": 9,
+      "Period": 0,
+      "RankLevel": 0,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 36,
+      "Bossid": 40012,
+      "Tag": 9,
+      "Period": 0,
+      "RankLevel": 0,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 37,
+      "Bossid": 40013,
+      "Tag": 10,
+      "Period": 0,
+      "RankLevel": 0,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 38,
+      "Bossid": 40014,
+      "Tag": 10,
+      "Period": 0,
+      "RankLevel": 0,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 39,
+      "Bossid": 40015,
+      "Tag": 10,
+      "Period": 0,
+      "RankLevel": 0,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 40,
+      "Bossid": 40016,
+      "Tag": 10,
+      "Period": 0,
+      "RankLevel": 0,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 41,
+      "Bossid": 40013,
+      "Tag": 11,
+      "Period": 0,
+      "RankLevel": 0,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 42,
+      "Bossid": 40014,
+      "Tag": 11,
+      "Period": 0,
+      "RankLevel": 0,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 43,
+      "Bossid": 40015,
+      "Tag": 11,
+      "Period": 0,
+      "RankLevel": 0,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 44,
+      "Bossid": 40016,
+      "Tag": 11,
+      "Period": 0,
+      "RankLevel": 0,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 45,
+      "Bossid": 40013,
+      "Tag": 12,
+      "Period": 0,
+      "RankLevel": 0,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 46,
+      "Bossid": 40014,
+      "Tag": 12,
+      "Period": 0,
+      "RankLevel": 0,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 47,
+      "Bossid": 40015,
+      "Tag": 12,
+      "Period": 0,
+      "RankLevel": 0,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 48,
+      "Bossid": 40016,
+      "Tag": 12,
+      "Period": 0,
+      "RankLevel": 0,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 49,
+      "Bossid": 40004,
+      "Tag": 13,
+      "Period": 0,
+      "RankLevel": 0,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 50,
+      "Bossid": 40011,
+      "Tag": 13,
+      "Period": 0,
+      "RankLevel": 0,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 51,
+      "Bossid": 40007,
+      "Tag": 13,
+      "Period": 0,
+      "RankLevel": 0,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 52,
+      "Bossid": 40002,
+      "Tag": 13,
+      "Period": 0,
+      "RankLevel": 0,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 53,
+      "Bossid": 40004,
+      "Tag": 14,
+      "Period": 0,
+      "RankLevel": 0,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 54,
+      "Bossid": 40011,
+      "Tag": 14,
+      "Period": 0,
+      "RankLevel": 0,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 55,
+      "Bossid": 40007,
+      "Tag": 14,
+      "Period": 0,
+      "RankLevel": 0,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 56,
+      "Bossid": 40002,
+      "Tag": 14,
+      "Period": 0,
+      "RankLevel": 0,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 57,
+      "Bossid": 40004,
+      "Tag": 15,
+      "Period": 0,
+      "RankLevel": 0,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 58,
+      "Bossid": 40011,
+      "Tag": 15,
+      "Period": 0,
+      "RankLevel": 0,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 59,
+      "Bossid": 40007,
+      "Tag": 15,
+      "Period": 0,
+      "RankLevel": 0,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 60,
+      "Bossid": 40002,
+      "Tag": 15,
+      "Period": 0,
+      "RankLevel": 0,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 61,
+      "Bossid": 40013,
+      "Tag": 16,
+      "Period": 0,
+      "RankLevel": 0,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 62,
+      "Bossid": 40008,
+      "Tag": 16,
+      "Period": 0,
+      "RankLevel": 0,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 63,
+      "Bossid": 40012,
+      "Tag": 16,
+      "Period": 0,
+      "RankLevel": 0,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 64,
+      "Bossid": 40014,
+      "Tag": 16,
+      "Period": 0,
+      "RankLevel": 0,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 65,
+      "Bossid": 40008,
+      "Tag": 17,
+      "Period": 0,
+      "RankLevel": 0,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 66,
+      "Bossid": 40014,
+      "Tag": 17,
+      "Period": 0,
+      "RankLevel": 0,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 67,
+      "Bossid": 40012,
+      "Tag": 17,
+      "Period": 0,
+      "RankLevel": 0,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 68,
+      "Bossid": 40013,
+      "Tag": 17,
+      "Period": 0,
+      "RankLevel": 0,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 69,
+      "Bossid": 40008,
+      "Tag": 18,
+      "Period": 0,
+      "RankLevel": 0,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 70,
+      "Bossid": 40014,
+      "Tag": 18,
+      "Period": 0,
+      "RankLevel": 0,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 71,
+      "Bossid": 40012,
+      "Tag": 18,
+      "Period": 0,
+      "RankLevel": 0,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 72,
+      "Bossid": 40013,
+      "Tag": 18,
+      "Period": 0,
+      "RankLevel": 0,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 73,
+      "Bossid": 40018,
+      "Tag": 19,
+      "Period": 0,
+      "RankLevel": 0,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 74,
+      "Bossid": 40015,
+      "Tag": 19,
+      "Period": 0,
+      "RankLevel": 0,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 75,
+      "Bossid": 40012,
+      "Tag": 19,
+      "Period": 0,
+      "RankLevel": 0,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 76,
+      "Bossid": 40002,
+      "Tag": 19,
+      "Period": 0,
+      "RankLevel": 0,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 77,
+      "Bossid": 40017,
+      "Tag": 20,
+      "Period": 0,
+      "RankLevel": 0,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 78,
+      "Bossid": 40014,
+      "Tag": 20,
+      "Period": 0,
+      "RankLevel": 0,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 79,
+      "Bossid": 40019,
+      "Tag": 20,
+      "Period": 0,
+      "RankLevel": 0,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 80,
+      "Bossid": 40013,
+      "Tag": 20,
+      "Period": 0,
+      "RankLevel": 0,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 81,
+      "Bossid": 40020,
+      "Tag": 21,
+      "Period": 0,
+      "RankLevel": 0,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 82,
+      "Bossid": 40021,
+      "Tag": 21,
+      "Period": 0,
+      "RankLevel": 0,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 83,
+      "Bossid": 40018,
+      "Tag": 21,
+      "Period": 0,
+      "RankLevel": 0,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 84,
+      "Bossid": 40015,
+      "Tag": 21,
+      "Period": 0,
+      "RankLevel": 0,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 85,
+      "Bossid": 40012,
+      "Tag": 21,
+      "Period": 0,
+      "RankLevel": 0,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 86,
+      "Bossid": 40002,
+      "Tag": 21,
+      "Period": 0,
+      "RankLevel": 0,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 87,
+      "Bossid": 40005,
+      "Tag": 21,
+      "Period": 0,
+      "RankLevel": 0,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 88,
+      "Bossid": 40006,
+      "Tag": 21,
+      "Period": 0,
+      "RankLevel": 0,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 89,
+      "Bossid": 40007,
+      "Tag": 21,
+      "Period": 0,
+      "RankLevel": 0,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 90,
+      "Bossid": 40008,
+      "Tag": 21,
+      "Period": 0,
+      "RankLevel": 0,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 91,
+      "Bossid": 40019,
+      "Tag": 22,
+      "Period": 0,
+      "RankLevel": 0,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 92,
+      "Bossid": 40017,
+      "Tag": 22,
+      "Period": 0,
+      "RankLevel": 0,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 93,
+      "Bossid": 40016,
+      "Tag": 22,
+      "Period": 0,
+      "RankLevel": 0,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 94,
+      "Bossid": 40014,
+      "Tag": 22,
+      "Period": 0,
+      "RankLevel": 0,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 95,
+      "Bossid": 40013,
+      "Tag": 22,
+      "Period": 0,
+      "RankLevel": 0,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 96,
+      "Bossid": 40011,
+      "Tag": 22,
+      "Period": 0,
+      "RankLevel": 0,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 97,
+      "Bossid": 40010,
+      "Tag": 22,
+      "Period": 0,
+      "RankLevel": 0,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 98,
+      "Bossid": 40008,
+      "Tag": 22,
+      "Period": 0,
+      "RankLevel": 0,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 99,
+      "Bossid": 40012,
+      "Tag": 22,
+      "Period": 0,
+      "RankLevel": 0,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 100,
+      "Bossid": 40012,
+      "Tag": 22,
+      "Period": 0,
+      "RankLevel": 0,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 101,
+      "Bossid": 40006,
+      "Tag": 23,
+      "Period": 0,
+      "RankLevel": 0,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 102,
+      "Bossid": 40007,
+      "Tag": 23,
+      "Period": 0,
+      "RankLevel": 0,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 103,
+      "Bossid": 40005,
+      "Tag": 23,
+      "Period": 0,
+      "RankLevel": 0,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 104,
+      "Bossid": 40020,
+      "Tag": 23,
+      "Period": 0,
+      "RankLevel": 0,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 105,
+      "Bossid": 40021,
+      "Tag": 23,
+      "Period": 0,
+      "RankLevel": 0,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 106,
+      "Bossid": 40002,
+      "Tag": 23,
+      "Period": 0,
+      "RankLevel": 0,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 107,
+      "Bossid": 40012,
+      "Tag": 23,
+      "Period": 0,
+      "RankLevel": 0,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 108,
+      "Bossid": 40015,
+      "Tag": 23,
+      "Period": 0,
+      "RankLevel": 0,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 109,
+      "Bossid": 40018,
+      "Tag": 23,
+      "Period": 0,
+      "RankLevel": 0,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 110,
+      "Bossid": 40018,
+      "Tag": 23,
+      "Period": 0,
+      "RankLevel": 0,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 111,
+      "Bossid": 40010,
+      "Tag": 24,
+      "Period": 1,
+      "RankLevel": 1,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 112,
+      "Bossid": 40010,
+      "Tag": 24,
+      "Period": 1,
+      "RankLevel": 2,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": [
+        220025
+      ]
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 113,
+      "Bossid": 40010,
+      "Tag": 24,
+      "Period": 1,
+      "RankLevel": 3,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": [
+        220025,
+        220042
+      ]
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 114,
+      "Bossid": 40010,
+      "Tag": 24,
+      "Period": 1,
+      "RankLevel": 4,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": [
+        220025,
+        220042,
+        220024
+      ]
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 115,
+      "Bossid": 40010,
+      "Tag": 24,
+      "Period": 1,
+      "RankLevel": 5,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": [
+        220025,
+        220042,
+        220024,
+        220056
+      ]
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 116,
+      "Bossid": 40015,
+      "Tag": 24,
+      "Period": 2,
+      "RankLevel": 1,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 117,
+      "Bossid": 40015,
+      "Tag": 24,
+      "Period": 2,
+      "RankLevel": 2,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": [
+        220029
+      ]
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 118,
+      "Bossid": 40015,
+      "Tag": 24,
+      "Period": 2,
+      "RankLevel": 3,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": [
+        220029,
+        220041
+      ]
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 119,
+      "Bossid": 40015,
+      "Tag": 24,
+      "Period": 2,
+      "RankLevel": 4,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": [
+        220029,
+        220041,
+        220061
+      ]
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 120,
+      "Bossid": 40015,
+      "Tag": 24,
+      "Period": 2,
+      "RankLevel": 5,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": [
+        220029,
+        220041,
+        220061,
+        220056
+      ]
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 121,
+      "Bossid": 40012,
+      "Tag": 24,
+      "Period": 3,
+      "RankLevel": 1,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 122,
+      "Bossid": 40012,
+      "Tag": 24,
+      "Period": 3,
+      "RankLevel": 2,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": [
+        220036
+      ]
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 123,
+      "Bossid": 40012,
+      "Tag": 24,
+      "Period": 3,
+      "RankLevel": 3,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": [
+        220036,
+        220052
+      ]
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 124,
+      "Bossid": 40012,
+      "Tag": 24,
+      "Period": 3,
+      "RankLevel": 4,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": [
+        220036,
+        220052,
+        220058
+      ]
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 125,
+      "Bossid": 40012,
+      "Tag": 24,
+      "Period": 3,
+      "RankLevel": 5,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": [
+        220036,
+        220052,
+        220058,
+        220059
+      ]
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 126,
+      "Bossid": 40004,
+      "Tag": 24,
+      "Period": 4,
+      "RankLevel": 1,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 127,
+      "Bossid": 40004,
+      "Tag": 24,
+      "Period": 4,
+      "RankLevel": 2,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": [
+        220026
+      ]
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 128,
+      "Bossid": 40004,
+      "Tag": 24,
+      "Period": 4,
+      "RankLevel": 3,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": [
+        220026,
+        220053
+      ]
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 129,
+      "Bossid": 40004,
+      "Tag": 24,
+      "Period": 4,
+      "RankLevel": 4,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": [
+        220026,
+        220053,
+        220057
+      ]
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 130,
+      "Bossid": 40004,
+      "Tag": 24,
+      "Period": 4,
+      "RankLevel": 5,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": [
+        220026,
+        220053,
+        220057,
+        220059
+      ]
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 131,
+      "Bossid": 40008,
+      "Tag": 24,
+      "Period": 5,
+      "RankLevel": 1,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 132,
+      "Bossid": 40008,
+      "Tag": 24,
+      "Period": 5,
+      "RankLevel": 2,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": [
+        220030
+      ]
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 133,
+      "Bossid": 40008,
+      "Tag": 24,
+      "Period": 5,
+      "RankLevel": 3,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": [
+        220030,
+        220047
+      ]
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 134,
+      "Bossid": 40008,
+      "Tag": 24,
+      "Period": 5,
+      "RankLevel": 4,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": [
+        220030,
+        220047,
+        220060
+      ]
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 135,
+      "Bossid": 40008,
+      "Tag": 24,
+      "Period": 5,
+      "RankLevel": 5,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": [
+        220030,
+        220047,
+        220060,
+        220056
+      ]
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 136,
+      "Bossid": 40014,
+      "Tag": 24,
+      "Period": 6,
+      "RankLevel": 1,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 137,
+      "Bossid": 40014,
+      "Tag": 24,
+      "Period": 6,
+      "RankLevel": 2,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": [
+        220039
+      ]
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 138,
+      "Bossid": 40014,
+      "Tag": 24,
+      "Period": 6,
+      "RankLevel": 3,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": [
+        220039,
+        220054
+      ]
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 139,
+      "Bossid": 40014,
+      "Tag": 24,
+      "Period": 6,
+      "RankLevel": 4,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": [
+        220039,
+        220054,
+        220024
+      ]
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 140,
+      "Bossid": 40014,
+      "Tag": 24,
+      "Period": 6,
+      "RankLevel": 5,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": [
+        220039,
+        220054,
+        220024,
+        220059
+      ]
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 141,
+      "Bossid": 40007,
+      "Tag": 24,
+      "Period": 7,
+      "RankLevel": 1,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 142,
+      "Bossid": 40007,
+      "Tag": 24,
+      "Period": 7,
+      "RankLevel": 2,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": [
+        220033
+      ]
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 143,
+      "Bossid": 40007,
+      "Tag": 24,
+      "Period": 7,
+      "RankLevel": 3,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": [
+        220033,
+        220049
+      ]
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 144,
+      "Bossid": 40007,
+      "Tag": 24,
+      "Period": 7,
+      "RankLevel": 4,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": [
+        220033,
+        220049,
+        220057
+      ]
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 145,
+      "Bossid": 40007,
+      "Tag": 24,
+      "Period": 7,
+      "RankLevel": 5,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": [
+        220033,
+        220049,
+        220057,
+        220056
+      ]
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 146,
+      "Bossid": 40009,
+      "Tag": 24,
+      "Period": 8,
+      "RankLevel": 1,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 147,
+      "Bossid": 40009,
+      "Tag": 24,
+      "Period": 8,
+      "RankLevel": 2,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": [
+        220031
+      ]
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 148,
+      "Bossid": 40009,
+      "Tag": 24,
+      "Period": 8,
+      "RankLevel": 3,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": [
+        220031,
+        220048
+      ]
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 149,
+      "Bossid": 40009,
+      "Tag": 24,
+      "Period": 8,
+      "RankLevel": 4,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": [
+        220031,
+        220048,
+        220061
+      ]
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 150,
+      "Bossid": 40009,
+      "Tag": 24,
+      "Period": 8,
+      "RankLevel": 5,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": [
+        220031,
+        220048,
+        220061,
+        220059
+      ]
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 151,
+      "Bossid": 40018,
+      "Tag": 24,
+      "Period": 9,
+      "RankLevel": 1,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 152,
+      "Bossid": 40018,
+      "Tag": 24,
+      "Period": 9,
+      "RankLevel": 2,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": [
+        220037
+      ]
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 153,
+      "Bossid": 40018,
+      "Tag": 24,
+      "Period": 9,
+      "RankLevel": 3,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": [
+        220037,
+        220046
+      ]
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 154,
+      "Bossid": 40018,
+      "Tag": 24,
+      "Period": 9,
+      "RankLevel": 4,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": [
+        220037,
+        220046,
+        220060
+      ]
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 155,
+      "Bossid": 40018,
+      "Tag": 24,
+      "Period": 9,
+      "RankLevel": 5,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": [
+        220037,
+        220046,
+        220060,
+        220056
+      ]
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 156,
+      "Bossid": 40018,
+      "Tag": 24,
+      "Period": 10,
+      "RankLevel": 0,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 157,
+      "Bossid": 40022,
+      "Tag": 25,
+      "Period": 1,
+      "RankLevel": 1,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 158,
+      "Bossid": 40022,
+      "Tag": 25,
+      "Period": 1,
+      "RankLevel": 2,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": [
+        220036
+      ]
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 159,
+      "Bossid": 40022,
+      "Tag": 25,
+      "Period": 1,
+      "RankLevel": 3,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": [
+        220036,
+        220044
+      ]
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 160,
+      "Bossid": 40022,
+      "Tag": 25,
+      "Period": 1,
+      "RankLevel": 4,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": [
+        220036,
+        220044,
+        220061
+      ]
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 161,
+      "Bossid": 40022,
+      "Tag": 25,
+      "Period": 1,
+      "RankLevel": 5,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": [
+        220036,
+        220044,
+        220061,
+        220056
+      ]
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 162,
+      "Bossid": 40024,
+      "Tag": 25,
+      "Period": 2,
+      "RankLevel": 1,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 163,
+      "Bossid": 40024,
+      "Tag": 25,
+      "Period": 2,
+      "RankLevel": 2,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": [
+        220029
+      ]
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 164,
+      "Bossid": 40024,
+      "Tag": 25,
+      "Period": 2,
+      "RankLevel": 3,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": [
+        220029,
+        220043
+      ]
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 165,
+      "Bossid": 40024,
+      "Tag": 25,
+      "Period": 2,
+      "RankLevel": 4,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": [
+        220029,
+        220043,
+        220060
+      ]
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 166,
+      "Bossid": 40024,
+      "Tag": 25,
+      "Period": 2,
+      "RankLevel": 5,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": [
+        220029,
+        220043,
+        220060,
+        220059
+      ]
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 167,
+      "Bossid": 40026,
+      "Tag": 25,
+      "Period": 3,
+      "RankLevel": 1,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 168,
+      "Bossid": 40026,
+      "Tag": 25,
+      "Period": 3,
+      "RankLevel": 2,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": [
+        220036
+      ]
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 169,
+      "Bossid": 40026,
+      "Tag": 25,
+      "Period": 3,
+      "RankLevel": 3,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": [
+        220036,
+        220046
+      ]
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 170,
+      "Bossid": 40026,
+      "Tag": 25,
+      "Period": 3,
+      "RankLevel": 4,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": [
+        220036,
+        220046,
+        220058
+      ]
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 171,
+      "Bossid": 40026,
+      "Tag": 25,
+      "Period": 3,
+      "RankLevel": 5,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": [
+        220036,
+        220046,
+        220058,
+        220059
+      ]
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 172,
+      "Bossid": 40018,
+      "Tag": 25,
+      "Period": 4,
+      "RankLevel": 1,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 173,
+      "Bossid": 40018,
+      "Tag": 25,
+      "Period": 4,
+      "RankLevel": 2,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": [
+        220027
+      ]
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 174,
+      "Bossid": 40018,
+      "Tag": 25,
+      "Period": 4,
+      "RankLevel": 3,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": [
+        220027,
+        220054
+      ]
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 175,
+      "Bossid": 40018,
+      "Tag": 25,
+      "Period": 4,
+      "RankLevel": 4,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": [
+        220027,
+        220054,
+        220057
+      ]
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 176,
+      "Bossid": 40018,
+      "Tag": 25,
+      "Period": 4,
+      "RankLevel": 5,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": [
+        220027,
+        220054,
+        220057,
+        220056
+      ]
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 177,
+      "Bossid": 40021,
+      "Tag": 25,
+      "Period": 5,
+      "RankLevel": 1,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 178,
+      "Bossid": 40021,
+      "Tag": 25,
+      "Period": 5,
+      "RankLevel": 2,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": [
+        220031
+      ]
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 179,
+      "Bossid": 40021,
+      "Tag": 25,
+      "Period": 5,
+      "RankLevel": 3,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": [
+        220031,
+        220047
+      ]
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 180,
+      "Bossid": 40021,
+      "Tag": 25,
+      "Period": 5,
+      "RankLevel": 4,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": [
+        220031,
+        220047,
+        220060
+      ]
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 181,
+      "Bossid": 40021,
+      "Tag": 25,
+      "Period": 5,
+      "RankLevel": 5,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": [
+        220031,
+        220047,
+        220060,
+        220056
+      ]
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 182,
+      "Bossid": 40027,
+      "Tag": 25,
+      "Period": 6,
+      "RankLevel": 1,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 183,
+      "Bossid": 40027,
+      "Tag": 25,
+      "Period": 6,
+      "RankLevel": 2,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": [
+        220027
+      ]
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 184,
+      "Bossid": 40027,
+      "Tag": 25,
+      "Period": 6,
+      "RankLevel": 3,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": [
+        220027,
+        220053
+      ]
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 185,
+      "Bossid": 40027,
+      "Tag": 25,
+      "Period": 6,
+      "RankLevel": 4,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": [
+        220027,
+        220053,
+        220024
+      ]
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 186,
+      "Bossid": 40027,
+      "Tag": 25,
+      "Period": 6,
+      "RankLevel": 5,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": [
+        220027,
+        220053,
+        220024,
+        220059
+      ]
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 187,
+      "Bossid": 40025,
+      "Tag": 25,
+      "Period": 7,
+      "RankLevel": 1,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 188,
+      "Bossid": 40025,
+      "Tag": 25,
+      "Period": 7,
+      "RankLevel": 2,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": [
+        220030
+      ]
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 189,
+      "Bossid": 40025,
+      "Tag": 25,
+      "Period": 7,
+      "RankLevel": 3,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": [
+        220030,
+        220050
+      ]
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 190,
+      "Bossid": 40025,
+      "Tag": 25,
+      "Period": 7,
+      "RankLevel": 4,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": [
+        220030,
+        220050,
+        220060
+      ]
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 191,
+      "Bossid": 40025,
+      "Tag": 25,
+      "Period": 7,
+      "RankLevel": 5,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": [
+        220030,
+        220050,
+        220060,
+        220061
+      ]
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 192,
+      "Bossid": 40009,
+      "Tag": 25,
+      "Period": 8,
+      "RankLevel": 1,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 193,
+      "Bossid": 40009,
+      "Tag": 25,
+      "Period": 8,
+      "RankLevel": 2,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": [
+        220031
+      ]
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 194,
+      "Bossid": 40009,
+      "Tag": 25,
+      "Period": 8,
+      "RankLevel": 3,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": [
+        220031,
+        220048
+      ]
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 195,
+      "Bossid": 40009,
+      "Tag": 25,
+      "Period": 8,
+      "RankLevel": 4,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": [
+        220031,
+        220048,
+        220061
+      ]
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 196,
+      "Bossid": 40009,
+      "Tag": 25,
+      "Period": 8,
+      "RankLevel": 5,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": [
+        220031,
+        220048,
+        220061,
+        220056
+      ]
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 197,
+      "Bossid": 40023,
+      "Tag": 25,
+      "Period": 9,
+      "RankLevel": 1,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 198,
+      "Bossid": 40023,
+      "Tag": 25,
+      "Period": 9,
+      "RankLevel": 2,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": [
+        220037
+      ]
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 199,
+      "Bossid": 40023,
+      "Tag": 25,
+      "Period": 9,
+      "RankLevel": 3,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": [
+        220037,
+        220055
+      ]
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 200,
+      "Bossid": 40023,
+      "Tag": 25,
+      "Period": 9,
+      "RankLevel": 4,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": [
+        220037,
+        220055,
+        220060
+      ]
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 201,
+      "Bossid": 40023,
+      "Tag": 25,
+      "Period": 9,
+      "RankLevel": 5,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": [
+        220037,
+        220055,
+        220060,
+        220059
+      ]
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 202,
+      "Bossid": 40023,
+      "Tag": 25,
+      "Period": 10,
+      "RankLevel": 0,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 203,
+      "Bossid": 40001,
+      "Tag": 26,
+      "Period": 1,
+      "RankLevel": 1,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 204,
+      "Bossid": 40002,
+      "Tag": 26,
+      "Period": 1,
+      "RankLevel": 2,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": [
+        220025
+      ]
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 205,
+      "Bossid": 40003,
+      "Tag": 26,
+      "Period": 1,
+      "RankLevel": 3,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": [
+        220025,
+        220002
+      ]
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 206,
+      "Bossid": 40004,
+      "Tag": 26,
+      "Period": 1,
+      "RankLevel": 4,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": [
+        220025,
+        220002,
+        220024
+      ]
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 207,
+      "Bossid": 40005,
+      "Tag": 26,
+      "Period": 1,
+      "RankLevel": 5,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": [
+        220025,
+        220002,
+        220024,
+        220002
+      ]
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 208,
+      "Bossid": 40006,
+      "Tag": 26,
+      "Period": 2,
+      "RankLevel": 1,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 209,
+      "Bossid": 40007,
+      "Tag": 26,
+      "Period": 2,
+      "RankLevel": 2,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": [
+        220029
+      ]
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 210,
+      "Bossid": 40008,
+      "Tag": 26,
+      "Period": 2,
+      "RankLevel": 3,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": [
+        220029,
+        220002
+      ]
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 211,
+      "Bossid": 40009,
+      "Tag": 26,
+      "Period": 2,
+      "RankLevel": 4,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": [
+        220029,
+        220002,
+        220002
+      ]
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 212,
+      "Bossid": 40010,
+      "Tag": 26,
+      "Period": 2,
+      "RankLevel": 5,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": [
+        220029,
+        220002,
+        220002,
+        220002
+      ]
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 213,
+      "Bossid": 40001,
+      "Tag": 26,
+      "Period": 3,
+      "RankLevel": 1,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 214,
+      "Bossid": 40002,
+      "Tag": 26,
+      "Period": 3,
+      "RankLevel": 2,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": [
+        220034
+      ]
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 215,
+      "Bossid": 40003,
+      "Tag": 26,
+      "Period": 3,
+      "RankLevel": 3,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": [
+        220034,
+        220002
+      ]
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 216,
+      "Bossid": 40004,
+      "Tag": 26,
+      "Period": 3,
+      "RankLevel": 4,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": [
+        220034,
+        220002,
+        220002
+      ]
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 217,
+      "Bossid": 40005,
+      "Tag": 26,
+      "Period": 3,
+      "RankLevel": 5,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": [
+        220034,
+        220002,
+        220002,
+        220002
+      ]
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 218,
+      "Bossid": 40006,
+      "Tag": 26,
+      "Period": 4,
+      "RankLevel": 1,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 219,
+      "Bossid": 40007,
+      "Tag": 26,
+      "Period": 4,
+      "RankLevel": 2,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": [
+        220026
+      ]
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 220,
+      "Bossid": 40008,
+      "Tag": 26,
+      "Period": 4,
+      "RankLevel": 3,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": [
+        220026,
+        220002
+      ]
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 221,
+      "Bossid": 40009,
+      "Tag": 26,
+      "Period": 4,
+      "RankLevel": 4,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": [
+        220026,
+        220002,
+        220024
+      ]
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 222,
+      "Bossid": 40010,
+      "Tag": 26,
+      "Period": 4,
+      "RankLevel": 5,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": [
+        220026,
+        220002,
+        220024,
+        220002
+      ]
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 223,
+      "Bossid": 40001,
+      "Tag": 26,
+      "Period": 5,
+      "RankLevel": 1,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 224,
+      "Bossid": 40002,
+      "Tag": 26,
+      "Period": 5,
+      "RankLevel": 2,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": [
+        220030
+      ]
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 225,
+      "Bossid": 40003,
+      "Tag": 26,
+      "Period": 5,
+      "RankLevel": 3,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": [
+        220030,
+        220002
+      ]
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 226,
+      "Bossid": 40004,
+      "Tag": 26,
+      "Period": 5,
+      "RankLevel": 4,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": [
+        220030,
+        220002,
+        220002
+      ]
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 227,
+      "Bossid": 40005,
+      "Tag": 26,
+      "Period": 5,
+      "RankLevel": 5,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": [
+        220030,
+        220002,
+        220002,
+        220002
+      ]
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 228,
+      "Bossid": 40006,
+      "Tag": 26,
+      "Period": 6,
+      "RankLevel": 1,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 229,
+      "Bossid": 40007,
+      "Tag": 26,
+      "Period": 6,
+      "RankLevel": 2,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": [
+        220039
+      ]
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 230,
+      "Bossid": 40008,
+      "Tag": 26,
+      "Period": 6,
+      "RankLevel": 3,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": [
+        220039,
+        220002
+      ]
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 231,
+      "Bossid": 40009,
+      "Tag": 26,
+      "Period": 6,
+      "RankLevel": 4,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": [
+        220039,
+        220002,
+        220024
+      ]
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 232,
+      "Bossid": 40010,
+      "Tag": 26,
+      "Period": 6,
+      "RankLevel": 5,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": [
+        220039,
+        220002,
+        220024,
+        220002
+      ]
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 233,
+      "Bossid": 40001,
+      "Tag": 26,
+      "Period": 7,
+      "RankLevel": 1,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 234,
+      "Bossid": 40002,
+      "Tag": 26,
+      "Period": 7,
+      "RankLevel": 2,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": [
+        220027
+      ]
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 235,
+      "Bossid": 40003,
+      "Tag": 26,
+      "Period": 7,
+      "RankLevel": 3,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": [
+        220027,
+        220002
+      ]
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 236,
+      "Bossid": 40004,
+      "Tag": 26,
+      "Period": 7,
+      "RankLevel": 4,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": [
+        220027,
+        220002,
+        220002
+      ]
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 237,
+      "Bossid": 40005,
+      "Tag": 26,
+      "Period": 7,
+      "RankLevel": 5,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": [
+        220027,
+        220002,
+        220002,
+        220002
+      ]
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 238,
+      "Bossid": 40006,
+      "Tag": 26,
+      "Period": 8,
+      "RankLevel": 1,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 239,
+      "Bossid": 40007,
+      "Tag": 26,
+      "Period": 8,
+      "RankLevel": 2,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": [
+        220031
+      ]
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 240,
+      "Bossid": 40008,
+      "Tag": 26,
+      "Period": 8,
+      "RankLevel": 3,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": [
+        220031,
+        220002
+      ]
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 241,
+      "Bossid": 40009,
+      "Tag": 26,
+      "Period": 8,
+      "RankLevel": 4,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": [
+        220031,
+        220002,
+        220002
+      ]
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 242,
+      "Bossid": 40010,
+      "Tag": 26,
+      "Period": 8,
+      "RankLevel": 5,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": [
+        220031,
+        220002,
+        220002,
+        220002
+      ]
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 243,
+      "Bossid": 40001,
+      "Tag": 26,
+      "Period": 9,
+      "RankLevel": 1,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 244,
+      "Bossid": 40002,
+      "Tag": 26,
+      "Period": 9,
+      "RankLevel": 2,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": [
+        220036
+      ]
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 245,
+      "Bossid": 40003,
+      "Tag": 26,
+      "Period": 9,
+      "RankLevel": 3,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": [
+        220036,
+        220002
+      ]
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 246,
+      "Bossid": 40004,
+      "Tag": 26,
+      "Period": 9,
+      "RankLevel": 4,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": [
+        220036,
+        220002,
+        220002
+      ]
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 247,
+      "Bossid": 40005,
+      "Tag": 26,
+      "Period": 9,
+      "RankLevel": 5,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": [
+        220036,
+        220002,
+        220002,
+        220002
+      ]
+    }
+  },
+  {
+    "EchoBattleBossRow": {
+      "ID": 248,
+      "Bossid": 40010,
+      "Tag": 26,
+      "Period": 10,
+      "RankLevel": 0,
+      "TimeReward": [
+        {
+          "System.Int32[]": [
+            45,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            90,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            135,
+            30313
+          ]
+        },
+        {
+          "System.Int32[]": [
+            180,
+            30313
+          ]
+        }
+      ],
+      "BuffID": []
+    }
+  }
+]

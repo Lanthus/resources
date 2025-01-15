@@ -1,0 +1,3905 @@
+[
+  {
+    "FestivalGiftRow": {
+      "ID": 1,
+      "Chapter": [
+        1,
+        999
+      ],
+      "Type": 1,
+      "TypeIcon": [
+        "autumn_material_icon",
+        "material_icon"
+      ],
+      "GiftRewardId": [
+        100,
+        101,
+        102,
+        103,
+        104
+      ],
+      "GiftRewardId_CN": [
+        100,
+        101,
+        102,
+        103,
+        104
+      ],
+      "ForceShow": 0,
+      "LockLanguageId": 0,
+      "discountItemId": 0
+    }
+  },
+  {
+    "FestivalGiftRow": {
+      "ID": 2,
+      "Chapter": [
+        1,
+        999
+      ],
+      "Type": 2,
+      "TypeIcon": [
+        "equip_icon",
+        "equip_icon"
+      ],
+      "GiftRewardId": [
+        200,
+        201,
+        202,
+        203,
+        204
+      ],
+      "GiftRewardId_CN": [
+        200,
+        201,
+        202,
+        203,
+        204
+      ],
+      "ForceShow": 0,
+      "LockLanguageId": 0,
+      "discountItemId": 0
+    }
+  },
+  {
+    "FestivalGiftRow": {
+      "ID": 3,
+      "Chapter": [
+        6,
+        999
+      ],
+      "Type": 3,
+      "TypeIcon": [
+        "accessory_icon",
+        "accessory_icon"
+      ],
+      "GiftRewardId": [
+        300,
+        301,
+        302,
+        303,
+        304
+      ],
+      "GiftRewardId_CN": [
+        300,
+        301,
+        302,
+        303,
+        304
+      ],
+      "ForceShow": 1,
+      "LockLanguageId": 576,
+      "discountItemId": 0
+    }
+  },
+  {
+    "FestivalGiftRow": {
+      "ID": 4,
+      "Chapter": [
+        1,
+        999
+      ],
+      "Type": 0,
+      "TypeIcon": [],
+      "GiftRewardId": [
+        400,
+        401,
+        402,
+        403,
+        404
+      ],
+      "GiftRewardId_CN": [
+        400,
+        401,
+        402,
+        403,
+        404
+      ],
+      "ForceShow": 0,
+      "LockLanguageId": 0,
+      "discountItemId": 0
+    }
+  },
+  {
+    "FestivalGiftRow": {
+      "ID": 5,
+      "Chapter": [
+        1,
+        999
+      ],
+      "Type": 0,
+      "TypeIcon": [],
+      "GiftRewardId": [
+        500,
+        501,
+        502,
+        503,
+        504
+      ],
+      "GiftRewardId_CN": [
+        500,
+        501,
+        502,
+        503,
+        504
+      ],
+      "ForceShow": 0,
+      "LockLanguageId": 0,
+      "discountItemId": 0
+    }
+  },
+  {
+    "FestivalGiftRow": {
+      "ID": 6,
+      "Chapter": [
+        1,
+        999
+      ],
+      "Type": 0,
+      "TypeIcon": [],
+      "GiftRewardId": [
+        600,
+        601,
+        602,
+        603,
+        604
+      ],
+      "GiftRewardId_CN": [
+        600,
+        601,
+        602,
+        603,
+        604
+      ],
+      "ForceShow": 0,
+      "LockLanguageId": 0,
+      "discountItemId": 0
+    }
+  },
+  {
+    "FestivalGiftRow": {
+      "ID": 7,
+      "Chapter": [
+        1,
+        999
+      ],
+      "Type": 0,
+      "TypeIcon": [],
+      "GiftRewardId": [
+        700,
+        701,
+        702,
+        703,
+        704
+      ],
+      "GiftRewardId_CN": [
+        700,
+        705,
+        701,
+        702,
+        703,
+        704
+      ],
+      "ForceShow": 0,
+      "LockLanguageId": 0,
+      "discountItemId": 0
+    }
+  },
+  {
+    "FestivalGiftRow": {
+      "ID": 8,
+      "Chapter": [
+        1,
+        999
+      ],
+      "Type": 0,
+      "TypeIcon": [],
+      "GiftRewardId": [
+        800,
+        801,
+        802,
+        803,
+        804
+      ],
+      "GiftRewardId_CN": [
+        800,
+        805,
+        801,
+        802,
+        803,
+        804
+      ],
+      "ForceShow": 0,
+      "LockLanguageId": 0,
+      "discountItemId": 0
+    }
+  },
+  {
+    "FestivalGiftRow": {
+      "ID": 9,
+      "Chapter": [
+        1,
+        999
+      ],
+      "Type": 1,
+      "TypeIcon": [
+        "santahat_icon",
+        "santahat_icon"
+      ],
+      "GiftRewardId": [
+        900,
+        901,
+        902,
+        903,
+        904,
+        905,
+        906
+      ],
+      "GiftRewardId_CN": [
+        900,
+        901,
+        902,
+        903,
+        904,
+        905,
+        906
+      ],
+      "ForceShow": 0,
+      "LockLanguageId": 0,
+      "discountItemId": 0
+    }
+  },
+  {
+    "FestivalGiftRow": {
+      "ID": 10,
+      "Chapter": [
+        1,
+        999
+      ],
+      "Type": 2,
+      "TypeIcon": [
+        "xmas_icon",
+        "xmas_icon"
+      ],
+      "GiftRewardId": [
+        1000,
+        1001,
+        1002,
+        1003
+      ],
+      "GiftRewardId_CN": [
+        1000,
+        1001,
+        1002,
+        1003
+      ],
+      "ForceShow": 0,
+      "LockLanguageId": 0,
+      "discountItemId": 0
+    }
+  },
+  {
+    "FestivalGiftRow": {
+      "ID": 11,
+      "Chapter": [
+        1,
+        999
+      ],
+      "Type": 0,
+      "TypeIcon": [],
+      "GiftRewardId": [
+        1100,
+        1101,
+        1102,
+        1103,
+        1104,
+        1105
+      ],
+      "GiftRewardId_CN": [
+        1100,
+        1101,
+        1102,
+        1103,
+        1104,
+        1105
+      ],
+      "ForceShow": 0,
+      "LockLanguageId": 0,
+      "discountItemId": 0
+    }
+  },
+  {
+    "FestivalGiftRow": {
+      "ID": 12,
+      "Chapter": [
+        1,
+        999
+      ],
+      "Type": 0,
+      "TypeIcon": [],
+      "GiftRewardId": [
+        1200,
+        1201,
+        1202,
+        1203,
+        1204
+      ],
+      "GiftRewardId_CN": [
+        1200,
+        1201,
+        1202,
+        1203,
+        1204
+      ],
+      "ForceShow": 0,
+      "LockLanguageId": 0,
+      "discountItemId": 0
+    }
+  },
+  {
+    "FestivalGiftRow": {
+      "ID": 13,
+      "Chapter": [
+        1,
+        999
+      ],
+      "Type": 1,
+      "TypeIcon": [],
+      "GiftRewardId": [
+        1300,
+        1301,
+        1302,
+        1303,
+        1304
+      ],
+      "GiftRewardId_CN": [
+        1300,
+        1301,
+        1302,
+        1303,
+        1304
+      ],
+      "ForceShow": 0,
+      "LockLanguageId": 0,
+      "discountItemId": 0
+    }
+  },
+  {
+    "FestivalGiftRow": {
+      "ID": 14,
+      "Chapter": [
+        1,
+        999
+      ],
+      "Type": 1,
+      "TypeIcon": [
+        "rose_icon",
+        "rose_icon"
+      ],
+      "GiftRewardId": [
+        1400,
+        1401,
+        1402,
+        1403,
+        1404,
+        1405,
+        1406
+      ],
+      "GiftRewardId_CN": [
+        1400,
+        1401,
+        1402,
+        1403,
+        1404,
+        1405,
+        1406
+      ],
+      "ForceShow": 0,
+      "LockLanguageId": 0,
+      "discountItemId": 0
+    }
+  },
+  {
+    "FestivalGiftRow": {
+      "ID": 15,
+      "Chapter": [
+        1,
+        999
+      ],
+      "Type": 2,
+      "TypeIcon": [
+        "vlt_icon",
+        "vlt_icon"
+      ],
+      "GiftRewardId": [
+        1500,
+        1501,
+        1502,
+        1503,
+        1504
+      ],
+      "GiftRewardId_CN": [
+        1500,
+        1501,
+        1502,
+        1503,
+        1504
+      ],
+      "ForceShow": 0,
+      "LockLanguageId": 0,
+      "discountItemId": 0
+    }
+  },
+  {
+    "FestivalGiftRow": {
+      "ID": 16,
+      "Chapter": [
+        1,
+        999
+      ],
+      "Type": 1,
+      "TypeIcon": [],
+      "GiftRewardId": [
+        1600,
+        1601,
+        1602,
+        1603,
+        1604
+      ],
+      "GiftRewardId_CN": [
+        1600,
+        1601,
+        1602,
+        1603,
+        1604
+      ],
+      "ForceShow": 0,
+      "LockLanguageId": 0,
+      "discountItemId": 0
+    }
+  },
+  {
+    "FestivalGiftRow": {
+      "ID": 17,
+      "Chapter": [
+        1,
+        999
+      ],
+      "Type": 1,
+      "TypeIcon": [],
+      "GiftRewardId": [
+        1700,
+        1701,
+        1702,
+        1703,
+        1704
+      ],
+      "GiftRewardId_CN": [
+        1700,
+        1701,
+        1702,
+        1703,
+        1704
+      ],
+      "ForceShow": 0,
+      "LockLanguageId": 0,
+      "discountItemId": 0
+    }
+  },
+  {
+    "FestivalGiftRow": {
+      "ID": 18,
+      "Chapter": [
+        1,
+        999
+      ],
+      "Type": 1,
+      "TypeIcon": [],
+      "GiftRewardId": [
+        1800,
+        1801,
+        1802,
+        1803,
+        1804,
+        1805,
+        1806
+      ],
+      "GiftRewardId_CN": [
+        1800,
+        1801,
+        1802,
+        1803,
+        1804,
+        1805,
+        1806
+      ],
+      "ForceShow": 0,
+      "LockLanguageId": 0,
+      "discountItemId": 0
+    }
+  },
+  {
+    "FestivalGiftRow": {
+      "ID": 19,
+      "Chapter": [
+        1,
+        999
+      ],
+      "Type": 1,
+      "TypeIcon": [],
+      "GiftRewardId": [
+        1900,
+        1901,
+        1902,
+        1903,
+        1904,
+        1905
+      ],
+      "GiftRewardId_CN": [
+        1900,
+        1901,
+        1902,
+        1903,
+        1904,
+        1905
+      ],
+      "ForceShow": 0,
+      "LockLanguageId": 0,
+      "discountItemId": 0
+    }
+  },
+  {
+    "FestivalGiftRow": {
+      "ID": 20,
+      "Chapter": [
+        1,
+        999
+      ],
+      "Type": 1,
+      "TypeIcon": [],
+      "GiftRewardId": [
+        2000,
+        2001,
+        2002,
+        2003,
+        2004,
+        2005,
+        2006
+      ],
+      "GiftRewardId_CN": [
+        2000,
+        2001,
+        2002,
+        2003,
+        2004,
+        2005,
+        2006
+      ],
+      "ForceShow": 0,
+      "LockLanguageId": 0,
+      "discountItemId": 0
+    }
+  },
+  {
+    "FestivalGiftRow": {
+      "ID": 21,
+      "Chapter": [
+        1,
+        999
+      ],
+      "Type": 1,
+      "TypeIcon": [],
+      "GiftRewardId": [
+        2100,
+        2101,
+        2102,
+        2103,
+        2104
+      ],
+      "GiftRewardId_CN": [
+        2100,
+        2101,
+        2102,
+        2103,
+        2104
+      ],
+      "ForceShow": 0,
+      "LockLanguageId": 0,
+      "discountItemId": 0
+    }
+  },
+  {
+    "FestivalGiftRow": {
+      "ID": 22,
+      "Chapter": [
+        1,
+        999
+      ],
+      "Type": 1,
+      "TypeIcon": [],
+      "GiftRewardId": [
+        2200,
+        2201,
+        2202,
+        2203,
+        2204,
+        2205,
+        2206,
+        2207,
+        2208
+      ],
+      "GiftRewardId_CN": [
+        2200,
+        2201,
+        2202,
+        2203,
+        2204,
+        2205,
+        2206,
+        2207,
+        2208
+      ],
+      "ForceShow": 0,
+      "LockLanguageId": 0,
+      "discountItemId": 0
+    }
+  },
+  {
+    "FestivalGiftRow": {
+      "ID": 23,
+      "Chapter": [
+        1,
+        999
+      ],
+      "Type": 1,
+      "TypeIcon": [],
+      "GiftRewardId": [
+        2300,
+        2301,
+        2302,
+        2303,
+        2304
+      ],
+      "GiftRewardId_CN": [
+        2300,
+        2301,
+        2302,
+        2303,
+        2304
+      ],
+      "ForceShow": 0,
+      "LockLanguageId": 0,
+      "discountItemId": 0
+    }
+  },
+  {
+    "FestivalGiftRow": {
+      "ID": 24,
+      "Chapter": [
+        1,
+        999
+      ],
+      "Type": 1,
+      "TypeIcon": [],
+      "GiftRewardId": [
+        2400,
+        2401,
+        2402,
+        2403,
+        2404,
+        2405,
+        2406
+      ],
+      "GiftRewardId_CN": [
+        2400,
+        2401,
+        2402,
+        2403,
+        2404,
+        2405,
+        2406
+      ],
+      "ForceShow": 0,
+      "LockLanguageId": 0,
+      "discountItemId": 0
+    }
+  },
+  {
+    "FestivalGiftRow": {
+      "ID": 25,
+      "Chapter": [
+        1,
+        999
+      ],
+      "Type": 1,
+      "TypeIcon": [],
+      "GiftRewardId": [
+        2500,
+        2501,
+        2502,
+        2503,
+        2504,
+        2505,
+        2506,
+        2507
+      ],
+      "GiftRewardId_CN": [
+        2500,
+        2501,
+        2502,
+        2503,
+        2504,
+        2505,
+        2506,
+        2507
+      ],
+      "ForceShow": 0,
+      "LockLanguageId": 0,
+      "discountItemId": 0
+    }
+  },
+  {
+    "FestivalGiftRow": {
+      "ID": 26,
+      "Chapter": [
+        1,
+        999
+      ],
+      "Type": 1,
+      "TypeIcon": [],
+      "GiftRewardId": [
+        2600,
+        2601,
+        2602,
+        2603,
+        2604,
+        2605
+      ],
+      "GiftRewardId_CN": [
+        2600,
+        2601,
+        2602,
+        2603,
+        2604,
+        2605
+      ],
+      "ForceShow": 0,
+      "LockLanguageId": 0,
+      "discountItemId": 0
+    }
+  },
+  {
+    "FestivalGiftRow": {
+      "ID": 27,
+      "Chapter": [
+        1,
+        999
+      ],
+      "Type": 1,
+      "TypeIcon": [],
+      "GiftRewardId": [
+        2700,
+        2701,
+        2702,
+        2703,
+        2704,
+        2705,
+        2706,
+        2707
+      ],
+      "GiftRewardId_CN": [
+        2700,
+        2701,
+        2702,
+        2703,
+        2704,
+        2705,
+        2706,
+        2707
+      ],
+      "ForceShow": 0,
+      "LockLanguageId": 0,
+      "discountItemId": 62
+    }
+  },
+  {
+    "FestivalGiftRow": {
+      "ID": 28,
+      "Chapter": [
+        1,
+        999
+      ],
+      "Type": 1,
+      "TypeIcon": [],
+      "GiftRewardId": [
+        2800,
+        2801,
+        2802,
+        2803,
+        2804,
+        2805,
+        2806
+      ],
+      "GiftRewardId_CN": [
+        2800,
+        2801,
+        2802,
+        2803,
+        2804,
+        2805,
+        2806
+      ],
+      "ForceShow": 0,
+      "LockLanguageId": 0,
+      "discountItemId": 0
+    }
+  },
+  {
+    "FestivalGiftRow": {
+      "ID": 29,
+      "Chapter": [
+        1,
+        999
+      ],
+      "Type": 1,
+      "TypeIcon": [],
+      "GiftRewardId": [
+        2900,
+        2901,
+        2902,
+        2903,
+        2904,
+        2905
+      ],
+      "GiftRewardId_CN": [
+        2900,
+        2901,
+        2902,
+        2903,
+        2904,
+        2905
+      ],
+      "ForceShow": 0,
+      "LockLanguageId": 0,
+      "discountItemId": 0
+    }
+  },
+  {
+    "FestivalGiftRow": {
+      "ID": 30,
+      "Chapter": [
+        1,
+        999
+      ],
+      "Type": 1,
+      "TypeIcon": [],
+      "GiftRewardId": [
+        3000,
+        3001,
+        3002,
+        3003
+      ],
+      "GiftRewardId_CN": [
+        3000,
+        3001,
+        3002,
+        3003
+      ],
+      "ForceShow": 0,
+      "LockLanguageId": 0,
+      "discountItemId": 0
+    }
+  },
+  {
+    "FestivalGiftRow": {
+      "ID": 31,
+      "Chapter": [
+        1,
+        999
+      ],
+      "Type": 1,
+      "TypeIcon": [],
+      "GiftRewardId": [
+        3100,
+        3101,
+        3102,
+        3103,
+        3104,
+        3105,
+        3106,
+        3107,
+        3108
+      ],
+      "GiftRewardId_CN": [
+        3100,
+        3101,
+        3102,
+        3103,
+        3104,
+        3105,
+        3106,
+        3107,
+        3108
+      ],
+      "ForceShow": 0,
+      "LockLanguageId": 0,
+      "discountItemId": 0
+    }
+  },
+  {
+    "FestivalGiftRow": {
+      "ID": 32,
+      "Chapter": [
+        1,
+        999
+      ],
+      "Type": 1,
+      "TypeIcon": [],
+      "GiftRewardId": [
+        3200,
+        3201,
+        3202,
+        3203,
+        3204,
+        3205,
+        3206,
+        3207
+      ],
+      "GiftRewardId_CN": [
+        3200,
+        3201,
+        3202,
+        3203,
+        3204,
+        3205,
+        3206,
+        3207
+      ],
+      "ForceShow": 0,
+      "LockLanguageId": 0,
+      "discountItemId": 0
+    }
+  },
+  {
+    "FestivalGiftRow": {
+      "ID": 33,
+      "Chapter": [
+        1,
+        999
+      ],
+      "Type": 1,
+      "TypeIcon": [],
+      "GiftRewardId": [
+        3300,
+        3301,
+        3302,
+        3303,
+        3304,
+        3305
+      ],
+      "GiftRewardId_CN": [
+        3300,
+        3301,
+        3302,
+        3303,
+        3304,
+        3305
+      ],
+      "ForceShow": 0,
+      "LockLanguageId": 0,
+      "discountItemId": 0
+    }
+  },
+  {
+    "FestivalGiftRow": {
+      "ID": 34,
+      "Chapter": [
+        1,
+        999
+      ],
+      "Type": 1,
+      "TypeIcon": [],
+      "GiftRewardId": [
+        3400,
+        3401,
+        3402,
+        3403,
+        3404,
+        3405,
+        3406,
+        3407
+      ],
+      "GiftRewardId_CN": [
+        3400,
+        3401,
+        3402,
+        3403,
+        3404,
+        3405,
+        3406,
+        3407
+      ],
+      "ForceShow": 0,
+      "LockLanguageId": 0,
+      "discountItemId": 0
+    }
+  },
+  {
+    "FestivalGiftRow": {
+      "ID": 35,
+      "Chapter": [
+        1,
+        999
+      ],
+      "Type": 1,
+      "TypeIcon": [],
+      "GiftRewardId": [
+        3500,
+        3501,
+        3502,
+        3503,
+        3504,
+        3505,
+        3506,
+        3507
+      ],
+      "GiftRewardId_CN": [
+        3500,
+        3501,
+        3502,
+        3503,
+        3504,
+        3505,
+        3506,
+        3507
+      ],
+      "ForceShow": 0,
+      "LockLanguageId": 0,
+      "discountItemId": 0
+    }
+  },
+  {
+    "FestivalGiftRow": {
+      "ID": 36,
+      "Chapter": [
+        1,
+        999
+      ],
+      "Type": 1,
+      "TypeIcon": [],
+      "GiftRewardId": [
+        3600,
+        3601,
+        3602,
+        3603,
+        3604,
+        3605,
+        3606,
+        3607,
+        3608,
+        3609
+      ],
+      "GiftRewardId_CN": [
+        3600,
+        3601,
+        3602,
+        3603,
+        3604,
+        3605,
+        3606,
+        3607,
+        3608,
+        3609
+      ],
+      "ForceShow": 0,
+      "LockLanguageId": 0,
+      "discountItemId": 0
+    }
+  },
+  {
+    "FestivalGiftRow": {
+      "ID": 37,
+      "Chapter": [
+        1,
+        999
+      ],
+      "Type": 1,
+      "TypeIcon": [],
+      "GiftRewardId": [
+        3700,
+        3701,
+        3702,
+        3703,
+        3704,
+        3705,
+        3706,
+        3707,
+        3708,
+        3709
+      ],
+      "GiftRewardId_CN": [
+        3700,
+        3701,
+        3702,
+        3703,
+        3704,
+        3705,
+        3706,
+        3707,
+        3708,
+        3709
+      ],
+      "ForceShow": 0,
+      "LockLanguageId": 0,
+      "discountItemId": 0
+    }
+  },
+  {
+    "FestivalGiftRow": {
+      "ID": 38,
+      "Chapter": [
+        1,
+        999
+      ],
+      "Type": 1,
+      "TypeIcon": [],
+      "GiftRewardId": [
+        3801,
+        3802,
+        3803,
+        3804,
+        3805,
+        3806,
+        3807,
+        3808,
+        3809
+      ],
+      "GiftRewardId_CN": [
+        3801,
+        3802,
+        3803,
+        3804,
+        3805,
+        3806,
+        3807,
+        3808,
+        3809
+      ],
+      "ForceShow": 0,
+      "LockLanguageId": 0,
+      "discountItemId": 0
+    }
+  },
+  {
+    "FestivalGiftRow": {
+      "ID": 39,
+      "Chapter": [
+        1,
+        999
+      ],
+      "Type": 1,
+      "TypeIcon": [],
+      "GiftRewardId": [
+        3901,
+        3902,
+        3903,
+        3904,
+        3905,
+        3906,
+        3907,
+        3908,
+        3909
+      ],
+      "GiftRewardId_CN": [
+        3901,
+        3902,
+        3903,
+        3904,
+        3905,
+        3906,
+        3907,
+        3908,
+        3909
+      ],
+      "ForceShow": 0,
+      "LockLanguageId": 0,
+      "discountItemId": 0
+    }
+  },
+  {
+    "FestivalGiftRow": {
+      "ID": 40,
+      "Chapter": [
+        1,
+        999
+      ],
+      "Type": 1,
+      "TypeIcon": [],
+      "GiftRewardId": [
+        4001,
+        4002,
+        4003,
+        4004,
+        4005,
+        4006,
+        4007,
+        4008
+      ],
+      "GiftRewardId_CN": [
+        4001,
+        4002,
+        4003,
+        4004,
+        4005,
+        4006,
+        4007,
+        4008
+      ],
+      "ForceShow": 0,
+      "LockLanguageId": 0,
+      "discountItemId": 0
+    }
+  },
+  {
+    "FestivalGiftRow": {
+      "ID": 41,
+      "Chapter": [
+        1,
+        999
+      ],
+      "Type": 1,
+      "TypeIcon": [],
+      "GiftRewardId": [
+        4100,
+        4101,
+        4102,
+        4103,
+        4104,
+        4105,
+        4106,
+        4107,
+        4108
+      ],
+      "GiftRewardId_CN": [
+        4100,
+        4101,
+        4102,
+        4103,
+        4104,
+        4105,
+        4106,
+        4107,
+        4108
+      ],
+      "ForceShow": 0,
+      "LockLanguageId": 0,
+      "discountItemId": 0
+    }
+  },
+  {
+    "FestivalGiftRow": {
+      "ID": 42,
+      "Chapter": [
+        1,
+        999
+      ],
+      "Type": 1,
+      "TypeIcon": [],
+      "GiftRewardId": [
+        4200,
+        4201,
+        4202,
+        4203,
+        4204,
+        4205,
+        4206,
+        4207,
+        4208
+      ],
+      "GiftRewardId_CN": [
+        4200,
+        4201,
+        4202,
+        4203,
+        4204,
+        4205,
+        4206,
+        4207,
+        4208
+      ],
+      "ForceShow": 0,
+      "LockLanguageId": 0,
+      "discountItemId": 0
+    }
+  },
+  {
+    "FestivalGiftRow": {
+      "ID": 43,
+      "Chapter": [
+        1,
+        999
+      ],
+      "Type": 1,
+      "TypeIcon": [],
+      "GiftRewardId": [
+        4300,
+        4301,
+        4302,
+        4303,
+        4304,
+        4305,
+        4306,
+        4307,
+        4308
+      ],
+      "GiftRewardId_CN": [
+        4300,
+        4301,
+        4302,
+        4303,
+        4304,
+        4305,
+        4306,
+        4307,
+        4308
+      ],
+      "ForceShow": 0,
+      "LockLanguageId": 0,
+      "discountItemId": 0
+    }
+  },
+  {
+    "FestivalGiftRow": {
+      "ID": 44,
+      "Chapter": [
+        1,
+        999
+      ],
+      "Type": 1,
+      "TypeIcon": [],
+      "GiftRewardId": [
+        4401,
+        4402,
+        4403,
+        4404,
+        4405,
+        4406,
+        4407,
+        4408,
+        4409
+      ],
+      "GiftRewardId_CN": [
+        4401,
+        4402,
+        4403,
+        4404,
+        4405,
+        4406,
+        4407,
+        4408,
+        4409
+      ],
+      "ForceShow": 0,
+      "LockLanguageId": 0,
+      "discountItemId": 0
+    }
+  },
+  {
+    "FestivalGiftRow": {
+      "ID": 45,
+      "Chapter": [
+        1,
+        999
+      ],
+      "Type": 1,
+      "TypeIcon": [],
+      "GiftRewardId": [
+        4500,
+        4501,
+        4502,
+        4503,
+        4504,
+        4505,
+        4506,
+        4507
+      ],
+      "GiftRewardId_CN": [
+        4500,
+        4501,
+        4502,
+        4503,
+        4504,
+        4505,
+        4506,
+        4507
+      ],
+      "ForceShow": 0,
+      "LockLanguageId": 0,
+      "discountItemId": 860
+    }
+  },
+  {
+    "FestivalGiftRow": {
+      "ID": 46,
+      "Chapter": [
+        1,
+        999
+      ],
+      "Type": 1,
+      "TypeIcon": [],
+      "GiftRewardId": [
+        4600,
+        4601,
+        4602,
+        4603,
+        4604,
+        4605,
+        4606,
+        4607,
+        4608
+      ],
+      "GiftRewardId_CN": [
+        4600,
+        4601,
+        4602,
+        4603,
+        4604,
+        4605,
+        4606,
+        4607,
+        4608
+      ],
+      "ForceShow": 0,
+      "LockLanguageId": 0,
+      "discountItemId": 0
+    }
+  },
+  {
+    "FestivalGiftRow": {
+      "ID": 47,
+      "Chapter": [
+        1,
+        999
+      ],
+      "Type": 1,
+      "TypeIcon": [],
+      "GiftRewardId": [
+        4700,
+        4701,
+        4702,
+        4703,
+        4704,
+        4705,
+        4706,
+        4707,
+        4708
+      ],
+      "GiftRewardId_CN": [
+        4700,
+        4701,
+        4702,
+        4703,
+        4704,
+        4705,
+        4706,
+        4707,
+        4708
+      ],
+      "ForceShow": 0,
+      "LockLanguageId": 0,
+      "discountItemId": 0
+    }
+  },
+  {
+    "FestivalGiftRow": {
+      "ID": 48,
+      "Chapter": [
+        1,
+        999
+      ],
+      "Type": 1,
+      "TypeIcon": [],
+      "GiftRewardId": [
+        4800,
+        4801,
+        4802,
+        4803,
+        4804,
+        4805,
+        4806,
+        4807,
+        4808,
+        4809
+      ],
+      "GiftRewardId_CN": [
+        4800,
+        4801,
+        4802,
+        4803,
+        4804,
+        4805,
+        4806,
+        4807,
+        4808,
+        4809
+      ],
+      "ForceShow": 0,
+      "LockLanguageId": 0,
+      "discountItemId": 0
+    }
+  },
+  {
+    "FestivalGiftRow": {
+      "ID": 49,
+      "Chapter": [
+        1,
+        999
+      ],
+      "Type": 1,
+      "TypeIcon": [],
+      "GiftRewardId": [
+        4900,
+        4901,
+        4902,
+        4903,
+        4904,
+        4905,
+        4906,
+        4907,
+        4908,
+        4909
+      ],
+      "GiftRewardId_CN": [
+        4900,
+        4901,
+        4902,
+        4903,
+        4904,
+        4905,
+        4906,
+        4907,
+        4908,
+        4909
+      ],
+      "ForceShow": 0,
+      "LockLanguageId": 0,
+      "discountItemId": 0
+    }
+  },
+  {
+    "FestivalGiftRow": {
+      "ID": 50,
+      "Chapter": [
+        1,
+        999
+      ],
+      "Type": 1,
+      "TypeIcon": [],
+      "GiftRewardId": [
+        5000,
+        5001,
+        5002,
+        5003,
+        5004,
+        5005,
+        5006,
+        5007,
+        5008,
+        5009
+      ],
+      "GiftRewardId_CN": [
+        5000,
+        5001,
+        5002,
+        5003,
+        5004,
+        5005,
+        5006,
+        5007,
+        5008,
+        5009
+      ],
+      "ForceShow": 0,
+      "LockLanguageId": 0,
+      "discountItemId": 0
+    }
+  },
+  {
+    "FestivalGiftRow": {
+      "ID": 51,
+      "Chapter": [
+        1,
+        999
+      ],
+      "Type": 1,
+      "TypeIcon": [],
+      "GiftRewardId": [
+        5100,
+        5101,
+        5102,
+        5103,
+        5104,
+        5105,
+        5106,
+        5107,
+        5108,
+        5109
+      ],
+      "GiftRewardId_CN": [
+        5100,
+        5101,
+        5102,
+        5103,
+        5104,
+        5105,
+        5106,
+        5107,
+        5108,
+        5109
+      ],
+      "ForceShow": 0,
+      "LockLanguageId": 0,
+      "discountItemId": 0
+    }
+  },
+  {
+    "FestivalGiftRow": {
+      "ID": 52,
+      "Chapter": [
+        1,
+        999
+      ],
+      "Type": 1,
+      "TypeIcon": [],
+      "GiftRewardId": [
+        5200,
+        5201,
+        5202,
+        5203,
+        5204,
+        5205,
+        5206,
+        5207,
+        5208,
+        5209
+      ],
+      "GiftRewardId_CN": [
+        5200,
+        5201,
+        5202,
+        5203,
+        5204,
+        5205,
+        5206,
+        5207,
+        5208,
+        5209
+      ],
+      "ForceShow": 0,
+      "LockLanguageId": 0,
+      "discountItemId": 0
+    }
+  },
+  {
+    "FestivalGiftRow": {
+      "ID": 53,
+      "Chapter": [
+        1,
+        999
+      ],
+      "Type": 1,
+      "TypeIcon": [],
+      "GiftRewardId": [
+        5300,
+        5301,
+        5302,
+        5303,
+        5304,
+        5305,
+        5306,
+        5307,
+        5308,
+        5309
+      ],
+      "GiftRewardId_CN": [
+        5300,
+        5301,
+        5302,
+        5303,
+        5304,
+        5305,
+        5306,
+        5307,
+        5308,
+        5309
+      ],
+      "ForceShow": 0,
+      "LockLanguageId": 0,
+      "discountItemId": 0
+    }
+  },
+  {
+    "FestivalGiftRow": {
+      "ID": 54,
+      "Chapter": [
+        1,
+        999
+      ],
+      "Type": 1,
+      "TypeIcon": [],
+      "GiftRewardId": [
+        5400,
+        5401,
+        5402,
+        5403,
+        5404,
+        5405,
+        5406,
+        5407,
+        5408,
+        5409
+      ],
+      "GiftRewardId_CN": [
+        5400,
+        5401,
+        5402,
+        5403,
+        5404,
+        5405,
+        5406,
+        5407,
+        5408,
+        5409
+      ],
+      "ForceShow": 0,
+      "LockLanguageId": 0,
+      "discountItemId": 0
+    }
+  },
+  {
+    "FestivalGiftRow": {
+      "ID": 55,
+      "Chapter": [
+        1,
+        999
+      ],
+      "Type": 1,
+      "TypeIcon": [],
+      "GiftRewardId": [
+        5500,
+        5501,
+        5502,
+        5503,
+        5504,
+        5505,
+        5506,
+        5507,
+        5508,
+        5509
+      ],
+      "GiftRewardId_CN": [
+        5500,
+        5501,
+        5502,
+        5503,
+        5504,
+        5505,
+        5506,
+        5507,
+        5508,
+        5509
+      ],
+      "ForceShow": 0,
+      "LockLanguageId": 0,
+      "discountItemId": 0
+    }
+  },
+  {
+    "FestivalGiftRow": {
+      "ID": 56,
+      "Chapter": [
+        1,
+        999
+      ],
+      "Type": 1,
+      "TypeIcon": [],
+      "GiftRewardId": [
+        5600,
+        5601,
+        5602,
+        5603,
+        5604,
+        5605,
+        5606,
+        5607,
+        5608,
+        5609
+      ],
+      "GiftRewardId_CN": [
+        5600,
+        5601,
+        5602,
+        5603,
+        5604,
+        5605,
+        5606,
+        5607,
+        5608,
+        5609
+      ],
+      "ForceShow": 0,
+      "LockLanguageId": 0,
+      "discountItemId": 0
+    }
+  },
+  {
+    "FestivalGiftRow": {
+      "ID": 57,
+      "Chapter": [
+        1,
+        999
+      ],
+      "Type": 1,
+      "TypeIcon": [],
+      "GiftRewardId": [
+        5700,
+        5701,
+        5702,
+        5703,
+        5704,
+        5705,
+        5706,
+        5707,
+        5708,
+        5709
+      ],
+      "GiftRewardId_CN": [
+        5700,
+        5701,
+        5702,
+        5703,
+        5704,
+        5705,
+        5706,
+        5707,
+        5708,
+        5709
+      ],
+      "ForceShow": 0,
+      "LockLanguageId": 0,
+      "discountItemId": 0
+    }
+  },
+  {
+    "FestivalGiftRow": {
+      "ID": 58,
+      "Chapter": [
+        1,
+        999
+      ],
+      "Type": 1,
+      "TypeIcon": [],
+      "GiftRewardId": [
+        5800,
+        5801,
+        5802,
+        5803,
+        5804,
+        5805,
+        5806,
+        5807,
+        5808,
+        5809,
+        5810
+      ],
+      "GiftRewardId_CN": [
+        5800,
+        5801,
+        5802,
+        5803,
+        5804,
+        5805,
+        5806,
+        5807,
+        5808,
+        5809,
+        5810
+      ],
+      "ForceShow": 0,
+      "LockLanguageId": 0,
+      "discountItemId": 0
+    }
+  },
+  {
+    "FestivalGiftRow": {
+      "ID": 59,
+      "Chapter": [
+        1,
+        999
+      ],
+      "Type": 1,
+      "TypeIcon": [],
+      "GiftRewardId": [
+        5900,
+        5901,
+        5902,
+        5903,
+        5904,
+        5905,
+        5906,
+        5907,
+        5908,
+        5909,
+        5910
+      ],
+      "GiftRewardId_CN": [
+        5900,
+        5901,
+        5902,
+        5903,
+        5904,
+        5905,
+        5906,
+        5907,
+        5908,
+        5909,
+        5910
+      ],
+      "ForceShow": 0,
+      "LockLanguageId": 0,
+      "discountItemId": 0
+    }
+  },
+  {
+    "FestivalGiftRow": {
+      "ID": 60,
+      "Chapter": [
+        1,
+        999
+      ],
+      "Type": 1,
+      "TypeIcon": [],
+      "GiftRewardId": [
+        6000,
+        6001,
+        6002,
+        6003,
+        6004,
+        6005,
+        6006,
+        6007,
+        6008,
+        6009,
+        6010
+      ],
+      "GiftRewardId_CN": [
+        6000,
+        6001,
+        6002,
+        6003,
+        6004,
+        6005,
+        6006,
+        6007,
+        6008,
+        6009,
+        6010
+      ],
+      "ForceShow": 0,
+      "LockLanguageId": 0,
+      "discountItemId": 0
+    }
+  },
+  {
+    "FestivalGiftRow": {
+      "ID": 61,
+      "Chapter": [
+        1,
+        999
+      ],
+      "Type": 1,
+      "TypeIcon": [],
+      "GiftRewardId": [
+        6100,
+        6101,
+        6102,
+        6103,
+        6104,
+        6105,
+        6106,
+        6107,
+        6108,
+        6109,
+        6110
+      ],
+      "GiftRewardId_CN": [
+        6100,
+        6101,
+        6102,
+        6103,
+        6104,
+        6105,
+        6106,
+        6107,
+        6108,
+        6109,
+        6110
+      ],
+      "ForceShow": 0,
+      "LockLanguageId": 0,
+      "discountItemId": 0
+    }
+  },
+  {
+    "FestivalGiftRow": {
+      "ID": 62,
+      "Chapter": [
+        1,
+        999
+      ],
+      "Type": 1,
+      "TypeIcon": [],
+      "GiftRewardId": [
+        6200,
+        6201,
+        6202,
+        6203,
+        6204,
+        6205,
+        6206,
+        6207,
+        6208,
+        6209
+      ],
+      "GiftRewardId_CN": [
+        6200,
+        6201,
+        6202,
+        6203,
+        6204,
+        6205,
+        6206,
+        6207,
+        6208,
+        6209
+      ],
+      "ForceShow": 0,
+      "LockLanguageId": 0,
+      "discountItemId": 0
+    }
+  },
+  {
+    "FestivalGiftRow": {
+      "ID": 63,
+      "Chapter": [
+        1,
+        999
+      ],
+      "Type": 1,
+      "TypeIcon": [],
+      "GiftRewardId": [
+        6300,
+        6301,
+        6302,
+        6303,
+        6304,
+        6305,
+        6306,
+        6307,
+        6308,
+        6309,
+        6310
+      ],
+      "GiftRewardId_CN": [
+        6300,
+        6301,
+        6302,
+        6303,
+        6304,
+        6305,
+        6306,
+        6307,
+        6308,
+        6309,
+        6310
+      ],
+      "ForceShow": 0,
+      "LockLanguageId": 0,
+      "discountItemId": 0
+    }
+  },
+  {
+    "FestivalGiftRow": {
+      "ID": 64,
+      "Chapter": [
+        1,
+        999
+      ],
+      "Type": 1,
+      "TypeIcon": [],
+      "GiftRewardId": [
+        6400,
+        6401,
+        6402,
+        6403,
+        6404,
+        6405,
+        6406,
+        6407,
+        6408,
+        6409,
+        6410
+      ],
+      "GiftRewardId_CN": [
+        6400,
+        6401,
+        6402,
+        6403,
+        6404,
+        6405,
+        6406,
+        6407,
+        6408,
+        6409,
+        6410
+      ],
+      "ForceShow": 0,
+      "LockLanguageId": 0,
+      "discountItemId": 0
+    }
+  },
+  {
+    "FestivalGiftRow": {
+      "ID": 65,
+      "Chapter": [
+        1,
+        999
+      ],
+      "Type": 1,
+      "TypeIcon": [],
+      "GiftRewardId": [
+        6500,
+        6501,
+        6502,
+        6503,
+        6504,
+        6505,
+        6506,
+        6507,
+        6508,
+        6509,
+        6510
+      ],
+      "GiftRewardId_CN": [
+        6500,
+        6501,
+        6502,
+        6503,
+        6504,
+        6505,
+        6506,
+        6507,
+        6508,
+        6509,
+        6510
+      ],
+      "ForceShow": 0,
+      "LockLanguageId": 0,
+      "discountItemId": 0
+    }
+  },
+  {
+    "FestivalGiftRow": {
+      "ID": 66,
+      "Chapter": [
+        1,
+        999
+      ],
+      "Type": 1,
+      "TypeIcon": [],
+      "GiftRewardId": [
+        6600,
+        6601,
+        6602,
+        6603,
+        6604,
+        6605,
+        6606,
+        6607,
+        6608,
+        6609,
+        6610
+      ],
+      "GiftRewardId_CN": [
+        6600,
+        6601,
+        6602,
+        6603,
+        6604,
+        6605,
+        6606,
+        6607,
+        6608,
+        6609,
+        6610
+      ],
+      "ForceShow": 0,
+      "LockLanguageId": 0,
+      "discountItemId": 0
+    }
+  },
+  {
+    "FestivalGiftRow": {
+      "ID": 67,
+      "Chapter": [
+        1,
+        999
+      ],
+      "Type": 1,
+      "TypeIcon": [],
+      "GiftRewardId": [
+        6700,
+        6701,
+        6702,
+        6703,
+        6704,
+        6705,
+        6706,
+        6707,
+        6708,
+        6709,
+        6710
+      ],
+      "GiftRewardId_CN": [
+        6700,
+        6701,
+        6702,
+        6703,
+        6704,
+        6705,
+        6706,
+        6707,
+        6708,
+        6709,
+        6710
+      ],
+      "ForceShow": 0,
+      "LockLanguageId": 0,
+      "discountItemId": 0
+    }
+  },
+  {
+    "FestivalGiftRow": {
+      "ID": 68,
+      "Chapter": [
+        1,
+        999
+      ],
+      "Type": 1,
+      "TypeIcon": [],
+      "GiftRewardId": [
+        6800,
+        6801,
+        6802,
+        6803,
+        6804,
+        6805,
+        6806,
+        6807,
+        6808,
+        6809
+      ],
+      "GiftRewardId_CN": [
+        6800,
+        6801,
+        6802,
+        6803,
+        6804,
+        6805,
+        6806,
+        6807,
+        6808,
+        6809
+      ],
+      "ForceShow": 0,
+      "LockLanguageId": 0,
+      "discountItemId": 0
+    }
+  },
+  {
+    "FestivalGiftRow": {
+      "ID": 69,
+      "Chapter": [
+        1,
+        999
+      ],
+      "Type": 1,
+      "TypeIcon": [],
+      "GiftRewardId": [
+        6900,
+        6901,
+        6902,
+        6903,
+        6904,
+        6905,
+        6906,
+        6907,
+        6908,
+        6909
+      ],
+      "GiftRewardId_CN": [
+        6900,
+        6901,
+        6902,
+        6903,
+        6904,
+        6905,
+        6906,
+        6907,
+        6908,
+        6909
+      ],
+      "ForceShow": 0,
+      "LockLanguageId": 0,
+      "discountItemId": 0
+    }
+  },
+  {
+    "FestivalGiftRow": {
+      "ID": 70,
+      "Chapter": [
+        1,
+        999
+      ],
+      "Type": 1,
+      "TypeIcon": [],
+      "GiftRewardId": [
+        7000,
+        7001,
+        7002,
+        7003,
+        7004,
+        7005,
+        7006,
+        7007,
+        7008,
+        7009
+      ],
+      "GiftRewardId_CN": [
+        7000,
+        7001,
+        7002,
+        7003,
+        7004,
+        7005,
+        7006,
+        7007,
+        7008,
+        7009
+      ],
+      "ForceShow": 0,
+      "LockLanguageId": 0,
+      "discountItemId": 0
+    }
+  },
+  {
+    "FestivalGiftRow": {
+      "ID": 71,
+      "Chapter": [
+        1,
+        999
+      ],
+      "Type": 1,
+      "TypeIcon": [],
+      "GiftRewardId": [
+        7100,
+        7101,
+        7102,
+        7103,
+        7104,
+        7105,
+        7106,
+        7107,
+        7108,
+        7109
+      ],
+      "GiftRewardId_CN": [
+        7100,
+        7101,
+        7102,
+        7103,
+        7104,
+        7105,
+        7106,
+        7107,
+        7108,
+        7109
+      ],
+      "ForceShow": 0,
+      "LockLanguageId": 0,
+      "discountItemId": 0
+    }
+  },
+  {
+    "FestivalGiftRow": {
+      "ID": 72,
+      "Chapter": [
+        1,
+        999
+      ],
+      "Type": 1,
+      "TypeIcon": [],
+      "GiftRewardId": [
+        7200,
+        7201,
+        7202,
+        7203,
+        7204,
+        7205,
+        7206,
+        7207,
+        7208,
+        7209
+      ],
+      "GiftRewardId_CN": [
+        7200,
+        7201,
+        7202,
+        7203,
+        7204,
+        7205,
+        7206,
+        7207,
+        7208,
+        7209
+      ],
+      "ForceShow": 0,
+      "LockLanguageId": 0,
+      "discountItemId": 0
+    }
+  },
+  {
+    "FestivalGiftRow": {
+      "ID": 73,
+      "Chapter": [
+        1,
+        999
+      ],
+      "Type": 1,
+      "TypeIcon": [],
+      "GiftRewardId": [
+        7300,
+        7301,
+        7302,
+        7303,
+        7304,
+        7305,
+        7306,
+        7307,
+        7308,
+        7309
+      ],
+      "GiftRewardId_CN": [
+        7300,
+        7301,
+        7302,
+        7303,
+        7304,
+        7305,
+        7306,
+        7307,
+        7308,
+        7309
+      ],
+      "ForceShow": 0,
+      "LockLanguageId": 0,
+      "discountItemId": 0
+    }
+  },
+  {
+    "FestivalGiftRow": {
+      "ID": 74,
+      "Chapter": [
+        1,
+        999
+      ],
+      "Type": 1,
+      "TypeIcon": [],
+      "GiftRewardId": [
+        7400,
+        7401,
+        7402,
+        7403,
+        7404,
+        7405,
+        7406,
+        7407,
+        7408,
+        7409
+      ],
+      "GiftRewardId_CN": [
+        7400,
+        7401,
+        7402,
+        7403,
+        7404,
+        7405,
+        7406,
+        7407,
+        7408,
+        7409
+      ],
+      "ForceShow": 0,
+      "LockLanguageId": 0,
+      "discountItemId": 0
+    }
+  },
+  {
+    "FestivalGiftRow": {
+      "ID": 75,
+      "Chapter": [
+        1,
+        999
+      ],
+      "Type": 1,
+      "TypeIcon": [],
+      "GiftRewardId": [
+        7500,
+        7501,
+        7502,
+        7503,
+        7504,
+        7505,
+        7506,
+        7507,
+        7508,
+        7509
+      ],
+      "GiftRewardId_CN": [
+        7500,
+        7501,
+        7502,
+        7503,
+        7504,
+        7505,
+        7506,
+        7507,
+        7508,
+        7509
+      ],
+      "ForceShow": 0,
+      "LockLanguageId": 0,
+      "discountItemId": 0
+    }
+  },
+  {
+    "FestivalGiftRow": {
+      "ID": 76,
+      "Chapter": [
+        1,
+        999
+      ],
+      "Type": 1,
+      "TypeIcon": [],
+      "GiftRewardId": [
+        7600,
+        7601,
+        7602,
+        7603,
+        7604,
+        7605,
+        7606,
+        7607,
+        7608,
+        7609
+      ],
+      "GiftRewardId_CN": [
+        7600,
+        7601,
+        7602,
+        7603,
+        7604,
+        7605,
+        7606,
+        7607,
+        7608,
+        7609
+      ],
+      "ForceShow": 0,
+      "LockLanguageId": 0,
+      "discountItemId": 0
+    }
+  },
+  {
+    "FestivalGiftRow": {
+      "ID": 77,
+      "Chapter": [
+        1,
+        999
+      ],
+      "Type": 1,
+      "TypeIcon": [],
+      "GiftRewardId": [
+        7700,
+        7701,
+        7702,
+        7703,
+        7704,
+        7705,
+        7706,
+        7707,
+        7708,
+        7709
+      ],
+      "GiftRewardId_CN": [
+        7700,
+        7701,
+        7702,
+        7703,
+        7704,
+        7705,
+        7706,
+        7707,
+        7708,
+        7709
+      ],
+      "ForceShow": 0,
+      "LockLanguageId": 0,
+      "discountItemId": 0
+    }
+  },
+  {
+    "FestivalGiftRow": {
+      "ID": 78,
+      "Chapter": [
+        1,
+        999
+      ],
+      "Type": 1,
+      "TypeIcon": [],
+      "GiftRewardId": [
+        7800,
+        7801,
+        7802,
+        7803,
+        7804,
+        7805,
+        7806,
+        7807,
+        7808,
+        7809
+      ],
+      "GiftRewardId_CN": [
+        7800,
+        7801,
+        7802,
+        7803,
+        7804,
+        7805,
+        7806,
+        7807,
+        7808,
+        7809
+      ],
+      "ForceShow": 0,
+      "LockLanguageId": 0,
+      "discountItemId": 0
+    }
+  },
+  {
+    "FestivalGiftRow": {
+      "ID": 79,
+      "Chapter": [
+        1,
+        999
+      ],
+      "Type": 1,
+      "TypeIcon": [],
+      "GiftRewardId": [
+        7900,
+        7901,
+        7902,
+        7903,
+        7904,
+        7905
+      ],
+      "GiftRewardId_CN": [
+        7900,
+        7901,
+        7902,
+        7903,
+        7904,
+        7905
+      ],
+      "ForceShow": 0,
+      "LockLanguageId": 0,
+      "discountItemId": 1113
+    }
+  },
+  {
+    "FestivalGiftRow": {
+      "ID": 80,
+      "Chapter": [
+        1,
+        999
+      ],
+      "Type": 1,
+      "TypeIcon": [],
+      "GiftRewardId": [
+        8000,
+        8001,
+        8002,
+        8003,
+        8004,
+        8005,
+        8006,
+        8007,
+        8008,
+        8009
+      ],
+      "GiftRewardId_CN": [
+        8000,
+        8001,
+        8002,
+        8003,
+        8004,
+        8005,
+        8006,
+        8007,
+        8008,
+        8009
+      ],
+      "ForceShow": 0,
+      "LockLanguageId": 0,
+      "discountItemId": 0
+    }
+  },
+  {
+    "FestivalGiftRow": {
+      "ID": 81,
+      "Chapter": [
+        1,
+        999
+      ],
+      "Type": 1,
+      "TypeIcon": [],
+      "GiftRewardId": [
+        8100,
+        8101,
+        8102,
+        8103,
+        8104,
+        8105,
+        8106,
+        8107,
+        8108,
+        8109
+      ],
+      "GiftRewardId_CN": [
+        8100,
+        8101,
+        8102,
+        8103,
+        8104,
+        8105,
+        8106,
+        8107,
+        8108,
+        8109
+      ],
+      "ForceShow": 0,
+      "LockLanguageId": 0,
+      "discountItemId": 0
+    }
+  },
+  {
+    "FestivalGiftRow": {
+      "ID": 82,
+      "Chapter": [
+        1,
+        999
+      ],
+      "Type": 1,
+      "TypeIcon": [],
+      "GiftRewardId": [
+        8200,
+        8201,
+        8202,
+        8203,
+        8204,
+        8205,
+        8206,
+        8207,
+        8208,
+        8209
+      ],
+      "GiftRewardId_CN": [
+        8200,
+        8201,
+        8202,
+        8203,
+        8204,
+        8205,
+        8206,
+        8207,
+        8208,
+        8209
+      ],
+      "ForceShow": 0,
+      "LockLanguageId": 0,
+      "discountItemId": 0
+    }
+  },
+  {
+    "FestivalGiftRow": {
+      "ID": 83,
+      "Chapter": [
+        1,
+        999
+      ],
+      "Type": 1,
+      "TypeIcon": [],
+      "GiftRewardId": [
+        8300,
+        8301,
+        8302,
+        8303,
+        8304,
+        8305,
+        8306,
+        8307,
+        8308,
+        8309
+      ],
+      "GiftRewardId_CN": [
+        8300,
+        8301,
+        8302,
+        8303,
+        8304,
+        8305,
+        8306,
+        8307,
+        8308,
+        8309
+      ],
+      "ForceShow": 0,
+      "LockLanguageId": 0,
+      "discountItemId": 0
+    }
+  },
+  {
+    "FestivalGiftRow": {
+      "ID": 84,
+      "Chapter": [
+        1,
+        999
+      ],
+      "Type": 1,
+      "TypeIcon": [],
+      "GiftRewardId": [
+        8400,
+        8401,
+        8402,
+        8403,
+        8404,
+        8405,
+        8406,
+        8407,
+        8408,
+        8409
+      ],
+      "GiftRewardId_CN": [
+        8400,
+        8401,
+        8402,
+        8403,
+        8404,
+        8405,
+        8406,
+        8407,
+        8408,
+        8409
+      ],
+      "ForceShow": 0,
+      "LockLanguageId": 0,
+      "discountItemId": 0
+    }
+  },
+  {
+    "FestivalGiftRow": {
+      "ID": 85,
+      "Chapter": [
+        1,
+        999
+      ],
+      "Type": 1,
+      "TypeIcon": [],
+      "GiftRewardId": [
+        8500,
+        8501,
+        8502,
+        8503,
+        8504,
+        8505,
+        8506,
+        8507,
+        8508,
+        8509
+      ],
+      "GiftRewardId_CN": [
+        8500,
+        8501,
+        8502,
+        8503,
+        8504,
+        8505,
+        8506,
+        8507,
+        8508,
+        8509
+      ],
+      "ForceShow": 0,
+      "LockLanguageId": 0,
+      "discountItemId": 0
+    }
+  },
+  {
+    "FestivalGiftRow": {
+      "ID": 86,
+      "Chapter": [
+        1,
+        999
+      ],
+      "Type": 1,
+      "TypeIcon": [],
+      "GiftRewardId": [
+        8600,
+        8601,
+        8602,
+        8603,
+        8604,
+        8605,
+        8606,
+        8607,
+        8608,
+        8609
+      ],
+      "GiftRewardId_CN": [
+        8600,
+        8601,
+        8602,
+        8603,
+        8604,
+        8605,
+        8606,
+        8607,
+        8608,
+        8609
+      ],
+      "ForceShow": 0,
+      "LockLanguageId": 0,
+      "discountItemId": 0
+    }
+  },
+  {
+    "FestivalGiftRow": {
+      "ID": 87,
+      "Chapter": [
+        1,
+        999
+      ],
+      "Type": 1,
+      "TypeIcon": [],
+      "GiftRewardId": [
+        8700,
+        8701,
+        8702,
+        8703,
+        8704,
+        8705,
+        8706,
+        8707,
+        8708,
+        8709
+      ],
+      "GiftRewardId_CN": [
+        8700,
+        8701,
+        8702,
+        8703,
+        8704,
+        8705,
+        8706,
+        8707,
+        8708,
+        8709
+      ],
+      "ForceShow": 0,
+      "LockLanguageId": 0,
+      "discountItemId": 0
+    }
+  },
+  {
+    "FestivalGiftRow": {
+      "ID": 88,
+      "Chapter": [
+        1,
+        999
+      ],
+      "Type": 1,
+      "TypeIcon": [],
+      "GiftRewardId": [
+        8800,
+        8801,
+        8802,
+        8803
+      ],
+      "GiftRewardId_CN": [
+        8800,
+        8801,
+        8802,
+        8803
+      ],
+      "ForceShow": 0,
+      "LockLanguageId": 0,
+      "discountItemId": 0
+    }
+  },
+  {
+    "FestivalGiftRow": {
+      "ID": 89,
+      "Chapter": [
+        1,
+        999
+      ],
+      "Type": 1,
+      "TypeIcon": [],
+      "GiftRewardId": [
+        8900,
+        8901,
+        8902,
+        8903,
+        8904,
+        8905,
+        8906,
+        8907,
+        8908,
+        8909
+      ],
+      "GiftRewardId_CN": [
+        8900,
+        8901,
+        8902,
+        8903,
+        8904,
+        8905,
+        8906,
+        8907,
+        8908,
+        8909
+      ],
+      "ForceShow": 0,
+      "LockLanguageId": 0,
+      "discountItemId": 0
+    }
+  },
+  {
+    "FestivalGiftRow": {
+      "ID": 90,
+      "Chapter": [
+        1,
+        999
+      ],
+      "Type": 1,
+      "TypeIcon": [],
+      "GiftRewardId": [
+        9000,
+        9001,
+        9002,
+        9003,
+        9004,
+        9005,
+        9006,
+        9007,
+        9008,
+        9009
+      ],
+      "GiftRewardId_CN": [
+        9000,
+        9001,
+        9002,
+        9003,
+        9004,
+        9005,
+        9006,
+        9007,
+        9008,
+        9009
+      ],
+      "ForceShow": 0,
+      "LockLanguageId": 0,
+      "discountItemId": 0
+    }
+  },
+  {
+    "FestivalGiftRow": {
+      "ID": 91,
+      "Chapter": [
+        1,
+        999
+      ],
+      "Type": 1,
+      "TypeIcon": [],
+      "GiftRewardId": [
+        9100,
+        9101,
+        9102,
+        9103,
+        9104,
+        9105,
+        9106,
+        9107,
+        9108,
+        9109
+      ],
+      "GiftRewardId_CN": [
+        9100,
+        9101,
+        9102,
+        9103,
+        9104,
+        9105,
+        9106,
+        9107,
+        9108,
+        9109
+      ],
+      "ForceShow": 0,
+      "LockLanguageId": 0,
+      "discountItemId": 0
+    }
+  },
+  {
+    "FestivalGiftRow": {
+      "ID": 92,
+      "Chapter": [
+        1,
+        999
+      ],
+      "Type": 1,
+      "TypeIcon": [],
+      "GiftRewardId": [
+        9200,
+        9201,
+        9202,
+        9203,
+        9204,
+        9205,
+        9206,
+        9207,
+        9208,
+        9209
+      ],
+      "GiftRewardId_CN": [
+        9200,
+        9201,
+        9202,
+        9203,
+        9204,
+        9205,
+        9206,
+        9207,
+        9208,
+        9209
+      ],
+      "ForceShow": 0,
+      "LockLanguageId": 0,
+      "discountItemId": 0
+    }
+  },
+  {
+    "FestivalGiftRow": {
+      "ID": 93,
+      "Chapter": [
+        1,
+        999
+      ],
+      "Type": 1,
+      "TypeIcon": [],
+      "GiftRewardId": [
+        9300,
+        9301,
+        9302,
+        9303,
+        9304,
+        9305,
+        9306,
+        9307,
+        9308,
+        9309
+      ],
+      "GiftRewardId_CN": [
+        9300,
+        9301,
+        9302,
+        9303,
+        9304,
+        9305,
+        9306,
+        9307,
+        9308,
+        9309
+      ],
+      "ForceShow": 0,
+      "LockLanguageId": 0,
+      "discountItemId": 0
+    }
+  },
+  {
+    "FestivalGiftRow": {
+      "ID": 94,
+      "Chapter": [
+        1,
+        999
+      ],
+      "Type": 1,
+      "TypeIcon": [],
+      "GiftRewardId": [
+        9400,
+        9401,
+        9402,
+        9403,
+        9404,
+        9405,
+        9406,
+        9407,
+        9408,
+        9409
+      ],
+      "GiftRewardId_CN": [
+        9400,
+        9401,
+        9402,
+        9403,
+        9404,
+        9405,
+        9406,
+        9407,
+        9408,
+        9409
+      ],
+      "ForceShow": 0,
+      "LockLanguageId": 0,
+      "discountItemId": 0
+    }
+  },
+  {
+    "FestivalGiftRow": {
+      "ID": 95,
+      "Chapter": [
+        1,
+        999
+      ],
+      "Type": 1,
+      "TypeIcon": [],
+      "GiftRewardId": [
+        9500,
+        9501,
+        9502,
+        9503,
+        9504,
+        9505,
+        9506,
+        9507,
+        9508,
+        9509
+      ],
+      "GiftRewardId_CN": [
+        9500,
+        9501,
+        9502,
+        9503,
+        9504,
+        9505,
+        9506,
+        9507,
+        9508,
+        9509
+      ],
+      "ForceShow": 0,
+      "LockLanguageId": 0,
+      "discountItemId": 0
+    }
+  },
+  {
+    "FestivalGiftRow": {
+      "ID": 96,
+      "Chapter": [
+        1,
+        999
+      ],
+      "Type": 1,
+      "TypeIcon": [],
+      "GiftRewardId": [
+        9600,
+        9601,
+        9602,
+        9603,
+        9604,
+        9605,
+        9606,
+        9607,
+        9608,
+        9609
+      ],
+      "GiftRewardId_CN": [
+        9600,
+        9601,
+        9602,
+        9603,
+        9604,
+        9605,
+        9606,
+        9607,
+        9608,
+        9609
+      ],
+      "ForceShow": 0,
+      "LockLanguageId": 0,
+      "discountItemId": 0
+    }
+  },
+  {
+    "FestivalGiftRow": {
+      "ID": 97,
+      "Chapter": [
+        1,
+        999
+      ],
+      "Type": 1,
+      "TypeIcon": [],
+      "GiftRewardId": [
+        9700,
+        9701,
+        9702,
+        9703,
+        9704,
+        9705,
+        9706,
+        9707,
+        9708,
+        9709
+      ],
+      "GiftRewardId_CN": [
+        9700,
+        9701,
+        9702,
+        9703,
+        9704,
+        9705,
+        9706,
+        9707,
+        9708,
+        9709
+      ],
+      "ForceShow": 0,
+      "LockLanguageId": 0,
+      "discountItemId": 0
+    }
+  },
+  {
+    "FestivalGiftRow": {
+      "ID": 98,
+      "Chapter": [
+        1,
+        999
+      ],
+      "Type": 1,
+      "TypeIcon": [],
+      "GiftRewardId": [
+        9800,
+        9801,
+        9802,
+        9803,
+        9804,
+        9805,
+        9806,
+        9807,
+        9808,
+        9809
+      ],
+      "GiftRewardId_CN": [
+        9800,
+        9801,
+        9802,
+        9803,
+        9804,
+        9805,
+        9806,
+        9807,
+        9808,
+        9809
+      ],
+      "ForceShow": 0,
+      "LockLanguageId": 0,
+      "discountItemId": 0
+    }
+  },
+  {
+    "FestivalGiftRow": {
+      "ID": 99,
+      "Chapter": [
+        1,
+        999
+      ],
+      "Type": 1,
+      "TypeIcon": [],
+      "GiftRewardId": [
+        9900,
+        9901,
+        9902,
+        9903,
+        9904,
+        9905,
+        9906,
+        9907,
+        9908,
+        9909
+      ],
+      "GiftRewardId_CN": [
+        9900,
+        9901,
+        9902,
+        9903,
+        9904,
+        9905,
+        9906,
+        9907,
+        9908,
+        9909
+      ],
+      "ForceShow": 0,
+      "LockLanguageId": 0,
+      "discountItemId": 0
+    }
+  },
+  {
+    "FestivalGiftRow": {
+      "ID": 100,
+      "Chapter": [
+        1,
+        999
+      ],
+      "Type": 1,
+      "TypeIcon": [],
+      "GiftRewardId": [
+        10000,
+        10001,
+        10002,
+        10003,
+        10004,
+        10005,
+        10006,
+        10007,
+        10008,
+        10009
+      ],
+      "GiftRewardId_CN": [
+        10000,
+        10001,
+        10002,
+        10003,
+        10004,
+        10005,
+        10006,
+        10007,
+        10008,
+        10009
+      ],
+      "ForceShow": 0,
+      "LockLanguageId": 0,
+      "discountItemId": 0
+    }
+  },
+  {
+    "FestivalGiftRow": {
+      "ID": 101,
+      "Chapter": [
+        1,
+        999
+      ],
+      "Type": 1,
+      "TypeIcon": [],
+      "GiftRewardId": [
+        10100,
+        10101,
+        10102,
+        10103,
+        10104,
+        10105,
+        10106,
+        10107,
+        10108,
+        10109
+      ],
+      "GiftRewardId_CN": [
+        10100,
+        10101,
+        10102,
+        10103,
+        10104,
+        10105,
+        10106,
+        10107,
+        10108,
+        10109
+      ],
+      "ForceShow": 0,
+      "LockLanguageId": 0,
+      "discountItemId": 0
+    }
+  },
+  {
+    "FestivalGiftRow": {
+      "ID": 102,
+      "Chapter": [
+        1,
+        999
+      ],
+      "Type": 1,
+      "TypeIcon": [],
+      "GiftRewardId": [
+        10200,
+        10201,
+        10202,
+        10203,
+        10204,
+        10205,
+        10206,
+        10207,
+        10208,
+        10209
+      ],
+      "GiftRewardId_CN": [
+        10200,
+        10201,
+        10202,
+        10203,
+        10204,
+        10205,
+        10206,
+        10207,
+        10208,
+        10209
+      ],
+      "ForceShow": 0,
+      "LockLanguageId": 0,
+      "discountItemId": 0
+    }
+  },
+  {
+    "FestivalGiftRow": {
+      "ID": 103,
+      "Chapter": [
+        1,
+        999
+      ],
+      "Type": 1,
+      "TypeIcon": [],
+      "GiftRewardId": [
+        10300,
+        10301,
+        10302,
+        10303,
+        10304,
+        10305,
+        10306,
+        10307,
+        10308,
+        10309
+      ],
+      "GiftRewardId_CN": [
+        10300,
+        10301,
+        10302,
+        10303,
+        10304,
+        10305,
+        10306,
+        10307,
+        10308,
+        10309
+      ],
+      "ForceShow": 0,
+      "LockLanguageId": 0,
+      "discountItemId": 0
+    }
+  },
+  {
+    "FestivalGiftRow": {
+      "ID": 104,
+      "Chapter": [
+        1,
+        999
+      ],
+      "Type": 1,
+      "TypeIcon": [],
+      "GiftRewardId": [
+        10400,
+        10401,
+        10402,
+        10403,
+        10404,
+        10405,
+        10406,
+        10407,
+        10408,
+        10409
+      ],
+      "GiftRewardId_CN": [
+        10400,
+        10401,
+        10402,
+        10403,
+        10404,
+        10405,
+        10406,
+        10407,
+        10408,
+        10409
+      ],
+      "ForceShow": 0,
+      "LockLanguageId": 0,
+      "discountItemId": 0
+    }
+  },
+  {
+    "FestivalGiftRow": {
+      "ID": 105,
+      "Chapter": [
+        1,
+        999
+      ],
+      "Type": 1,
+      "TypeIcon": [],
+      "GiftRewardId": [
+        10500,
+        10501,
+        10502,
+        10503,
+        10504,
+        10505,
+        10506,
+        10507,
+        10508,
+        10509
+      ],
+      "GiftRewardId_CN": [
+        10500,
+        10501,
+        10502,
+        10503,
+        10504,
+        10505,
+        10506,
+        10507,
+        10508,
+        10509
+      ],
+      "ForceShow": 0,
+      "LockLanguageId": 0,
+      "discountItemId": 0
+    }
+  },
+  {
+    "FestivalGiftRow": {
+      "ID": 106,
+      "Chapter": [
+        1,
+        999
+      ],
+      "Type": 1,
+      "TypeIcon": [],
+      "GiftRewardId": [
+        10600,
+        10601,
+        10602,
+        10603,
+        10604,
+        10605,
+        10606,
+        10607,
+        10608,
+        10609
+      ],
+      "GiftRewardId_CN": [
+        10600,
+        10601,
+        10602,
+        10603,
+        10604,
+        10605,
+        10606,
+        10607,
+        10608,
+        10609
+      ],
+      "ForceShow": 0,
+      "LockLanguageId": 0,
+      "discountItemId": 0
+    }
+  },
+  {
+    "FestivalGiftRow": {
+      "ID": 107,
+      "Chapter": [
+        1,
+        999
+      ],
+      "Type": 1,
+      "TypeIcon": [],
+      "GiftRewardId": [
+        10700,
+        10701,
+        10702,
+        10703,
+        10704,
+        10705,
+        10706,
+        10707,
+        10708,
+        10709
+      ],
+      "GiftRewardId_CN": [
+        10700,
+        10701,
+        10702,
+        10703,
+        10704,
+        10705,
+        10706,
+        10707,
+        10708,
+        10709
+      ],
+      "ForceShow": 0,
+      "LockLanguageId": 0,
+      "discountItemId": 0
+    }
+  },
+  {
+    "FestivalGiftRow": {
+      "ID": 108,
+      "Chapter": [
+        1,
+        999
+      ],
+      "Type": 1,
+      "TypeIcon": [],
+      "GiftRewardId": [
+        10800,
+        10801,
+        10802,
+        10803,
+        10804,
+        10805,
+        10806,
+        10807,
+        10808,
+        10809
+      ],
+      "GiftRewardId_CN": [
+        10800,
+        10801,
+        10802,
+        10803,
+        10804,
+        10805,
+        10806,
+        10807,
+        10808,
+        10809
+      ],
+      "ForceShow": 0,
+      "LockLanguageId": 0,
+      "discountItemId": 0
+    }
+  },
+  {
+    "FestivalGiftRow": {
+      "ID": 109,
+      "Chapter": [
+        1,
+        999
+      ],
+      "Type": 1,
+      "TypeIcon": [],
+      "GiftRewardId": [
+        10900,
+        10901,
+        10902,
+        10903,
+        10904,
+        10905,
+        10906,
+        10907,
+        10908,
+        10909
+      ],
+      "GiftRewardId_CN": [
+        10900,
+        10901,
+        10902,
+        10903,
+        10904,
+        10905,
+        10906,
+        10907,
+        10908,
+        10909
+      ],
+      "ForceShow": 0,
+      "LockLanguageId": 0,
+      "discountItemId": 0
+    }
+  },
+  {
+    "FestivalGiftRow": {
+      "ID": 110,
+      "Chapter": [
+        1,
+        999
+      ],
+      "Type": 1,
+      "TypeIcon": [],
+      "GiftRewardId": [
+        11000,
+        11001,
+        11002,
+        11003,
+        11004,
+        11005,
+        11006,
+        11007,
+        11008,
+        11009
+      ],
+      "GiftRewardId_CN": [
+        11000,
+        11001,
+        11002,
+        11003,
+        11004,
+        11005,
+        11006,
+        11007,
+        11008,
+        11009
+      ],
+      "ForceShow": 0,
+      "LockLanguageId": 0,
+      "discountItemId": 0
+    }
+  }
+]

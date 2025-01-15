@@ -1,0 +1,679 @@
+{
+    "Int32 _key": 2137320394,
+    "Int32 _rndIdx": 350,
+    "Dictionary<System.Int32,AccessoryCombineRow> _dict": {
+        "Int32[] _buckets": [
+            23,
+            24,
+            21,
+            22,
+            0,
+            25,
+            26,
+            5,
+            6,
+            29,
+            30,
+            27,
+            28,
+            8,
+            0,
+            0,
+            2,
+            0,
+            0,
+            0,
+            0,
+            0,
+            35,
+            36,
+            33,
+            34,
+            14,
+            0,
+            0,
+            17,
+            18,
+            15,
+            16,
+            0,
+            31,
+            32,
+            0
+        ],
+        "Entry<System.Int32,AccessoryCombineRow>[] _entries": [
+            {
+                "Int32 hashCode": 2138613656,
+                "Int32 next": -1,
+                "Int32 key": 2138613656,
+                "AccessoryCombineRow value": {
+                    "Int32 <ID>k__BackingField": 1030111,
+                    "Int32[] <AccessoryRequire>k__BackingField": [
+                        1010111
+                    ],
+                    "Int32 <TwinID>k__BackingField": 0,
+                    "String[] <WeaponIcon>k__BackingField": [],
+                    "Int32[] <Conflict>k__BackingField": [],
+                    "Int32 <Quality>k__BackingField": 11,
+                    "Int32 <UnlockTime>k__BackingField": 1830304000
+                }
+            },
+            {
+                "Int32 hashCode": 2138613632,
+                "Int32 next": -1,
+                "Int32 key": 2138613632,
+                "AccessoryCombineRow value": {
+                    "Int32 <ID>k__BackingField": 1030103,
+                    "Int32[] <AccessoryRequire>k__BackingField": [
+                        1010112
+                    ],
+                    "Int32 <TwinID>k__BackingField": 0,
+                    "String[] <WeaponIcon>k__BackingField": [],
+                    "Int32[] <Conflict>k__BackingField": [],
+                    "Int32 <Quality>k__BackingField": 12,
+                    "Int32 <UnlockTime>k__BackingField": 1830304000
+                }
+            },
+            {
+                "Int32 hashCode": 2138613662,
+                "Int32 next": -1,
+                "Int32 key": 2138613662,
+                "AccessoryCombineRow value": {
+                    "Int32 <ID>k__BackingField": 1030113,
+                    "Int32[] <AccessoryRequire>k__BackingField": [
+                        1010113
+                    ],
+                    "Int32 <TwinID>k__BackingField": 0,
+                    "String[] <WeaponIcon>k__BackingField": [],
+                    "Int32[] <Conflict>k__BackingField": [],
+                    "Int32 <Quality>k__BackingField": 13,
+                    "Int32 <UnlockTime>k__BackingField": 1830304000
+                }
+            },
+            {
+                "Int32 hashCode": 2138613663,
+                "Int32 next": -1,
+                "Int32 key": 2138613663,
+                "AccessoryCombineRow value": {
+                    "Int32 <ID>k__BackingField": 1030114,
+                    "Int32[] <AccessoryRequire>k__BackingField": [
+                        1010114
+                    ],
+                    "Int32 <TwinID>k__BackingField": 0,
+                    "String[] <WeaponIcon>k__BackingField": [],
+                    "Int32[] <Conflict>k__BackingField": [],
+                    "Int32 <Quality>k__BackingField": 14,
+                    "Int32 <UnlockTime>k__BackingField": 1830304000
+                }
+            },
+            {
+                "Int32 hashCode": 2138613660,
+                "Int32 next": -1,
+                "Int32 key": 2138613660,
+                "AccessoryCombineRow value": {
+                    "Int32 <ID>k__BackingField": 1030115,
+                    "Int32[] <AccessoryRequire>k__BackingField": [
+                        1010115
+                    ],
+                    "Int32 <TwinID>k__BackingField": 0,
+                    "String[] <WeaponIcon>k__BackingField": [],
+                    "Int32[] <Conflict>k__BackingField": [],
+                    "Int32 <Quality>k__BackingField": 15,
+                    "Int32 <UnlockTime>k__BackingField": 1830304000
+                }
+            },
+            {
+                "Int32 hashCode": 2138613661,
+                "Int32 next": -1,
+                "Int32 key": 2138613661,
+                "AccessoryCombineRow value": {
+                    "Int32 <ID>k__BackingField": 1030116,
+                    "Int32[] <AccessoryRequire>k__BackingField": [
+                        1010116
+                    ],
+                    "Int32 <TwinID>k__BackingField": 0,
+                    "String[] <WeaponIcon>k__BackingField": [],
+                    "Int32[] <Conflict>k__BackingField": [],
+                    "Int32 <Quality>k__BackingField": 16,
+                    "Int32 <UnlockTime>k__BackingField": 1830304000
+                }
+            },
+            {
+                "Int32 hashCode": 2138613628,
+                "Int32 next": -1,
+                "Int32 key": 2138613628,
+                "AccessoryCombineRow value": {
+                    "Int32 <ID>k__BackingField": 1030211,
+                    "Int32[] <AccessoryRequire>k__BackingField": [
+                        1010211
+                    ],
+                    "Int32 <TwinID>k__BackingField": 0,
+                    "String[] <WeaponIcon>k__BackingField": [],
+                    "Int32[] <Conflict>k__BackingField": [],
+                    "Int32 <Quality>k__BackingField": 11,
+                    "Int32 <UnlockTime>k__BackingField": 1830304000
+                }
+            },
+            {
+                "Int32 hashCode": 2138613629,
+                "Int32 next": -1,
+                "Int32 key": 2138613629,
+                "AccessoryCombineRow value": {
+                    "Int32 <ID>k__BackingField": 1030212,
+                    "Int32[] <AccessoryRequire>k__BackingField": [
+                        1010212
+                    ],
+                    "Int32 <TwinID>k__BackingField": 0,
+                    "String[] <WeaponIcon>k__BackingField": [],
+                    "Int32[] <Conflict>k__BackingField": [],
+                    "Int32 <Quality>k__BackingField": 12,
+                    "Int32 <UnlockTime>k__BackingField": 1830304000
+                }
+            },
+            {
+                "Int32 hashCode": 2138613618,
+                "Int32 next": -1,
+                "Int32 key": 2138613618,
+                "AccessoryCombineRow value": {
+                    "Int32 <ID>k__BackingField": 1030213,
+                    "Int32[] <AccessoryRequire>k__BackingField": [
+                        1010213
+                    ],
+                    "Int32 <TwinID>k__BackingField": 0,
+                    "String[] <WeaponIcon>k__BackingField": [],
+                    "Int32[] <Conflict>k__BackingField": [],
+                    "Int32 <Quality>k__BackingField": 13,
+                    "Int32 <UnlockTime>k__BackingField": 1830304000
+                }
+            },
+            {
+                "Int32 hashCode": 2138613619,
+                "Int32 next": 0,
+                "Int32 key": 2138613619,
+                "AccessoryCombineRow value": {
+                    "Int32 <ID>k__BackingField": 1030214,
+                    "Int32[] <AccessoryRequire>k__BackingField": [
+                        1010214
+                    ],
+                    "Int32 <TwinID>k__BackingField": 0,
+                    "String[] <WeaponIcon>k__BackingField": [],
+                    "Int32[] <Conflict>k__BackingField": [],
+                    "Int32 <Quality>k__BackingField": 14,
+                    "Int32 <UnlockTime>k__BackingField": 1830304000
+                }
+            },
+            {
+                "Int32 hashCode": 2138613616,
+                "Int32 next": -1,
+                "Int32 key": 2138613616,
+                "AccessoryCombineRow value": {
+                    "Int32 <ID>k__BackingField": 1030215,
+                    "Int32[] <AccessoryRequire>k__BackingField": [
+                        1010215
+                    ],
+                    "Int32 <TwinID>k__BackingField": 0,
+                    "String[] <WeaponIcon>k__BackingField": [],
+                    "Int32[] <Conflict>k__BackingField": [],
+                    "Int32 <Quality>k__BackingField": 15,
+                    "Int32 <UnlockTime>k__BackingField": 1830304000
+                }
+            },
+            {
+                "Int32 hashCode": 2138613617,
+                "Int32 next": -1,
+                "Int32 key": 2138613617,
+                "AccessoryCombineRow value": {
+                    "Int32 <ID>k__BackingField": 1030216,
+                    "Int32[] <AccessoryRequire>k__BackingField": [
+                        1010216
+                    ],
+                    "Int32 <TwinID>k__BackingField": 0,
+                    "String[] <WeaponIcon>k__BackingField": [],
+                    "Int32[] <Conflict>k__BackingField": [],
+                    "Int32 <Quality>k__BackingField": 16,
+                    "Int32 <UnlockTime>k__BackingField": 1830304000
+                }
+            },
+            {
+                "Int32 hashCode": 2138613456,
+                "Int32 next": -1,
+                "Int32 key": 2138613456,
+                "AccessoryCombineRow value": {
+                    "Int32 <ID>k__BackingField": 1030311,
+                    "Int32[] <AccessoryRequire>k__BackingField": [
+                        1010311
+                    ],
+                    "Int32 <TwinID>k__BackingField": 0,
+                    "String[] <WeaponIcon>k__BackingField": [],
+                    "Int32[] <Conflict>k__BackingField": [],
+                    "Int32 <Quality>k__BackingField": 11,
+                    "Int32 <UnlockTime>k__BackingField": 1830304000
+                }
+            },
+            {
+                "Int32 hashCode": 2138613457,
+                "Int32 next": -1,
+                "Int32 key": 2138613457,
+                "AccessoryCombineRow value": {
+                    "Int32 <ID>k__BackingField": 1030312,
+                    "Int32[] <AccessoryRequire>k__BackingField": [
+                        1010312
+                    ],
+                    "Int32 <TwinID>k__BackingField": 0,
+                    "String[] <WeaponIcon>k__BackingField": [],
+                    "Int32[] <Conflict>k__BackingField": [],
+                    "Int32 <Quality>k__BackingField": 12,
+                    "Int32 <UnlockTime>k__BackingField": 1830304000
+                }
+            },
+            {
+                "Int32 hashCode": 2138613462,
+                "Int32 next": -1,
+                "Int32 key": 2138613462,
+                "AccessoryCombineRow value": {
+                    "Int32 <ID>k__BackingField": 1030313,
+                    "Int32[] <AccessoryRequire>k__BackingField": [
+                        1010313
+                    ],
+                    "Int32 <TwinID>k__BackingField": 0,
+                    "String[] <WeaponIcon>k__BackingField": [],
+                    "Int32[] <Conflict>k__BackingField": [],
+                    "Int32 <Quality>k__BackingField": 13,
+                    "Int32 <UnlockTime>k__BackingField": 1830304000
+                }
+            },
+            {
+                "Int32 hashCode": 2138613463,
+                "Int32 next": -1,
+                "Int32 key": 2138613463,
+                "AccessoryCombineRow value": {
+                    "Int32 <ID>k__BackingField": 1030314,
+                    "Int32[] <AccessoryRequire>k__BackingField": [
+                        1010314
+                    ],
+                    "Int32 <TwinID>k__BackingField": 0,
+                    "String[] <WeaponIcon>k__BackingField": [],
+                    "Int32[] <Conflict>k__BackingField": [],
+                    "Int32 <Quality>k__BackingField": 14,
+                    "Int32 <UnlockTime>k__BackingField": 1830304000
+                }
+            },
+            {
+                "Int32 hashCode": 2138613460,
+                "Int32 next": -1,
+                "Int32 key": 2138613460,
+                "AccessoryCombineRow value": {
+                    "Int32 <ID>k__BackingField": 1030315,
+                    "Int32[] <AccessoryRequire>k__BackingField": [
+                        1010315
+                    ],
+                    "Int32 <TwinID>k__BackingField": 0,
+                    "String[] <WeaponIcon>k__BackingField": [],
+                    "Int32[] <Conflict>k__BackingField": [],
+                    "Int32 <Quality>k__BackingField": 15,
+                    "Int32 <UnlockTime>k__BackingField": 1830304000
+                }
+            },
+            {
+                "Int32 hashCode": 2138613461,
+                "Int32 next": -1,
+                "Int32 key": 2138613461,
+                "AccessoryCombineRow value": {
+                    "Int32 <ID>k__BackingField": 1030316,
+                    "Int32[] <AccessoryRequire>k__BackingField": [
+                        1010316
+                    ],
+                    "Int32 <TwinID>k__BackingField": 0,
+                    "String[] <WeaponIcon>k__BackingField": [],
+                    "Int32[] <Conflict>k__BackingField": [],
+                    "Int32 <Quality>k__BackingField": 16,
+                    "Int32 <UnlockTime>k__BackingField": 1830304000
+                }
+            },
+            {
+                "Int32 hashCode": 2138613428,
+                "Int32 next": -1,
+                "Int32 key": 2138613428,
+                "AccessoryCombineRow value": {
+                    "Int32 <ID>k__BackingField": 1030411,
+                    "Int32[] <AccessoryRequire>k__BackingField": [
+                        1010411,
+                        1020111
+                    ],
+                    "Int32 <TwinID>k__BackingField": 1040411,
+                    "String[] <WeaponIcon>k__BackingField": [
+                        "gutou",
+                        "liulian"
+                    ],
+                    "Int32[] <Conflict>k__BackingField": [
+                        1020101,
+                        1010401
+                    ],
+                    "Int32 <Quality>k__BackingField": 11,
+                    "Int32 <UnlockTime>k__BackingField": 1739980800
+                }
+            },
+            {
+                "Int32 hashCode": 2138613429,
+                "Int32 next": -1,
+                "Int32 key": 2138613429,
+                "AccessoryCombineRow value": {
+                    "Int32 <ID>k__BackingField": 1030412,
+                    "Int32[] <AccessoryRequire>k__BackingField": [
+                        1010412,
+                        1020112
+                    ],
+                    "Int32 <TwinID>k__BackingField": 1040412,
+                    "String[] <WeaponIcon>k__BackingField": [
+                        "gutou",
+                        "liulian"
+                    ],
+                    "Int32[] <Conflict>k__BackingField": [
+                        1020101,
+                        1010401
+                    ],
+                    "Int32 <Quality>k__BackingField": 12,
+                    "Int32 <UnlockTime>k__BackingField": 1739980800
+                }
+            },
+            {
+                "Int32 hashCode": 2138613322,
+                "Int32 next": 8,
+                "Int32 key": 2138613322,
+                "AccessoryCombineRow value": {
+                    "Int32 <ID>k__BackingField": 1030413,
+                    "Int32[] <AccessoryRequire>k__BackingField": [
+                        1010413,
+                        1020113
+                    ],
+                    "Int32 <TwinID>k__BackingField": 1040413,
+                    "String[] <WeaponIcon>k__BackingField": [
+                        "gutou",
+                        "liulian"
+                    ],
+                    "Int32[] <Conflict>k__BackingField": [
+                        1020101,
+                        1010401
+                    ],
+                    "Int32 <Quality>k__BackingField": 13,
+                    "Int32 <UnlockTime>k__BackingField": 1739980800
+                }
+            },
+            {
+                "Int32 hashCode": 2138613323,
+                "Int32 next": 9,
+                "Int32 key": 2138613323,
+                "AccessoryCombineRow value": {
+                    "Int32 <ID>k__BackingField": 1030414,
+                    "Int32[] <AccessoryRequire>k__BackingField": [
+                        1010414,
+                        1020114
+                    ],
+                    "Int32 <TwinID>k__BackingField": 1040414,
+                    "String[] <WeaponIcon>k__BackingField": [
+                        "gutou",
+                        "liulian"
+                    ],
+                    "Int32[] <Conflict>k__BackingField": [
+                        1020101,
+                        1010401
+                    ],
+                    "Int32 <Quality>k__BackingField": 14,
+                    "Int32 <UnlockTime>k__BackingField": 1739980800
+                }
+            },
+            {
+                "Int32 hashCode": 2138613320,
+                "Int32 next": 10,
+                "Int32 key": 2138613320,
+                "AccessoryCombineRow value": {
+                    "Int32 <ID>k__BackingField": 1030415,
+                    "Int32[] <AccessoryRequire>k__BackingField": [
+                        1010415,
+                        1020115
+                    ],
+                    "Int32 <TwinID>k__BackingField": 1040415,
+                    "String[] <WeaponIcon>k__BackingField": [
+                        "gutou",
+                        "liulian"
+                    ],
+                    "Int32[] <Conflict>k__BackingField": [
+                        1020101,
+                        1010401
+                    ],
+                    "Int32 <Quality>k__BackingField": 15,
+                    "Int32 <UnlockTime>k__BackingField": 1739980800
+                }
+            },
+            {
+                "Int32 hashCode": 2138613321,
+                "Int32 next": 11,
+                "Int32 key": 2138613321,
+                "AccessoryCombineRow value": {
+                    "Int32 <ID>k__BackingField": 1030416,
+                    "Int32[] <AccessoryRequire>k__BackingField": [
+                        1010416,
+                        1020116
+                    ],
+                    "Int32 <TwinID>k__BackingField": 1040416,
+                    "String[] <WeaponIcon>k__BackingField": [
+                        "gutou",
+                        "liulian"
+                    ],
+                    "Int32[] <Conflict>k__BackingField": [
+                        1020101,
+                        1010401
+                    ],
+                    "Int32 <Quality>k__BackingField": 16,
+                    "Int32 <UnlockTime>k__BackingField": 1739980800
+                }
+            },
+            {
+                "Int32 hashCode": 2138613288,
+                "Int32 next": -1,
+                "Int32 key": 2138613288,
+                "AccessoryCombineRow value": {
+                    "Int32 <ID>k__BackingField": 1030511,
+                    "Int32[] <AccessoryRequire>k__BackingField": [
+                        1010511
+                    ],
+                    "Int32 <TwinID>k__BackingField": 0,
+                    "String[] <WeaponIcon>k__BackingField": [],
+                    "Int32[] <Conflict>k__BackingField": [],
+                    "Int32 <Quality>k__BackingField": 11,
+                    "Int32 <UnlockTime>k__BackingField": 1830304000
+                }
+            },
+            {
+                "Int32 hashCode": 2138613289,
+                "Int32 next": -1,
+                "Int32 key": 2138613289,
+                "AccessoryCombineRow value": {
+                    "Int32 <ID>k__BackingField": 1030512,
+                    "Int32[] <AccessoryRequire>k__BackingField": [
+                        1010512
+                    ],
+                    "Int32 <TwinID>k__BackingField": 0,
+                    "String[] <WeaponIcon>k__BackingField": [],
+                    "Int32[] <Conflict>k__BackingField": [],
+                    "Int32 <Quality>k__BackingField": 12,
+                    "Int32 <UnlockTime>k__BackingField": 1830304000
+                }
+            },
+            {
+                "Int32 hashCode": 2138613294,
+                "Int32 next": -1,
+                "Int32 key": 2138613294,
+                "AccessoryCombineRow value": {
+                    "Int32 <ID>k__BackingField": 1030513,
+                    "Int32[] <AccessoryRequire>k__BackingField": [
+                        1010513
+                    ],
+                    "Int32 <TwinID>k__BackingField": 0,
+                    "String[] <WeaponIcon>k__BackingField": [],
+                    "Int32[] <Conflict>k__BackingField": [],
+                    "Int32 <Quality>k__BackingField": 13,
+                    "Int32 <UnlockTime>k__BackingField": 1830304000
+                }
+            },
+            {
+                "Int32 hashCode": 2138613295,
+                "Int32 next": 6,
+                "Int32 key": 2138613295,
+                "AccessoryCombineRow value": {
+                    "Int32 <ID>k__BackingField": 1030514,
+                    "Int32[] <AccessoryRequire>k__BackingField": [
+                        1010514
+                    ],
+                    "Int32 <TwinID>k__BackingField": 0,
+                    "String[] <WeaponIcon>k__BackingField": [],
+                    "Int32[] <Conflict>k__BackingField": [],
+                    "Int32 <Quality>k__BackingField": 14,
+                    "Int32 <UnlockTime>k__BackingField": 1830304000
+                }
+            },
+            {
+                "Int32 hashCode": 2138613292,
+                "Int32 next": 2,
+                "Int32 key": 2138613292,
+                "AccessoryCombineRow value": {
+                    "Int32 <ID>k__BackingField": 1030515,
+                    "Int32[] <AccessoryRequire>k__BackingField": [
+                        1010515
+                    ],
+                    "Int32 <TwinID>k__BackingField": 0,
+                    "String[] <WeaponIcon>k__BackingField": [],
+                    "Int32[] <Conflict>k__BackingField": [],
+                    "Int32 <Quality>k__BackingField": 15,
+                    "Int32 <UnlockTime>k__BackingField": 1830304000
+                }
+            },
+            {
+                "Int32 hashCode": 2138613293,
+                "Int32 next": 3,
+                "Int32 key": 2138613293,
+                "AccessoryCombineRow value": {
+                    "Int32 <ID>k__BackingField": 1030516,
+                    "Int32[] <AccessoryRequire>k__BackingField": [
+                        1010516
+                    ],
+                    "Int32 <TwinID>k__BackingField": 0,
+                    "String[] <WeaponIcon>k__BackingField": [],
+                    "Int32[] <Conflict>k__BackingField": [],
+                    "Int32 <Quality>k__BackingField": 16,
+                    "Int32 <UnlockTime>k__BackingField": 1830304000
+                }
+            },
+            {
+                "Int32 hashCode": 2138613132,
+                "Int32 next": 18,
+                "Int32 key": 2138613132,
+                "AccessoryCombineRow value": {
+                    "Int32 <ID>k__BackingField": 1030611,
+                    "Int32[] <AccessoryRequire>k__BackingField": [
+                        1010611
+                    ],
+                    "Int32 <TwinID>k__BackingField": 0,
+                    "String[] <WeaponIcon>k__BackingField": [],
+                    "Int32[] <Conflict>k__BackingField": [],
+                    "Int32 <Quality>k__BackingField": 11,
+                    "Int32 <UnlockTime>k__BackingField": 1830304000
+                }
+            },
+            {
+                "Int32 hashCode": 2138613133,
+                "Int32 next": 19,
+                "Int32 key": 2138613133,
+                "AccessoryCombineRow value": {
+                    "Int32 <ID>k__BackingField": 1030612,
+                    "Int32[] <AccessoryRequire>k__BackingField": [
+                        1010612
+                    ],
+                    "Int32 <TwinID>k__BackingField": 0,
+                    "String[] <WeaponIcon>k__BackingField": [],
+                    "Int32[] <Conflict>k__BackingField": [],
+                    "Int32 <Quality>k__BackingField": 12,
+                    "Int32 <UnlockTime>k__BackingField": 1830304000
+                }
+            },
+            {
+                "Int32 hashCode": 2138613122,
+                "Int32 next": -1,
+                "Int32 key": 2138613122,
+                "AccessoryCombineRow value": {
+                    "Int32 <ID>k__BackingField": 1030613,
+                    "Int32[] <AccessoryRequire>k__BackingField": [
+                        1010613
+                    ],
+                    "Int32 <TwinID>k__BackingField": 0,
+                    "String[] <WeaponIcon>k__BackingField": [],
+                    "Int32[] <Conflict>k__BackingField": [],
+                    "Int32 <Quality>k__BackingField": 13,
+                    "Int32 <UnlockTime>k__BackingField": 1830304000
+                }
+            },
+            {
+                "Int32 hashCode": 2138613123,
+                "Int32 next": 12,
+                "Int32 key": 2138613123,
+                "AccessoryCombineRow value": {
+                    "Int32 <ID>k__BackingField": 1030614,
+                    "Int32[] <AccessoryRequire>k__BackingField": [
+                        1010614
+                    ],
+                    "Int32 <TwinID>k__BackingField": 0,
+                    "String[] <WeaponIcon>k__BackingField": [],
+                    "Int32[] <Conflict>k__BackingField": [],
+                    "Int32 <Quality>k__BackingField": 14,
+                    "Int32 <UnlockTime>k__BackingField": 1830304000
+                }
+            },
+            {
+                "Int32 hashCode": 2138613120,
+                "Int32 next": -1,
+                "Int32 key": 2138613120,
+                "AccessoryCombineRow value": {
+                    "Int32 <ID>k__BackingField": 1030615,
+                    "Int32[] <AccessoryRequire>k__BackingField": [
+                        1010615
+                    ],
+                    "Int32 <TwinID>k__BackingField": 0,
+                    "String[] <WeaponIcon>k__BackingField": [],
+                    "Int32[] <Conflict>k__BackingField": [],
+                    "Int32 <Quality>k__BackingField": 15,
+                    "Int32 <UnlockTime>k__BackingField": 1830304000
+                }
+            },
+            {
+                "Int32 hashCode": 2138613121,
+                "Int32 next": -1,
+                "Int32 key": 2138613121,
+                "AccessoryCombineRow value": {
+                    "Int32 <ID>k__BackingField": 1030616,
+                    "Int32[] <AccessoryRequire>k__BackingField": [
+                        1010616
+                    ],
+                    "Int32 <TwinID>k__BackingField": 0,
+                    "String[] <WeaponIcon>k__BackingField": [],
+                    "Int32[] <Conflict>k__BackingField": [],
+                    "Int32 <Quality>k__BackingField": 16,
+                    "Int32 <UnlockTime>k__BackingField": 1830304000
+                }
+            },
+            {
+                "Int32 hashCode": 0,
+                "Int32 next": 0,
+                "Int32 key": 0,
+                "AccessoryCombineRow value": "(null-object)"
+            }
+        ],
+        "Int32 _count": 36,
+        "Int32 _freeList": -1,
+        "Int32 _freeCount": 0,
+        "Int32 _version": 36,
+        "IEqualityComparer<System.Int32> _comparer": "(null-object)",
+        "KeyCollection<System.Int32,AccessoryCombineRow> _keys": "(null-object)",
+        "ValueCollection<System.Int32,AccessoryCombineRow> _values": "(null-object)",
+        "Object _syncRoot": "(null-object)"
+    }
+}

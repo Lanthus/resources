@@ -1,0 +1,89 @@
+[
+  {
+    "PlinkoRewardSpecialProbabilityRow": {
+      "ID": 1,
+      "Type": 1,
+      "Rewards1": [
+        [
+          1,
+          1,
+          10
+        ],
+        [
+          1,
+          2,
+          20
+        ],
+        [
+          1,
+          3,
+          15
+        ],
+        [
+          1,
+          4,
+          15
+        ],
+        [
+          1,
+          5,
+          15
+        ],
+        [
+          1,
+          6,
+          10
+        ],
+        [
+          1,
+          7,
+          10
+        ],
+        [
+          1,
+          8,
+          5
+        ]
+      ],
+      "Rewards2": 2
+    }
+  },
+  {
+    "PlinkoRewardSpecialProbabilityRow": {
+      "ID": 2,
+      "Type": 2,
+      "Rewards1": [
+        [
+          1,
+          7,
+          20
+        ],
+        [
+          1,
+          8,
+          80
+        ]
+      ],
+      "Rewards2": 2
+    }
+  },
+  {
+    "PlinkoRewardSpecialProbabilityRow": {
+      "ID": 3,
+      "Type": 3,
+      "Rewards1": [
+        [
+          1,
+          0,
+          80
+        ],
+        [
+          1,
+          1,
+          20
+        ]
+      ],
+      "Rewards2": 2
+    }
+  }
+]

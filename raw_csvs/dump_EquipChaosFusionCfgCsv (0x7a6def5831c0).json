@@ -1,0 +1,1827 @@
+{
+  "String <Path>k__BackingField": "CsvData/DynamicCsv/EquipChaosFusionCfg.bytes",
+  "ObscuredDictionaryInt<EquipChaosFusionCfgRow> _dict": {
+    "Int32 _key": 1916811952,
+    "Int32 _rndIdx": 54,
+    "Dictionary<System.Int32,EquipChaosFusionCfgRow> _dict": {
+      "Int32[] _buckets": [
+        0,
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "Entry<System.Int32,EquipChaosFusionCfgRow>[] _entries": [
+        {
+          "Int32 hashCode": 1917530149,
+          "Int32 next": -1,
+          "Int32 key": 1917530149,
+          "EquipChaosFusionCfgRow value": {
+            "ObscuredInt <id>k__BackingField": {
+              "Int32 currentCryptoKey": 1873219755,
+              "Int32 hiddenValue": 1873220418,
+              "Int32 fakeValue": 1272197204,
+              "Int32 currentFakeCryptoKey": 1272198077,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt <Equipid>k__BackingField": {
+              "Int32 currentCryptoKey": 1226949131,
+              "Int32 hiddenValue": 1227192687,
+              "Int32 fakeValue": 1680538461,
+              "Int32 currentFakeCryptoKey": 1680752697,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt <Star>k__BackingField": {
+              "Int32 currentCryptoKey": 1472432075,
+              "Int32 hiddenValue": 1472432074,
+              "Int32 fakeValue": 1692047064,
+              "Int32 currentFakeCryptoKey": 1692047065,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt <NameId>k__BackingField": {
+              "Int32 currentCryptoKey": 1904568500,
+              "Int32 hiddenValue": 1906040930,
+              "Int32 fakeValue": 1629776237,
+              "Int32 currentFakeCryptoKey": 1631248827,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt <DescId>k__BackingField": {
+              "Int32 currentCryptoKey": 1175038203,
+              "Int32 hiddenValue": 1177853146,
+              "Int32 fakeValue": 1988633503,
+              "Int32 currentFakeCryptoKey": 1991579582,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "List<System.Int32[]> <CostEquip>k__BackingField": [
+              {
+                "System.Int32[]": [
+                  210307,
+                  1
+                ]
+              }
+            ],
+            "List<System.Int32[]> <CostItem>k__BackingField": [
+              {
+                "System.Int32[]": [
+                  614,
+                  1
+                ]
+              },
+              {
+                "System.Int32[]": [
+                  613,
+                  20
+                ]
+              },
+              {
+                "System.Int32[]": [
+                  610,
+                  500
+                ]
+              }
+            ],
+            "ObscuredInt <LevelLock>k__BackingField": {
+              "Int32 currentCryptoKey": 1286831338,
+              "Int32 hiddenValue": 1286831337,
+              "Int32 fakeValue": 1812087291,
+              "Int32 currentFakeCryptoKey": 1812087288,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt <Level>k__BackingField": {
+              "Int32 currentCryptoKey": 1174567895,
+              "Int32 hiddenValue": 1174567890,
+              "Int32 fakeValue": 1252752919,
+              "Int32 currentFakeCryptoKey": 1252752914,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt[] <equipFeature>k__BackingField": [],
+            "ObscuredInt[] <equipFeatureMod>k__BackingField": [],
+            "ObscuredInt <showTime>k__BackingField": {
+              "Int32 currentCryptoKey": 1510487205,
+              "Int32 hiddenValue": 1033869605,
+              "Int32 fakeValue": 293775472,
+              "Int32 currentFakeCryptoKey": 1981089264,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt <BaseRate>k__BackingField": {
+              "Int32 currentCryptoKey": 1098362571,
+              "Int32 hiddenValue": 1098362147,
+              "Int32 fakeValue": 1082971228,
+              "Int32 currentFakeCryptoKey": 1082972084,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt <VulnerableDmage>k__BackingField": {
+              "Int32 currentCryptoKey": 2095202468,
+              "Int32 hiddenValue": 2095202468,
+              "Int32 fakeValue": 2110503154,
+              "Int32 currentFakeCryptoKey": 2110503154,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt <CriticalRate>k__BackingField": {
+              "Int32 currentCryptoKey": 1622163233,
+              "Int32 hiddenValue": 1622163233,
+              "Int32 fakeValue": 1590609734,
+              "Int32 currentFakeCryptoKey": 1590609734,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt <CriticalDamage>k__BackingField": {
+              "Int32 currentCryptoKey": 1055986332,
+              "Int32 hiddenValue": 1055986332,
+              "Int32 fakeValue": 1151247806,
+              "Int32 currentFakeCryptoKey": 1151247806,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt <SkillDamage>k__BackingField": {
+              "Int32 currentCryptoKey": 2062296082,
+              "Int32 hiddenValue": 2062296082,
+              "Int32 fakeValue": 1085534642,
+              "Int32 currentFakeCryptoKey": 1085534642,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt <SheildDamage>k__BackingField": {
+              "Int32 currentCryptoKey": 1328356880,
+              "Int32 hiddenValue": 1328356880,
+              "Int32 fakeValue": 1143620436,
+              "Int32 currentFakeCryptoKey": 1143620436,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt <DebuffDamage>k__BackingField": {
+              "Int32 currentCryptoKey": 2082355852,
+              "Int32 hiddenValue": 2082355852,
+              "Int32 fakeValue": 1357321914,
+              "Int32 currentFakeCryptoKey": 1357321914,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt <BaseDamage>k__BackingField": {
+              "Int32 currentCryptoKey": 1437580546,
+              "Int32 hiddenValue": 1437580546,
+              "Int32 fakeValue": 1984915996,
+              "Int32 currentFakeCryptoKey": 1984915996,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            }
+          }
+        },
+        {
+          "Int32 hashCode": 1917530150,
+          "Int32 next": -1,
+          "Int32 key": 1917530150,
+          "EquipChaosFusionCfgRow value": {
+            "ObscuredInt <id>k__BackingField": {
+              "Int32 currentCryptoKey": 1967157902,
+              "Int32 hiddenValue": 1967157604,
+              "Int32 fakeValue": 2061431342,
+              "Int32 currentFakeCryptoKey": 2061431236,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt <Equipid>k__BackingField": {
+              "Int32 currentCryptoKey": 2049584452,
+              "Int32 hiddenValue": 2049873440,
+              "Int32 fakeValue": 1053083774,
+              "Int32 currentFakeCryptoKey": 1052799770,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt <Star>k__BackingField": {
+              "Int32 currentCryptoKey": 1434447930,
+              "Int32 hiddenValue": 1434447928,
+              "Int32 fakeValue": 1080820323,
+              "Int32 currentFakeCryptoKey": 1080820321,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt <NameId>k__BackingField": {
+              "Int32 currentCryptoKey": 1921614269,
+              "Int32 hiddenValue": 1922500971,
+              "Int32 fakeValue": 1464239231,
+              "Int32 currentFakeCryptoKey": 1465388201,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt <DescId>k__BackingField": {
+              "Int32 currentCryptoKey": 1522275566,
+              "Int32 hiddenValue": 1518411980,
+              "Int32 fakeValue": 1119876708,
+              "Int32 currentFakeCryptoKey": 1115865670,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "List<System.Int32[]> <CostEquip>k__BackingField": [
+              {
+                "System.Int32[]": [
+                  210307,
+                  1
+                ]
+              }
+            ],
+            "List<System.Int32[]> <CostItem>k__BackingField": [
+              {
+                "System.Int32[]": [
+                  614,
+                  2
+                ]
+              },
+              {
+                "System.Int32[]": [
+                  613,
+                  20
+                ]
+              },
+              {
+                "System.Int32[]": [
+                  610,
+                  500
+                ]
+              }
+            ],
+            "ObscuredInt <LevelLock>k__BackingField": {
+              "Int32 currentCryptoKey": 2087973915,
+              "Int32 hiddenValue": 2087973912,
+              "Int32 fakeValue": 1084741276,
+              "Int32 currentFakeCryptoKey": 1084741279,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt <Level>k__BackingField": {
+              "Int32 currentCryptoKey": 1135150617,
+              "Int32 hiddenValue": 1135150617,
+              "Int32 fakeValue": 1423534026,
+              "Int32 currentFakeCryptoKey": 1423534026,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt[] <equipFeature>k__BackingField": [
+              {
+                "Int32 currentCryptoKey": 1459516116,
+                "Int32 hiddenValue": 1348549349,
+                "Int32 fakeValue": 1402963610,
+                "Int32 currentFakeCryptoKey": 1426116267,
+                "Boolean fakeValueActive": true,
+                "Boolean inited": true
+              }
+            ],
+            "ObscuredInt[] <equipFeatureMod>k__BackingField": [],
+            "ObscuredInt <showTime>k__BackingField": {
+              "Int32 currentCryptoKey": 1701825189,
+              "Int32 hiddenValue": 49833765,
+              "Int32 fakeValue": 386356142,
+              "Int32 currentFakeCryptoKey": 1888550446,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt <BaseRate>k__BackingField": {
+              "Int32 currentCryptoKey": 1807910451,
+              "Int32 hiddenValue": 1807910363,
+              "Int32 fakeValue": 2012722077,
+              "Int32 currentFakeCryptoKey": 2012721269,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt <VulnerableDmage>k__BackingField": {
+              "Int32 currentCryptoKey": 1004943965,
+              "Int32 hiddenValue": 1004943959,
+              "Int32 fakeValue": 1622670446,
+              "Int32 currentFakeCryptoKey": 1622670436,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt <CriticalRate>k__BackingField": {
+              "Int32 currentCryptoKey": 1161407838,
+              "Int32 hiddenValue": 1161407838,
+              "Int32 fakeValue": 1282610021,
+              "Int32 currentFakeCryptoKey": 1282610021,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt <CriticalDamage>k__BackingField": {
+              "Int32 currentCryptoKey": 1216211745,
+              "Int32 hiddenValue": 1216211745,
+              "Int32 fakeValue": 1075701324,
+              "Int32 currentFakeCryptoKey": 1075701324,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt <SkillDamage>k__BackingField": {
+              "Int32 currentCryptoKey": 1765940262,
+              "Int32 hiddenValue": 1765940262,
+              "Int32 fakeValue": 1386897433,
+              "Int32 currentFakeCryptoKey": 1386897433,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt <SheildDamage>k__BackingField": {
+              "Int32 currentCryptoKey": 1363690184,
+              "Int32 hiddenValue": 1363690184,
+              "Int32 fakeValue": 1760948063,
+              "Int32 currentFakeCryptoKey": 1760948063,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt <DebuffDamage>k__BackingField": {
+              "Int32 currentCryptoKey": 1696376621,
+              "Int32 hiddenValue": 1696376621,
+              "Int32 fakeValue": 1965199935,
+              "Int32 currentFakeCryptoKey": 1965199935,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt <BaseDamage>k__BackingField": {
+              "Int32 currentCryptoKey": 1553999035,
+              "Int32 hiddenValue": 1554003763,
+              "Int32 fakeValue": 1449394500,
+              "Int32 currentFakeCryptoKey": 1449398988,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            }
+          }
+        },
+        {
+          "Int32 hashCode": 1917530151,
+          "Int32 next": -1,
+          "Int32 key": 1917530151,
+          "EquipChaosFusionCfgRow value": {
+            "ObscuredInt <id>k__BackingField": {
+              "Int32 currentCryptoKey": 1992413032,
+              "Int32 hiddenValue": 1992412291,
+              "Int32 fakeValue": 1260620282,
+              "Int32 currentFakeCryptoKey": 1260620305,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt <Equipid>k__BackingField": {
+              "Int32 currentCryptoKey": 1350652109,
+              "Int32 hiddenValue": 1350953897,
+              "Int32 fakeValue": 1457926382,
+              "Int32 currentFakeCryptoKey": 1457687434,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt <Star>k__BackingField": {
+              "Int32 currentCryptoKey": 1546641333,
+              "Int32 hiddenValue": 1546641334,
+              "Int32 fakeValue": 1017542249,
+              "Int32 currentFakeCryptoKey": 1017542250,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt <NameId>k__BackingField": {
+              "Int32 currentCryptoKey": 1308841462,
+              "Int32 hiddenValue": 1310580000,
+              "Int32 fakeValue": 1631221037,
+              "Int32 currentFakeCryptoKey": 1629814267,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt <DescId>k__BackingField": {
+              "Int32 currentCryptoKey": 1588227588,
+              "Int32 hiddenValue": 1586977319,
+              "Int32 fakeValue": 1509257977,
+              "Int32 currentFakeCryptoKey": 1506297562,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "List<System.Int32[]> <CostEquip>k__BackingField": [
+              {
+                "System.Int32[]": [
+                  210307,
+                  1
+                ]
+              }
+            ],
+            "List<System.Int32[]> <CostItem>k__BackingField": [
+              {
+                "System.Int32[]": [
+                  614,
+                  3
+                ]
+              },
+              {
+                "System.Int32[]": [
+                  613,
+                  50
+                ]
+              },
+              {
+                "System.Int32[]": [
+                  610,
+                  500
+                ]
+              }
+            ],
+            "ObscuredInt <LevelLock>k__BackingField": {
+              "Int32 currentCryptoKey": 1650119465,
+              "Int32 hiddenValue": 1650119466,
+              "Int32 fakeValue": 2118728696,
+              "Int32 currentFakeCryptoKey": 2118728699,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt <Level>k__BackingField": {
+              "Int32 currentCryptoKey": 1016097189,
+              "Int32 hiddenValue": 1016097184,
+              "Int32 fakeValue": 1638762050,
+              "Int32 currentFakeCryptoKey": 1638762055,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt[] <equipFeature>k__BackingField": [],
+            "ObscuredInt[] <equipFeatureMod>k__BackingField": [],
+            "ObscuredInt <showTime>k__BackingField": {
+              "Int32 currentCryptoKey": 1773502172,
+              "Int32 hiddenValue": 237163356,
+              "Int32 fakeValue": 498852579,
+              "Int32 currentFakeCryptoKey": 2049724259,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt <BaseRate>k__BackingField": {
+              "Int32 currentCryptoKey": 1589278893,
+              "Int32 hiddenValue": 1589279557,
+              "Int32 fakeValue": 1193805237,
+              "Int32 currentFakeCryptoKey": 1193805405,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt <VulnerableDmage>k__BackingField": {
+              "Int32 currentCryptoKey": 1696895110,
+              "Int32 hiddenValue": 1696895116,
+              "Int32 fakeValue": 1572342913,
+              "Int32 currentFakeCryptoKey": 1572342923,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt <CriticalRate>k__BackingField": {
+              "Int32 currentCryptoKey": 1979972031,
+              "Int32 hiddenValue": 1979972031,
+              "Int32 fakeValue": 1344487466,
+              "Int32 currentFakeCryptoKey": 1344487466,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt <CriticalDamage>k__BackingField": {
+              "Int32 currentCryptoKey": 1900023398,
+              "Int32 hiddenValue": 1900023398,
+              "Int32 fakeValue": 1766974430,
+              "Int32 currentFakeCryptoKey": 1766974430,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt <SkillDamage>k__BackingField": {
+              "Int32 currentCryptoKey": 1984071672,
+              "Int32 hiddenValue": 1984071672,
+              "Int32 fakeValue": 1358746605,
+              "Int32 currentFakeCryptoKey": 1358746605,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt <SheildDamage>k__BackingField": {
+              "Int32 currentCryptoKey": 1462363706,
+              "Int32 hiddenValue": 1462363706,
+              "Int32 fakeValue": 1534716836,
+              "Int32 currentFakeCryptoKey": 1534716836,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt <DebuffDamage>k__BackingField": {
+              "Int32 currentCryptoKey": 1101698016,
+              "Int32 hiddenValue": 1101698016,
+              "Int32 fakeValue": 1908811149,
+              "Int32 currentFakeCryptoKey": 1908811149,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt <BaseDamage>k__BackingField": {
+              "Int32 currentCryptoKey": 1566972695,
+              "Int32 hiddenValue": 1566967967,
+              "Int32 fakeValue": 1122777172,
+              "Int32 currentFakeCryptoKey": 1122773980,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            }
+          }
+        },
+        {
+          "Int32 hashCode": 1917530152,
+          "Int32 next": -1,
+          "Int32 key": 1917530152,
+          "EquipChaosFusionCfgRow value": {
+            "ObscuredInt <id>k__BackingField": {
+              "Int32 currentCryptoKey": 1678225890,
+              "Int32 hiddenValue": 1678225934,
+              "Int32 fakeValue": 1833234599,
+              "Int32 currentFakeCryptoKey": 1833235275,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt <Equipid>k__BackingField": {
+              "Int32 currentCryptoKey": 1578604640,
+              "Int32 hiddenValue": 1578312452,
+              "Int32 fakeValue": 1198590375,
+              "Int32 currentFakeCryptoKey": 1198895811,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt <Star>k__BackingField": {
+              "Int32 currentCryptoKey": 1075464158,
+              "Int32 hiddenValue": 1075464154,
+              "Int32 fakeValue": 1244137759,
+              "Int32 currentFakeCryptoKey": 1244137755,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt <NameId>k__BackingField": {
+              "Int32 currentCryptoKey": 1341909112,
+              "Int32 hiddenValue": 1340432558,
+              "Int32 fakeValue": 1789415710,
+              "Int32 currentFakeCryptoKey": 1790368200,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt <DescId>k__BackingField": {
+              "Int32 currentCryptoKey": 1703879807,
+              "Int32 hiddenValue": 1706168411,
+              "Int32 fakeValue": 1526466629,
+              "Int32 currentFakeCryptoKey": 1522613345,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "List<System.Int32[]> <CostEquip>k__BackingField": [
+              {
+                "System.Int32[]": [
+                  210307,
+                  1
+                ]
+              }
+            ],
+            "List<System.Int32[]> <CostItem>k__BackingField": [
+              {
+                "System.Int32[]": [
+                  614,
+                  3
+                ]
+              },
+              {
+                "System.Int32[]": [
+                  613,
+                  50
+                ]
+              },
+              {
+                "System.Int32[]": [
+                  610,
+                  500
+                ]
+              }
+            ],
+            "ObscuredInt <LevelLock>k__BackingField": {
+              "Int32 currentCryptoKey": 1034442848,
+              "Int32 hiddenValue": 1034442852,
+              "Int32 fakeValue": 1802593926,
+              "Int32 currentFakeCryptoKey": 1802593922,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt <Level>k__BackingField": {
+              "Int32 currentCryptoKey": 1779974203,
+              "Int32 hiddenValue": 1779974203,
+              "Int32 fakeValue": 1244966692,
+              "Int32 currentFakeCryptoKey": 1244966692,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt[] <equipFeature>k__BackingField": [
+              {
+                "Int32 currentCryptoKey": 1059604134,
+                "Int32 hiddenValue": 968300199,
+                "Int32 fakeValue": 1169166303,
+                "Int32 currentFakeCryptoKey": 1127178206,
+                "Boolean fakeValueActive": true,
+                "Boolean inited": true
+              }
+            ],
+            "ObscuredInt[] <equipFeatureMod>k__BackingField": [],
+            "ObscuredInt <showTime>k__BackingField": {
+              "Int32 currentCryptoKey": 1760878907,
+              "Int32 hiddenValue": 258165947,
+              "Int32 fakeValue": 814505700,
+              "Int32 currentFakeCryptoKey": 1461449572,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt <BaseRate>k__BackingField": {
+              "Int32 currentCryptoKey": 1171669170,
+              "Int32 hiddenValue": 1171669850,
+              "Int32 fakeValue": 1502570808,
+              "Int32 currentFakeCryptoKey": 1502571216,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt <VulnerableDmage>k__BackingField": {
+              "Int32 currentCryptoKey": 1268304824,
+              "Int32 hiddenValue": 1268304818,
+              "Int32 fakeValue": 2129139748,
+              "Int32 currentFakeCryptoKey": 2129139758,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt <CriticalRate>k__BackingField": {
+              "Int32 currentCryptoKey": 1616910604,
+              "Int32 hiddenValue": 1616910604,
+              "Int32 fakeValue": 1647925566,
+              "Int32 currentFakeCryptoKey": 1647925566,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt <CriticalDamage>k__BackingField": {
+              "Int32 currentCryptoKey": 1508080553,
+              "Int32 hiddenValue": 1508080553,
+              "Int32 fakeValue": 1731161325,
+              "Int32 currentFakeCryptoKey": 1731161325,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt <SkillDamage>k__BackingField": {
+              "Int32 currentCryptoKey": 1621099408,
+              "Int32 hiddenValue": 1621099408,
+              "Int32 fakeValue": 1187894728,
+              "Int32 currentFakeCryptoKey": 1187894728,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt <SheildDamage>k__BackingField": {
+              "Int32 currentCryptoKey": 1702662190,
+              "Int32 hiddenValue": 1702662190,
+              "Int32 fakeValue": 1921608272,
+              "Int32 currentFakeCryptoKey": 1921608272,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt <DebuffDamage>k__BackingField": {
+              "Int32 currentCryptoKey": 1528116250,
+              "Int32 hiddenValue": 1528116238,
+              "Int32 fakeValue": 1826900065,
+              "Int32 currentFakeCryptoKey": 1826900085,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt <BaseDamage>k__BackingField": {
+              "Int32 currentCryptoKey": 2086808513,
+              "Int32 hiddenValue": 2086811721,
+              "Int32 fakeValue": 1527341765,
+              "Int32 currentFakeCryptoKey": 1527345485,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            }
+          }
+        },
+        {
+          "Int32 hashCode": 1917530153,
+          "Int32 next": -1,
+          "Int32 key": 1917530153,
+          "EquipChaosFusionCfgRow value": {
+            "ObscuredInt <id>k__BackingField": {
+              "Int32 currentCryptoKey": 1440502808,
+              "Int32 hiddenValue": 1440503797,
+              "Int32 fakeValue": 1330345396,
+              "Int32 currentFakeCryptoKey": 1330345561,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt <Equipid>k__BackingField": {
+              "Int32 currentCryptoKey": 1060157415,
+              "Int32 hiddenValue": 1060375683,
+              "Int32 fakeValue": 1574841724,
+              "Int32 currentFakeCryptoKey": 1574606360,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt <Star>k__BackingField": {
+              "Int32 currentCryptoKey": 1974260100,
+              "Int32 hiddenValue": 1974260097,
+              "Int32 fakeValue": 1345141143,
+              "Int32 currentFakeCryptoKey": 1345141138,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt <NameId>k__BackingField": {
+              "Int32 currentCryptoKey": 1999379939,
+              "Int32 hiddenValue": 1999803701,
+              "Int32 fakeValue": 2054372970,
+              "Int32 currentFakeCryptoKey": 2054010556,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt <DescId>k__BackingField": {
+              "Int32 currentCryptoKey": 2015946763,
+              "Int32 hiddenValue": 2014698542,
+              "Int32 fakeValue": 1457566587,
+              "Int32 currentFakeCryptoKey": 1457358686,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "List<System.Int32[]> <CostEquip>k__BackingField": [
+              {
+                "System.Int32[]": [
+                  210307,
+                  1
+                ]
+              },
+              {
+                "System.Int32[]": [
+                  210307,
+                  1
+                ]
+              }
+            ],
+            "List<System.Int32[]> <CostItem>k__BackingField": [
+              {
+                "System.Int32[]": [
+                  614,
+                  4
+                ]
+              },
+              {
+                "System.Int32[]": [
+                  613,
+                  100
+                ]
+              },
+              {
+                "System.Int32[]": [
+                  610,
+                  500
+                ]
+              }
+            ],
+            "ObscuredInt <LevelLock>k__BackingField": {
+              "Int32 currentCryptoKey": 1310044618,
+              "Int32 hiddenValue": 1310044623,
+              "Int32 fakeValue": 1097429473,
+              "Int32 currentFakeCryptoKey": 1097429476,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt <Level>k__BackingField": {
+              "Int32 currentCryptoKey": 2134483874,
+              "Int32 hiddenValue": 2134483879,
+              "Int32 fakeValue": 1739104977,
+              "Int32 currentFakeCryptoKey": 1739104980,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt[] <equipFeature>k__BackingField": [],
+            "ObscuredInt[] <equipFeatureMod>k__BackingField": [],
+            "ObscuredInt <showTime>k__BackingField": {
+              "Int32 currentCryptoKey": 1299142471,
+              "Int32 hiddenValue": 720960199,
+              "Int32 fakeValue": 671284699,
+              "Int32 currentFakeCryptoKey": 1335185499,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt <BaseRate>k__BackingField": {
+              "Int32 currentCryptoKey": 1921321576,
+              "Int32 hiddenValue": 1921321344,
+              "Int32 fakeValue": 1787732883,
+              "Int32 currentFakeCryptoKey": 1787732091,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt <VulnerableDmage>k__BackingField": {
+              "Int32 currentCryptoKey": 1737141979,
+              "Int32 hiddenValue": 1737141969,
+              "Int32 fakeValue": 1064401485,
+              "Int32 currentFakeCryptoKey": 1064401479,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt <CriticalRate>k__BackingField": {
+              "Int32 currentCryptoKey": 2001952802,
+              "Int32 hiddenValue": 2001952802,
+              "Int32 fakeValue": 1696569778,
+              "Int32 currentFakeCryptoKey": 1696569778,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt <CriticalDamage>k__BackingField": {
+              "Int32 currentCryptoKey": 1216324670,
+              "Int32 hiddenValue": 1216324670,
+              "Int32 fakeValue": 2078162720,
+              "Int32 currentFakeCryptoKey": 2078162720,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt <SkillDamage>k__BackingField": {
+              "Int32 currentCryptoKey": 1838298904,
+              "Int32 hiddenValue": 1838298904,
+              "Int32 fakeValue": 1491786480,
+              "Int32 currentFakeCryptoKey": 1491786480,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt <SheildDamage>k__BackingField": {
+              "Int32 currentCryptoKey": 1770521993,
+              "Int32 hiddenValue": 1770521993,
+              "Int32 fakeValue": 1154014384,
+              "Int32 currentFakeCryptoKey": 1154014384,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt <DebuffDamage>k__BackingField": {
+              "Int32 currentCryptoKey": 1087706010,
+              "Int32 hiddenValue": 1087705998,
+              "Int32 fakeValue": 1929755193,
+              "Int32 currentFakeCryptoKey": 1929755181,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt <BaseDamage>k__BackingField": {
+              "Int32 currentCryptoKey": 2141980741,
+              "Int32 hiddenValue": 2141985741,
+              "Int32 fakeValue": 1355029601,
+              "Int32 currentFakeCryptoKey": 1355026409,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            }
+          }
+        },
+        {
+          "Int32 hashCode": 1917530154,
+          "Int32 next": -1,
+          "Int32 key": 1917530154,
+          "EquipChaosFusionCfgRow value": {
+            "ObscuredInt <id>k__BackingField": {
+              "Int32 currentCryptoKey": 1863269055,
+              "Int32 hiddenValue": 1863268689,
+              "Int32 fakeValue": 1252629251,
+              "Int32 currentFakeCryptoKey": 1252628717,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt <Equipid>k__BackingField": {
+              "Int32 currentCryptoKey": 1951947530,
+              "Int32 hiddenValue": 1952243822,
+              "Int32 fakeValue": 1876454191,
+              "Int32 currentFakeCryptoKey": 1876742219,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt <Star>k__BackingField": {
+              "Int32 currentCryptoKey": 1067020791,
+              "Int32 hiddenValue": 1067020785,
+              "Int32 fakeValue": 1186272548,
+              "Int32 currentFakeCryptoKey": 1186272546,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt <NameId>k__BackingField": {
+              "Int32 currentCryptoKey": 1634673119,
+              "Int32 hiddenValue": 1634838793,
+              "Int32 fakeValue": 1974964168,
+              "Int32 currentFakeCryptoKey": 1974011678,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt <DescId>k__BackingField": {
+              "Int32 currentCryptoKey": 1650674923,
+              "Int32 hiddenValue": 1650358477,
+              "Int32 fakeValue": 1360404701,
+              "Int32 currentFakeCryptoKey": 1361777915,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "List<System.Int32[]> <CostEquip>k__BackingField": [
+              {
+                "System.Int32[]": [
+                  210307,
+                  1
+                ]
+              },
+              {
+                "System.Int32[]": [
+                  210307,
+                  1
+                ]
+              }
+            ],
+            "List<System.Int32[]> <CostItem>k__BackingField": [
+              {
+                "System.Int32[]": [
+                  614,
+                  4
+                ]
+              },
+              {
+                "System.Int32[]": [
+                  613,
+                  100
+                ]
+              },
+              {
+                "System.Int32[]": [
+                  610,
+                  500
+                ]
+              }
+            ],
+            "ObscuredInt <LevelLock>k__BackingField": {
+              "Int32 currentCryptoKey": 1113192995,
+              "Int32 hiddenValue": 1113192997,
+              "Int32 fakeValue": 1159551915,
+              "Int32 currentFakeCryptoKey": 1159551917,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt <Level>k__BackingField": {
+              "Int32 currentCryptoKey": 1337880948,
+              "Int32 hiddenValue": 1337880948,
+              "Int32 fakeValue": 1410651077,
+              "Int32 currentFakeCryptoKey": 1410651077,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt[] <equipFeature>k__BackingField": [
+              {
+                "Int32 currentCryptoKey": 1744161098,
+                "Int32 hiddenValue": 1634377371,
+                "Int32 fakeValue": 2120759146,
+                "Int32 currentFakeCryptoKey": 2029478075,
+                "Boolean fakeValueActive": true,
+                "Boolean inited": true
+              }
+            ],
+            "ObscuredInt[] <equipFeatureMod>k__BackingField": [],
+            "ObscuredInt <showTime>k__BackingField": {
+              "Int32 currentCryptoKey": 2036235903,
+              "Int32 hiddenValue": 516543487,
+              "Int32 fakeValue": 907387987,
+              "Int32 currentFakeCryptoKey": 1367476691,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt <BaseRate>k__BackingField": {
+              "Int32 currentCryptoKey": 1000286696,
+              "Int32 hiddenValue": 1000286720,
+              "Int32 fakeValue": 1887866998,
+              "Int32 currentFakeCryptoKey": 1887867806,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt <VulnerableDmage>k__BackingField": {
+              "Int32 currentCryptoKey": 1089758106,
+              "Int32 hiddenValue": 1089758096,
+              "Int32 fakeValue": 2022407024,
+              "Int32 currentFakeCryptoKey": 2022407034,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt <CriticalRate>k__BackingField": {
+              "Int32 currentCryptoKey": 1672876330,
+              "Int32 hiddenValue": 1672876330,
+              "Int32 fakeValue": 1891416676,
+              "Int32 currentFakeCryptoKey": 1891416676,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt <CriticalDamage>k__BackingField": {
+              "Int32 currentCryptoKey": 1114020891,
+              "Int32 hiddenValue": 1114020891,
+              "Int32 fakeValue": 1129478341,
+              "Int32 currentFakeCryptoKey": 1129478341,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt <SkillDamage>k__BackingField": {
+              "Int32 currentCryptoKey": 1883791102,
+              "Int32 hiddenValue": 1883791102,
+              "Int32 fakeValue": 1482473620,
+              "Int32 currentFakeCryptoKey": 1482473620,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt <SheildDamage>k__BackingField": {
+              "Int32 currentCryptoKey": 1722102792,
+              "Int32 hiddenValue": 1722102792,
+              "Int32 fakeValue": 1845365555,
+              "Int32 currentFakeCryptoKey": 1845365555,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt <DebuffDamage>k__BackingField": {
+              "Int32 currentCryptoKey": 1966304546,
+              "Int32 hiddenValue": 1966304566,
+              "Int32 fakeValue": 1086191561,
+              "Int32 currentFakeCryptoKey": 1086191581,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt <BaseDamage>k__BackingField": {
+              "Int32 currentCryptoKey": 1462861591,
+              "Int32 hiddenValue": 1462851591,
+              "Int32 fakeValue": 2102494927,
+              "Int32 currentFakeCryptoKey": 2102501855,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            }
+          }
+        },
+        {
+          "Int32 hashCode": 1917530155,
+          "Int32 next": -1,
+          "Int32 key": 1917530155,
+          "EquipChaosFusionCfgRow value": {
+            "ObscuredInt <id>k__BackingField": {
+              "Int32 currentCryptoKey": 1381644067,
+              "Int32 hiddenValue": 1381643468,
+              "Int32 fakeValue": 1881855835,
+              "Int32 currentFakeCryptoKey": 1881855156,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt <Equipid>k__BackingField": {
+              "Int32 currentCryptoKey": 1934641096,
+              "Int32 hiddenValue": 1934949548,
+              "Int32 fakeValue": 1570127262,
+              "Int32 currentFakeCryptoKey": 1569883898,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt <Star>k__BackingField": {
+              "Int32 currentCryptoKey": 1268164708,
+              "Int32 hiddenValue": 1268164707,
+              "Int32 fakeValue": 1735049026,
+              "Int32 currentFakeCryptoKey": 1735049029,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt <NameId>k__BackingField": {
+              "Int32 currentCryptoKey": 1153058972,
+              "Int32 hiddenValue": 1151647818,
+              "Int32 fakeValue": 1912549229,
+              "Int32 currentFakeCryptoKey": 1910613947,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt <DescId>k__BackingField": {
+              "Int32 currentCryptoKey": 1561210202,
+              "Int32 hiddenValue": 1563629949,
+              "Int32 fakeValue": 1644044545,
+              "Int32 currentFakeCryptoKey": 1640174886,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "List<System.Int32[]> <CostEquip>k__BackingField": [
+              {
+                "System.Int32[]": [
+                  210311,
+                  1
+                ]
+              }
+            ],
+            "List<System.Int32[]> <CostItem>k__BackingField": [
+              {
+                "System.Int32[]": [
+                  614,
+                  6
+                ]
+              },
+              {
+                "System.Int32[]": [
+                  613,
+                  150
+                ]
+              },
+              {
+                "System.Int32[]": [
+                  610,
+                  500
+                ]
+              }
+            ],
+            "ObscuredInt <LevelLock>k__BackingField": {
+              "Int32 currentCryptoKey": 1583376783,
+              "Int32 hiddenValue": 1583376776,
+              "Int32 fakeValue": 1056772759,
+              "Int32 currentFakeCryptoKey": 1056772752,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt <Level>k__BackingField": {
+              "Int32 currentCryptoKey": 1740281772,
+              "Int32 hiddenValue": 1740281769,
+              "Int32 fakeValue": 1427647830,
+              "Int32 currentFakeCryptoKey": 1427647827,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt[] <equipFeature>k__BackingField": [],
+            "ObscuredInt[] <equipFeatureMod>k__BackingField": [],
+            "ObscuredInt <showTime>k__BackingField": {
+              "Int32 currentCryptoKey": 1895109028,
+              "Int32 hiddenValue": 392346660,
+              "Int32 fakeValue": 386337100,
+              "Int32 currentFakeCryptoKey": 1888527564,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt <BaseRate>k__BackingField": {
+              "Int32 currentCryptoKey": 1265262127,
+              "Int32 hiddenValue": 1265262023,
+              "Int32 fakeValue": 1867713069,
+              "Int32 currentFakeCryptoKey": 1867712965,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt <VulnerableDmage>k__BackingField": {
+              "Int32 currentCryptoKey": 1929468485,
+              "Int32 hiddenValue": 1929468495,
+              "Int32 fakeValue": 1254112941,
+              "Int32 currentFakeCryptoKey": 1254112935,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt <CriticalRate>k__BackingField": {
+              "Int32 currentCryptoKey": 1265268302,
+              "Int32 hiddenValue": 1265268302,
+              "Int32 fakeValue": 1988345668,
+              "Int32 currentFakeCryptoKey": 1988345668,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt <CriticalDamage>k__BackingField": {
+              "Int32 currentCryptoKey": 1727236033,
+              "Int32 hiddenValue": 1727236033,
+              "Int32 fakeValue": 1060530853,
+              "Int32 currentFakeCryptoKey": 1060530853,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt <SkillDamage>k__BackingField": {
+              "Int32 currentCryptoKey": 1762721328,
+              "Int32 hiddenValue": 1762721328,
+              "Int32 fakeValue": 2085026097,
+              "Int32 currentFakeCryptoKey": 2085026097,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt <SheildDamage>k__BackingField": {
+              "Int32 currentCryptoKey": 1449965090,
+              "Int32 hiddenValue": 1449965090,
+              "Int32 fakeValue": 1152199498,
+              "Int32 currentFakeCryptoKey": 1152199498,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt <DebuffDamage>k__BackingField": {
+              "Int32 currentCryptoKey": 1251908886,
+              "Int32 hiddenValue": 1251908866,
+              "Int32 fakeValue": 1952792995,
+              "Int32 currentFakeCryptoKey": 1952793015,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt <BaseDamage>k__BackingField": {
+              "Int32 currentCryptoKey": 1542957015,
+              "Int32 hiddenValue": 1542947015,
+              "Int32 fakeValue": 1027009365,
+              "Int32 currentFakeCryptoKey": 1027001413,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            }
+          }
+        },
+        {
+          "Int32 hashCode": 1917530156,
+          "Int32 next": -1,
+          "Int32 key": 1917530156,
+          "EquipChaosFusionCfgRow value": {
+            "ObscuredInt <id>k__BackingField": {
+              "Int32 currentCryptoKey": 1844173972,
+              "Int32 hiddenValue": 1844174692,
+              "Int32 fakeValue": 1382861923,
+              "Int32 currentFakeCryptoKey": 1382862739,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt <Equipid>k__BackingField": {
+              "Int32 currentCryptoKey": 1029007009,
+              "Int32 hiddenValue": 1028775365,
+              "Int32 fakeValue": 2010009584,
+              "Int32 currentFakeCryptoKey": 2009789588,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt <Star>k__BackingField": {
+              "Int32 currentCryptoKey": 1094836979,
+              "Int32 hiddenValue": 1094836987,
+              "Int32 fakeValue": 1466352013,
+              "Int32 currentFakeCryptoKey": 1466352005,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt <NameId>k__BackingField": {
+              "Int32 currentCryptoKey": 1099311982,
+              "Int32 hiddenValue": 1100522424,
+              "Int32 fakeValue": 1412096631,
+              "Int32 currentFakeCryptoKey": 1412721313,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt <DescId>k__BackingField": {
+              "Int32 currentCryptoKey": 1734808834,
+              "Int32 hiddenValue": 1733959978,
+              "Int32 fakeValue": 1328517110,
+              "Int32 currentFakeCryptoKey": 1326627806,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "List<System.Int32[]> <CostEquip>k__BackingField": [
+              {
+                "System.Int32[]": [
+                  210311,
+                  1
+                ]
+              }
+            ],
+            "List<System.Int32[]> <CostItem>k__BackingField": [
+              {
+                "System.Int32[]": [
+                  614,
+                  6
+                ]
+              },
+              {
+                "System.Int32[]": [
+                  613,
+                  150
+                ]
+              },
+              {
+                "System.Int32[]": [
+                  610,
+                  500
+                ]
+              }
+            ],
+            "ObscuredInt <LevelLock>k__BackingField": {
+              "Int32 currentCryptoKey": 1461196831,
+              "Int32 hiddenValue": 1461196823,
+              "Int32 fakeValue": 1032701451,
+              "Int32 currentFakeCryptoKey": 1032701443,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt <Level>k__BackingField": {
+              "Int32 currentCryptoKey": 1308039893,
+              "Int32 hiddenValue": 1308039893,
+              "Int32 fakeValue": 1057248138,
+              "Int32 currentFakeCryptoKey": 1057248138,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt[] <equipFeature>k__BackingField": [
+              {
+                "Int32 currentCryptoKey": 1536680215,
+                "Int32 hiddenValue": 1560854198,
+                "Int32 fakeValue": 1347789834,
+                "Int32 currentFakeCryptoKey": 1456143275,
+                "Boolean fakeValueActive": true,
+                "Boolean inited": true
+              }
+            ],
+            "ObscuredInt[] <equipFeatureMod>k__BackingField": [],
+            "ObscuredInt <showTime>k__BackingField": {
+              "Int32 currentCryptoKey": 1734848238,
+              "Int32 hiddenValue": 15729518,
+              "Int32 fakeValue": 293806778,
+              "Int32 currentFakeCryptoKey": 1981058874,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt <BaseRate>k__BackingField": {
+              "Int32 currentCryptoKey": 1580103427,
+              "Int32 hiddenValue": 1580102891,
+              "Int32 fakeValue": 1098591924,
+              "Int32 currentFakeCryptoKey": 1098591580,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt <VulnerableDmage>k__BackingField": {
+              "Int32 currentCryptoKey": 1304206743,
+              "Int32 hiddenValue": 1304206749,
+              "Int32 fakeValue": 1208748666,
+              "Int32 currentFakeCryptoKey": 1208748656,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt <CriticalRate>k__BackingField": {
+              "Int32 currentCryptoKey": 1837233553,
+              "Int32 hiddenValue": 1837233553,
+              "Int32 fakeValue": 1540782045,
+              "Int32 currentFakeCryptoKey": 1540782045,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt <CriticalDamage>k__BackingField": {
+              "Int32 currentCryptoKey": 1154619122,
+              "Int32 hiddenValue": 1154619122,
+              "Int32 fakeValue": 1874110242,
+              "Int32 currentFakeCryptoKey": 1874110242,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt <SkillDamage>k__BackingField": {
+              "Int32 currentCryptoKey": 1954646216,
+              "Int32 hiddenValue": 1954646216,
+              "Int32 fakeValue": 1330622258,
+              "Int32 currentFakeCryptoKey": 1330622258,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt <SheildDamage>k__BackingField": {
+              "Int32 currentCryptoKey": 1285083938,
+              "Int32 hiddenValue": 1285083938,
+              "Int32 fakeValue": 1000859473,
+              "Int32 currentFakeCryptoKey": 1000859473,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt <DebuffDamage>k__BackingField": {
+              "Int32 currentCryptoKey": 1658705060,
+              "Int32 hiddenValue": 1658705046,
+              "Int32 fakeValue": 1755900816,
+              "Int32 currentFakeCryptoKey": 1755900834,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt <BaseDamage>k__BackingField": {
+              "Int32 currentCryptoKey": 1097217871,
+              "Int32 hiddenValue": 1097207903,
+              "Int32 fakeValue": 1556365402,
+              "Int32 currentFakeCryptoKey": 1556375370,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            }
+          }
+        },
+        {
+          "Int32 hashCode": 1917530157,
+          "Int32 next": -1,
+          "Int32 key": 1917530157,
+          "EquipChaosFusionCfgRow value": {
+            "ObscuredInt <id>k__BackingField": {
+              "Int32 currentCryptoKey": 1360082427,
+              "Int32 hiddenValue": 1360082442,
+              "Int32 fakeValue": 1357418985,
+              "Int32 currentFakeCryptoKey": 1357419032,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt <Equipid>k__BackingField": {
+              "Int32 currentCryptoKey": 1398640817,
+              "Int32 hiddenValue": 1398352853,
+              "Int32 fakeValue": 2033100395,
+              "Int32 currentFakeCryptoKey": 2032803087,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt <Star>k__BackingField": {
+              "Int32 currentCryptoKey": 1793690585,
+              "Int32 hiddenValue": 1793690576,
+              "Int32 fakeValue": 1946393760,
+              "Int32 currentFakeCryptoKey": 1946393769,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt <NameId>k__BackingField": {
+              "Int32 currentCryptoKey": 1768400983,
+              "Int32 hiddenValue": 1769545857,
+              "Int32 fakeValue": 1517891957,
+              "Int32 currentFakeCryptoKey": 1516747171,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt <DescId>k__BackingField": {
+              "Int32 currentCryptoKey": 1666787747,
+              "Int32 hiddenValue": 1667505546,
+              "Int32 fakeValue": 2087358023,
+              "Int32 currentFakeCryptoKey": 2086124142,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "List<System.Int32[]> <CostEquip>k__BackingField": [
+              {
+                "System.Int32[]": [
+                  210311,
+                  1
+                ]
+              }
+            ],
+            "List<System.Int32[]> <CostItem>k__BackingField": [
+              {
+                "System.Int32[]": [
+                  614,
+                  8
+                ]
+              },
+              {
+                "System.Int32[]": [
+                  613,
+                  200
+                ]
+              },
+              {
+                "System.Int32[]": [
+                  610,
+                  1000
+                ]
+              }
+            ],
+            "ObscuredInt <LevelLock>k__BackingField": {
+              "Int32 currentCryptoKey": 1527148837,
+              "Int32 hiddenValue": 1527148844,
+              "Int32 fakeValue": 1694534583,
+              "Int32 currentFakeCryptoKey": 1694534590,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt <Level>k__BackingField": {
+              "Int32 currentCryptoKey": 1899974607,
+              "Int32 hiddenValue": 1899974597,
+              "Int32 fakeValue": 1705473196,
+              "Int32 currentFakeCryptoKey": 1705473190,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt[] <equipFeature>k__BackingField": [],
+            "ObscuredInt[] <equipFeatureMod>k__BackingField": [],
+            "ObscuredInt <showTime>k__BackingField": {
+              "Int32 currentCryptoKey": 1548345881,
+              "Int32 hiddenValue": 1004425113,
+              "Int32 fakeValue": 406198262,
+              "Int32 currentFakeCryptoKey": 2141305462,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt <BaseRate>k__BackingField": {
+              "Int32 currentCryptoKey": 1564834907,
+              "Int32 hiddenValue": 1564835763,
+              "Int32 fakeValue": 1418333747,
+              "Int32 currentFakeCryptoKey": 1418333659,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt <VulnerableDmage>k__BackingField": {
+              "Int32 currentCryptoKey": 1372689587,
+              "Int32 hiddenValue": 1372689593,
+              "Int32 fakeValue": 1444365424,
+              "Int32 currentFakeCryptoKey": 1444365434,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt <CriticalRate>k__BackingField": {
+              "Int32 currentCryptoKey": 1870278317,
+              "Int32 hiddenValue": 1870278317,
+              "Int32 fakeValue": 1635425316,
+              "Int32 currentFakeCryptoKey": 1635425316,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt <CriticalDamage>k__BackingField": {
+              "Int32 currentCryptoKey": 1693112833,
+              "Int32 hiddenValue": 1693112833,
+              "Int32 fakeValue": 1635708610,
+              "Int32 currentFakeCryptoKey": 1635708610,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt <SkillDamage>k__BackingField": {
+              "Int32 currentCryptoKey": 1855170465,
+              "Int32 hiddenValue": 1855170465,
+              "Int32 fakeValue": 1368210383,
+              "Int32 currentFakeCryptoKey": 1368210383,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt <SheildDamage>k__BackingField": {
+              "Int32 currentCryptoKey": 1659189436,
+              "Int32 hiddenValue": 1659189436,
+              "Int32 fakeValue": 1916173371,
+              "Int32 currentFakeCryptoKey": 1916173371,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt <DebuffDamage>k__BackingField": {
+              "Int32 currentCryptoKey": 1127637375,
+              "Int32 hiddenValue": 1127637325,
+              "Int32 fakeValue": 1733949315,
+              "Int32 currentFakeCryptoKey": 1733949361,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt <BaseDamage>k__BackingField": {
+              "Int32 currentCryptoKey": 1815406393,
+              "Int32 hiddenValue": 1815396393,
+              "Int32 fakeValue": 1852771179,
+              "Int32 currentFakeCryptoKey": 1852779643,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            }
+          }
+        },
+        {
+          "Int32 hashCode": 1917530158,
+          "Int32 next": -1,
+          "Int32 key": 1917530158,
+          "EquipChaosFusionCfgRow value": {
+            "ObscuredInt <id>k__BackingField": {
+              "Int32 currentCryptoKey": 2082967219,
+              "Int32 hiddenValue": 2082966849,
+              "Int32 fakeValue": 1899147387,
+              "Int32 currentFakeCryptoKey": 1899148169,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt <Equipid>k__BackingField": {
+              "Int32 currentCryptoKey": 1844649358,
+              "Int32 hiddenValue": 1844946666,
+              "Int32 fakeValue": 1179558810,
+              "Int32 currentFakeCryptoKey": 1179261182,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt <Star>k__BackingField": {
+              "Int32 currentCryptoKey": 1057502457,
+              "Int32 hiddenValue": 1057502451,
+              "Int32 fakeValue": 1849528791,
+              "Int32 currentFakeCryptoKey": 1849528797,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt <NameId>k__BackingField": {
+              "Int32 currentCryptoKey": 1187368289,
+              "Int32 hiddenValue": 1188775351,
+              "Int32 fakeValue": 1781813903,
+              "Int32 currentFakeCryptoKey": 1781193305,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt <DescId>k__BackingField": {
+              "Int32 currentCryptoKey": 1477674244,
+              "Int32 hiddenValue": 1479455022,
+              "Int32 fakeValue": 1936316376,
+              "Int32 currentFakeCryptoKey": 1934943218,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "List<System.Int32[]> <CostEquip>k__BackingField": [
+              {
+                "System.Int32[]": [
+                  210311,
+                  1
+                ]
+              }
+            ],
+            "List<System.Int32[]> <CostItem>k__BackingField": [
+              {
+                "System.Int32[]": [
+                  614,
+                  8
+                ]
+              },
+              {
+                "System.Int32[]": [
+                  613,
+                  200
+                ]
+              },
+              {
+                "System.Int32[]": [
+                  610,
+                  1000
+                ]
+              }
+            ],
+            "ObscuredInt <LevelLock>k__BackingField": {
+              "Int32 currentCryptoKey": 1689444556,
+              "Int32 hiddenValue": 1689444550,
+              "Int32 fakeValue": 1898593067,
+              "Int32 currentFakeCryptoKey": 1898593057,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt <Level>k__BackingField": {
+              "Int32 currentCryptoKey": 1013633208,
+              "Int32 hiddenValue": 1013633208,
+              "Int32 fakeValue": 1607568179,
+              "Int32 currentFakeCryptoKey": 1607568179,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt[] <equipFeature>k__BackingField": [
+              {
+                "Int32 currentCryptoKey": 2121619281,
+                "Int32 hiddenValue": 2028613664,
+                "Int32 fakeValue": 1290516816,
+                "Int32 currentFakeCryptoKey": 1249173025,
+                "Boolean fakeValueActive": true,
+                "Boolean inited": true
+              },
+              {
+                "Int32 currentCryptoKey": 1929760024,
+                "Int32 hiddenValue": 1973070442,
+                "Int32 fakeValue": 1248362456,
+                "Int32 currentFakeCryptoKey": 1291262122,
+                "Boolean fakeValueActive": true,
+                "Boolean inited": true
+              }
+            ],
+            "ObscuredInt[] <equipFeatureMod>k__BackingField": [],
+            "ObscuredInt <showTime>k__BackingField": {
+              "Int32 currentCryptoKey": 1583508212,
+              "Int32 hiddenValue": 972408692,
+              "Int32 fakeValue": 779697480,
+              "Int32 currentFakeCryptoKey": 1240371400,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt <BaseRate>k__BackingField": {
+              "Int32 currentCryptoKey": 1383211246,
+              "Int32 hiddenValue": 1383211782,
+              "Int32 fakeValue": 1800335675,
+              "Int32 currentFakeCryptoKey": 1800336083,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt <VulnerableDmage>k__BackingField": {
+              "Int32 currentCryptoKey": 1833580700,
+              "Int32 hiddenValue": 1833580694,
+              "Int32 fakeValue": 1872140767,
+              "Int32 currentFakeCryptoKey": 1872140757,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt <CriticalRate>k__BackingField": {
+              "Int32 currentCryptoKey": 1811789846,
+              "Int32 hiddenValue": 1811789846,
+              "Int32 fakeValue": 1910415853,
+              "Int32 currentFakeCryptoKey": 1910415853,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt <CriticalDamage>k__BackingField": {
+              "Int32 currentCryptoKey": 1177632622,
+              "Int32 hiddenValue": 1177632622,
+              "Int32 fakeValue": 1425480201,
+              "Int32 currentFakeCryptoKey": 1425480201,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt <SkillDamage>k__BackingField": {
+              "Int32 currentCryptoKey": 1287204332,
+              "Int32 hiddenValue": 1287204332,
+              "Int32 fakeValue": 1999711259,
+              "Int32 currentFakeCryptoKey": 1999711259,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt <SheildDamage>k__BackingField": {
+              "Int32 currentCryptoKey": 1389109796,
+              "Int32 hiddenValue": 1389109796,
+              "Int32 fakeValue": 2080322033,
+              "Int32 currentFakeCryptoKey": 2080322033,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt <DebuffDamage>k__BackingField": {
+              "Int32 currentCryptoKey": 1270717749,
+              "Int32 hiddenValue": 1270717703,
+              "Int32 fakeValue": 1821852826,
+              "Int32 currentFakeCryptoKey": 1821852840,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            },
+            "ObscuredInt <BaseDamage>k__BackingField": {
+              "Int32 currentCryptoKey": 1759051017,
+              "Int32 hiddenValue": 1759021113,
+              "Int32 fakeValue": 1000805238,
+              "Int32 currentFakeCryptoKey": 1000826438,
+              "Boolean fakeValueActive": true,
+              "Boolean inited": true
+            }
+          }
+        },
+        {
+          "Int32 hashCode": 0,
+          "Int32 next": 0,
+          "Int32 key": 0,
+          "EquipChaosFusionCfgRow value": "(null-object)"
+        },
+        {
+          "Int32 hashCode": 0,
+          "Int32 next": 0,
+          "Int32 key": 0,
+          "EquipChaosFusionCfgRow value": "(null-object)"
+        },
+        {
+          "Int32 hashCode": 0,
+          "Int32 next": 0,
+          "Int32 key": 0,
+          "EquipChaosFusionCfgRow value": "(null-object)"
+        },
+        {
+          "Int32 hashCode": 0,
+          "Int32 next": 0,
+          "Int32 key": 0,
+          "EquipChaosFusionCfgRow value": "(null-object)"
+        },
+        {
+          "Int32 hashCode": 0,
+          "Int32 next": 0,
+          "Int32 key": 0,
+          "EquipChaosFusionCfgRow value": "(null-object)"
+        },
+        {
+          "Int32 hashCode": 0,
+          "Int32 next": 0,
+          "Int32 key": 0,
+          "EquipChaosFusionCfgRow value": "(null-object)"
+        },
+        {
+          "Int32 hashCode": 0,
+          "Int32 next": 0,
+          "Int32 key": 0,
+          "EquipChaosFusionCfgRow value": "(null-object)"
+        }
+      ],
+      "Int32 _count": 10,
+      "Int32 _freeList": -1,
+      "Int32 _freeCount": 0,
+      "Int32 _version": 10,
+      "IEqualityComparer<System.Int32> _comparer": "(null-object)",
+      "KeyCollection<System.Int32,EquipChaosFusionCfgRow> _keys": "(null-object)",
+      "ValueCollection<System.Int32,EquipChaosFusionCfgRow> _values": "(null-object)",
+      "Object _syncRoot": "(null-object)"
+    }
+  },
+  "List<EquipChaosFusionCfgRow> _all": [
+    {
+      "EquipChaosFusionCfgRow": "(circular-reference (0x7A6DEF560D80))"
+    },
+    {
+      "EquipChaosFusionCfgRow": "(circular-reference (0x7A6DEF560C00))"
+    },
+    {
+      "EquipChaosFusionCfgRow": "(circular-reference (0x7A6DEF560A80))"
+    },
+    {
+      "EquipChaosFusionCfgRow": "(circular-reference (0x7A6DEF560900))"
+    },
+    {
+      "EquipChaosFusionCfgRow": "(circular-reference (0x7A6DEF560780))"
+    },
+    {
+      "EquipChaosFusionCfgRow": "(circular-reference (0x7A6DEF560600))"
+    },
+    {
+      "EquipChaosFusionCfgRow": "(circular-reference (0x7A6DEF560480))"
+    },
+    {
+      "EquipChaosFusionCfgRow": "(circular-reference (0x7A6DEF560300))"
+    },
+    {
+      "EquipChaosFusionCfgRow": "(circular-reference (0x7A6DEF560180))"
+    },
+    {
+      "EquipChaosFusionCfgRow": "(circular-reference (0x7A6DEF560000))"
+    }
+  ]
+}

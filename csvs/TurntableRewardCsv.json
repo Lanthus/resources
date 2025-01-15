@@ -1,0 +1,2711 @@
+[
+  {
+    "TurntableRewardRow": {
+      "ID": 1,
+      "ConnectActivityId": 20230105,
+      "Position": 1,
+      "Rewards": [
+        [
+          5008,
+          1
+        ],
+        [
+          5108,
+          1
+        ],
+        [
+          5208,
+          1
+        ],
+        [
+          1,
+          500
+        ]
+      ],
+      "Weight": [
+        [
+          1,
+          80,
+          16
+        ],
+        [
+          81,
+          160,
+          10
+        ],
+        [
+          161,
+          240,
+          8
+        ],
+        [
+          241,
+          99999,
+          16
+        ]
+      ],
+      "DropLimit": 100,
+      "RandLimit": [
+        80,
+        1
+      ],
+      "LanguageID": 1670,
+      "colorID": "ffd400"
+    }
+  },
+  {
+    "TurntableRewardRow": {
+      "ID": 2,
+      "ConnectActivityId": 20230105,
+      "Position": 2,
+      "Rewards": [
+        [
+          307,
+          1
+        ]
+      ],
+      "Weight": [
+        [
+          1,
+          80,
+          32
+        ],
+        [
+          81,
+          160,
+          35
+        ],
+        [
+          161,
+          240,
+          36
+        ],
+        [
+          241,
+          99999,
+          32
+        ]
+      ],
+      "DropLimit": 0,
+      "RandLimit": [
+        1,
+        1
+      ],
+      "LanguageID": 0,
+      "colorID": ""
+    }
+  },
+  {
+    "TurntableRewardRow": {
+      "ID": 3,
+      "ConnectActivityId": 20230105,
+      "Position": 3,
+      "Rewards": [
+        [
+          1,
+          300
+        ]
+      ],
+      "Weight": [
+        [
+          1,
+          99999,
+          40
+        ]
+      ],
+      "DropLimit": 0,
+      "RandLimit": [
+        1,
+        1
+      ],
+      "LanguageID": 0,
+      "colorID": "e567ff"
+    }
+  },
+  {
+    "TurntableRewardRow": {
+      "ID": 4,
+      "ConnectActivityId": 20230105,
+      "Position": 4,
+      "Rewards": [
+        [
+          34,
+          100
+        ]
+      ],
+      "Weight": [
+        [
+          1,
+          99999,
+          80
+        ]
+      ],
+      "DropLimit": 0,
+      "RandLimit": [
+        1,
+        1
+      ],
+      "LanguageID": 0,
+      "colorID": "4cccff"
+    }
+  },
+  {
+    "TurntableRewardRow": {
+      "ID": 5,
+      "ConnectActivityId": 20230105,
+      "Position": 5,
+      "Rewards": [
+        [
+          30204,
+          1
+        ]
+      ],
+      "Weight": [
+        [
+          1,
+          99999,
+          40
+        ]
+      ],
+      "DropLimit": 0,
+      "RandLimit": [
+        1,
+        1
+      ],
+      "LanguageID": 238,
+      "colorID": "e567ff"
+    }
+  },
+  {
+    "TurntableRewardRow": {
+      "ID": 6,
+      "ConnectActivityId": 20230105,
+      "Position": 6,
+      "Rewards": [
+        [
+          2,
+          10000
+        ]
+      ],
+      "Weight": [
+        [
+          1,
+          99999,
+          120
+        ]
+      ],
+      "DropLimit": 0,
+      "RandLimit": [
+        1,
+        1
+      ],
+      "LanguageID": 0,
+      "colorID": "4cccff"
+    }
+  },
+  {
+    "TurntableRewardRow": {
+      "ID": 7,
+      "ConnectActivityId": 20230105,
+      "Position": 7,
+      "Rewards": [
+        [
+          12,
+          1
+        ]
+      ],
+      "Weight": [
+        [
+          1,
+          99999,
+          80
+        ]
+      ],
+      "DropLimit": 0,
+      "RandLimit": [
+        1,
+        1
+      ],
+      "LanguageID": 3016,
+      "colorID": "e567ff"
+    }
+  },
+  {
+    "TurntableRewardRow": {
+      "ID": 8,
+      "ConnectActivityId": 20230105,
+      "Position": 8,
+      "Rewards": [
+        [
+          2,
+          2000
+        ]
+      ],
+      "Weight": [
+        [
+          1,
+          99999,
+          120
+        ]
+      ],
+      "DropLimit": 0,
+      "RandLimit": [
+        1,
+        1
+      ],
+      "LanguageID": 0,
+      "colorID": "4cccff"
+    }
+  },
+  {
+    "TurntableRewardRow": {
+      "ID": 9,
+      "ConnectActivityId": 20230105,
+      "Position": 9,
+      "Rewards": [
+        [
+          30304,
+          1
+        ]
+      ],
+      "Weight": [
+        [
+          1,
+          99999,
+          40
+        ]
+      ],
+      "DropLimit": 0,
+      "RandLimit": [
+        1,
+        1
+      ],
+      "LanguageID": 509,
+      "colorID": "e567ff"
+    }
+  },
+  {
+    "TurntableRewardRow": {
+      "ID": 10,
+      "ConnectActivityId": 20230105,
+      "Position": 10,
+      "Rewards": [
+        [
+          1006,
+          3
+        ]
+      ],
+      "Weight": [
+        [
+          1,
+          99999,
+          80
+        ]
+      ],
+      "DropLimit": 0,
+      "RandLimit": [
+        1,
+        1
+      ],
+      "LanguageID": 0,
+      "colorID": "4cccff"
+    }
+  },
+  {
+    "TurntableRewardRow": {
+      "ID": 11,
+      "ConnectActivityId": 20230105,
+      "Position": 11,
+      "Rewards": [
+        [
+          1,
+          50
+        ]
+      ],
+      "Weight": [
+        [
+          1,
+          99999,
+          120
+        ]
+      ],
+      "DropLimit": 0,
+      "RandLimit": [
+        1,
+        1
+      ],
+      "LanguageID": 0,
+      "colorID": "e567ff"
+    }
+  },
+  {
+    "TurntableRewardRow": {
+      "ID": 12,
+      "ConnectActivityId": 20230105,
+      "Position": 12,
+      "Rewards": [
+        [
+          307,
+          1
+        ]
+      ],
+      "Weight": [
+        [
+          1,
+          80,
+          32
+        ],
+        [
+          81,
+          160,
+          35
+        ],
+        [
+          161,
+          240,
+          36
+        ],
+        [
+          241,
+          99999,
+          32
+        ]
+      ],
+      "DropLimit": 0,
+      "RandLimit": [
+        1,
+        1
+      ],
+      "LanguageID": 0,
+      "colorID": ""
+    }
+  },
+  {
+    "TurntableRewardRow": {
+      "ID": 13,
+      "ConnectActivityId": 20230705,
+      "Position": 1,
+      "Rewards": [
+        [
+          31,
+          10
+        ],
+        [
+          31,
+          10
+        ],
+        [
+          31,
+          10
+        ],
+        [
+          31,
+          10
+        ]
+      ],
+      "Weight": [
+        [
+          1,
+          99999,
+          1
+        ]
+      ],
+      "DropLimit": 0,
+      "RandLimit": [
+        60,
+        2
+      ],
+      "LanguageID": 0,
+      "colorID": "ffd400"
+    }
+  },
+  {
+    "TurntableRewardRow": {
+      "ID": 14,
+      "ConnectActivityId": 20230705,
+      "Position": 2,
+      "Rewards": [
+        [
+          383,
+          1
+        ]
+      ],
+      "Weight": [
+        [
+          1,
+          99999,
+          2
+        ]
+      ],
+      "DropLimit": 0,
+      "RandLimit": [
+        1,
+        1
+      ],
+      "LanguageID": 0,
+      "colorID": ""
+    }
+  },
+  {
+    "TurntableRewardRow": {
+      "ID": 15,
+      "ConnectActivityId": 20230705,
+      "Position": 3,
+      "Rewards": [
+        [
+          6101,
+          1
+        ]
+      ],
+      "Weight": [
+        [
+          1,
+          99999,
+          5
+        ]
+      ],
+      "DropLimit": 0,
+      "RandLimit": [
+        1,
+        1
+      ],
+      "LanguageID": 0,
+      "colorID": "e567ff"
+    }
+  },
+  {
+    "TurntableRewardRow": {
+      "ID": 16,
+      "ConnectActivityId": 20230705,
+      "Position": 4,
+      "Rewards": [
+        [
+          31,
+          1
+        ]
+      ],
+      "Weight": [
+        [
+          1,
+          99999,
+          5
+        ]
+      ],
+      "DropLimit": 0,
+      "RandLimit": [
+        1,
+        1
+      ],
+      "LanguageID": 0,
+      "colorID": "ffd400"
+    }
+  },
+  {
+    "TurntableRewardRow": {
+      "ID": 17,
+      "ConnectActivityId": 20230705,
+      "Position": 5,
+      "Rewards": [
+        [
+          6102,
+          1
+        ]
+      ],
+      "Weight": [
+        [
+          1,
+          99999,
+          5
+        ]
+      ],
+      "DropLimit": 0,
+      "RandLimit": [
+        1,
+        1
+      ],
+      "LanguageID": 0,
+      "colorID": "e567ff"
+    }
+  },
+  {
+    "TurntableRewardRow": {
+      "ID": 18,
+      "ConnectActivityId": 20230705,
+      "Position": 6,
+      "Rewards": [
+        [
+          31,
+          1
+        ]
+      ],
+      "Weight": [
+        [
+          1,
+          99999,
+          5
+        ]
+      ],
+      "DropLimit": 0,
+      "RandLimit": [
+        1,
+        1
+      ],
+      "LanguageID": 0,
+      "colorID": "ffd400"
+    }
+  },
+  {
+    "TurntableRewardRow": {
+      "ID": 19,
+      "ConnectActivityId": 20230705,
+      "Position": 7,
+      "Rewards": [
+        [
+          6103,
+          1
+        ]
+      ],
+      "Weight": [
+        [
+          1,
+          99999,
+          5
+        ]
+      ],
+      "DropLimit": 0,
+      "RandLimit": [
+        1,
+        1
+      ],
+      "LanguageID": 0,
+      "colorID": "e567ff"
+    }
+  },
+  {
+    "TurntableRewardRow": {
+      "ID": 20,
+      "ConnectActivityId": 20230705,
+      "Position": 8,
+      "Rewards": [
+        [
+          31,
+          1
+        ]
+      ],
+      "Weight": [
+        [
+          1,
+          99999,
+          5
+        ]
+      ],
+      "DropLimit": 0,
+      "RandLimit": [
+        1,
+        1
+      ],
+      "LanguageID": 0,
+      "colorID": "ffd400"
+    }
+  },
+  {
+    "TurntableRewardRow": {
+      "ID": 21,
+      "ConnectActivityId": 20230705,
+      "Position": 9,
+      "Rewards": [
+        [
+          6104,
+          1
+        ]
+      ],
+      "Weight": [
+        [
+          1,
+          99999,
+          5
+        ]
+      ],
+      "DropLimit": 0,
+      "RandLimit": [
+        1,
+        1
+      ],
+      "LanguageID": 0,
+      "colorID": "e567ff"
+    }
+  },
+  {
+    "TurntableRewardRow": {
+      "ID": 22,
+      "ConnectActivityId": 20230705,
+      "Position": 10,
+      "Rewards": [
+        [
+          31,
+          1
+        ]
+      ],
+      "Weight": [
+        [
+          1,
+          99999,
+          5
+        ]
+      ],
+      "DropLimit": 0,
+      "RandLimit": [
+        1,
+        1
+      ],
+      "LanguageID": 0,
+      "colorID": "ffd400"
+    }
+  },
+  {
+    "TurntableRewardRow": {
+      "ID": 23,
+      "ConnectActivityId": 20230705,
+      "Position": 11,
+      "Rewards": [
+        [
+          6105,
+          1
+        ]
+      ],
+      "Weight": [
+        [
+          1,
+          99999,
+          5
+        ]
+      ],
+      "DropLimit": 0,
+      "RandLimit": [
+        1,
+        1
+      ],
+      "LanguageID": 0,
+      "colorID": "e567ff"
+    }
+  },
+  {
+    "TurntableRewardRow": {
+      "ID": 24,
+      "ConnectActivityId": 20230705,
+      "Position": 12,
+      "Rewards": [
+        [
+          383,
+          1
+        ]
+      ],
+      "Weight": [
+        [
+          1,
+          99999,
+          2
+        ]
+      ],
+      "DropLimit": 0,
+      "RandLimit": [
+        1,
+        1
+      ],
+      "LanguageID": 0,
+      "colorID": ""
+    }
+  },
+  {
+    "TurntableRewardRow": {
+      "ID": 25,
+      "ConnectActivityId": 20230904,
+      "Position": 1,
+      "Rewards": [
+        [
+          31,
+          5
+        ],
+        [
+          31,
+          5
+        ],
+        [
+          31,
+          5
+        ],
+        [
+          31,
+          5
+        ]
+      ],
+      "Weight": [
+        [
+          1,
+          99999,
+          2
+        ]
+      ],
+      "DropLimit": 0,
+      "RandLimit": [
+        100,
+        2
+      ],
+      "LanguageID": 0,
+      "colorID": "ffd400"
+    }
+  },
+  {
+    "TurntableRewardRow": {
+      "ID": 26,
+      "ConnectActivityId": 20230904,
+      "Position": 2,
+      "Rewards": [
+        [
+          834,
+          1
+        ]
+      ],
+      "Weight": [
+        [
+          1,
+          99999,
+          3
+        ]
+      ],
+      "DropLimit": 0,
+      "RandLimit": [
+        1,
+        1
+      ],
+      "LanguageID": 0,
+      "colorID": ""
+    }
+  },
+  {
+    "TurntableRewardRow": {
+      "ID": 27,
+      "ConnectActivityId": 20230904,
+      "Position": 3,
+      "Rewards": [
+        [
+          30204,
+          1
+        ]
+      ],
+      "Weight": [
+        [
+          1,
+          99999,
+          2
+        ]
+      ],
+      "DropLimit": 0,
+      "RandLimit": [
+        1,
+        1
+      ],
+      "LanguageID": 0,
+      "colorID": "e567ff"
+    }
+  },
+  {
+    "TurntableRewardRow": {
+      "ID": 28,
+      "ConnectActivityId": 20230904,
+      "Position": 4,
+      "Rewards": [
+        [
+          31,
+          1
+        ]
+      ],
+      "Weight": [
+        [
+          1,
+          99999,
+          10
+        ]
+      ],
+      "DropLimit": 0,
+      "RandLimit": [
+        1,
+        1
+      ],
+      "LanguageID": 0,
+      "colorID": "ffd400"
+    }
+  },
+  {
+    "TurntableRewardRow": {
+      "ID": 29,
+      "ConnectActivityId": 20230904,
+      "Position": 5,
+      "Rewards": [
+        [
+          30203,
+          1
+        ]
+      ],
+      "Weight": [
+        [
+          1,
+          99999,
+          3
+        ]
+      ],
+      "DropLimit": 0,
+      "RandLimit": [
+        1,
+        1
+      ],
+      "LanguageID": 0,
+      "colorID": "e567ff"
+    }
+  },
+  {
+    "TurntableRewardRow": {
+      "ID": 30,
+      "ConnectActivityId": 20230904,
+      "Position": 6,
+      "Rewards": [
+        [
+          6,
+          1
+        ]
+      ],
+      "Weight": [
+        [
+          1,
+          99999,
+          10
+        ]
+      ],
+      "DropLimit": 0,
+      "RandLimit": [
+        1,
+        1
+      ],
+      "LanguageID": 0,
+      "colorID": "ffd400"
+    }
+  },
+  {
+    "TurntableRewardRow": {
+      "ID": 31,
+      "ConnectActivityId": 20230904,
+      "Position": 7,
+      "Rewards": [
+        [
+          30202,
+          1
+        ]
+      ],
+      "Weight": [
+        [
+          1,
+          99999,
+          14
+        ]
+      ],
+      "DropLimit": 0,
+      "RandLimit": [
+        1,
+        1
+      ],
+      "LanguageID": 0,
+      "colorID": "e567ff"
+    }
+  },
+  {
+    "TurntableRewardRow": {
+      "ID": 32,
+      "ConnectActivityId": 20230904,
+      "Position": 8,
+      "Rewards": [
+        [
+          42,
+          1
+        ]
+      ],
+      "Weight": [
+        [
+          1,
+          99999,
+          10
+        ]
+      ],
+      "DropLimit": 0,
+      "RandLimit": [
+        1,
+        1
+      ],
+      "LanguageID": 0,
+      "colorID": "ffd400"
+    }
+  },
+  {
+    "TurntableRewardRow": {
+      "ID": 33,
+      "ConnectActivityId": 20230904,
+      "Position": 9,
+      "Rewards": [
+        [
+          30202,
+          1
+        ]
+      ],
+      "Weight": [
+        [
+          1,
+          99999,
+          14
+        ]
+      ],
+      "DropLimit": 0,
+      "RandLimit": [
+        1,
+        1
+      ],
+      "LanguageID": 0,
+      "colorID": "e567ff"
+    }
+  },
+  {
+    "TurntableRewardRow": {
+      "ID": 34,
+      "ConnectActivityId": 20230904,
+      "Position": 10,
+      "Rewards": [
+        [
+          1006,
+          10
+        ]
+      ],
+      "Weight": [
+        [
+          1,
+          99999,
+          15
+        ]
+      ],
+      "DropLimit": 0,
+      "RandLimit": [
+        1,
+        1
+      ],
+      "LanguageID": 0,
+      "colorID": "ffd400"
+    }
+  },
+  {
+    "TurntableRewardRow": {
+      "ID": 35,
+      "ConnectActivityId": 20230904,
+      "Position": 11,
+      "Rewards": [
+        [
+          30202,
+          1
+        ]
+      ],
+      "Weight": [
+        [
+          1,
+          99999,
+          14
+        ]
+      ],
+      "DropLimit": 0,
+      "RandLimit": [
+        1,
+        1
+      ],
+      "LanguageID": 0,
+      "colorID": "e567ff"
+    }
+  },
+  {
+    "TurntableRewardRow": {
+      "ID": 36,
+      "ConnectActivityId": 20230904,
+      "Position": 12,
+      "Rewards": [
+        [
+          834,
+          1
+        ]
+      ],
+      "Weight": [
+        [
+          1,
+          99999,
+          3
+        ]
+      ],
+      "DropLimit": 0,
+      "RandLimit": [
+        1,
+        1
+      ],
+      "LanguageID": 0,
+      "colorID": ""
+    }
+  },
+  {
+    "TurntableRewardRow": {
+      "ID": 37,
+      "ConnectActivityId": 20231104,
+      "Position": 1,
+      "Rewards": [
+        [
+          31,
+          5
+        ],
+        [
+          31,
+          5
+        ],
+        [
+          31,
+          5
+        ],
+        [
+          31,
+          5
+        ]
+      ],
+      "Weight": [
+        [
+          1,
+          99999,
+          2
+        ]
+      ],
+      "DropLimit": 0,
+      "RandLimit": [
+        100,
+        2
+      ],
+      "LanguageID": 0,
+      "colorID": "ffd400"
+    }
+  },
+  {
+    "TurntableRewardRow": {
+      "ID": 38,
+      "ConnectActivityId": 20231104,
+      "Position": 2,
+      "Rewards": [
+        [
+          884,
+          1
+        ]
+      ],
+      "Weight": [
+        [
+          1,
+          99999,
+          3
+        ]
+      ],
+      "DropLimit": 0,
+      "RandLimit": [
+        1,
+        1
+      ],
+      "LanguageID": 0,
+      "colorID": ""
+    }
+  },
+  {
+    "TurntableRewardRow": {
+      "ID": 39,
+      "ConnectActivityId": 20231104,
+      "Position": 3,
+      "Rewards": [
+        [
+          30204,
+          1
+        ]
+      ],
+      "Weight": [
+        [
+          1,
+          99999,
+          2
+        ]
+      ],
+      "DropLimit": 0,
+      "RandLimit": [
+        1,
+        1
+      ],
+      "LanguageID": 0,
+      "colorID": "e567ff"
+    }
+  },
+  {
+    "TurntableRewardRow": {
+      "ID": 40,
+      "ConnectActivityId": 20231104,
+      "Position": 4,
+      "Rewards": [
+        [
+          31,
+          1
+        ]
+      ],
+      "Weight": [
+        [
+          1,
+          99999,
+          10
+        ]
+      ],
+      "DropLimit": 0,
+      "RandLimit": [
+        1,
+        1
+      ],
+      "LanguageID": 0,
+      "colorID": "ffd400"
+    }
+  },
+  {
+    "TurntableRewardRow": {
+      "ID": 41,
+      "ConnectActivityId": 20231104,
+      "Position": 5,
+      "Rewards": [
+        [
+          30203,
+          1
+        ]
+      ],
+      "Weight": [
+        [
+          1,
+          99999,
+          3
+        ]
+      ],
+      "DropLimit": 0,
+      "RandLimit": [
+        1,
+        1
+      ],
+      "LanguageID": 0,
+      "colorID": "e567ff"
+    }
+  },
+  {
+    "TurntableRewardRow": {
+      "ID": 42,
+      "ConnectActivityId": 20231104,
+      "Position": 6,
+      "Rewards": [
+        [
+          6,
+          1
+        ]
+      ],
+      "Weight": [
+        [
+          1,
+          99999,
+          10
+        ]
+      ],
+      "DropLimit": 0,
+      "RandLimit": [
+        1,
+        1
+      ],
+      "LanguageID": 0,
+      "colorID": "ffd400"
+    }
+  },
+  {
+    "TurntableRewardRow": {
+      "ID": 43,
+      "ConnectActivityId": 20231104,
+      "Position": 7,
+      "Rewards": [
+        [
+          30202,
+          1
+        ]
+      ],
+      "Weight": [
+        [
+          1,
+          99999,
+          14
+        ]
+      ],
+      "DropLimit": 0,
+      "RandLimit": [
+        1,
+        1
+      ],
+      "LanguageID": 0,
+      "colorID": "e567ff"
+    }
+  },
+  {
+    "TurntableRewardRow": {
+      "ID": 44,
+      "ConnectActivityId": 20231104,
+      "Position": 8,
+      "Rewards": [
+        [
+          42,
+          1
+        ]
+      ],
+      "Weight": [
+        [
+          1,
+          99999,
+          10
+        ]
+      ],
+      "DropLimit": 0,
+      "RandLimit": [
+        1,
+        1
+      ],
+      "LanguageID": 0,
+      "colorID": "ffd400"
+    }
+  },
+  {
+    "TurntableRewardRow": {
+      "ID": 45,
+      "ConnectActivityId": 20231104,
+      "Position": 9,
+      "Rewards": [
+        [
+          30202,
+          1
+        ]
+      ],
+      "Weight": [
+        [
+          1,
+          99999,
+          14
+        ]
+      ],
+      "DropLimit": 0,
+      "RandLimit": [
+        1,
+        1
+      ],
+      "LanguageID": 0,
+      "colorID": "e567ff"
+    }
+  },
+  {
+    "TurntableRewardRow": {
+      "ID": 46,
+      "ConnectActivityId": 20231104,
+      "Position": 10,
+      "Rewards": [
+        [
+          1006,
+          10
+        ]
+      ],
+      "Weight": [
+        [
+          1,
+          99999,
+          15
+        ]
+      ],
+      "DropLimit": 0,
+      "RandLimit": [
+        1,
+        1
+      ],
+      "LanguageID": 0,
+      "colorID": "ffd400"
+    }
+  },
+  {
+    "TurntableRewardRow": {
+      "ID": 47,
+      "ConnectActivityId": 20231104,
+      "Position": 11,
+      "Rewards": [
+        [
+          30202,
+          1
+        ]
+      ],
+      "Weight": [
+        [
+          1,
+          99999,
+          14
+        ]
+      ],
+      "DropLimit": 0,
+      "RandLimit": [
+        1,
+        1
+      ],
+      "LanguageID": 0,
+      "colorID": "e567ff"
+    }
+  },
+  {
+    "TurntableRewardRow": {
+      "ID": 48,
+      "ConnectActivityId": 20231104,
+      "Position": 12,
+      "Rewards": [
+        [
+          884,
+          1
+        ]
+      ],
+      "Weight": [
+        [
+          1,
+          99999,
+          3
+        ]
+      ],
+      "DropLimit": 0,
+      "RandLimit": [
+        1,
+        1
+      ],
+      "LanguageID": 0,
+      "colorID": ""
+    }
+  },
+  {
+    "TurntableRewardRow": {
+      "ID": 49,
+      "ConnectActivityId": 20240301,
+      "Position": 1,
+      "Rewards": [
+        [
+          700,
+          1
+        ],
+        [
+          700,
+          1
+        ],
+        [
+          700,
+          1
+        ],
+        [
+          700,
+          1
+        ]
+      ],
+      "Weight": [
+        [
+          1,
+          99999,
+          3
+        ]
+      ],
+      "DropLimit": 0,
+      "RandLimit": [
+        100,
+        3
+      ],
+      "LanguageID": 0,
+      "colorID": "ffd400"
+    }
+  },
+  {
+    "TurntableRewardRow": {
+      "ID": 50,
+      "ConnectActivityId": 20240301,
+      "Position": 2,
+      "Rewards": [
+        [
+          982,
+          1
+        ]
+      ],
+      "Weight": [
+        [
+          1,
+          99999,
+          3
+        ]
+      ],
+      "DropLimit": 0,
+      "RandLimit": [
+        1,
+        1
+      ],
+      "LanguageID": 0,
+      "colorID": ""
+    }
+  },
+  {
+    "TurntableRewardRow": {
+      "ID": 51,
+      "ConnectActivityId": 20240301,
+      "Position": 3,
+      "Rewards": [
+        [
+          42,
+          1
+        ]
+      ],
+      "Weight": [
+        [
+          1,
+          99999,
+          10
+        ]
+      ],
+      "DropLimit": 0,
+      "RandLimit": [
+        1,
+        1
+      ],
+      "LanguageID": 0,
+      "colorID": "4cccff"
+    }
+  },
+  {
+    "TurntableRewardRow": {
+      "ID": 52,
+      "ConnectActivityId": 20240301,
+      "Position": 4,
+      "Rewards": [
+        [
+          6110,
+          1
+        ]
+      ],
+      "Weight": [
+        [
+          1,
+          99999,
+          7
+        ]
+      ],
+      "DropLimit": 0,
+      "RandLimit": [
+        1,
+        1
+      ],
+      "LanguageID": 0,
+      "colorID": "ffd400"
+    }
+  },
+  {
+    "TurntableRewardRow": {
+      "ID": 53,
+      "ConnectActivityId": 20240301,
+      "Position": 5,
+      "Rewards": [
+        [
+          43,
+          5
+        ]
+      ],
+      "Weight": [
+        [
+          1,
+          99999,
+          2
+        ]
+      ],
+      "DropLimit": 0,
+      "RandLimit": [
+        1,
+        1
+      ],
+      "LanguageID": 0,
+      "colorID": "e567ff"
+    }
+  },
+  {
+    "TurntableRewardRow": {
+      "ID": 54,
+      "ConnectActivityId": 20240301,
+      "Position": 6,
+      "Rewards": [
+        [
+          40,
+          100
+        ]
+      ],
+      "Weight": [
+        [
+          1,
+          99999,
+          18
+        ]
+      ],
+      "DropLimit": 0,
+      "RandLimit": [
+        1,
+        1
+      ],
+      "LanguageID": 0,
+      "colorID": "4cccff"
+    }
+  },
+  {
+    "TurntableRewardRow": {
+      "ID": 55,
+      "ConnectActivityId": 20240301,
+      "Position": 7,
+      "Rewards": [
+        [
+          32303,
+          1
+        ]
+      ],
+      "Weight": [
+        [
+          1,
+          99999,
+          4
+        ]
+      ],
+      "DropLimit": 0,
+      "RandLimit": [
+        1,
+        1
+      ],
+      "LanguageID": 0,
+      "colorID": "ffd400"
+    }
+  },
+  {
+    "TurntableRewardRow": {
+      "ID": 56,
+      "ConnectActivityId": 20240301,
+      "Position": 8,
+      "Rewards": [
+        [
+          32312,
+          1
+        ]
+      ],
+      "Weight": [
+        [
+          1,
+          99999,
+          10
+        ]
+      ],
+      "DropLimit": 0,
+      "RandLimit": [
+        1,
+        1
+      ],
+      "LanguageID": 0,
+      "colorID": "e567ff"
+    }
+  },
+  {
+    "TurntableRewardRow": {
+      "ID": 57,
+      "ConnectActivityId": 20240301,
+      "Position": 9,
+      "Rewards": [
+        [
+          32311,
+          1
+        ]
+      ],
+      "Weight": [
+        [
+          1,
+          99999,
+          20
+        ]
+      ],
+      "DropLimit": 0,
+      "RandLimit": [
+        1,
+        1
+      ],
+      "LanguageID": 0,
+      "colorID": "4cccff"
+    }
+  },
+  {
+    "TurntableRewardRow": {
+      "ID": 58,
+      "ConnectActivityId": 20240301,
+      "Position": 10,
+      "Rewards": [
+        [
+          32314,
+          1
+        ]
+      ],
+      "Weight": [
+        [
+          1,
+          99999,
+          10
+        ]
+      ],
+      "DropLimit": 0,
+      "RandLimit": [
+        1,
+        1
+      ],
+      "LanguageID": 0,
+      "colorID": "ffd400"
+    }
+  },
+  {
+    "TurntableRewardRow": {
+      "ID": 59,
+      "ConnectActivityId": 20240301,
+      "Position": 11,
+      "Rewards": [
+        [
+          43,
+          1
+        ]
+      ],
+      "Weight": [
+        [
+          1,
+          99999,
+          10
+        ]
+      ],
+      "DropLimit": 0,
+      "RandLimit": [
+        1,
+        1
+      ],
+      "LanguageID": 0,
+      "colorID": "e567ff"
+    }
+  },
+  {
+    "TurntableRewardRow": {
+      "ID": 60,
+      "ConnectActivityId": 20240301,
+      "Position": 12,
+      "Rewards": [
+        [
+          982,
+          1
+        ]
+      ],
+      "Weight": [
+        [
+          1,
+          99999,
+          3
+        ]
+      ],
+      "DropLimit": 0,
+      "RandLimit": [
+        1,
+        1
+      ],
+      "LanguageID": 0,
+      "colorID": ""
+    }
+  },
+  {
+    "TurntableRewardRow": {
+      "ID": 61,
+      "ConnectActivityId": 20240710,
+      "Position": 1,
+      "Rewards": [
+        [
+          700,
+          1
+        ],
+        [
+          700,
+          1
+        ],
+        [
+          700,
+          1
+        ],
+        [
+          700,
+          1
+        ]
+      ],
+      "Weight": [
+        [
+          1,
+          99999,
+          3
+        ]
+      ],
+      "DropLimit": 0,
+      "RandLimit": [
+        100,
+        3
+      ],
+      "LanguageID": 0,
+      "colorID": "ffd400"
+    }
+  },
+  {
+    "TurntableRewardRow": {
+      "ID": 62,
+      "ConnectActivityId": 20240710,
+      "Position": 2,
+      "Rewards": [
+        [
+          1155,
+          1
+        ]
+      ],
+      "Weight": [
+        [
+          1,
+          99999,
+          3
+        ]
+      ],
+      "DropLimit": 0,
+      "RandLimit": [
+        1,
+        1
+      ],
+      "LanguageID": 0,
+      "colorID": ""
+    }
+  },
+  {
+    "TurntableRewardRow": {
+      "ID": 63,
+      "ConnectActivityId": 20240710,
+      "Position": 3,
+      "Rewards": [
+        [
+          42,
+          1
+        ]
+      ],
+      "Weight": [
+        [
+          1,
+          99999,
+          10
+        ]
+      ],
+      "DropLimit": 0,
+      "RandLimit": [
+        1,
+        1
+      ],
+      "LanguageID": 0,
+      "colorID": "4cccff"
+    }
+  },
+  {
+    "TurntableRewardRow": {
+      "ID": 64,
+      "ConnectActivityId": 20240710,
+      "Position": 4,
+      "Rewards": [
+        [
+          6110,
+          1
+        ]
+      ],
+      "Weight": [
+        [
+          1,
+          99999,
+          7
+        ]
+      ],
+      "DropLimit": 0,
+      "RandLimit": [
+        1,
+        1
+      ],
+      "LanguageID": 0,
+      "colorID": "ffd400"
+    }
+  },
+  {
+    "TurntableRewardRow": {
+      "ID": 65,
+      "ConnectActivityId": 20240710,
+      "Position": 5,
+      "Rewards": [
+        [
+          43,
+          5
+        ]
+      ],
+      "Weight": [
+        [
+          1,
+          99999,
+          2
+        ]
+      ],
+      "DropLimit": 0,
+      "RandLimit": [
+        1,
+        1
+      ],
+      "LanguageID": 0,
+      "colorID": "e567ff"
+    }
+  },
+  {
+    "TurntableRewardRow": {
+      "ID": 66,
+      "ConnectActivityId": 20240710,
+      "Position": 6,
+      "Rewards": [
+        [
+          40,
+          100
+        ]
+      ],
+      "Weight": [
+        [
+          1,
+          99999,
+          18
+        ]
+      ],
+      "DropLimit": 0,
+      "RandLimit": [
+        1,
+        1
+      ],
+      "LanguageID": 0,
+      "colorID": "4cccff"
+    }
+  },
+  {
+    "TurntableRewardRow": {
+      "ID": 67,
+      "ConnectActivityId": 20240710,
+      "Position": 7,
+      "Rewards": [
+        [
+          32303,
+          1
+        ]
+      ],
+      "Weight": [
+        [
+          1,
+          99999,
+          2
+        ]
+      ],
+      "DropLimit": 0,
+      "RandLimit": [
+        1,
+        1
+      ],
+      "LanguageID": 0,
+      "colorID": "ffd400"
+    }
+  },
+  {
+    "TurntableRewardRow": {
+      "ID": 68,
+      "ConnectActivityId": 20240710,
+      "Position": 8,
+      "Rewards": [
+        [
+          32312,
+          1
+        ]
+      ],
+      "Weight": [
+        [
+          1,
+          99999,
+          10
+        ]
+      ],
+      "DropLimit": 0,
+      "RandLimit": [
+        1,
+        1
+      ],
+      "LanguageID": 0,
+      "colorID": "e567ff"
+    }
+  },
+  {
+    "TurntableRewardRow": {
+      "ID": 69,
+      "ConnectActivityId": 20240710,
+      "Position": 9,
+      "Rewards": [
+        [
+          32311,
+          1
+        ]
+      ],
+      "Weight": [
+        [
+          1,
+          99999,
+          20
+        ]
+      ],
+      "DropLimit": 0,
+      "RandLimit": [
+        1,
+        1
+      ],
+      "LanguageID": 0,
+      "colorID": "4cccff"
+    }
+  },
+  {
+    "TurntableRewardRow": {
+      "ID": 70,
+      "ConnectActivityId": 20240710,
+      "Position": 10,
+      "Rewards": [
+        [
+          32314,
+          1
+        ]
+      ],
+      "Weight": [
+        [
+          1,
+          99999,
+          12
+        ]
+      ],
+      "DropLimit": 0,
+      "RandLimit": [
+        1,
+        1
+      ],
+      "LanguageID": 0,
+      "colorID": "ffd400"
+    }
+  },
+  {
+    "TurntableRewardRow": {
+      "ID": 71,
+      "ConnectActivityId": 20240710,
+      "Position": 11,
+      "Rewards": [
+        [
+          43,
+          1
+        ]
+      ],
+      "Weight": [
+        [
+          1,
+          99999,
+          10
+        ]
+      ],
+      "DropLimit": 0,
+      "RandLimit": [
+        1,
+        1
+      ],
+      "LanguageID": 0,
+      "colorID": "e567ff"
+    }
+  },
+  {
+    "TurntableRewardRow": {
+      "ID": 72,
+      "ConnectActivityId": 20240710,
+      "Position": 12,
+      "Rewards": [
+        [
+          1155,
+          1
+        ]
+      ],
+      "Weight": [
+        [
+          1,
+          99999,
+          3
+        ]
+      ],
+      "DropLimit": 0,
+      "RandLimit": [
+        1,
+        1
+      ],
+      "LanguageID": 0,
+      "colorID": ""
+    }
+  },
+  {
+    "TurntableRewardRow": {
+      "ID": 73,
+      "ConnectActivityId": 20240918,
+      "Position": 1,
+      "Rewards": [
+        [
+          1248,
+          4
+        ]
+      ],
+      "Weight": [
+        [
+          1,
+          99999,
+          25
+        ]
+      ],
+      "DropLimit": 0,
+      "RandLimit": [
+        200,
+        5
+      ],
+      "LanguageID": 0,
+      "colorID": "ffd400"
+    }
+  },
+  {
+    "TurntableRewardRow": {
+      "ID": 74,
+      "ConnectActivityId": 20240918,
+      "Position": 2,
+      "Rewards": [
+        [
+          1246,
+          1
+        ]
+      ],
+      "Weight": [
+        [
+          1,
+          99999,
+          30
+        ]
+      ],
+      "DropLimit": 0,
+      "RandLimit": [
+        1,
+        1
+      ],
+      "LanguageID": 0,
+      "colorID": ""
+    }
+  },
+  {
+    "TurntableRewardRow": {
+      "ID": 75,
+      "ConnectActivityId": 20240918,
+      "Position": 3,
+      "Rewards": [
+        [
+          6115,
+          1
+        ]
+      ],
+      "Weight": [
+        [
+          1,
+          99999,
+          20
+        ]
+      ],
+      "DropLimit": 0,
+      "RandLimit": [
+        1,
+        1
+      ],
+      "LanguageID": 0,
+      "colorID": "4cccff"
+    }
+  },
+  {
+    "TurntableRewardRow": {
+      "ID": 76,
+      "ConnectActivityId": 20240918,
+      "Position": 4,
+      "Rewards": [
+        [
+          1247,
+          2
+        ]
+      ],
+      "Weight": [
+        [
+          1,
+          99999,
+          400
+        ]
+      ],
+      "DropLimit": 0,
+      "RandLimit": [
+        1,
+        1
+      ],
+      "LanguageID": 0,
+      "colorID": "ffd400"
+    }
+  },
+  {
+    "TurntableRewardRow": {
+      "ID": 77,
+      "ConnectActivityId": 20240918,
+      "Position": 5,
+      "Rewards": [
+        [
+          6115,
+          1
+        ]
+      ],
+      "Weight": [
+        [
+          1,
+          99999,
+          20
+        ]
+      ],
+      "DropLimit": 0,
+      "RandLimit": [
+        1,
+        1
+      ],
+      "LanguageID": 0,
+      "colorID": "e567ff"
+    }
+  },
+  {
+    "TurntableRewardRow": {
+      "ID": 78,
+      "ConnectActivityId": 20240918,
+      "Position": 6,
+      "Rewards": [
+        [
+          1248,
+          1
+        ]
+      ],
+      "Weight": [
+        [
+          1,
+          99999,
+          20
+        ]
+      ],
+      "DropLimit": 0,
+      "RandLimit": [
+        1,
+        1
+      ],
+      "LanguageID": 0,
+      "colorID": "4cccff"
+    }
+  },
+  {
+    "TurntableRewardRow": {
+      "ID": 79,
+      "ConnectActivityId": 20240918,
+      "Position": 7,
+      "Rewards": [
+        [
+          1247,
+          3
+        ]
+      ],
+      "Weight": [
+        [
+          1,
+          99999,
+          250
+        ]
+      ],
+      "DropLimit": 0,
+      "RandLimit": [
+        1,
+        1
+      ],
+      "LanguageID": 0,
+      "colorID": "ffd400"
+    }
+  },
+  {
+    "TurntableRewardRow": {
+      "ID": 80,
+      "ConnectActivityId": 20240918,
+      "Position": 8,
+      "Rewards": [
+        [
+          6115,
+          1
+        ]
+      ],
+      "Weight": [
+        [
+          1,
+          99999,
+          20
+        ]
+      ],
+      "DropLimit": 0,
+      "RandLimit": [
+        1,
+        1
+      ],
+      "LanguageID": 0,
+      "colorID": "e567ff"
+    }
+  },
+  {
+    "TurntableRewardRow": {
+      "ID": 81,
+      "ConnectActivityId": 20240918,
+      "Position": 9,
+      "Rewards": [
+        [
+          1248,
+          1
+        ]
+      ],
+      "Weight": [
+        [
+          1,
+          99999,
+          15
+        ]
+      ],
+      "DropLimit": 0,
+      "RandLimit": [
+        1,
+        1
+      ],
+      "LanguageID": 0,
+      "colorID": "4cccff"
+    }
+  },
+  {
+    "TurntableRewardRow": {
+      "ID": 82,
+      "ConnectActivityId": 20240918,
+      "Position": 10,
+      "Rewards": [
+        [
+          1247,
+          5
+        ]
+      ],
+      "Weight": [
+        [
+          1,
+          99999,
+          150
+        ]
+      ],
+      "DropLimit": 0,
+      "RandLimit": [
+        1,
+        1
+      ],
+      "LanguageID": 0,
+      "colorID": "ffd400"
+    }
+  },
+  {
+    "TurntableRewardRow": {
+      "ID": 83,
+      "ConnectActivityId": 20240918,
+      "Position": 11,
+      "Rewards": [
+        [
+          6115,
+          1
+        ]
+      ],
+      "Weight": [
+        [
+          1,
+          99999,
+          20
+        ]
+      ],
+      "DropLimit": 0,
+      "RandLimit": [
+        1,
+        1
+      ],
+      "LanguageID": 0,
+      "colorID": "e567ff"
+    }
+  },
+  {
+    "TurntableRewardRow": {
+      "ID": 84,
+      "ConnectActivityId": 20240918,
+      "Position": 12,
+      "Rewards": [
+        [
+          1246,
+          1
+        ]
+      ],
+      "Weight": [
+        [
+          1,
+          99999,
+          30
+        ]
+      ],
+      "DropLimit": 0,
+      "RandLimit": [
+        1,
+        1
+      ],
+      "LanguageID": 0,
+      "colorID": ""
+    }
+  },
+  {
+    "TurntableRewardRow": {
+      "ID": 85,
+      "ConnectActivityId": 20241218,
+      "Position": 1,
+      "Rewards": [
+        [
+          1422,
+          4
+        ]
+      ],
+      "Weight": [
+        [
+          1,
+          99999,
+          25
+        ]
+      ],
+      "DropLimit": 0,
+      "RandLimit": [
+        200,
+        5
+      ],
+      "LanguageID": 0,
+      "colorID": "ffd400"
+    }
+  },
+  {
+    "TurntableRewardRow": {
+      "ID": 86,
+      "ConnectActivityId": 20241218,
+      "Position": 2,
+      "Rewards": [
+        [
+          1420,
+          1
+        ]
+      ],
+      "Weight": [
+        [
+          1,
+          99999,
+          30
+        ]
+      ],
+      "DropLimit": 0,
+      "RandLimit": [
+        1,
+        1
+      ],
+      "LanguageID": 0,
+      "colorID": ""
+    }
+  },
+  {
+    "TurntableRewardRow": {
+      "ID": 87,
+      "ConnectActivityId": 20241218,
+      "Position": 3,
+      "Rewards": [
+        [
+          6115,
+          1
+        ]
+      ],
+      "Weight": [
+        [
+          1,
+          99999,
+          20
+        ]
+      ],
+      "DropLimit": 0,
+      "RandLimit": [
+        1,
+        1
+      ],
+      "LanguageID": 0,
+      "colorID": "4cccff"
+    }
+  },
+  {
+    "TurntableRewardRow": {
+      "ID": 88,
+      "ConnectActivityId": 20241218,
+      "Position": 4,
+      "Rewards": [
+        [
+          1421,
+          2
+        ]
+      ],
+      "Weight": [
+        [
+          1,
+          99999,
+          400
+        ]
+      ],
+      "DropLimit": 0,
+      "RandLimit": [
+        1,
+        1
+      ],
+      "LanguageID": 0,
+      "colorID": "ffd400"
+    }
+  },
+  {
+    "TurntableRewardRow": {
+      "ID": 89,
+      "ConnectActivityId": 20241218,
+      "Position": 5,
+      "Rewards": [
+        [
+          6115,
+          1
+        ]
+      ],
+      "Weight": [
+        [
+          1,
+          99999,
+          20
+        ]
+      ],
+      "DropLimit": 0,
+      "RandLimit": [
+        1,
+        1
+      ],
+      "LanguageID": 0,
+      "colorID": "e567ff"
+    }
+  },
+  {
+    "TurntableRewardRow": {
+      "ID": 90,
+      "ConnectActivityId": 20241218,
+      "Position": 6,
+      "Rewards": [
+        [
+          1422,
+          1
+        ]
+      ],
+      "Weight": [
+        [
+          1,
+          99999,
+          20
+        ]
+      ],
+      "DropLimit": 0,
+      "RandLimit": [
+        1,
+        1
+      ],
+      "LanguageID": 0,
+      "colorID": "4cccff"
+    }
+  },
+  {
+    "TurntableRewardRow": {
+      "ID": 91,
+      "ConnectActivityId": 20241218,
+      "Position": 7,
+      "Rewards": [
+        [
+          1421,
+          3
+        ]
+      ],
+      "Weight": [
+        [
+          1,
+          99999,
+          250
+        ]
+      ],
+      "DropLimit": 0,
+      "RandLimit": [
+        1,
+        1
+      ],
+      "LanguageID": 0,
+      "colorID": "ffd400"
+    }
+  },
+  {
+    "TurntableRewardRow": {
+      "ID": 92,
+      "ConnectActivityId": 20241218,
+      "Position": 8,
+      "Rewards": [
+        [
+          6115,
+          1
+        ]
+      ],
+      "Weight": [
+        [
+          1,
+          99999,
+          20
+        ]
+      ],
+      "DropLimit": 0,
+      "RandLimit": [
+        1,
+        1
+      ],
+      "LanguageID": 0,
+      "colorID": "e567ff"
+    }
+  },
+  {
+    "TurntableRewardRow": {
+      "ID": 93,
+      "ConnectActivityId": 20241218,
+      "Position": 9,
+      "Rewards": [
+        [
+          1422,
+          1
+        ]
+      ],
+      "Weight": [
+        [
+          1,
+          99999,
+          15
+        ]
+      ],
+      "DropLimit": 0,
+      "RandLimit": [
+        1,
+        1
+      ],
+      "LanguageID": 0,
+      "colorID": "4cccff"
+    }
+  },
+  {
+    "TurntableRewardRow": {
+      "ID": 94,
+      "ConnectActivityId": 20241218,
+      "Position": 10,
+      "Rewards": [
+        [
+          1421,
+          5
+        ]
+      ],
+      "Weight": [
+        [
+          1,
+          99999,
+          150
+        ]
+      ],
+      "DropLimit": 0,
+      "RandLimit": [
+        1,
+        1
+      ],
+      "LanguageID": 0,
+      "colorID": "ffd400"
+    }
+  },
+  {
+    "TurntableRewardRow": {
+      "ID": 95,
+      "ConnectActivityId": 20241218,
+      "Position": 11,
+      "Rewards": [
+        [
+          6115,
+          1
+        ]
+      ],
+      "Weight": [
+        [
+          1,
+          99999,
+          20
+        ]
+      ],
+      "DropLimit": 0,
+      "RandLimit": [
+        1,
+        1
+      ],
+      "LanguageID": 0,
+      "colorID": "e567ff"
+    }
+  },
+  {
+    "TurntableRewardRow": {
+      "ID": 96,
+      "ConnectActivityId": 20241218,
+      "Position": 12,
+      "Rewards": [
+        [
+          1420,
+          1
+        ]
+      ],
+      "Weight": [
+        [
+          1,
+          99999,
+          30
+        ]
+      ],
+      "DropLimit": 0,
+      "RandLimit": [
+        1,
+        1
+      ],
+      "LanguageID": 0,
+      "colorID": ""
+    }
+  }
+]

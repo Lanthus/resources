@@ -1,0 +1,302 @@
+[
+  {
+    "LuckPushProbabilityRow": {
+      "ID": 1,
+      "Type": 1,
+      "SubType": 1,
+      "Probability": [
+        [
+          1,
+          25
+        ],
+        [
+          2,
+          25
+        ],
+        [
+          3,
+          25
+        ],
+        [
+          4,
+          25
+        ]
+      ]
+    }
+  },
+  {
+    "LuckPushProbabilityRow": {
+      "ID": 2,
+      "Type": 1,
+      "SubType": 2,
+      "Probability": [
+        [
+          1,
+          25
+        ],
+        [
+          2,
+          25
+        ],
+        [
+          3,
+          25
+        ],
+        [
+          4,
+          25
+        ]
+      ]
+    }
+  },
+  {
+    "LuckPushProbabilityRow": {
+      "ID": 3,
+      "Type": 1,
+      "SubType": 4,
+      "Probability": [
+        [
+          1,
+          40
+        ],
+        [
+          2,
+          20
+        ],
+        [
+          3,
+          20
+        ],
+        [
+          4,
+          20
+        ]
+      ]
+    }
+  },
+  {
+    "LuckPushProbabilityRow": {
+      "ID": 4,
+      "Type": 1,
+      "SubType": 6,
+      "Probability": [
+        [
+          1,
+          60
+        ],
+        [
+          2,
+          15
+        ],
+        [
+          3,
+          10
+        ],
+        [
+          4,
+          15
+        ]
+      ]
+    }
+  },
+  {
+    "LuckPushProbabilityRow": {
+      "ID": 5,
+      "Type": 2,
+      "SubType": 1,
+      "Probability": [
+        [
+          1,
+          20
+        ],
+        [
+          2,
+          20
+        ],
+        [
+          3,
+          30
+        ],
+        [
+          4,
+          30
+        ]
+      ]
+    }
+  },
+  {
+    "LuckPushProbabilityRow": {
+      "ID": 6,
+      "Type": 2,
+      "SubType": 2,
+      "Probability": [
+        [
+          1,
+          20
+        ],
+        [
+          2,
+          20
+        ],
+        [
+          3,
+          30
+        ],
+        [
+          4,
+          30
+        ]
+      ]
+    }
+  },
+  {
+    "LuckPushProbabilityRow": {
+      "ID": 7,
+      "Type": 2,
+      "SubType": 4,
+      "Probability": [
+        [
+          1,
+          25
+        ],
+        [
+          2,
+          25
+        ],
+        [
+          3,
+          30
+        ],
+        [
+          4,
+          20
+        ]
+      ]
+    }
+  },
+  {
+    "LuckPushProbabilityRow": {
+      "ID": 8,
+      "Type": 2,
+      "SubType": 6,
+      "Probability": [
+        [
+          1,
+          25
+        ],
+        [
+          2,
+          30
+        ],
+        [
+          3,
+          25
+        ],
+        [
+          4,
+          20
+        ]
+      ]
+    }
+  },
+  {
+    "LuckPushProbabilityRow": {
+      "ID": 9,
+      "Type": 3,
+      "SubType": 1,
+      "Probability": [
+        [
+          1,
+          50
+        ],
+        [
+          2,
+          30
+        ],
+        [
+          3,
+          15
+        ],
+        [
+          4,
+          5
+        ]
+      ]
+    }
+  },
+  {
+    "LuckPushProbabilityRow": {
+      "ID": 10,
+      "Type": 3,
+      "SubType": 2,
+      "Probability": [
+        [
+          1,
+          50
+        ],
+        [
+          2,
+          30
+        ],
+        [
+          3,
+          15
+        ],
+        [
+          4,
+          5
+        ]
+      ]
+    }
+  },
+  {
+    "LuckPushProbabilityRow": {
+      "ID": 11,
+      "Type": 3,
+      "SubType": 4,
+      "Probability": [
+        [
+          1,
+          65
+        ],
+        [
+          2,
+          15
+        ],
+        [
+          3,
+          15
+        ],
+        [
+          4,
+          5
+        ]
+      ]
+    }
+  },
+  {
+    "LuckPushProbabilityRow": {
+      "ID": 12,
+      "Type": 3,
+      "SubType": 6,
+      "Probability": [
+        [
+          1,
+          65
+        ],
+        [
+          2,
+          25
+        ],
+        [
+          3,
+          5
+        ],
+        [
+          4,
+          5
+        ]
+      ]
+    }
+  }
+]

@@ -1,0 +1,931 @@
+{
+    "Int32 _key": 1743548445,
+    "Int32 _rndIdx": 248,
+    "Dictionary<System.Int32,EquipSSCfgRow> _dict": {
+        "Int32[] _buckets": [
+            5,
+            0,
+            3,
+            6,
+            0,
+            4,
+            0
+        ],
+        "Entry<System.Int32,EquipSSCfgRow>[] _entries": [
+            {
+                "Int32 hashCode": 1742948510,
+                "Int32 next": -1,
+                "Int32 key": 1742948510,
+                "EquipSSCfgRow value": {
+                    "ObscuredInt <id>k__BackingField": {
+                        "Int32 currentCryptoKey": 1939789396,
+                        "Int32 hiddenValue": 1939500336,
+                        "Int32 fakeValue": 1680489728,
+                        "Int32 currentFakeCryptoKey": 1680770660,
+                        "Boolean fakeValueActive": true,
+                        "Boolean inited": true
+                    },
+                    "List<System.Int32[]> <Forge>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                611,
+                                50
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                612,
+                                50
+                            ]
+                        }
+                    ],
+                    "List<System.Int32[]> <ForgeCost>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                610,
+                                2000
+                            ]
+                        }
+                    ],
+                    "String[] <ForgeIcon>k__BackingField": [
+                        "Equip_Weapon_6_Icon_Elite",
+                        "Equip_Weapon_7_Icon_Elite"
+                    ],
+                    "ObscuredInt[] <GodForgeA>k__BackingField": [
+                        {
+                            "Int32 currentCryptoKey": 1276293257,
+                            "Int32 hiddenValue": 1276293984,
+                            "Int32 fakeValue": 1067032326,
+                            "Int32 currentFakeCryptoKey": 1067031791,
+                            "Boolean fakeValueActive": true,
+                            "Boolean inited": true
+                        },
+                        {
+                            "Int32 currentCryptoKey": 1665832406,
+                            "Int32 hiddenValue": 1665832508,
+                            "Int32 fakeValue": 1657806177,
+                            "Int32 currentFakeCryptoKey": 1657806475,
+                            "Boolean fakeValueActive": true,
+                            "Boolean inited": true
+                        },
+                        {
+                            "Int32 currentCryptoKey": 1891018707,
+                            "Int32 hiddenValue": 1891017784,
+                            "Int32 fakeValue": 1023955413,
+                            "Int32 currentFakeCryptoKey": 1023955518,
+                            "Boolean fakeValueActive": true,
+                            "Boolean inited": true
+                        },
+                        {
+                            "Int32 currentCryptoKey": 2051077115,
+                            "Int32 hiddenValue": 2051076119,
+                            "Int32 fakeValue": 1144589781,
+                            "Int32 currentFakeCryptoKey": 1144589881,
+                            "Boolean fakeValueActive": true,
+                            "Boolean inited": true
+                        },
+                        {
+                            "Int32 currentCryptoKey": 1985277560,
+                            "Int32 hiddenValue": 1985277333,
+                            "Int32 fakeValue": 1693297991,
+                            "Int32 currentFakeCryptoKey": 1693298346,
+                            "Boolean fakeValueActive": true,
+                            "Boolean inited": true
+                        }
+                    ],
+                    "ObscuredInt[] <GodForgeB>k__BackingField": [
+                        {
+                            "Int32 currentCryptoKey": 1877484766,
+                            "Int32 hiddenValue": 1877484303,
+                            "Int32 fakeValue": 1853930635,
+                            "Int32 currentFakeCryptoKey": 1853930330,
+                            "Boolean fakeValueActive": true,
+                            "Boolean inited": true
+                        },
+                        {
+                            "Int32 currentCryptoKey": 2097711804,
+                            "Int32 hiddenValue": 2097712494,
+                            "Int32 fakeValue": 1285663935,
+                            "Int32 currentFakeCryptoKey": 1285663597,
+                            "Boolean fakeValueActive": true,
+                            "Boolean inited": true
+                        },
+                        {
+                            "Int32 currentCryptoKey": 1255967470,
+                            "Int32 hiddenValue": 1255968061,
+                            "Int32 fakeValue": 1997392832,
+                            "Int32 currentFakeCryptoKey": 1997392915,
+                            "Boolean fakeValueActive": true,
+                            "Boolean inited": true
+                        },
+                        {
+                            "Int32 currentCryptoKey": 1125186146,
+                            "Int32 hiddenValue": 1125186998,
+                            "Int32 fakeValue": 2040504456,
+                            "Int32 currentFakeCryptoKey": 2040506204,
+                            "Boolean fakeValueActive": true,
+                            "Boolean inited": true
+                        },
+                        {
+                            "Int32 currentCryptoKey": 1323196075,
+                            "Int32 hiddenValue": 1323194750,
+                            "Int32 fakeValue": 2009702514,
+                            "Int32 currentFakeCryptoKey": 2009704359,
+                            "Boolean fakeValueActive": true,
+                            "Boolean inited": true
+                        }
+                    ],
+                    "ObscuredInt[] <GodForgeC>k__BackingField": [],
+                    "ObscuredInt <GodForgeLevel>k__BackingField": {
+                        "Int32 currentCryptoKey": 1892435599,
+                        "Int32 hiddenValue": 1892435594,
+                        "Int32 fakeValue": 1447688805,
+                        "Int32 currentFakeCryptoKey": 1447688800,
+                        "Boolean fakeValueActive": true,
+                        "Boolean inited": true
+                    },
+                    "ObscuredInt <GodForgeLevelLock>k__BackingField": {
+                        "Int32 currentCryptoKey": 1364769637,
+                        "Int32 hiddenValue": 1364769638,
+                        "Int32 fakeValue": 1466702671,
+                        "Int32 currentFakeCryptoKey": 1466702668,
+                        "Boolean fakeValueActive": true,
+                        "Boolean inited": true
+                    },
+                    "ObscuredInt <UnlockTime>k__BackingField": {
+                        "Int32 currentCryptoKey": 1932003493,
+                        "Int32 hiddenValue": 384541093,
+                        "Int32 fakeValue": 809785254,
+                        "Int32 currentFakeCryptoKey": 1434975910,
+                        "Boolean fakeValueActive": true,
+                        "Boolean inited": true
+                    }
+                }
+            },
+            {
+                "Int32 hashCode": 1742942094,
+                "Int32 next": -1,
+                "Int32 key": 1742942094,
+                "EquipSSCfgRow value": {
+                    "ObscuredInt <id>k__BackingField": {
+                        "Int32 currentCryptoKey": 1177605142,
+                        "Int32 hiddenValue": 1177826914,
+                        "Int32 fakeValue": 1173120977,
+                        "Int32 currentFakeCryptoKey": 1172866469,
+                        "Boolean fakeValueActive": true,
+                        "Boolean inited": true
+                    },
+                    "List<System.Int32[]> <Forge>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                611,
+                                50
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                612,
+                                50
+                            ]
+                        }
+                    ],
+                    "List<System.Int32[]> <ForgeCost>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                610,
+                                2000
+                            ]
+                        }
+                    ],
+                    "String[] <ForgeIcon>k__BackingField": [
+                        "Equip_Armor_6_Icon_Elite",
+                        "Equip_Armor_7_Icon_Elite"
+                    ],
+                    "ObscuredInt[] <GodForgeA>k__BackingField": [
+                        {
+                            "Int32 currentCryptoKey": 1720431149,
+                            "Int32 hiddenValue": 1720431070,
+                            "Int32 fakeValue": 1829325563,
+                            "Int32 currentFakeCryptoKey": 1829325064,
+                            "Boolean fakeValueActive": true,
+                            "Boolean inited": true
+                        },
+                        {
+                            "Int32 currentCryptoKey": 1999586134,
+                            "Int32 hiddenValue": 1999585442,
+                            "Int32 fakeValue": 1297958342,
+                            "Int32 currentFakeCryptoKey": 1297958450,
+                            "Boolean fakeValueActive": true,
+                            "Boolean inited": true
+                        },
+                        {
+                            "Int32 currentCryptoKey": 1136402118,
+                            "Int32 hiddenValue": 1136401715,
+                            "Int32 fakeValue": 1765864045,
+                            "Int32 currentFakeCryptoKey": 1765863832,
+                            "Boolean fakeValueActive": true,
+                            "Boolean inited": true
+                        },
+                        {
+                            "Int32 currentCryptoKey": 1958433724,
+                            "Int32 hiddenValue": 1958432842,
+                            "Int32 fakeValue": 1930601821,
+                            "Int32 currentFakeCryptoKey": 1930602155,
+                            "Boolean fakeValueActive": true,
+                            "Boolean inited": true
+                        },
+                        {
+                            "Int32 currentCryptoKey": 1872346061,
+                            "Int32 hiddenValue": 1872345146,
+                            "Int32 fakeValue": 1504996196,
+                            "Int32 currentFakeCryptoKey": 1504995475,
+                            "Boolean fakeValueActive": true,
+                            "Boolean inited": true
+                        }
+                    ],
+                    "ObscuredInt[] <GodForgeB>k__BackingField": [
+                        {
+                            "Int32 currentCryptoKey": 1934112793,
+                            "Int32 hiddenValue": 1934114754,
+                            "Int32 fakeValue": 1442574506,
+                            "Int32 currentFakeCryptoKey": 1442576241,
+                            "Boolean fakeValueActive": true,
+                            "Boolean inited": true
+                        },
+                        {
+                            "Int32 currentCryptoKey": 1921085536,
+                            "Int32 hiddenValue": 1921087420,
+                            "Int32 fakeValue": 1207212510,
+                            "Int32 currentFakeCryptoKey": 1207213570,
+                            "Boolean fakeValueActive": true,
+                            "Boolean inited": true
+                        },
+                        {
+                            "Int32 currentCryptoKey": 1524735451,
+                            "Int32 hiddenValue": 1524734470,
+                            "Int32 fakeValue": 1510793476,
+                            "Int32 currentFakeCryptoKey": 1510794969,
+                            "Boolean fakeValueActive": true,
+                            "Boolean inited": true
+                        },
+                        {
+                            "Int32 currentCryptoKey": 1603483996,
+                            "Int32 hiddenValue": 1603485314,
+                            "Int32 fakeValue": 1123984178,
+                            "Int32 currentFakeCryptoKey": 1123984620,
+                            "Boolean fakeValueActive": true,
+                            "Boolean inited": true
+                        },
+                        {
+                            "Int32 currentCryptoKey": 1954366913,
+                            "Int32 hiddenValue": 1954365982,
+                            "Int32 fakeValue": 1570887990,
+                            "Int32 currentFakeCryptoKey": 1570889449,
+                            "Boolean fakeValueActive": true,
+                            "Boolean inited": true
+                        }
+                    ],
+                    "ObscuredInt[] <GodForgeC>k__BackingField": [],
+                    "ObscuredInt <GodForgeLevel>k__BackingField": {
+                        "Int32 currentCryptoKey": 1209298738,
+                        "Int32 hiddenValue": 1209298743,
+                        "Int32 fakeValue": 1029744793,
+                        "Int32 currentFakeCryptoKey": 1029744796,
+                        "Boolean fakeValueActive": true,
+                        "Boolean inited": true
+                    },
+                    "ObscuredInt <GodForgeLevelLock>k__BackingField": {
+                        "Int32 currentCryptoKey": 1083418468,
+                        "Int32 hiddenValue": 1083418471,
+                        "Int32 fakeValue": 1017578189,
+                        "Int32 currentFakeCryptoKey": 1017578190,
+                        "Boolean fakeValueActive": true,
+                        "Boolean inited": true
+                    },
+                    "ObscuredInt <UnlockTime>k__BackingField": {
+                        "Int32 currentCryptoKey": 1752040115,
+                        "Int32 hiddenValue": 242791731,
+                        "Int32 fakeValue": 499357995,
+                        "Int32 currentFakeCryptoKey": 2077568683,
+                        "Boolean fakeValueActive": true,
+                        "Boolean inited": true
+                    }
+                }
+            },
+            {
+                "Int32 hashCode": 1742993086,
+                "Int32 next": 0,
+                "Int32 key": 1742993086,
+                "EquipSSCfgRow value": {
+                    "ObscuredInt <id>k__BackingField": {
+                        "Int32 currentCryptoKey": 1935818707,
+                        "Int32 hiddenValue": 1936143959,
+                        "Int32 fakeValue": 1976418211,
+                        "Int32 currentFakeCryptoKey": 1976088103,
+                        "Boolean fakeValueActive": true,
+                        "Boolean inited": true
+                    },
+                    "List<System.Int32[]> <Forge>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                611,
+                                50
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                612,
+                                50
+                            ]
+                        }
+                    ],
+                    "List<System.Int32[]> <ForgeCost>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                610,
+                                2000
+                            ]
+                        }
+                    ],
+                    "String[] <ForgeIcon>k__BackingField": [
+                        "Equip_Necklace_6_Icon_Elite",
+                        "Equip_Necklace_7_Icon_Elite"
+                    ],
+                    "ObscuredInt[] <GodForgeA>k__BackingField": [
+                        {
+                            "Int32 currentCryptoKey": 1849745801,
+                            "Int32 hiddenValue": 1849746036,
+                            "Int32 fakeValue": 1199130487,
+                            "Int32 currentFakeCryptoKey": 1199129738,
+                            "Boolean fakeValueActive": true,
+                            "Boolean inited": true
+                        },
+                        {
+                            "Int32 currentCryptoKey": 1873286628,
+                            "Int32 hiddenValue": 1873286682,
+                            "Int32 fakeValue": 1456042195,
+                            "Int32 currentFakeCryptoKey": 1456042797,
+                            "Boolean fakeValueActive": true,
+                            "Boolean inited": true
+                        },
+                        {
+                            "Int32 currentCryptoKey": 1993834023,
+                            "Int32 hiddenValue": 1993833944,
+                            "Int32 fakeValue": 1878211498,
+                            "Int32 currentFakeCryptoKey": 1878210645,
+                            "Boolean fakeValueActive": true,
+                            "Boolean inited": true
+                        },
+                        {
+                            "Int32 currentCryptoKey": 1571642378,
+                            "Int32 hiddenValue": 1571641354,
+                            "Int32 fakeValue": 1155951472,
+                            "Int32 currentFakeCryptoKey": 1155952496,
+                            "Boolean fakeValueActive": true,
+                            "Boolean inited": true
+                        },
+                        {
+                            "Int32 currentCryptoKey": 1841195858,
+                            "Int32 hiddenValue": 1841196883,
+                            "Int32 fakeValue": 1579527338,
+                            "Int32 currentFakeCryptoKey": 1579526315,
+                            "Boolean fakeValueActive": true,
+                            "Boolean inited": true
+                        }
+                    ],
+                    "ObscuredInt[] <GodForgeB>k__BackingField": [
+                        {
+                            "Int32 currentCryptoKey": 1717528212,
+                            "Int32 hiddenValue": 1717526897,
+                            "Int32 fakeValue": 1331848385,
+                            "Int32 currentFakeCryptoKey": 1331847972,
+                            "Boolean fakeValueActive": true,
+                            "Boolean inited": true
+                        },
+                        {
+                            "Int32 currentCryptoKey": 1474713520,
+                            "Int32 hiddenValue": 1474711638,
+                            "Int32 fakeValue": 1472848804,
+                            "Int32 currentFakeCryptoKey": 1472848962,
+                            "Boolean fakeValueActive": true,
+                            "Boolean inited": true
+                        },
+                        {
+                            "Int32 currentCryptoKey": 1125046854,
+                            "Int32 hiddenValue": 1125047713,
+                            "Int32 fakeValue": 1767675434,
+                            "Int32 currentFakeCryptoKey": 1767674317,
+                            "Boolean fakeValueActive": true,
+                            "Boolean inited": true
+                        },
+                        {
+                            "Int32 currentCryptoKey": 1106393411,
+                            "Int32 hiddenValue": 1106394795,
+                            "Int32 fakeValue": 2028101840,
+                            "Int32 currentFakeCryptoKey": 2028103480,
+                            "Boolean fakeValueActive": true,
+                            "Boolean inited": true
+                        },
+                        {
+                            "Int32 currentCryptoKey": 1088618822,
+                            "Int32 hiddenValue": 1088620207,
+                            "Int32 fakeValue": 1685222756,
+                            "Int32 currentFakeCryptoKey": 1685222029,
+                            "Boolean fakeValueActive": true,
+                            "Boolean inited": true
+                        }
+                    ],
+                    "ObscuredInt[] <GodForgeC>k__BackingField": [],
+                    "ObscuredInt <GodForgeLevel>k__BackingField": {
+                        "Int32 currentCryptoKey": 2070436996,
+                        "Int32 hiddenValue": 2070436993,
+                        "Int32 fakeValue": 2001458319,
+                        "Int32 currentFakeCryptoKey": 2001458314,
+                        "Boolean fakeValueActive": true,
+                        "Boolean inited": true
+                    },
+                    "ObscuredInt <GodForgeLevelLock>k__BackingField": {
+                        "Int32 currentCryptoKey": 2010702319,
+                        "Int32 hiddenValue": 2010702316,
+                        "Int32 fakeValue": 1808018874,
+                        "Int32 currentFakeCryptoKey": 1808018873,
+                        "Boolean fakeValueActive": true,
+                        "Boolean inited": true
+                    },
+                    "ObscuredInt <UnlockTime>k__BackingField": {
+                        "Int32 currentCryptoKey": 1628092644,
+                        "Int32 hiddenValue": 125494628,
+                        "Int32 fakeValue": 251570347,
+                        "Int32 currentFakeCryptoKey": 1754199339,
+                        "Boolean fakeValueActive": true,
+                        "Boolean inited": true
+                    }
+                }
+            },
+            {
+                "Int32 hashCode": 1742986670,
+                "Int32 next": 1,
+                "Int32 key": 1742986670,
+                "EquipSSCfgRow value": {
+                    "ObscuredInt <id>k__BackingField": {
+                        "Int32 currentCryptoKey": 2111051378,
+                        "Int32 hiddenValue": 2110858982,
+                        "Int32 fakeValue": 1690362629,
+                        "Int32 currentFakeCryptoKey": 1690686353,
+                        "Boolean fakeValueActive": true,
+                        "Boolean inited": true
+                    },
+                    "List<System.Int32[]> <Forge>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                611,
+                                50
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                612,
+                                50
+                            ]
+                        }
+                    ],
+                    "List<System.Int32[]> <ForgeCost>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                610,
+                                2000
+                            ]
+                        }
+                    ],
+                    "String[] <ForgeIcon>k__BackingField": [
+                        "Equip_Belt_6_Icon_Elite",
+                        "Equip_Belt_7_Icon_Elite"
+                    ],
+                    "ObscuredInt[] <GodForgeA>k__BackingField": [
+                        {
+                            "Int32 currentCryptoKey": 1745906595,
+                            "Int32 hiddenValue": 1745907620,
+                            "Int32 fakeValue": 1982008960,
+                            "Int32 currentFakeCryptoKey": 1982007943,
+                            "Boolean fakeValueActive": true,
+                            "Boolean inited": true
+                        },
+                        {
+                            "Int32 currentCryptoKey": 1693401982,
+                            "Int32 hiddenValue": 1693402998,
+                            "Int32 fakeValue": 1206318097,
+                            "Int32 currentFakeCryptoKey": 1206317081,
+                            "Boolean fakeValueActive": true,
+                            "Boolean inited": true
+                        },
+                        {
+                            "Int32 currentCryptoKey": 1977528771,
+                            "Int32 hiddenValue": 1977529802,
+                            "Int32 fakeValue": 2129828250,
+                            "Int32 currentFakeCryptoKey": 2129829267,
+                            "Boolean fakeValueActive": true,
+                            "Boolean inited": true
+                        },
+                        {
+                            "Int32 currentCryptoKey": 1080856354,
+                            "Int32 hiddenValue": 1080855336,
+                            "Int32 fakeValue": 1673217353,
+                            "Int32 currentFakeCryptoKey": 1673216323,
+                            "Boolean fakeValueActive": true,
+                            "Boolean inited": true
+                        },
+                        {
+                            "Int32 currentCryptoKey": 1779192494,
+                            "Int32 hiddenValue": 1779193509,
+                            "Int32 fakeValue": 1478068960,
+                            "Int32 currentFakeCryptoKey": 1478069995,
+                            "Boolean fakeValueActive": true,
+                            "Boolean inited": true
+                        }
+                    ],
+                    "ObscuredInt[] <GodForgeB>k__BackingField": [
+                        {
+                            "Int32 currentCryptoKey": 1596225865,
+                            "Int32 hiddenValue": 1596227238,
+                            "Int32 fakeValue": 1042875876,
+                            "Int32 currentFakeCryptoKey": 1042874891,
+                            "Boolean fakeValueActive": true,
+                            "Boolean inited": true
+                        },
+                        {
+                            "Int32 currentCryptoKey": 1783054838,
+                            "Int32 hiddenValue": 1783055878,
+                            "Int32 fakeValue": 1368784794,
+                            "Int32 currentFakeCryptoKey": 1368782954,
+                            "Boolean fakeValueActive": true,
+                            "Boolean inited": true
+                        },
+                        {
+                            "Int32 currentCryptoKey": 1817082758,
+                            "Int32 hiddenValue": 1817082999,
+                            "Int32 fakeValue": 1023958336,
+                            "Int32 currentFakeCryptoKey": 1023957681,
+                            "Boolean fakeValueActive": true,
+                            "Boolean inited": true
+                        },
+                        {
+                            "Int32 currentCryptoKey": 1553940054,
+                            "Int32 hiddenValue": 1553938852,
+                            "Int32 fakeValue": 1622518638,
+                            "Int32 currentFakeCryptoKey": 1622518940,
+                            "Boolean fakeValueActive": true,
+                            "Boolean inited": true
+                        },
+                        {
+                            "Int32 currentCryptoKey": 1096175928,
+                            "Int32 hiddenValue": 1096177355,
+                            "Int32 fakeValue": 1883933980,
+                            "Int32 currentFakeCryptoKey": 1883933423,
+                            "Boolean fakeValueActive": true,
+                            "Boolean inited": true
+                        }
+                    ],
+                    "ObscuredInt[] <GodForgeC>k__BackingField": [],
+                    "ObscuredInt <GodForgeLevel>k__BackingField": {
+                        "Int32 currentCryptoKey": 2052181588,
+                        "Int32 hiddenValue": 2052181585,
+                        "Int32 fakeValue": 1463227792,
+                        "Int32 currentFakeCryptoKey": 1463227797,
+                        "Boolean fakeValueActive": true,
+                        "Boolean inited": true
+                    },
+                    "ObscuredInt <GodForgeLevelLock>k__BackingField": {
+                        "Int32 currentCryptoKey": 2058668426,
+                        "Int32 hiddenValue": 2058668425,
+                        "Int32 fakeValue": 1871420281,
+                        "Int32 currentFakeCryptoKey": 1871420282,
+                        "Boolean fakeValueActive": true,
+                        "Boolean inited": true
+                    },
+                    "ObscuredInt <UnlockTime>k__BackingField": {
+                        "Int32 currentCryptoKey": 1988949861,
+                        "Int32 hiddenValue": 272333285,
+                        "Int32 fakeValue": 742201798,
+                        "Int32 currentFakeCryptoKey": 1250596678,
+                        "Boolean fakeValueActive": true,
+                        "Boolean inited": true
+                    }
+                }
+            },
+            {
+                "Int32 hashCode": 1742972126,
+                "Int32 next": -1,
+                "Int32 key": 1742972126,
+                "EquipSSCfgRow value": {
+                    "ObscuredInt <id>k__BackingField": {
+                        "Int32 currentCryptoKey": 2053134754,
+                        "Int32 hiddenValue": 2053443078,
+                        "Int32 fakeValue": 1995463514,
+                        "Int32 currentFakeCryptoKey": 1995771134,
+                        "Boolean fakeValueActive": true,
+                        "Boolean inited": true
+                    },
+                    "List<System.Int32[]> <Forge>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                611,
+                                50
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                612,
+                                50
+                            ]
+                        }
+                    ],
+                    "List<System.Int32[]> <ForgeCost>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                610,
+                                2000
+                            ]
+                        }
+                    ],
+                    "String[] <ForgeIcon>k__BackingField": [
+                        "Equip_Gloves_6_Icon_Elite",
+                        "Equip_Gloves_7_Icon_Elite"
+                    ],
+                    "ObscuredInt[] <GodForgeA>k__BackingField": [
+                        {
+                            "Int32 currentCryptoKey": 1335911066,
+                            "Int32 hiddenValue": 1335912075,
+                            "Int32 fakeValue": 1065268795,
+                            "Int32 currentFakeCryptoKey": 1065267754,
+                            "Boolean fakeValueActive": true,
+                            "Boolean inited": true
+                        },
+                        {
+                            "Int32 currentCryptoKey": 1975433799,
+                            "Int32 hiddenValue": 1975434837,
+                            "Int32 fakeValue": 1239635689,
+                            "Int32 currentFakeCryptoKey": 1239634683,
+                            "Boolean fakeValueActive": true,
+                            "Boolean inited": true
+                        },
+                        {
+                            "Int32 currentCryptoKey": 1914642914,
+                            "Int32 hiddenValue": 1914643953,
+                            "Int32 fakeValue": 2028440683,
+                            "Int32 currentFakeCryptoKey": 2028439672,
+                            "Boolean fakeValueActive": true,
+                            "Boolean inited": true
+                        },
+                        {
+                            "Int32 currentCryptoKey": 1557529548,
+                            "Int32 hiddenValue": 1557530584,
+                            "Int32 fakeValue": 2006672605,
+                            "Int32 currentFakeCryptoKey": 2006671561,
+                            "Boolean fakeValueActive": true,
+                            "Boolean inited": true
+                        },
+                        {
+                            "Int32 currentCryptoKey": 2033607980,
+                            "Int32 hiddenValue": 2033606969,
+                            "Int32 fakeValue": 1511212143,
+                            "Int32 currentFakeCryptoKey": 1511211130,
+                            "Boolean fakeValueActive": true,
+                            "Boolean inited": true
+                        }
+                    ],
+                    "ObscuredInt[] <GodForgeB>k__BackingField": [
+                        {
+                            "Int32 currentCryptoKey": 1501802848,
+                            "Int32 hiddenValue": 1501804185,
+                            "Int32 fakeValue": 1492368869,
+                            "Int32 currentFakeCryptoKey": 1492367900,
+                            "Boolean fakeValueActive": true,
+                            "Boolean inited": true
+                        },
+                        {
+                            "Int32 currentCryptoKey": 1391992608,
+                            "Int32 hiddenValue": 1391991002,
+                            "Int32 fakeValue": 1599315704,
+                            "Int32 currentFakeCryptoKey": 1599314178,
+                            "Boolean fakeValueActive": true,
+                            "Boolean inited": true
+                        },
+                        {
+                            "Int32 currentCryptoKey": 2135965470,
+                            "Int32 hiddenValue": 2135963877,
+                            "Int32 fakeValue": 1775807917,
+                            "Int32 currentFakeCryptoKey": 1775807062,
+                            "Boolean fakeValueActive": true,
+                            "Boolean inited": true
+                        },
+                        {
+                            "Int32 currentCryptoKey": 1431877614,
+                            "Int32 hiddenValue": 1431875602,
+                            "Int32 fakeValue": 1045745351,
+                            "Int32 currentFakeCryptoKey": 1045743931,
+                            "Boolean fakeValueActive": true,
+                            "Boolean inited": true
+                        },
+                        {
+                            "Int32 currentCryptoKey": 2049650837,
+                            "Int32 hiddenValue": 2049652584,
+                            "Int32 fakeValue": 1701652967,
+                            "Int32 currentFakeCryptoKey": 1701654042,
+                            "Boolean fakeValueActive": true,
+                            "Boolean inited": true
+                        }
+                    ],
+                    "ObscuredInt[] <GodForgeC>k__BackingField": [],
+                    "ObscuredInt <GodForgeLevel>k__BackingField": {
+                        "Int32 currentCryptoKey": 1184375556,
+                        "Int32 hiddenValue": 1184375553,
+                        "Int32 fakeValue": 1986744635,
+                        "Int32 currentFakeCryptoKey": 1986744638,
+                        "Boolean fakeValueActive": true,
+                        "Boolean inited": true
+                    },
+                    "ObscuredInt <GodForgeLevelLock>k__BackingField": {
+                        "Int32 currentCryptoKey": 1254078819,
+                        "Int32 hiddenValue": 1254078816,
+                        "Int32 fakeValue": 1005573700,
+                        "Int32 currentFakeCryptoKey": 1005573703,
+                        "Boolean fakeValueActive": true,
+                        "Boolean inited": true
+                    },
+                    "ObscuredInt <UnlockTime>k__BackingField": {
+                        "Int32 currentCryptoKey": 1658023410,
+                        "Int32 hiddenValue": 97638898,
+                        "Int32 fakeValue": 774300034,
+                        "Int32 currentFakeCryptoKey": 1227117954,
+                        "Boolean fakeValueActive": true,
+                        "Boolean inited": true
+                    }
+                }
+            },
+            {
+                "Int32 hashCode": 1742965710,
+                "Int32 next": -1,
+                "Int32 key": 1742965710,
+                "EquipSSCfgRow value": {
+                    "ObscuredInt <id>k__BackingField": {
+                        "Int32 currentCryptoKey": 1785988411,
+                        "Int32 hiddenValue": 1785822095,
+                        "Int32 fakeValue": 1282498234,
+                        "Int32 currentFakeCryptoKey": 1282678798,
+                        "Boolean fakeValueActive": true,
+                        "Boolean inited": true
+                    },
+                    "List<System.Int32[]> <Forge>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                611,
+                                50
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                612,
+                                50
+                            ]
+                        }
+                    ],
+                    "List<System.Int32[]> <ForgeCost>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                610,
+                                2000
+                            ]
+                        }
+                    ],
+                    "String[] <ForgeIcon>k__BackingField": [
+                        "Equip_Shoe_6_Icon_Elite",
+                        "Equip_Shoe_7_Icon_Elite"
+                    ],
+                    "ObscuredInt[] <GodForgeA>k__BackingField": [
+                        {
+                            "Int32 currentCryptoKey": 2070823164,
+                            "Int32 hiddenValue": 2070824167,
+                            "Int32 fakeValue": 1969466392,
+                            "Int32 currentFakeCryptoKey": 1969465347,
+                            "Boolean fakeValueActive": true,
+                            "Boolean inited": true
+                        },
+                        {
+                            "Int32 currentCryptoKey": 1364850867,
+                            "Int32 hiddenValue": 1364851887,
+                            "Int32 fakeValue": 1726931040,
+                            "Int32 currentFakeCryptoKey": 1726932092,
+                            "Boolean fakeValueActive": true,
+                            "Boolean inited": true
+                        },
+                        {
+                            "Int32 currentCryptoKey": 1076694513,
+                            "Int32 hiddenValue": 1076693484,
+                            "Int32 fakeValue": 1232569919,
+                            "Int32 currentFakeCryptoKey": 1232568866,
+                            "Boolean fakeValueActive": true,
+                            "Boolean inited": true
+                        },
+                        {
+                            "Int32 currentCryptoKey": 1337305257,
+                            "Int32 hiddenValue": 1337306295,
+                            "Int32 fakeValue": 1713925789,
+                            "Int32 currentFakeCryptoKey": 1713924739,
+                            "Boolean fakeValueActive": true,
+                            "Boolean inited": true
+                        },
+                        {
+                            "Int32 currentCryptoKey": 1650119842,
+                            "Int32 hiddenValue": 1650118845,
+                            "Int32 fakeValue": 1356592210,
+                            "Int32 currentFakeCryptoKey": 1356591181,
+                            "Boolean fakeValueActive": true,
+                            "Boolean inited": true
+                        }
+                    ],
+                    "ObscuredInt[] <GodForgeB>k__BackingField": [
+                        {
+                            "Int32 currentCryptoKey": 1275715623,
+                            "Int32 hiddenValue": 1275717668,
+                            "Int32 fakeValue": 1902096766,
+                            "Int32 currentFakeCryptoKey": 1902098813,
+                            "Boolean fakeValueActive": true,
+                            "Boolean inited": true
+                        },
+                        {
+                            "Int32 currentCryptoKey": 1958737053,
+                            "Int32 hiddenValue": 1958739097,
+                            "Int32 fakeValue": 1957892799,
+                            "Int32 currentFakeCryptoKey": 1957894843,
+                            "Boolean fakeValueActive": true,
+                            "Boolean inited": true
+                        },
+                        {
+                            "Int32 currentCryptoKey": 1137833347,
+                            "Int32 hiddenValue": 1137835398,
+                            "Int32 fakeValue": 1042730974,
+                            "Int32 currentFakeCryptoKey": 1042728923,
+                            "Boolean fakeValueActive": true,
+                            "Boolean inited": true
+                        },
+                        {
+                            "Int32 currentCryptoKey": 1120716092,
+                            "Int32 hiddenValue": 1120718138,
+                            "Int32 fakeValue": 1751293725,
+                            "Int32 currentFakeCryptoKey": 1751291675,
+                            "Boolean fakeValueActive": true,
+                            "Boolean inited": true
+                        },
+                        {
+                            "Int32 currentCryptoKey": 1491940815,
+                            "Int32 hiddenValue": 1491942856,
+                            "Int32 fakeValue": 1452865365,
+                            "Int32 currentFakeCryptoKey": 1452867410,
+                            "Boolean fakeValueActive": true,
+                            "Boolean inited": true
+                        }
+                    ],
+                    "ObscuredInt[] <GodForgeC>k__BackingField": [],
+                    "ObscuredInt <GodForgeLevel>k__BackingField": {
+                        "Int32 currentCryptoKey": 1474745974,
+                        "Int32 hiddenValue": 1474745971,
+                        "Int32 fakeValue": 1282861361,
+                        "Int32 currentFakeCryptoKey": 1282861364,
+                        "Boolean fakeValueActive": true,
+                        "Boolean inited": true
+                    },
+                    "ObscuredInt <GodForgeLevelLock>k__BackingField": {
+                        "Int32 currentCryptoKey": 1439542667,
+                        "Int32 hiddenValue": 1439542664,
+                        "Int32 fakeValue": 1943205930,
+                        "Int32 currentFakeCryptoKey": 1943205929,
+                        "Boolean fakeValueActive": true,
+                        "Boolean inited": true
+                    },
+                    "ObscuredInt <UnlockTime>k__BackingField": {
+                        "Int32 currentCryptoKey": 1348429487,
+                        "Int32 hiddenValue": 924752559,
+                        "Int32 fakeValue": 936118663,
+                        "Int32 currentFakeCryptoKey": 1351480711,
+                        "Boolean fakeValueActive": true,
+                        "Boolean inited": true
+                    }
+                }
+            },
+            {
+                "Int32 hashCode": 0,
+                "Int32 next": 0,
+                "Int32 key": 0,
+                "EquipSSCfgRow value": "(null-object)"
+            }
+        ],
+        "Int32 _count": 6,
+        "Int32 _freeList": -1,
+        "Int32 _freeCount": 0,
+        "Int32 _version": 6,
+        "IEqualityComparer<System.Int32> _comparer": "(null-object)",
+        "KeyCollection<System.Int32,EquipSSCfgRow> _keys": "(null-object)",
+        "ValueCollection<System.Int32,EquipSSCfgRow> _values": "(null-object)",
+        "Object _syncRoot": "(null-object)"
+    }
+}

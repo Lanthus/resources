@@ -1,0 +1,226 @@
+{
+    "Int32 _key": 1164825417,
+    "Int32 _rndIdx": 619,
+    "Dictionary<System.Int32,AdsCfg_CNRow> _dict": {
+        "Int32[] _buckets": [
+            6,
+            5,
+            8,
+            7,
+            10,
+            0,
+            11,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            2,
+            1,
+            4
+        ],
+        "Entry<System.Int32,AdsCfg_CNRow>[] _entries": [
+            {
+                "Int32 hashCode": 1164112789,
+                "Int32 next": -1,
+                "Int32 key": 1164112789,
+                "AdsCfg_CNRow value": {
+                    "Int32 <id>k__BackingField": 11,
+                    "String <name>k__BackingField": "华为",
+                    "String[] <adsId>k__BackingField": [
+                        "y6p812xdd3",
+                        "x4zxsl6m7a",
+                        "r2wnk0th7k",
+                        "r8r9vjkm93"
+                    ]
+                }
+            },
+            {
+                "Int32 hashCode": 1164112788,
+                "Int32 next": -1,
+                "Int32 key": 1164112788,
+                "AdsCfg_CNRow value": {
+                    "Int32 <id>k__BackingField": 12,
+                    "String <name>k__BackingField": "yyb",
+                    "String[] <adsId>k__BackingField": [
+                        "9057002990578267",
+                        "6027704970574360",
+                        "9087205980775392"
+                    ]
+                }
+            },
+            {
+                "Int32 hashCode": 1164112791,
+                "Int32 next": -1,
+                "Int32 key": 1164112791,
+                "AdsCfg_CNRow value": {
+                    "Int32 <id>k__BackingField": 13,
+                    "String <name>k__BackingField": "小米",
+                    "String[] <adsId>k__BackingField": [
+                        "0d916396a85d69fbfe3ecd30bd6455bc",
+                        "e9118a408407974b9c127490cce8343d",
+                        "7bbfbc14e12499f0218a6451e84463db",
+                        "ed82f9a912b0ab550c82701ae9d0aa8f"
+                    ]
+                }
+            },
+            {
+                "Int32 hashCode": 1164112790,
+                "Int32 next": -1,
+                "Int32 key": 1164112790,
+                "AdsCfg_CNRow value": {
+                    "Int32 <id>k__BackingField": 14,
+                    "String <name>k__BackingField": "oppo",
+                    "String[] <adsId>k__BackingField": [
+                        "545109",
+                        "624360",
+                        "624362"
+                    ]
+                }
+            },
+            {
+                "Int32 hashCode": 1164112809,
+                "Int32 next": -1,
+                "Int32 key": 1164112809,
+                "AdsCfg_CNRow value": {
+                    "Int32 <id>k__BackingField": 15,
+                    "String <name>k__BackingField": "vivo",
+                    "String[] <adsId>k__BackingField": [
+                        "e23f48b0f7ae4028a122fda816ba8a9d",
+                        "6c31c587d486476c8455ee231033d8a7",
+                        "4687103983be41c995454e46ab2bba46",
+                        "9f9a189330164bc5be7436af578bf963"
+                    ]
+                }
+            },
+            {
+                "Int32 hashCode": 1164112808,
+                "Int32 next": 2,
+                "Int32 key": 1164112808,
+                "AdsCfg_CNRow value": {
+                    "Int32 <id>k__BackingField": 16,
+                    "String <name>k__BackingField": "4399",
+                    "String[] <adsId>k__BackingField": [
+                        "25050",
+                        "25673",
+                        "25674"
+                    ]
+                }
+            },
+            {
+                "Int32 hashCode": 1164112811,
+                "Int32 next": -1,
+                "Int32 key": 1164112811,
+                "AdsCfg_CNRow value": {
+                    "Int32 <id>k__BackingField": 17,
+                    "String <name>k__BackingField": "UC",
+                    "String[] <adsId>k__BackingField": [
+                        "1655791683247",
+                        "1660203927358",
+                        "1660554222509"
+                    ]
+                }
+            },
+            {
+                "Int32 hashCode": 1164112810,
+                "Int32 next": -1,
+                "Int32 key": 1164112810,
+                "AdsCfg_CNRow value": {
+                    "Int32 <id>k__BackingField": 18,
+                    "String <name>k__BackingField": "B 站",
+                    "String[] <adsId>k__BackingField": [
+                        "102088597",
+                        "102088596",
+                        "102088595"
+                    ]
+                }
+            },
+            {
+                "Int32 hashCode": 1164112797,
+                "Int32 next": -1,
+                "Int32 key": 1164112797,
+                "AdsCfg_CNRow value": {
+                    "Int32 <id>k__BackingField": 3,
+                    "String <name>k__BackingField": "huawei_oversea",
+                    "String[] <adsId>k__BackingField": [
+                        "l1sc1s2ycv"
+                    ]
+                }
+            },
+            {
+                "Int32 hashCode": 1164112812,
+                "Int32 next": -1,
+                "Int32 key": 1164112812,
+                "AdsCfg_CNRow value": {
+                    "Int32 <id>k__BackingField": 20,
+                    "String <name>k__BackingField": "抖音",
+                    "String[] <adsId>k__BackingField": [
+                        "100_951592134",
+                        "101_951592132",
+                        "102_951592133"
+                    ]
+                }
+            },
+            {
+                "Int32 hashCode": 1164112814,
+                "Int32 next": 8,
+                "Int32 key": 1164112814,
+                "AdsCfg_CNRow value": {
+                    "Int32 <id>k__BackingField": 22,
+                    "String <name>k__BackingField": "荣耀",
+                    "String[] <adsId>k__BackingField": [
+                        "1720633234485280768",
+                        "1720632974019002368",
+                        "1720632805613502464"
+                    ]
+                }
+            },
+            {
+                "Int32 hashCode": 0,
+                "Int32 next": 0,
+                "Int32 key": 0,
+                "AdsCfg_CNRow value": "(null-object)"
+            },
+            {
+                "Int32 hashCode": 0,
+                "Int32 next": 0,
+                "Int32 key": 0,
+                "AdsCfg_CNRow value": "(null-object)"
+            },
+            {
+                "Int32 hashCode": 0,
+                "Int32 next": 0,
+                "Int32 key": 0,
+                "AdsCfg_CNRow value": "(null-object)"
+            },
+            {
+                "Int32 hashCode": 0,
+                "Int32 next": 0,
+                "Int32 key": 0,
+                "AdsCfg_CNRow value": "(null-object)"
+            },
+            {
+                "Int32 hashCode": 0,
+                "Int32 next": 0,
+                "Int32 key": 0,
+                "AdsCfg_CNRow value": "(null-object)"
+            },
+            {
+                "Int32 hashCode": 0,
+                "Int32 next": 0,
+                "Int32 key": 0,
+                "AdsCfg_CNRow value": "(null-object)"
+            }
+        ],
+        "Int32 _count": 11,
+        "Int32 _freeList": -1,
+        "Int32 _freeCount": 0,
+        "Int32 _version": 11,
+        "IEqualityComparer<System.Int32> _comparer": "(null-object)",
+        "KeyCollection<System.Int32,AdsCfg_CNRow> _keys": "(null-object)",
+        "ValueCollection<System.Int32,AdsCfg_CNRow> _values": "(null-object)",
+        "Object _syncRoot": "(null-object)"
+    }
+}

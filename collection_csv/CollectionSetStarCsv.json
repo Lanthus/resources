@@ -1,0 +1,4802 @@
+[
+  {
+    "CollectionSetStarRow": {
+      "id": 780101,
+      "Type": 1,
+      "SubType": 4,
+      "starDesc": 780101,
+      "equipFeature": [
+        30101011
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 780102,
+      "Type": 3,
+      "SubType": 3,
+      "starDesc": 780102,
+      "equipFeature": [
+        30101021
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 780103,
+      "Type": 5,
+      "SubType": 19,
+      "starDesc": 780103,
+      "equipFeature": [
+        30101031
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 780104,
+      "Type": 4,
+      "SubType": 3,
+      "starDesc": 780104,
+      "equipFeature": [
+        30101041
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 780105,
+      "Type": 6,
+      "SubType": 19,
+      "starDesc": 780105,
+      "equipFeature": [
+        30101051
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 780106,
+      "Type": 2,
+      "SubType": 8,
+      "starDesc": 780106,
+      "equipFeature": [
+        30101061
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 780107,
+      "Type": 2,
+      "SubType": 16,
+      "starDesc": 780107,
+      "equipFeature": [
+        30101071
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 780108,
+      "Type": 2,
+      "SubType": 24,
+      "starDesc": 780108,
+      "equipFeature": [
+        30101081
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 780201,
+      "Type": 1,
+      "SubType": 4,
+      "starDesc": 780201,
+      "equipFeature": [
+        30102011
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 780202,
+      "Type": 3,
+      "SubType": 3,
+      "starDesc": 780202,
+      "equipFeature": [
+        30102021
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 780203,
+      "Type": 5,
+      "SubType": 19,
+      "starDesc": 780203,
+      "equipFeature": [
+        30102031
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 780204,
+      "Type": 4,
+      "SubType": 3,
+      "starDesc": 780204,
+      "equipFeature": [
+        30102041
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 780205,
+      "Type": 6,
+      "SubType": 19,
+      "starDesc": 780205,
+      "equipFeature": [
+        30102051
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 780206,
+      "Type": 2,
+      "SubType": 8,
+      "starDesc": 780206,
+      "equipFeature": [
+        30102061
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 780207,
+      "Type": 2,
+      "SubType": 16,
+      "starDesc": 780207,
+      "equipFeature": [
+        30102071
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 780208,
+      "Type": 2,
+      "SubType": 24,
+      "starDesc": 780208,
+      "equipFeature": [
+        30102081
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 780301,
+      "Type": 1,
+      "SubType": 4,
+      "starDesc": 780301,
+      "equipFeature": [
+        30103011
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 780302,
+      "Type": 3,
+      "SubType": 3,
+      "starDesc": 780302,
+      "equipFeature": [
+        30103021
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 780303,
+      "Type": 5,
+      "SubType": 18,
+      "starDesc": 780303,
+      "equipFeature": [
+        30103031
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 780304,
+      "Type": 4,
+      "SubType": 3,
+      "starDesc": 780304,
+      "equipFeature": [
+        30103041
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 780305,
+      "Type": 6,
+      "SubType": 18,
+      "starDesc": 780305,
+      "equipFeature": [
+        30103051
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 780306,
+      "Type": 2,
+      "SubType": 8,
+      "starDesc": 780306,
+      "equipFeature": [
+        30103061
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 780307,
+      "Type": 2,
+      "SubType": 16,
+      "starDesc": 780307,
+      "equipFeature": [
+        30103071
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 780308,
+      "Type": 2,
+      "SubType": 24,
+      "starDesc": 780308,
+      "equipFeature": [
+        30103081
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 780401,
+      "Type": 1,
+      "SubType": 4,
+      "starDesc": 780401,
+      "equipFeature": [
+        30104011
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 780402,
+      "Type": 3,
+      "SubType": 3,
+      "starDesc": 780402,
+      "equipFeature": [
+        30104021
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 780403,
+      "Type": 5,
+      "SubType": 18,
+      "starDesc": 780403,
+      "equipFeature": [
+        30104031
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 780404,
+      "Type": 4,
+      "SubType": 3,
+      "starDesc": 780404,
+      "equipFeature": [
+        30104041
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 780405,
+      "Type": 6,
+      "SubType": 18,
+      "starDesc": 780405,
+      "equipFeature": [
+        30104051
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 780406,
+      "Type": 2,
+      "SubType": 8,
+      "starDesc": 780406,
+      "equipFeature": [
+        30104061
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 780407,
+      "Type": 2,
+      "SubType": 16,
+      "starDesc": 780407,
+      "equipFeature": [
+        30104071
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 780408,
+      "Type": 2,
+      "SubType": 24,
+      "starDesc": 780408,
+      "equipFeature": [
+        30104081
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 780501,
+      "Type": 1,
+      "SubType": 4,
+      "starDesc": 780501,
+      "equipFeature": [
+        30105011
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 780502,
+      "Type": 3,
+      "SubType": 3,
+      "starDesc": 780502,
+      "equipFeature": [
+        30105021
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 780503,
+      "Type": 5,
+      "SubType": 15,
+      "starDesc": 780503,
+      "equipFeature": [
+        30105031
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 780504,
+      "Type": 4,
+      "SubType": 3,
+      "starDesc": 780504,
+      "equipFeature": [
+        30105041
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 780505,
+      "Type": 6,
+      "SubType": 15,
+      "starDesc": 780505,
+      "equipFeature": [
+        30105051
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 780506,
+      "Type": 2,
+      "SubType": 8,
+      "starDesc": 780506,
+      "equipFeature": [
+        30105061
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 780507,
+      "Type": 2,
+      "SubType": 16,
+      "starDesc": 780507,
+      "equipFeature": [
+        30105071
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 780508,
+      "Type": 2,
+      "SubType": 24,
+      "starDesc": 780508,
+      "equipFeature": [
+        30105081
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 780601,
+      "Type": 1,
+      "SubType": 4,
+      "starDesc": 780601,
+      "equipFeature": [
+        30106011
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 780602,
+      "Type": 3,
+      "SubType": 3,
+      "starDesc": 780602,
+      "equipFeature": [
+        30106021
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 780603,
+      "Type": 5,
+      "SubType": 15,
+      "starDesc": 780603,
+      "equipFeature": [
+        30106031
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 780604,
+      "Type": 4,
+      "SubType": 3,
+      "starDesc": 780604,
+      "equipFeature": [
+        30106041
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 780605,
+      "Type": 6,
+      "SubType": 15,
+      "starDesc": 780605,
+      "equipFeature": [
+        30106051
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 780606,
+      "Type": 2,
+      "SubType": 8,
+      "starDesc": 780606,
+      "equipFeature": [
+        30106061
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 780607,
+      "Type": 2,
+      "SubType": 16,
+      "starDesc": 780607,
+      "equipFeature": [
+        30106071
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 780608,
+      "Type": 2,
+      "SubType": 24,
+      "starDesc": 780608,
+      "equipFeature": [
+        30106081
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 780701,
+      "Type": 1,
+      "SubType": 4,
+      "starDesc": 780701,
+      "equipFeature": [
+        30107011
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 780702,
+      "Type": 3,
+      "SubType": 3,
+      "starDesc": 780702,
+      "equipFeature": [
+        30107021
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 780703,
+      "Type": 5,
+      "SubType": 15,
+      "starDesc": 780703,
+      "equipFeature": [
+        30107031
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 780704,
+      "Type": 4,
+      "SubType": 3,
+      "starDesc": 780704,
+      "equipFeature": [
+        30107041
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 780705,
+      "Type": 6,
+      "SubType": 15,
+      "starDesc": 780705,
+      "equipFeature": [
+        30107051
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 780706,
+      "Type": 2,
+      "SubType": 8,
+      "starDesc": 780706,
+      "equipFeature": [
+        30107061
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 780707,
+      "Type": 2,
+      "SubType": 16,
+      "starDesc": 780707,
+      "equipFeature": [
+        30107071
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 780708,
+      "Type": 2,
+      "SubType": 24,
+      "starDesc": 780708,
+      "equipFeature": [
+        30107081
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 780801,
+      "Type": 1,
+      "SubType": 4,
+      "starDesc": 780801,
+      "equipFeature": [
+        30108011
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 780802,
+      "Type": 3,
+      "SubType": 2,
+      "starDesc": 780802,
+      "equipFeature": [
+        30108021
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 780803,
+      "Type": 5,
+      "SubType": 10,
+      "starDesc": 780803,
+      "equipFeature": [
+        30108031
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 780804,
+      "Type": 4,
+      "SubType": 2,
+      "starDesc": 780804,
+      "equipFeature": [
+        30108041
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 780805,
+      "Type": 6,
+      "SubType": 10,
+      "starDesc": 780805,
+      "equipFeature": [
+        30108051
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 780806,
+      "Type": 2,
+      "SubType": 6,
+      "starDesc": 780806,
+      "equipFeature": [
+        30108061
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 780807,
+      "Type": 2,
+      "SubType": 12,
+      "starDesc": 780807,
+      "equipFeature": [
+        30108071
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 780808,
+      "Type": 2,
+      "SubType": 16,
+      "starDesc": 780808,
+      "equipFeature": [
+        30108081
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 780901,
+      "Type": 1,
+      "SubType": 4,
+      "starDesc": 780101,
+      "equipFeature": [
+        30201011
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 780902,
+      "Type": 3,
+      "SubType": 3,
+      "starDesc": 780102,
+      "equipFeature": [
+        30201021
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 780903,
+      "Type": 5,
+      "SubType": 19,
+      "starDesc": 780103,
+      "equipFeature": [
+        30201031
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 780904,
+      "Type": 4,
+      "SubType": 3,
+      "starDesc": 780104,
+      "equipFeature": [
+        30201041
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 780905,
+      "Type": 6,
+      "SubType": 19,
+      "starDesc": 780105,
+      "equipFeature": [
+        30201051
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 780906,
+      "Type": 2,
+      "SubType": 8,
+      "starDesc": 780106,
+      "equipFeature": [
+        30201061
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 780907,
+      "Type": 2,
+      "SubType": 16,
+      "starDesc": 780107,
+      "equipFeature": [
+        30201071
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 780908,
+      "Type": 2,
+      "SubType": 24,
+      "starDesc": 780108,
+      "equipFeature": [
+        30201081
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 781001,
+      "Type": 1,
+      "SubType": 4,
+      "starDesc": 780201,
+      "equipFeature": [
+        30202011
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 781002,
+      "Type": 3,
+      "SubType": 3,
+      "starDesc": 780202,
+      "equipFeature": [
+        30202021
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 781003,
+      "Type": 5,
+      "SubType": 19,
+      "starDesc": 780203,
+      "equipFeature": [
+        30202031
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 781004,
+      "Type": 4,
+      "SubType": 3,
+      "starDesc": 780204,
+      "equipFeature": [
+        30202041
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 781005,
+      "Type": 6,
+      "SubType": 19,
+      "starDesc": 780205,
+      "equipFeature": [
+        30202051
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 781006,
+      "Type": 2,
+      "SubType": 8,
+      "starDesc": 780206,
+      "equipFeature": [
+        30202061
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 781007,
+      "Type": 2,
+      "SubType": 16,
+      "starDesc": 780207,
+      "equipFeature": [
+        30202071
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 781008,
+      "Type": 2,
+      "SubType": 24,
+      "starDesc": 780208,
+      "equipFeature": [
+        30202081
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 781101,
+      "Type": 1,
+      "SubType": 4,
+      "starDesc": 780301,
+      "equipFeature": [
+        30203011
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 781102,
+      "Type": 3,
+      "SubType": 3,
+      "starDesc": 780302,
+      "equipFeature": [
+        30203021
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 781103,
+      "Type": 5,
+      "SubType": 18,
+      "starDesc": 780303,
+      "equipFeature": [
+        30203031
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 781104,
+      "Type": 4,
+      "SubType": 3,
+      "starDesc": 780304,
+      "equipFeature": [
+        30203041
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 781105,
+      "Type": 6,
+      "SubType": 18,
+      "starDesc": 780305,
+      "equipFeature": [
+        30203051
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 781106,
+      "Type": 2,
+      "SubType": 8,
+      "starDesc": 780306,
+      "equipFeature": [
+        30203061
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 781107,
+      "Type": 2,
+      "SubType": 16,
+      "starDesc": 780307,
+      "equipFeature": [
+        30203071
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 781108,
+      "Type": 2,
+      "SubType": 24,
+      "starDesc": 780308,
+      "equipFeature": [
+        30203081
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 781201,
+      "Type": 1,
+      "SubType": 4,
+      "starDesc": 780401,
+      "equipFeature": [
+        30204011
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 781202,
+      "Type": 3,
+      "SubType": 3,
+      "starDesc": 780402,
+      "equipFeature": [
+        30204021
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 781203,
+      "Type": 5,
+      "SubType": 18,
+      "starDesc": 780403,
+      "equipFeature": [
+        30204031
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 781204,
+      "Type": 4,
+      "SubType": 3,
+      "starDesc": 780404,
+      "equipFeature": [
+        30204041
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 781205,
+      "Type": 6,
+      "SubType": 18,
+      "starDesc": 780405,
+      "equipFeature": [
+        30204051
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 781206,
+      "Type": 2,
+      "SubType": 8,
+      "starDesc": 780406,
+      "equipFeature": [
+        30204061
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 781207,
+      "Type": 2,
+      "SubType": 16,
+      "starDesc": 780407,
+      "equipFeature": [
+        30204071
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 781208,
+      "Type": 2,
+      "SubType": 24,
+      "starDesc": 780408,
+      "equipFeature": [
+        30204081
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 781301,
+      "Type": 1,
+      "SubType": 4,
+      "starDesc": 780501,
+      "equipFeature": [
+        30205011
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 781302,
+      "Type": 3,
+      "SubType": 3,
+      "starDesc": 780502,
+      "equipFeature": [
+        30205021
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 781303,
+      "Type": 5,
+      "SubType": 15,
+      "starDesc": 780503,
+      "equipFeature": [
+        30205031
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 781304,
+      "Type": 4,
+      "SubType": 3,
+      "starDesc": 780504,
+      "equipFeature": [
+        30205041
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 781305,
+      "Type": 6,
+      "SubType": 15,
+      "starDesc": 780505,
+      "equipFeature": [
+        30205051
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 781306,
+      "Type": 2,
+      "SubType": 8,
+      "starDesc": 780506,
+      "equipFeature": [
+        30205061
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 781307,
+      "Type": 2,
+      "SubType": 16,
+      "starDesc": 780507,
+      "equipFeature": [
+        30205071
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 781308,
+      "Type": 2,
+      "SubType": 24,
+      "starDesc": 780508,
+      "equipFeature": [
+        30205081
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 781401,
+      "Type": 1,
+      "SubType": 4,
+      "starDesc": 780601,
+      "equipFeature": [
+        30206011
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 781402,
+      "Type": 3,
+      "SubType": 3,
+      "starDesc": 780602,
+      "equipFeature": [
+        30206021
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 781403,
+      "Type": 5,
+      "SubType": 15,
+      "starDesc": 780603,
+      "equipFeature": [
+        30206031
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 781404,
+      "Type": 4,
+      "SubType": 3,
+      "starDesc": 780604,
+      "equipFeature": [
+        30206041
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 781405,
+      "Type": 6,
+      "SubType": 15,
+      "starDesc": 780605,
+      "equipFeature": [
+        30206051
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 781406,
+      "Type": 2,
+      "SubType": 8,
+      "starDesc": 780606,
+      "equipFeature": [
+        30206061
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 781407,
+      "Type": 2,
+      "SubType": 16,
+      "starDesc": 780607,
+      "equipFeature": [
+        30206071
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 781408,
+      "Type": 2,
+      "SubType": 24,
+      "starDesc": 780608,
+      "equipFeature": [
+        30206081
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 781501,
+      "Type": 1,
+      "SubType": 4,
+      "starDesc": 780701,
+      "equipFeature": [
+        30207011
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 781502,
+      "Type": 3,
+      "SubType": 3,
+      "starDesc": 780702,
+      "equipFeature": [
+        30207021
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 781503,
+      "Type": 5,
+      "SubType": 15,
+      "starDesc": 780703,
+      "equipFeature": [
+        30207031
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 781504,
+      "Type": 4,
+      "SubType": 3,
+      "starDesc": 780704,
+      "equipFeature": [
+        30207041
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 781505,
+      "Type": 6,
+      "SubType": 15,
+      "starDesc": 780705,
+      "equipFeature": [
+        30207051
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 781506,
+      "Type": 2,
+      "SubType": 8,
+      "starDesc": 780706,
+      "equipFeature": [
+        30207061
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 781507,
+      "Type": 2,
+      "SubType": 16,
+      "starDesc": 780707,
+      "equipFeature": [
+        30207071
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 781508,
+      "Type": 2,
+      "SubType": 24,
+      "starDesc": 780708,
+      "equipFeature": [
+        30207081
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 781601,
+      "Type": 1,
+      "SubType": 4,
+      "starDesc": 780801,
+      "equipFeature": [
+        30208011
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 781602,
+      "Type": 3,
+      "SubType": 2,
+      "starDesc": 780802,
+      "equipFeature": [
+        30208021
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 781603,
+      "Type": 5,
+      "SubType": 10,
+      "starDesc": 780803,
+      "equipFeature": [
+        30208031
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 781604,
+      "Type": 4,
+      "SubType": 2,
+      "starDesc": 780804,
+      "equipFeature": [
+        30208041
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 781605,
+      "Type": 6,
+      "SubType": 10,
+      "starDesc": 780805,
+      "equipFeature": [
+        30208051
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 781606,
+      "Type": 2,
+      "SubType": 6,
+      "starDesc": 780806,
+      "equipFeature": [
+        30208061
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 781607,
+      "Type": 2,
+      "SubType": 12,
+      "starDesc": 780807,
+      "equipFeature": [
+        30208071
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 781608,
+      "Type": 2,
+      "SubType": 16,
+      "starDesc": 780808,
+      "equipFeature": [
+        30208081
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 781701,
+      "Type": 1,
+      "SubType": 4,
+      "starDesc": 780101,
+      "equipFeature": [
+        30301011
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 781702,
+      "Type": 3,
+      "SubType": 3,
+      "starDesc": 780102,
+      "equipFeature": [
+        30301021
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 781703,
+      "Type": 5,
+      "SubType": 19,
+      "starDesc": 780103,
+      "equipFeature": [
+        30301031
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 781704,
+      "Type": 4,
+      "SubType": 3,
+      "starDesc": 780104,
+      "equipFeature": [
+        30301041
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 781705,
+      "Type": 6,
+      "SubType": 19,
+      "starDesc": 780105,
+      "equipFeature": [
+        30301051
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 781706,
+      "Type": 2,
+      "SubType": 8,
+      "starDesc": 780106,
+      "equipFeature": [
+        30301061
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 781707,
+      "Type": 2,
+      "SubType": 16,
+      "starDesc": 780107,
+      "equipFeature": [
+        30301071
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 781708,
+      "Type": 2,
+      "SubType": 24,
+      "starDesc": 780108,
+      "equipFeature": [
+        30301081
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 781801,
+      "Type": 1,
+      "SubType": 4,
+      "starDesc": 780201,
+      "equipFeature": [
+        30302011
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 781802,
+      "Type": 3,
+      "SubType": 3,
+      "starDesc": 780202,
+      "equipFeature": [
+        30302021
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 781803,
+      "Type": 5,
+      "SubType": 19,
+      "starDesc": 780203,
+      "equipFeature": [
+        30302031
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 781804,
+      "Type": 4,
+      "SubType": 3,
+      "starDesc": 780204,
+      "equipFeature": [
+        30302041
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 781805,
+      "Type": 6,
+      "SubType": 19,
+      "starDesc": 780205,
+      "equipFeature": [
+        30302051
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 781806,
+      "Type": 2,
+      "SubType": 8,
+      "starDesc": 780206,
+      "equipFeature": [
+        30302061
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 781807,
+      "Type": 2,
+      "SubType": 16,
+      "starDesc": 780207,
+      "equipFeature": [
+        30302071
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 781808,
+      "Type": 2,
+      "SubType": 24,
+      "starDesc": 780208,
+      "equipFeature": [
+        30302081
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 781901,
+      "Type": 1,
+      "SubType": 4,
+      "starDesc": 780301,
+      "equipFeature": [
+        30303011
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 781902,
+      "Type": 3,
+      "SubType": 3,
+      "starDesc": 780302,
+      "equipFeature": [
+        30303021
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 781903,
+      "Type": 5,
+      "SubType": 18,
+      "starDesc": 780303,
+      "equipFeature": [
+        30303031
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 781904,
+      "Type": 4,
+      "SubType": 3,
+      "starDesc": 780304,
+      "equipFeature": [
+        30303041
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 781905,
+      "Type": 6,
+      "SubType": 18,
+      "starDesc": 780305,
+      "equipFeature": [
+        30303051
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 781906,
+      "Type": 2,
+      "SubType": 8,
+      "starDesc": 780306,
+      "equipFeature": [
+        30303061
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 781907,
+      "Type": 2,
+      "SubType": 16,
+      "starDesc": 780307,
+      "equipFeature": [
+        30303071
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 781908,
+      "Type": 2,
+      "SubType": 24,
+      "starDesc": 780308,
+      "equipFeature": [
+        30303081
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 782001,
+      "Type": 1,
+      "SubType": 4,
+      "starDesc": 780401,
+      "equipFeature": [
+        30304011
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 782002,
+      "Type": 3,
+      "SubType": 3,
+      "starDesc": 780402,
+      "equipFeature": [
+        30304021
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 782003,
+      "Type": 5,
+      "SubType": 18,
+      "starDesc": 780403,
+      "equipFeature": [
+        30304031
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 782004,
+      "Type": 4,
+      "SubType": 3,
+      "starDesc": 780404,
+      "equipFeature": [
+        30304041
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 782005,
+      "Type": 6,
+      "SubType": 18,
+      "starDesc": 780405,
+      "equipFeature": [
+        30304051
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 782006,
+      "Type": 2,
+      "SubType": 8,
+      "starDesc": 780406,
+      "equipFeature": [
+        30304061
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 782007,
+      "Type": 2,
+      "SubType": 16,
+      "starDesc": 780407,
+      "equipFeature": [
+        30304071
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 782008,
+      "Type": 2,
+      "SubType": 24,
+      "starDesc": 780408,
+      "equipFeature": [
+        30304081
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 782101,
+      "Type": 1,
+      "SubType": 4,
+      "starDesc": 780501,
+      "equipFeature": [
+        30305011
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 782102,
+      "Type": 3,
+      "SubType": 3,
+      "starDesc": 780502,
+      "equipFeature": [
+        30305021
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 782103,
+      "Type": 5,
+      "SubType": 15,
+      "starDesc": 780503,
+      "equipFeature": [
+        30305031
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 782104,
+      "Type": 4,
+      "SubType": 3,
+      "starDesc": 780504,
+      "equipFeature": [
+        30305041
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 782105,
+      "Type": 6,
+      "SubType": 15,
+      "starDesc": 780505,
+      "equipFeature": [
+        30305051
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 782106,
+      "Type": 2,
+      "SubType": 8,
+      "starDesc": 780506,
+      "equipFeature": [
+        30305061
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 782107,
+      "Type": 2,
+      "SubType": 16,
+      "starDesc": 780507,
+      "equipFeature": [
+        30305071
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 782108,
+      "Type": 2,
+      "SubType": 24,
+      "starDesc": 780508,
+      "equipFeature": [
+        30305081
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 782201,
+      "Type": 1,
+      "SubType": 4,
+      "starDesc": 780601,
+      "equipFeature": [
+        30306011
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 782202,
+      "Type": 3,
+      "SubType": 3,
+      "starDesc": 780602,
+      "equipFeature": [
+        30306021
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 782203,
+      "Type": 5,
+      "SubType": 15,
+      "starDesc": 780603,
+      "equipFeature": [
+        30306031
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 782204,
+      "Type": 4,
+      "SubType": 3,
+      "starDesc": 780604,
+      "equipFeature": [
+        30306041
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 782205,
+      "Type": 6,
+      "SubType": 15,
+      "starDesc": 780605,
+      "equipFeature": [
+        30306051
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 782206,
+      "Type": 2,
+      "SubType": 8,
+      "starDesc": 780606,
+      "equipFeature": [
+        30306061
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 782207,
+      "Type": 2,
+      "SubType": 16,
+      "starDesc": 780607,
+      "equipFeature": [
+        30306071
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 782208,
+      "Type": 2,
+      "SubType": 24,
+      "starDesc": 780608,
+      "equipFeature": [
+        30306081
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 782301,
+      "Type": 1,
+      "SubType": 4,
+      "starDesc": 780701,
+      "equipFeature": [
+        30307011
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 782302,
+      "Type": 3,
+      "SubType": 3,
+      "starDesc": 780702,
+      "equipFeature": [
+        30307021
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 782303,
+      "Type": 5,
+      "SubType": 15,
+      "starDesc": 780703,
+      "equipFeature": [
+        30307031
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 782304,
+      "Type": 4,
+      "SubType": 3,
+      "starDesc": 780704,
+      "equipFeature": [
+        30307041
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 782305,
+      "Type": 6,
+      "SubType": 15,
+      "starDesc": 780705,
+      "equipFeature": [
+        30307051
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 782306,
+      "Type": 2,
+      "SubType": 8,
+      "starDesc": 780706,
+      "equipFeature": [
+        30307061
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 782307,
+      "Type": 2,
+      "SubType": 16,
+      "starDesc": 780707,
+      "equipFeature": [
+        30307071
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 782308,
+      "Type": 2,
+      "SubType": 24,
+      "starDesc": 780708,
+      "equipFeature": [
+        30307081
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 782401,
+      "Type": 1,
+      "SubType": 4,
+      "starDesc": 780801,
+      "equipFeature": [
+        30308011
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 782402,
+      "Type": 3,
+      "SubType": 2,
+      "starDesc": 780802,
+      "equipFeature": [
+        30308021
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 782403,
+      "Type": 5,
+      "SubType": 10,
+      "starDesc": 780803,
+      "equipFeature": [
+        30308031
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 782404,
+      "Type": 4,
+      "SubType": 2,
+      "starDesc": 780804,
+      "equipFeature": [
+        30308041
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 782405,
+      "Type": 6,
+      "SubType": 10,
+      "starDesc": 780805,
+      "equipFeature": [
+        30308051
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 782406,
+      "Type": 2,
+      "SubType": 6,
+      "starDesc": 780806,
+      "equipFeature": [
+        30308061
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 782407,
+      "Type": 2,
+      "SubType": 12,
+      "starDesc": 780807,
+      "equipFeature": [
+        30308071
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 782408,
+      "Type": 2,
+      "SubType": 16,
+      "starDesc": 780808,
+      "equipFeature": [
+        30308081
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 782501,
+      "Type": 1,
+      "SubType": 4,
+      "starDesc": 780901,
+      "equipFeature": [
+        30309011
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 782502,
+      "Type": 3,
+      "SubType": 3,
+      "starDesc": 780902,
+      "equipFeature": [],
+      "equipFeatureMod": [
+        30309021
+      ]
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 782503,
+      "Type": 5,
+      "SubType": 20,
+      "starDesc": 780903,
+      "equipFeature": [
+        30309031
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 782504,
+      "Type": 4,
+      "SubType": 3,
+      "starDesc": 780904,
+      "equipFeature": [],
+      "equipFeatureMod": [
+        30309041
+      ]
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 782505,
+      "Type": 6,
+      "SubType": 20,
+      "starDesc": 780905,
+      "equipFeature": [
+        30309051
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 782506,
+      "Type": 2,
+      "SubType": 8,
+      "starDesc": 780906,
+      "equipFeature": [
+        30309061
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 782507,
+      "Type": 2,
+      "SubType": 16,
+      "starDesc": 780907,
+      "equipFeature": [
+        30309071
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 782508,
+      "Type": 2,
+      "SubType": 25,
+      "starDesc": 780908,
+      "equipFeature": [],
+      "equipFeatureMod": [
+        30309081
+      ]
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 782601,
+      "Type": 1,
+      "SubType": 4,
+      "starDesc": 781001,
+      "equipFeature": [
+        30310011
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 782602,
+      "Type": 3,
+      "SubType": 3,
+      "starDesc": 781002,
+      "equipFeature": [],
+      "equipFeatureMod": [
+        30310021
+      ]
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 782603,
+      "Type": 5,
+      "SubType": 20,
+      "starDesc": 781003,
+      "equipFeature": [
+        30310031
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 782604,
+      "Type": 4,
+      "SubType": 3,
+      "starDesc": 781004,
+      "equipFeature": [],
+      "equipFeatureMod": [
+        30310041
+      ]
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 782605,
+      "Type": 6,
+      "SubType": 20,
+      "starDesc": 781005,
+      "equipFeature": [
+        30310051
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 782606,
+      "Type": 2,
+      "SubType": 8,
+      "starDesc": 781006,
+      "equipFeature": [
+        30310061
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 782607,
+      "Type": 2,
+      "SubType": 16,
+      "starDesc": 781007,
+      "equipFeature": [
+        30310071
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 782608,
+      "Type": 2,
+      "SubType": 25,
+      "starDesc": 781008,
+      "equipFeature": [],
+      "equipFeatureMod": [
+        30310081
+      ]
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 782701,
+      "Type": 1,
+      "SubType": 4,
+      "starDesc": 780101,
+      "equipFeature": [
+        30311011
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 782702,
+      "Type": 3,
+      "SubType": 3,
+      "starDesc": 780102,
+      "equipFeature": [
+        30311021
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 782703,
+      "Type": 5,
+      "SubType": 19,
+      "starDesc": 780103,
+      "equipFeature": [
+        30311031
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 782704,
+      "Type": 4,
+      "SubType": 3,
+      "starDesc": 780104,
+      "equipFeature": [
+        30311041
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 782705,
+      "Type": 6,
+      "SubType": 19,
+      "starDesc": 780105,
+      "equipFeature": [
+        30311051
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 782706,
+      "Type": 2,
+      "SubType": 8,
+      "starDesc": 780106,
+      "equipFeature": [
+        30311061
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 782707,
+      "Type": 2,
+      "SubType": 16,
+      "starDesc": 780107,
+      "equipFeature": [
+        30311071
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 782708,
+      "Type": 2,
+      "SubType": 24,
+      "starDesc": 780108,
+      "equipFeature": [
+        30311081
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 782801,
+      "Type": 1,
+      "SubType": 4,
+      "starDesc": 780201,
+      "equipFeature": [
+        30312011
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 782802,
+      "Type": 3,
+      "SubType": 3,
+      "starDesc": 780202,
+      "equipFeature": [
+        30312021
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 782803,
+      "Type": 5,
+      "SubType": 19,
+      "starDesc": 780203,
+      "equipFeature": [
+        30312031
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 782804,
+      "Type": 4,
+      "SubType": 3,
+      "starDesc": 780204,
+      "equipFeature": [
+        30312041
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 782805,
+      "Type": 6,
+      "SubType": 19,
+      "starDesc": 780205,
+      "equipFeature": [
+        30312051
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 782806,
+      "Type": 2,
+      "SubType": 8,
+      "starDesc": 780206,
+      "equipFeature": [
+        30312061
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 782807,
+      "Type": 2,
+      "SubType": 16,
+      "starDesc": 780207,
+      "equipFeature": [
+        30312071
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 782808,
+      "Type": 2,
+      "SubType": 24,
+      "starDesc": 780208,
+      "equipFeature": [
+        30312081
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 782901,
+      "Type": 1,
+      "SubType": 4,
+      "starDesc": 781101,
+      "equipFeature": [
+        30411011
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 782902,
+      "Type": 3,
+      "SubType": 3,
+      "starDesc": 781102,
+      "equipFeature": [],
+      "equipFeatureMod": [
+        30411021
+      ]
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 782903,
+      "Type": 5,
+      "SubType": 20,
+      "starDesc": 781103,
+      "equipFeature": [
+        30411031
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 782904,
+      "Type": 4,
+      "SubType": 3,
+      "starDesc": 781104,
+      "equipFeature": [],
+      "equipFeatureMod": [
+        30411041
+      ]
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 782905,
+      "Type": 6,
+      "SubType": 20,
+      "starDesc": 781105,
+      "equipFeature": [
+        30411051
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 782906,
+      "Type": 2,
+      "SubType": 8,
+      "starDesc": 781106,
+      "equipFeature": [
+        30411061
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 782907,
+      "Type": 2,
+      "SubType": 16,
+      "starDesc": 781107,
+      "equipFeature": [
+        30411071
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 782908,
+      "Type": 2,
+      "SubType": 25,
+      "starDesc": 781108,
+      "equipFeature": [],
+      "equipFeatureMod": [
+        30411081
+      ]
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 783001,
+      "Type": 1,
+      "SubType": 4,
+      "starDesc": 780101,
+      "equipFeature": [
+        30401011
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 783002,
+      "Type": 3,
+      "SubType": 3,
+      "starDesc": 780102,
+      "equipFeature": [
+        30401021
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 783003,
+      "Type": 5,
+      "SubType": 19,
+      "starDesc": 780103,
+      "equipFeature": [
+        30401031
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 783004,
+      "Type": 4,
+      "SubType": 3,
+      "starDesc": 780104,
+      "equipFeature": [
+        30401041
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 783005,
+      "Type": 6,
+      "SubType": 19,
+      "starDesc": 780105,
+      "equipFeature": [
+        30401051
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 783006,
+      "Type": 2,
+      "SubType": 8,
+      "starDesc": 780106,
+      "equipFeature": [
+        30401061
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 783007,
+      "Type": 2,
+      "SubType": 16,
+      "starDesc": 780107,
+      "equipFeature": [
+        30401071
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 783008,
+      "Type": 2,
+      "SubType": 24,
+      "starDesc": 780108,
+      "equipFeature": [
+        30401081
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 783101,
+      "Type": 1,
+      "SubType": 4,
+      "starDesc": 780201,
+      "equipFeature": [
+        30402011
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 783102,
+      "Type": 3,
+      "SubType": 3,
+      "starDesc": 780202,
+      "equipFeature": [
+        30402021
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 783103,
+      "Type": 5,
+      "SubType": 19,
+      "starDesc": 780203,
+      "equipFeature": [
+        30402031
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 783104,
+      "Type": 4,
+      "SubType": 3,
+      "starDesc": 780204,
+      "equipFeature": [
+        30402041
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 783105,
+      "Type": 6,
+      "SubType": 19,
+      "starDesc": 780205,
+      "equipFeature": [
+        30402051
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 783106,
+      "Type": 2,
+      "SubType": 8,
+      "starDesc": 780206,
+      "equipFeature": [
+        30402061
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 783107,
+      "Type": 2,
+      "SubType": 16,
+      "starDesc": 780207,
+      "equipFeature": [
+        30402071
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 783108,
+      "Type": 2,
+      "SubType": 24,
+      "starDesc": 780208,
+      "equipFeature": [
+        30402081
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 783201,
+      "Type": 1,
+      "SubType": 4,
+      "starDesc": 780101,
+      "equipFeature": [
+        30403011
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 783202,
+      "Type": 3,
+      "SubType": 3,
+      "starDesc": 780102,
+      "equipFeature": [
+        30403021
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 783203,
+      "Type": 5,
+      "SubType": 19,
+      "starDesc": 780103,
+      "equipFeature": [
+        30403031
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 783204,
+      "Type": 4,
+      "SubType": 3,
+      "starDesc": 780104,
+      "equipFeature": [
+        30403041
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 783205,
+      "Type": 6,
+      "SubType": 19,
+      "starDesc": 780105,
+      "equipFeature": [
+        30403051
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 783206,
+      "Type": 2,
+      "SubType": 8,
+      "starDesc": 780106,
+      "equipFeature": [
+        30403061
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 783207,
+      "Type": 2,
+      "SubType": 16,
+      "starDesc": 780107,
+      "equipFeature": [
+        30403071
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 783208,
+      "Type": 2,
+      "SubType": 24,
+      "starDesc": 780108,
+      "equipFeature": [
+        30403081
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 783301,
+      "Type": 1,
+      "SubType": 4,
+      "starDesc": 780201,
+      "equipFeature": [
+        30404011
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 783302,
+      "Type": 3,
+      "SubType": 3,
+      "starDesc": 780202,
+      "equipFeature": [
+        30404021
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 783303,
+      "Type": 5,
+      "SubType": 19,
+      "starDesc": 780203,
+      "equipFeature": [
+        30404031
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 783304,
+      "Type": 4,
+      "SubType": 3,
+      "starDesc": 780204,
+      "equipFeature": [
+        30404041
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 783305,
+      "Type": 6,
+      "SubType": 19,
+      "starDesc": 780205,
+      "equipFeature": [
+        30404051
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 783306,
+      "Type": 2,
+      "SubType": 8,
+      "starDesc": 780206,
+      "equipFeature": [
+        30404061
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 783307,
+      "Type": 2,
+      "SubType": 16,
+      "starDesc": 780207,
+      "equipFeature": [
+        30404071
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 783308,
+      "Type": 2,
+      "SubType": 24,
+      "starDesc": 780208,
+      "equipFeature": [
+        30404081
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 783401,
+      "Type": 1,
+      "SubType": 4,
+      "starDesc": 780301,
+      "equipFeature": [
+        30405011
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 783402,
+      "Type": 3,
+      "SubType": 3,
+      "starDesc": 780302,
+      "equipFeature": [
+        30405021
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 783403,
+      "Type": 5,
+      "SubType": 18,
+      "starDesc": 780303,
+      "equipFeature": [
+        30405031
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 783404,
+      "Type": 4,
+      "SubType": 3,
+      "starDesc": 780304,
+      "equipFeature": [
+        30405041
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 783405,
+      "Type": 6,
+      "SubType": 18,
+      "starDesc": 780305,
+      "equipFeature": [
+        30405051
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 783406,
+      "Type": 2,
+      "SubType": 8,
+      "starDesc": 780306,
+      "equipFeature": [
+        30405061
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 783407,
+      "Type": 2,
+      "SubType": 16,
+      "starDesc": 780307,
+      "equipFeature": [
+        30405071
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 783408,
+      "Type": 2,
+      "SubType": 24,
+      "starDesc": 780308,
+      "equipFeature": [
+        30405081
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 783501,
+      "Type": 1,
+      "SubType": 4,
+      "starDesc": 780401,
+      "equipFeature": [
+        30406011
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 783502,
+      "Type": 3,
+      "SubType": 3,
+      "starDesc": 780402,
+      "equipFeature": [
+        30406021
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 783503,
+      "Type": 5,
+      "SubType": 18,
+      "starDesc": 780403,
+      "equipFeature": [
+        30406031
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 783504,
+      "Type": 4,
+      "SubType": 3,
+      "starDesc": 780404,
+      "equipFeature": [
+        30406041
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 783505,
+      "Type": 6,
+      "SubType": 18,
+      "starDesc": 780405,
+      "equipFeature": [
+        30406051
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 783506,
+      "Type": 2,
+      "SubType": 8,
+      "starDesc": 780406,
+      "equipFeature": [
+        30406061
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 783507,
+      "Type": 2,
+      "SubType": 16,
+      "starDesc": 780407,
+      "equipFeature": [
+        30406071
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 783508,
+      "Type": 2,
+      "SubType": 24,
+      "starDesc": 780408,
+      "equipFeature": [
+        30406081
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 783601,
+      "Type": 1,
+      "SubType": 4,
+      "starDesc": 780501,
+      "equipFeature": [
+        30407011
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 783602,
+      "Type": 3,
+      "SubType": 3,
+      "starDesc": 780502,
+      "equipFeature": [
+        30407021
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 783603,
+      "Type": 5,
+      "SubType": 15,
+      "starDesc": 780503,
+      "equipFeature": [
+        30407031
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 783604,
+      "Type": 4,
+      "SubType": 3,
+      "starDesc": 780504,
+      "equipFeature": [
+        30407041
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 783605,
+      "Type": 6,
+      "SubType": 15,
+      "starDesc": 780505,
+      "equipFeature": [
+        30407051
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 783606,
+      "Type": 2,
+      "SubType": 8,
+      "starDesc": 780506,
+      "equipFeature": [
+        30407061
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 783607,
+      "Type": 2,
+      "SubType": 16,
+      "starDesc": 780507,
+      "equipFeature": [
+        30407071
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 783608,
+      "Type": 2,
+      "SubType": 24,
+      "starDesc": 780508,
+      "equipFeature": [
+        30407081
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 783701,
+      "Type": 1,
+      "SubType": 4,
+      "starDesc": 780601,
+      "equipFeature": [
+        30408011
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 783702,
+      "Type": 3,
+      "SubType": 3,
+      "starDesc": 780602,
+      "equipFeature": [
+        30408021
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 783703,
+      "Type": 5,
+      "SubType": 15,
+      "starDesc": 780603,
+      "equipFeature": [
+        30408031
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 783704,
+      "Type": 4,
+      "SubType": 3,
+      "starDesc": 780604,
+      "equipFeature": [
+        30408041
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 783705,
+      "Type": 6,
+      "SubType": 15,
+      "starDesc": 780605,
+      "equipFeature": [
+        30408051
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 783706,
+      "Type": 2,
+      "SubType": 8,
+      "starDesc": 780606,
+      "equipFeature": [
+        30408061
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 783707,
+      "Type": 2,
+      "SubType": 16,
+      "starDesc": 780607,
+      "equipFeature": [
+        30408071
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 783708,
+      "Type": 2,
+      "SubType": 24,
+      "starDesc": 780608,
+      "equipFeature": [
+        30408081
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 783801,
+      "Type": 1,
+      "SubType": 4,
+      "starDesc": 780701,
+      "equipFeature": [
+        30409011
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 783802,
+      "Type": 3,
+      "SubType": 3,
+      "starDesc": 780702,
+      "equipFeature": [
+        30409021
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 783803,
+      "Type": 5,
+      "SubType": 15,
+      "starDesc": 780703,
+      "equipFeature": [
+        30409031
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 783804,
+      "Type": 4,
+      "SubType": 3,
+      "starDesc": 780704,
+      "equipFeature": [
+        30409041
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 783805,
+      "Type": 6,
+      "SubType": 15,
+      "starDesc": 780705,
+      "equipFeature": [
+        30409051
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 783806,
+      "Type": 2,
+      "SubType": 8,
+      "starDesc": 780706,
+      "equipFeature": [
+        30409061
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 783807,
+      "Type": 2,
+      "SubType": 16,
+      "starDesc": 780707,
+      "equipFeature": [
+        30409071
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 783808,
+      "Type": 2,
+      "SubType": 24,
+      "starDesc": 780708,
+      "equipFeature": [
+        30409081
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 783901,
+      "Type": 1,
+      "SubType": 4,
+      "starDesc": 780801,
+      "equipFeature": [
+        30410011
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 783902,
+      "Type": 3,
+      "SubType": 2,
+      "starDesc": 780802,
+      "equipFeature": [
+        30410021
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 783903,
+      "Type": 5,
+      "SubType": 10,
+      "starDesc": 780803,
+      "equipFeature": [
+        30410031
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 783904,
+      "Type": 4,
+      "SubType": 2,
+      "starDesc": 780804,
+      "equipFeature": [
+        30410041
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 783905,
+      "Type": 6,
+      "SubType": 10,
+      "starDesc": 780805,
+      "equipFeature": [
+        30410051
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 783906,
+      "Type": 2,
+      "SubType": 6,
+      "starDesc": 780806,
+      "equipFeature": [
+        30410061
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 783907,
+      "Type": 2,
+      "SubType": 12,
+      "starDesc": 780807,
+      "equipFeature": [
+        30410071
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 783908,
+      "Type": 2,
+      "SubType": 16,
+      "starDesc": 780808,
+      "equipFeature": [
+        30410081
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 784001,
+      "Type": 1,
+      "SubType": 4,
+      "starDesc": 781201,
+      "equipFeature": [
+        30501011
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 784002,
+      "Type": 3,
+      "SubType": 3,
+      "starDesc": 781202,
+      "equipFeature": [],
+      "equipFeatureMod": [
+        30501021
+      ]
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 784003,
+      "Type": 5,
+      "SubType": 20,
+      "starDesc": 781203,
+      "equipFeature": [
+        30501031
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 784004,
+      "Type": 4,
+      "SubType": 3,
+      "starDesc": 781204,
+      "equipFeature": [],
+      "equipFeatureMod": [
+        30501041
+      ]
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 784005,
+      "Type": 6,
+      "SubType": 20,
+      "starDesc": 781205,
+      "equipFeature": [
+        30501051
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 784006,
+      "Type": 2,
+      "SubType": 8,
+      "starDesc": 781206,
+      "equipFeature": [
+        30501061
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 784007,
+      "Type": 2,
+      "SubType": 16,
+      "starDesc": 781207,
+      "equipFeature": [
+        30501071
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 784008,
+      "Type": 2,
+      "SubType": 25,
+      "starDesc": 781208,
+      "equipFeature": [],
+      "equipFeatureMod": [
+        30501081
+      ]
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 784101,
+      "Type": 1,
+      "SubType": 4,
+      "starDesc": 780101,
+      "equipFeature": [
+        30502011
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 784102,
+      "Type": 3,
+      "SubType": 3,
+      "starDesc": 780102,
+      "equipFeature": [
+        30502021
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 784103,
+      "Type": 5,
+      "SubType": 19,
+      "starDesc": 780103,
+      "equipFeature": [
+        30502031
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 784104,
+      "Type": 4,
+      "SubType": 3,
+      "starDesc": 780104,
+      "equipFeature": [
+        30502041
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 784105,
+      "Type": 6,
+      "SubType": 19,
+      "starDesc": 780105,
+      "equipFeature": [
+        30502051
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 784106,
+      "Type": 2,
+      "SubType": 8,
+      "starDesc": 780106,
+      "equipFeature": [
+        30502061
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 784107,
+      "Type": 2,
+      "SubType": 16,
+      "starDesc": 780107,
+      "equipFeature": [
+        30502071
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 784108,
+      "Type": 2,
+      "SubType": 24,
+      "starDesc": 780108,
+      "equipFeature": [
+        30502081
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 784201,
+      "Type": 1,
+      "SubType": 4,
+      "starDesc": 780201,
+      "equipFeature": [
+        30503011
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 784202,
+      "Type": 3,
+      "SubType": 3,
+      "starDesc": 780202,
+      "equipFeature": [
+        30503021
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 784203,
+      "Type": 5,
+      "SubType": 19,
+      "starDesc": 780203,
+      "equipFeature": [
+        30503031
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 784204,
+      "Type": 4,
+      "SubType": 3,
+      "starDesc": 780204,
+      "equipFeature": [
+        30503041
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 784205,
+      "Type": 6,
+      "SubType": 19,
+      "starDesc": 780205,
+      "equipFeature": [
+        30503051
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 784206,
+      "Type": 2,
+      "SubType": 8,
+      "starDesc": 780206,
+      "equipFeature": [
+        30503061
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 784207,
+      "Type": 2,
+      "SubType": 16,
+      "starDesc": 780207,
+      "equipFeature": [
+        30503071
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 784208,
+      "Type": 2,
+      "SubType": 24,
+      "starDesc": 780208,
+      "equipFeature": [
+        30503081
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 784301,
+      "Type": 1,
+      "SubType": 4,
+      "starDesc": 780101,
+      "equipFeature": [
+        30504011
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 784302,
+      "Type": 3,
+      "SubType": 3,
+      "starDesc": 780102,
+      "equipFeature": [
+        30504021
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 784303,
+      "Type": 5,
+      "SubType": 19,
+      "starDesc": 780103,
+      "equipFeature": [
+        30504031
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 784304,
+      "Type": 4,
+      "SubType": 3,
+      "starDesc": 780104,
+      "equipFeature": [
+        30504041
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 784305,
+      "Type": 6,
+      "SubType": 19,
+      "starDesc": 780105,
+      "equipFeature": [
+        30504051
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 784306,
+      "Type": 2,
+      "SubType": 8,
+      "starDesc": 780106,
+      "equipFeature": [
+        30504061
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 784307,
+      "Type": 2,
+      "SubType": 16,
+      "starDesc": 780107,
+      "equipFeature": [
+        30504071
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 784308,
+      "Type": 2,
+      "SubType": 24,
+      "starDesc": 780108,
+      "equipFeature": [
+        30504081
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 784401,
+      "Type": 1,
+      "SubType": 4,
+      "starDesc": 780201,
+      "equipFeature": [
+        30505011
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 784402,
+      "Type": 3,
+      "SubType": 3,
+      "starDesc": 780202,
+      "equipFeature": [
+        30505021
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 784403,
+      "Type": 5,
+      "SubType": 19,
+      "starDesc": 780203,
+      "equipFeature": [
+        30505031
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 784404,
+      "Type": 4,
+      "SubType": 3,
+      "starDesc": 780204,
+      "equipFeature": [
+        30505041
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 784405,
+      "Type": 6,
+      "SubType": 19,
+      "starDesc": 780205,
+      "equipFeature": [
+        30505051
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 784406,
+      "Type": 2,
+      "SubType": 8,
+      "starDesc": 780206,
+      "equipFeature": [
+        30505061
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 784407,
+      "Type": 2,
+      "SubType": 16,
+      "starDesc": 780207,
+      "equipFeature": [
+        30505071
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 784408,
+      "Type": 2,
+      "SubType": 24,
+      "starDesc": 780208,
+      "equipFeature": [
+        30505081
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 784501,
+      "Type": 1,
+      "SubType": 4,
+      "starDesc": 780301,
+      "equipFeature": [
+        30506011
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 784502,
+      "Type": 3,
+      "SubType": 3,
+      "starDesc": 780302,
+      "equipFeature": [
+        30506021
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 784503,
+      "Type": 5,
+      "SubType": 18,
+      "starDesc": 780303,
+      "equipFeature": [
+        30506031
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 784504,
+      "Type": 4,
+      "SubType": 3,
+      "starDesc": 780304,
+      "equipFeature": [
+        30506041
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 784505,
+      "Type": 6,
+      "SubType": 18,
+      "starDesc": 780305,
+      "equipFeature": [
+        30506051
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 784506,
+      "Type": 2,
+      "SubType": 8,
+      "starDesc": 780306,
+      "equipFeature": [
+        30506061
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 784507,
+      "Type": 2,
+      "SubType": 16,
+      "starDesc": 780307,
+      "equipFeature": [
+        30506071
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 784508,
+      "Type": 2,
+      "SubType": 24,
+      "starDesc": 780308,
+      "equipFeature": [
+        30506081
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 784601,
+      "Type": 1,
+      "SubType": 4,
+      "starDesc": 780401,
+      "equipFeature": [
+        30507011
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 784602,
+      "Type": 3,
+      "SubType": 3,
+      "starDesc": 780402,
+      "equipFeature": [
+        30507021
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 784603,
+      "Type": 5,
+      "SubType": 18,
+      "starDesc": 780403,
+      "equipFeature": [
+        30507031
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 784604,
+      "Type": 4,
+      "SubType": 3,
+      "starDesc": 780404,
+      "equipFeature": [
+        30507041
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 784605,
+      "Type": 6,
+      "SubType": 18,
+      "starDesc": 780405,
+      "equipFeature": [
+        30507051
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 784606,
+      "Type": 2,
+      "SubType": 8,
+      "starDesc": 780406,
+      "equipFeature": [
+        30507061
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 784607,
+      "Type": 2,
+      "SubType": 16,
+      "starDesc": 780407,
+      "equipFeature": [
+        30507071
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 784608,
+      "Type": 2,
+      "SubType": 24,
+      "starDesc": 780408,
+      "equipFeature": [
+        30507081
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 784701,
+      "Type": 1,
+      "SubType": 4,
+      "starDesc": 780501,
+      "equipFeature": [
+        30508011
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 784702,
+      "Type": 3,
+      "SubType": 3,
+      "starDesc": 780502,
+      "equipFeature": [
+        30508021
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 784703,
+      "Type": 5,
+      "SubType": 15,
+      "starDesc": 780503,
+      "equipFeature": [
+        30508031
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 784704,
+      "Type": 4,
+      "SubType": 3,
+      "starDesc": 780504,
+      "equipFeature": [
+        30508041
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 784705,
+      "Type": 6,
+      "SubType": 15,
+      "starDesc": 780505,
+      "equipFeature": [
+        30508051
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 784706,
+      "Type": 2,
+      "SubType": 8,
+      "starDesc": 780506,
+      "equipFeature": [
+        30508061
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 784707,
+      "Type": 2,
+      "SubType": 16,
+      "starDesc": 780507,
+      "equipFeature": [
+        30508071
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 784708,
+      "Type": 2,
+      "SubType": 24,
+      "starDesc": 780508,
+      "equipFeature": [
+        30508081
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 784801,
+      "Type": 1,
+      "SubType": 4,
+      "starDesc": 780601,
+      "equipFeature": [
+        30509011
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 784802,
+      "Type": 3,
+      "SubType": 3,
+      "starDesc": 780602,
+      "equipFeature": [
+        30509021
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 784803,
+      "Type": 5,
+      "SubType": 15,
+      "starDesc": 780603,
+      "equipFeature": [
+        30509031
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 784804,
+      "Type": 4,
+      "SubType": 3,
+      "starDesc": 780604,
+      "equipFeature": [
+        30509041
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 784805,
+      "Type": 6,
+      "SubType": 15,
+      "starDesc": 780605,
+      "equipFeature": [
+        30509051
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 784806,
+      "Type": 2,
+      "SubType": 8,
+      "starDesc": 780606,
+      "equipFeature": [
+        30509061
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 784807,
+      "Type": 2,
+      "SubType": 16,
+      "starDesc": 780607,
+      "equipFeature": [
+        30509071
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 784808,
+      "Type": 2,
+      "SubType": 24,
+      "starDesc": 780608,
+      "equipFeature": [
+        30509081
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 784901,
+      "Type": 1,
+      "SubType": 4,
+      "starDesc": 780701,
+      "equipFeature": [
+        30510011
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 784902,
+      "Type": 3,
+      "SubType": 3,
+      "starDesc": 780702,
+      "equipFeature": [
+        30510021
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 784903,
+      "Type": 5,
+      "SubType": 15,
+      "starDesc": 780703,
+      "equipFeature": [
+        30510031
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 784904,
+      "Type": 4,
+      "SubType": 3,
+      "starDesc": 780704,
+      "equipFeature": [
+        30510041
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 784905,
+      "Type": 6,
+      "SubType": 15,
+      "starDesc": 780705,
+      "equipFeature": [
+        30510051
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 784906,
+      "Type": 2,
+      "SubType": 8,
+      "starDesc": 780706,
+      "equipFeature": [
+        30510061
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 784907,
+      "Type": 2,
+      "SubType": 16,
+      "starDesc": 780707,
+      "equipFeature": [
+        30510071
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 784908,
+      "Type": 2,
+      "SubType": 24,
+      "starDesc": 780708,
+      "equipFeature": [
+        30510081
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 785001,
+      "Type": 1,
+      "SubType": 4,
+      "starDesc": 780801,
+      "equipFeature": [
+        30511011
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 785002,
+      "Type": 3,
+      "SubType": 2,
+      "starDesc": 780802,
+      "equipFeature": [
+        30511021
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 785003,
+      "Type": 5,
+      "SubType": 10,
+      "starDesc": 780803,
+      "equipFeature": [
+        30511031
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 785004,
+      "Type": 4,
+      "SubType": 2,
+      "starDesc": 780804,
+      "equipFeature": [
+        30511041
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 785005,
+      "Type": 6,
+      "SubType": 10,
+      "starDesc": 780805,
+      "equipFeature": [
+        30511051
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 785006,
+      "Type": 2,
+      "SubType": 6,
+      "starDesc": 780806,
+      "equipFeature": [
+        30511061
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 785007,
+      "Type": 2,
+      "SubType": 12,
+      "starDesc": 780807,
+      "equipFeature": [
+        30511071
+      ],
+      "equipFeatureMod": []
+    }
+  },
+  {
+    "CollectionSetStarRow": {
+      "id": 785008,
+      "Type": 2,
+      "SubType": 16,
+      "starDesc": 780808,
+      "equipFeature": [
+        30511081
+      ],
+      "equipFeatureMod": []
+    }
+  }
+]

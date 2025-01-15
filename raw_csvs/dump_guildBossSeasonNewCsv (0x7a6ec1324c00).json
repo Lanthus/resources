@@ -1,0 +1,1850 @@
+{
+  "String <Path>k__BackingField": "CsvData/DynamicCsv/guildBossSeasonNew.bytes",
+  "ObscuredDictionaryInt<guildBossSeasonNewRow> _dict": {
+    "Int32 _key": 1562263992,
+    "Int32 _rndIdx": 129,
+    "Dictionary<System.Int32,guildBossSeasonNewRow> _dict": {
+      "Int32[] _buckets": [
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        41,
+        42,
+        43,
+        0,
+        0,
+        0,
+        0,
+        0,
+        33,
+        34
+      ],
+      "Entry<System.Int32,guildBossSeasonNewRow>[] _entries": [
+        {
+          "Int32 hashCode": 1561362096,
+          "Int32 next": -1,
+          "Int32 key": 1561362096,
+          "guildBossSeasonNewRow value": {
+            "Int32 <ID>k__BackingField": 29,
+            "Int32 <Desc>k__BackingField": 0,
+            "Int32 <SeasonStart>k__BackingField": 1715616000,
+            "Int32 <SoloTime>k__BackingField": 1715702400,
+            "Int32 <BossTime>k__BackingField": 1715961600,
+            "Int32 <SeasonEnd>k__BackingField": 1716220799,
+            "String[] <SoloMail>k__BackingField": [
+              "t-20231008073606",
+              "t-20231008073606",
+              "t-20231008073745",
+              "t-20231008073745"
+            ],
+            "String[] <SeasonMail>k__BackingField": [
+              "t-20231008073649",
+              "t-20231008073649",
+              "t-20231008073804",
+              "t-20231008073804"
+            ],
+            "String[] <BossRankMail>k__BackingField": [
+              "t-20240127082545",
+              "t-20231205063048",
+              "t-20231205063237",
+              "t-20231205063237"
+            ]
+          }
+        },
+        {
+          "Int32 hashCode": 1561362097,
+          "Int32 next": -1,
+          "Int32 key": 1561362097,
+          "guildBossSeasonNewRow value": {
+            "Int32 <ID>k__BackingField": 30,
+            "Int32 <Desc>k__BackingField": 0,
+            "Int32 <SeasonStart>k__BackingField": 1716220800,
+            "Int32 <SoloTime>k__BackingField": 1716307200,
+            "Int32 <BossTime>k__BackingField": 1716566400,
+            "Int32 <SeasonEnd>k__BackingField": 1716825599,
+            "String[] <SoloMail>k__BackingField": [
+              "t-20231008073606",
+              "t-20231008073606",
+              "t-20231008073745",
+              "t-20231008073745"
+            ],
+            "String[] <SeasonMail>k__BackingField": [
+              "t-20231008073649",
+              "t-20231008073649",
+              "t-20231008073804",
+              "t-20231008073804"
+            ],
+            "String[] <BossRankMail>k__BackingField": [
+              "t-20240127082545",
+              "t-20231205063048",
+              "t-20231205063237",
+              "t-20231205063237"
+            ]
+          }
+        },
+        {
+          "Int32 hashCode": 1561362098,
+          "Int32 next": -1,
+          "Int32 key": 1561362098,
+          "guildBossSeasonNewRow value": {
+            "Int32 <ID>k__BackingField": 31,
+            "Int32 <Desc>k__BackingField": 0,
+            "Int32 <SeasonStart>k__BackingField": 1716825600,
+            "Int32 <SoloTime>k__BackingField": 1716912000,
+            "Int32 <BossTime>k__BackingField": 1717171200,
+            "Int32 <SeasonEnd>k__BackingField": 1717430399,
+            "String[] <SoloMail>k__BackingField": [
+              "t-20231008073606",
+              "t-20231008073606",
+              "t-20231008073745",
+              "t-20231008073745"
+            ],
+            "String[] <SeasonMail>k__BackingField": [
+              "t-20231008073649",
+              "t-20231008073649",
+              "t-20231008073804",
+              "t-20231008073804"
+            ],
+            "String[] <BossRankMail>k__BackingField": [
+              "t-20240127082545",
+              "t-20231205063048",
+              "t-20231205063237",
+              "t-20231205063237"
+            ]
+          }
+        },
+        {
+          "Int32 hashCode": 1561362099,
+          "Int32 next": -1,
+          "Int32 key": 1561362099,
+          "guildBossSeasonNewRow value": {
+            "Int32 <ID>k__BackingField": 32,
+            "Int32 <Desc>k__BackingField": 0,
+            "Int32 <SeasonStart>k__BackingField": 1717430400,
+            "Int32 <SoloTime>k__BackingField": 1717516800,
+            "Int32 <BossTime>k__BackingField": 1717776000,
+            "Int32 <SeasonEnd>k__BackingField": 1718035199,
+            "String[] <SoloMail>k__BackingField": [
+              "t-20231008073606",
+              "t-20231008073606",
+              "t-20231008073745",
+              "t-20231008073745"
+            ],
+            "String[] <SeasonMail>k__BackingField": [
+              "t-20231008073649",
+              "t-20231008073649",
+              "t-20231008073804",
+              "t-20231008073804"
+            ],
+            "String[] <BossRankMail>k__BackingField": [
+              "t-20240127082545",
+              "t-20231205063048",
+              "t-20231205063237",
+              "t-20231205063237"
+            ]
+          }
+        },
+        {
+          "Int32 hashCode": 1561362100,
+          "Int32 next": -1,
+          "Int32 key": 1561362100,
+          "guildBossSeasonNewRow value": {
+            "Int32 <ID>k__BackingField": 33,
+            "Int32 <Desc>k__BackingField": 0,
+            "Int32 <SeasonStart>k__BackingField": 1718035200,
+            "Int32 <SoloTime>k__BackingField": 1718121600,
+            "Int32 <BossTime>k__BackingField": 1718380800,
+            "Int32 <SeasonEnd>k__BackingField": 1718639999,
+            "String[] <SoloMail>k__BackingField": [
+              "t-20231008073606",
+              "t-20231008073606",
+              "t-20231008073745",
+              "t-20231008073745"
+            ],
+            "String[] <SeasonMail>k__BackingField": [
+              "t-20231008073649",
+              "t-20231008073649",
+              "t-20231008073804",
+              "t-20231008073804"
+            ],
+            "String[] <BossRankMail>k__BackingField": [
+              "t-20240127082545",
+              "t-20231205063048",
+              "t-20231205063237",
+              "t-20231205063237"
+            ]
+          }
+        },
+        {
+          "Int32 hashCode": 1561362101,
+          "Int32 next": -1,
+          "Int32 key": 1561362101,
+          "guildBossSeasonNewRow value": {
+            "Int32 <ID>k__BackingField": 34,
+            "Int32 <Desc>k__BackingField": 0,
+            "Int32 <SeasonStart>k__BackingField": 1718640000,
+            "Int32 <SoloTime>k__BackingField": 1718726400,
+            "Int32 <BossTime>k__BackingField": 1718985600,
+            "Int32 <SeasonEnd>k__BackingField": 1719244799,
+            "String[] <SoloMail>k__BackingField": [
+              "t-20231008073606",
+              "t-20231008073606",
+              "t-20231008073745",
+              "t-20231008073745"
+            ],
+            "String[] <SeasonMail>k__BackingField": [
+              "t-20231008073649",
+              "t-20231008073649",
+              "t-20231008073804",
+              "t-20231008073804"
+            ],
+            "String[] <BossRankMail>k__BackingField": [
+              "t-20240127082545",
+              "t-20231205063048",
+              "t-20231205063237",
+              "t-20231205063237"
+            ]
+          }
+        },
+        {
+          "Int32 hashCode": 1561362102,
+          "Int32 next": -1,
+          "Int32 key": 1561362102,
+          "guildBossSeasonNewRow value": {
+            "Int32 <ID>k__BackingField": 35,
+            "Int32 <Desc>k__BackingField": 0,
+            "Int32 <SeasonStart>k__BackingField": 1719244800,
+            "Int32 <SoloTime>k__BackingField": 1719331200,
+            "Int32 <BossTime>k__BackingField": 1719590400,
+            "Int32 <SeasonEnd>k__BackingField": 1719849599,
+            "String[] <SoloMail>k__BackingField": [
+              "t-20231008073606",
+              "t-20231008073606",
+              "t-20231008073745",
+              "t-20231008073745"
+            ],
+            "String[] <SeasonMail>k__BackingField": [
+              "t-20231008073649",
+              "t-20231008073649",
+              "t-20231008073804",
+              "t-20231008073804"
+            ],
+            "String[] <BossRankMail>k__BackingField": [
+              "t-20240127082545",
+              "t-20231205063048",
+              "t-20231205063237",
+              "t-20231205063237"
+            ]
+          }
+        },
+        {
+          "Int32 hashCode": 1561362103,
+          "Int32 next": -1,
+          "Int32 key": 1561362103,
+          "guildBossSeasonNewRow value": {
+            "Int32 <ID>k__BackingField": 36,
+            "Int32 <Desc>k__BackingField": 0,
+            "Int32 <SeasonStart>k__BackingField": 1719849600,
+            "Int32 <SoloTime>k__BackingField": 1719936000,
+            "Int32 <BossTime>k__BackingField": 1720195200,
+            "Int32 <SeasonEnd>k__BackingField": 1720454399,
+            "String[] <SoloMail>k__BackingField": [
+              "t-20231008073606",
+              "t-20231008073606",
+              "t-20231008073745",
+              "t-20231008073745"
+            ],
+            "String[] <SeasonMail>k__BackingField": [
+              "t-20231008073649",
+              "t-20231008073649",
+              "t-20231008073804",
+              "t-20231008073804"
+            ],
+            "String[] <BossRankMail>k__BackingField": [
+              "t-20240127082545",
+              "t-20231205063048",
+              "t-20231205063237",
+              "t-20231205063237"
+            ]
+          }
+        },
+        {
+          "Int32 hashCode": 1561362088,
+          "Int32 next": -1,
+          "Int32 key": 1561362088,
+          "guildBossSeasonNewRow value": {
+            "Int32 <ID>k__BackingField": 37,
+            "Int32 <Desc>k__BackingField": 0,
+            "Int32 <SeasonStart>k__BackingField": 1720454400,
+            "Int32 <SoloTime>k__BackingField": 1720540800,
+            "Int32 <BossTime>k__BackingField": 1720800000,
+            "Int32 <SeasonEnd>k__BackingField": 1721059199,
+            "String[] <SoloMail>k__BackingField": [
+              "t-20231008073606",
+              "t-20231008073606",
+              "t-20231008073745",
+              "t-20231008073745"
+            ],
+            "String[] <SeasonMail>k__BackingField": [
+              "t-20231008073649",
+              "t-20231008073649",
+              "t-20231008073804",
+              "t-20231008073804"
+            ],
+            "String[] <BossRankMail>k__BackingField": [
+              "t-20240127082545",
+              "t-20231205063048",
+              "t-20231205063237",
+              "t-20231205063237"
+            ]
+          }
+        },
+        {
+          "Int32 hashCode": 1561362089,
+          "Int32 next": -1,
+          "Int32 key": 1561362089,
+          "guildBossSeasonNewRow value": {
+            "Int32 <ID>k__BackingField": 38,
+            "Int32 <Desc>k__BackingField": 0,
+            "Int32 <SeasonStart>k__BackingField": 1721059200,
+            "Int32 <SoloTime>k__BackingField": 1721145600,
+            "Int32 <BossTime>k__BackingField": 1721404800,
+            "Int32 <SeasonEnd>k__BackingField": 1721663999,
+            "String[] <SoloMail>k__BackingField": [
+              "t-20231008073606",
+              "t-20231008073606",
+              "t-20231008073745",
+              "t-20231008073745"
+            ],
+            "String[] <SeasonMail>k__BackingField": [
+              "t-20231008073649",
+              "t-20231008073649",
+              "t-20231008073804",
+              "t-20231008073804"
+            ],
+            "String[] <BossRankMail>k__BackingField": [
+              "t-20240127082545",
+              "t-20231205063048",
+              "t-20231205063237",
+              "t-20231205063237"
+            ]
+          }
+        },
+        {
+          "Int32 hashCode": 1561362090,
+          "Int32 next": -1,
+          "Int32 key": 1561362090,
+          "guildBossSeasonNewRow value": {
+            "Int32 <ID>k__BackingField": 39,
+            "Int32 <Desc>k__BackingField": 0,
+            "Int32 <SeasonStart>k__BackingField": 1721664000,
+            "Int32 <SoloTime>k__BackingField": 1721750400,
+            "Int32 <BossTime>k__BackingField": 1722009600,
+            "Int32 <SeasonEnd>k__BackingField": 1722268799,
+            "String[] <SoloMail>k__BackingField": [
+              "t-20231008073606",
+              "t-20231008073606",
+              "t-20231008073745",
+              "t-20231008073745"
+            ],
+            "String[] <SeasonMail>k__BackingField": [
+              "t-20231008073649",
+              "t-20231008073649",
+              "t-20231008073804",
+              "t-20231008073804"
+            ],
+            "String[] <BossRankMail>k__BackingField": [
+              "t-20240127082545",
+              "t-20231205063048",
+              "t-20231205063237",
+              "t-20231205063237"
+            ]
+          }
+        },
+        {
+          "Int32 hashCode": 1561362091,
+          "Int32 next": -1,
+          "Int32 key": 1561362091,
+          "guildBossSeasonNewRow value": {
+            "Int32 <ID>k__BackingField": 40,
+            "Int32 <Desc>k__BackingField": 0,
+            "Int32 <SeasonStart>k__BackingField": 1722268800,
+            "Int32 <SoloTime>k__BackingField": 1722355200,
+            "Int32 <BossTime>k__BackingField": 1722614400,
+            "Int32 <SeasonEnd>k__BackingField": 1722873599,
+            "String[] <SoloMail>k__BackingField": [
+              "t-20231008073606",
+              "t-20231008073606",
+              "t-20231008073745",
+              "t-20231008073745"
+            ],
+            "String[] <SeasonMail>k__BackingField": [
+              "t-20231008073649",
+              "t-20231008073649",
+              "t-20231008073804",
+              "t-20231008073804"
+            ],
+            "String[] <BossRankMail>k__BackingField": [
+              "t-20240127082545",
+              "t-20231205063048",
+              "t-20231205063237",
+              "t-20231205063237"
+            ]
+          }
+        },
+        {
+          "Int32 hashCode": 1561362092,
+          "Int32 next": -1,
+          "Int32 key": 1561362092,
+          "guildBossSeasonNewRow value": {
+            "Int32 <ID>k__BackingField": 41,
+            "Int32 <Desc>k__BackingField": 0,
+            "Int32 <SeasonStart>k__BackingField": 1722873600,
+            "Int32 <SoloTime>k__BackingField": 1722960000,
+            "Int32 <BossTime>k__BackingField": 1723219200,
+            "Int32 <SeasonEnd>k__BackingField": 1723478399,
+            "String[] <SoloMail>k__BackingField": [
+              "t-20231008073606",
+              "t-20231008073606",
+              "t-20231008073745",
+              "t-20231008073745"
+            ],
+            "String[] <SeasonMail>k__BackingField": [
+              "t-20231008073649",
+              "t-20231008073649",
+              "t-20231008073804",
+              "t-20231008073804"
+            ],
+            "String[] <BossRankMail>k__BackingField": [
+              "t-20240127082545",
+              "t-20231205063048",
+              "t-20231205063237",
+              "t-20231205063237"
+            ]
+          }
+        },
+        {
+          "Int32 hashCode": 1561362093,
+          "Int32 next": -1,
+          "Int32 key": 1561362093,
+          "guildBossSeasonNewRow value": {
+            "Int32 <ID>k__BackingField": 42,
+            "Int32 <Desc>k__BackingField": 0,
+            "Int32 <SeasonStart>k__BackingField": 1723478400,
+            "Int32 <SoloTime>k__BackingField": 1723564800,
+            "Int32 <BossTime>k__BackingField": 1723824000,
+            "Int32 <SeasonEnd>k__BackingField": 1724083199,
+            "String[] <SoloMail>k__BackingField": [
+              "t-20231008073606",
+              "t-20231008073606",
+              "t-20231008073745",
+              "t-20231008073745"
+            ],
+            "String[] <SeasonMail>k__BackingField": [
+              "t-20231008073649",
+              "t-20231008073649",
+              "t-20231008073804",
+              "t-20231008073804"
+            ],
+            "String[] <BossRankMail>k__BackingField": [
+              "t-20240127082545",
+              "t-20231205063048",
+              "t-20231205063237",
+              "t-20231205063237"
+            ]
+          }
+        },
+        {
+          "Int32 hashCode": 1561362094,
+          "Int32 next": -1,
+          "Int32 key": 1561362094,
+          "guildBossSeasonNewRow value": {
+            "Int32 <ID>k__BackingField": 43,
+            "Int32 <Desc>k__BackingField": 0,
+            "Int32 <SeasonStart>k__BackingField": 1724083200,
+            "Int32 <SoloTime>k__BackingField": 1724169600,
+            "Int32 <BossTime>k__BackingField": 1724428800,
+            "Int32 <SeasonEnd>k__BackingField": 1724687999,
+            "String[] <SoloMail>k__BackingField": [
+              "t-20231008073606",
+              "t-20231008073606",
+              "t-20231008073745",
+              "t-20231008073745"
+            ],
+            "String[] <SeasonMail>k__BackingField": [
+              "t-20231008073649",
+              "t-20231008073649",
+              "t-20231008073804",
+              "t-20231008073804"
+            ],
+            "String[] <BossRankMail>k__BackingField": [
+              "t-20240127082545",
+              "t-20231205063048",
+              "t-20231205063237",
+              "t-20231205063237"
+            ]
+          }
+        },
+        {
+          "Int32 hashCode": 1561362095,
+          "Int32 next": -1,
+          "Int32 key": 1561362095,
+          "guildBossSeasonNewRow value": {
+            "Int32 <ID>k__BackingField": 44,
+            "Int32 <Desc>k__BackingField": 0,
+            "Int32 <SeasonStart>k__BackingField": 1724688000,
+            "Int32 <SoloTime>k__BackingField": 1724774400,
+            "Int32 <BossTime>k__BackingField": 1725033600,
+            "Int32 <SeasonEnd>k__BackingField": 1725292799,
+            "String[] <SoloMail>k__BackingField": [
+              "t-20231008073606",
+              "t-20231008073606",
+              "t-20231008073745",
+              "t-20231008073745"
+            ],
+            "String[] <SeasonMail>k__BackingField": [
+              "t-20231008073649",
+              "t-20231008073649",
+              "t-20231008073804",
+              "t-20231008073804"
+            ],
+            "String[] <BossRankMail>k__BackingField": [
+              "t-20240127082545",
+              "t-20231205063048",
+              "t-20231205063237",
+              "t-20231205063237"
+            ]
+          }
+        },
+        {
+          "Int32 hashCode": 1561362080,
+          "Int32 next": -1,
+          "Int32 key": 1561362080,
+          "guildBossSeasonNewRow value": {
+            "Int32 <ID>k__BackingField": 45,
+            "Int32 <Desc>k__BackingField": 0,
+            "Int32 <SeasonStart>k__BackingField": 1725292800,
+            "Int32 <SoloTime>k__BackingField": 1725379200,
+            "Int32 <BossTime>k__BackingField": 1725638400,
+            "Int32 <SeasonEnd>k__BackingField": 1725897599,
+            "String[] <SoloMail>k__BackingField": [
+              "t-20231008073606",
+              "t-20231008073606",
+              "t-20231008073745",
+              "t-20231008073745"
+            ],
+            "String[] <SeasonMail>k__BackingField": [
+              "t-20231008073649",
+              "t-20231008073649",
+              "t-20231008073804",
+              "t-20231008073804"
+            ],
+            "String[] <BossRankMail>k__BackingField": [
+              "t-20240127082545",
+              "t-20231205063048",
+              "t-20231205063237",
+              "t-20231205063237"
+            ]
+          }
+        },
+        {
+          "Int32 hashCode": 1561362081,
+          "Int32 next": -1,
+          "Int32 key": 1561362081,
+          "guildBossSeasonNewRow value": {
+            "Int32 <ID>k__BackingField": 46,
+            "Int32 <Desc>k__BackingField": 0,
+            "Int32 <SeasonStart>k__BackingField": 1725897600,
+            "Int32 <SoloTime>k__BackingField": 1725984000,
+            "Int32 <BossTime>k__BackingField": 1726243200,
+            "Int32 <SeasonEnd>k__BackingField": 1726502399,
+            "String[] <SoloMail>k__BackingField": [
+              "t-20231008073606",
+              "t-20231008073606",
+              "t-20231008073745",
+              "t-20231008073745"
+            ],
+            "String[] <SeasonMail>k__BackingField": [
+              "t-20231008073649",
+              "t-20231008073649",
+              "t-20231008073804",
+              "t-20231008073804"
+            ],
+            "String[] <BossRankMail>k__BackingField": [
+              "t-20240127082545",
+              "t-20231205063048",
+              "t-20231205063237",
+              "t-20231205063237"
+            ]
+          }
+        },
+        {
+          "Int32 hashCode": 1561362082,
+          "Int32 next": -1,
+          "Int32 key": 1561362082,
+          "guildBossSeasonNewRow value": {
+            "Int32 <ID>k__BackingField": 47,
+            "Int32 <Desc>k__BackingField": 0,
+            "Int32 <SeasonStart>k__BackingField": 1726502400,
+            "Int32 <SoloTime>k__BackingField": 1726588800,
+            "Int32 <BossTime>k__BackingField": 1726848000,
+            "Int32 <SeasonEnd>k__BackingField": 1727107199,
+            "String[] <SoloMail>k__BackingField": [
+              "t-20231008073606",
+              "t-20231008073606",
+              "t-20231008073745",
+              "t-20231008073745"
+            ],
+            "String[] <SeasonMail>k__BackingField": [
+              "t-20231008073649",
+              "t-20231008073649",
+              "t-20231008073804",
+              "t-20231008073804"
+            ],
+            "String[] <BossRankMail>k__BackingField": [
+              "t-20240127082545",
+              "t-20231205063048",
+              "t-20231205063237",
+              "t-20231205063237"
+            ]
+          }
+        },
+        {
+          "Int32 hashCode": 1561362083,
+          "Int32 next": -1,
+          "Int32 key": 1561362083,
+          "guildBossSeasonNewRow value": {
+            "Int32 <ID>k__BackingField": 48,
+            "Int32 <Desc>k__BackingField": 0,
+            "Int32 <SeasonStart>k__BackingField": 1727107200,
+            "Int32 <SoloTime>k__BackingField": 1727193600,
+            "Int32 <BossTime>k__BackingField": 1727452800,
+            "Int32 <SeasonEnd>k__BackingField": 1727711999,
+            "String[] <SoloMail>k__BackingField": [
+              "t-20231008073606",
+              "t-20231008073606",
+              "t-20231008073745",
+              "t-20231008073745"
+            ],
+            "String[] <SeasonMail>k__BackingField": [
+              "t-20231008073649",
+              "t-20231008073649",
+              "t-20231008073804",
+              "t-20231008073804"
+            ],
+            "String[] <BossRankMail>k__BackingField": [
+              "t-20240127082545",
+              "t-20231205063048",
+              "t-20231205063237",
+              "t-20231205063237"
+            ]
+          }
+        },
+        {
+          "Int32 hashCode": 1561362084,
+          "Int32 next": -1,
+          "Int32 key": 1561362084,
+          "guildBossSeasonNewRow value": {
+            "Int32 <ID>k__BackingField": 49,
+            "Int32 <Desc>k__BackingField": 0,
+            "Int32 <SeasonStart>k__BackingField": 1727712000,
+            "Int32 <SoloTime>k__BackingField": 1727798400,
+            "Int32 <BossTime>k__BackingField": 1728057600,
+            "Int32 <SeasonEnd>k__BackingField": 1728316799,
+            "String[] <SoloMail>k__BackingField": [
+              "t-20231008073606",
+              "t-20231008073606",
+              "t-20231008073745",
+              "t-20231008073745"
+            ],
+            "String[] <SeasonMail>k__BackingField": [
+              "t-20231008073649",
+              "t-20231008073649",
+              "t-20231008073804",
+              "t-20231008073804"
+            ],
+            "String[] <BossRankMail>k__BackingField": [
+              "t-20240127082545",
+              "t-20231205063048",
+              "t-20231205063237",
+              "t-20231205063237"
+            ]
+          }
+        },
+        {
+          "Int32 hashCode": 1561362085,
+          "Int32 next": -1,
+          "Int32 key": 1561362085,
+          "guildBossSeasonNewRow value": {
+            "Int32 <ID>k__BackingField": 50,
+            "Int32 <Desc>k__BackingField": 0,
+            "Int32 <SeasonStart>k__BackingField": 1728316800,
+            "Int32 <SoloTime>k__BackingField": 1728403200,
+            "Int32 <BossTime>k__BackingField": 1728662400,
+            "Int32 <SeasonEnd>k__BackingField": 1728921599,
+            "String[] <SoloMail>k__BackingField": [
+              "t-20231008073606",
+              "t-20231008073606",
+              "t-20231008073745",
+              "t-20231008073745"
+            ],
+            "String[] <SeasonMail>k__BackingField": [
+              "t-20231008073649",
+              "t-20231008073649",
+              "t-20231008073804",
+              "t-20231008073804"
+            ],
+            "String[] <BossRankMail>k__BackingField": [
+              "t-20240127082545",
+              "t-20231205063048",
+              "t-20231205063237",
+              "t-20231205063237"
+            ]
+          }
+        },
+        {
+          "Int32 hashCode": 1561362086,
+          "Int32 next": -1,
+          "Int32 key": 1561362086,
+          "guildBossSeasonNewRow value": {
+            "Int32 <ID>k__BackingField": 51,
+            "Int32 <Desc>k__BackingField": 0,
+            "Int32 <SeasonStart>k__BackingField": 1728921600,
+            "Int32 <SoloTime>k__BackingField": 1729008000,
+            "Int32 <BossTime>k__BackingField": 1729267200,
+            "Int32 <SeasonEnd>k__BackingField": 1729526399,
+            "String[] <SoloMail>k__BackingField": [
+              "t-20231008073606",
+              "t-20231008073606",
+              "t-20231008073745",
+              "t-20231008073745"
+            ],
+            "String[] <SeasonMail>k__BackingField": [
+              "t-20231008073649",
+              "t-20231008073649",
+              "t-20231008073804",
+              "t-20231008073804"
+            ],
+            "String[] <BossRankMail>k__BackingField": [
+              "t-20240127082545",
+              "t-20231205063048",
+              "t-20231205063237",
+              "t-20231205063237"
+            ]
+          }
+        },
+        {
+          "Int32 hashCode": 1561362087,
+          "Int32 next": -1,
+          "Int32 key": 1561362087,
+          "guildBossSeasonNewRow value": {
+            "Int32 <ID>k__BackingField": 52,
+            "Int32 <Desc>k__BackingField": 0,
+            "Int32 <SeasonStart>k__BackingField": 1729526400,
+            "Int32 <SoloTime>k__BackingField": 1729612800,
+            "Int32 <BossTime>k__BackingField": 1729872000,
+            "Int32 <SeasonEnd>k__BackingField": 1730131199,
+            "String[] <SoloMail>k__BackingField": [
+              "t-20231008073606",
+              "t-20231008073606",
+              "t-20231008073745",
+              "t-20231008073745"
+            ],
+            "String[] <SeasonMail>k__BackingField": [
+              "t-20231008073649",
+              "t-20231008073649",
+              "t-20231008073804",
+              "t-20231008073804"
+            ],
+            "String[] <BossRankMail>k__BackingField": [
+              "t-20240127082545",
+              "t-20231205063048",
+              "t-20231205063237",
+              "t-20231205063237"
+            ]
+          }
+        },
+        {
+          "Int32 hashCode": 1561362072,
+          "Int32 next": -1,
+          "Int32 key": 1561362072,
+          "guildBossSeasonNewRow value": {
+            "Int32 <ID>k__BackingField": 53,
+            "Int32 <Desc>k__BackingField": 0,
+            "Int32 <SeasonStart>k__BackingField": 1730131200,
+            "Int32 <SoloTime>k__BackingField": 1730217600,
+            "Int32 <BossTime>k__BackingField": 1730476800,
+            "Int32 <SeasonEnd>k__BackingField": 1730735999,
+            "String[] <SoloMail>k__BackingField": [
+              "t-20231008073606",
+              "t-20231008073606",
+              "t-20231008073745",
+              "t-20231008073745"
+            ],
+            "String[] <SeasonMail>k__BackingField": [
+              "t-20231008073649",
+              "t-20231008073649",
+              "t-20231008073804",
+              "t-20231008073804"
+            ],
+            "String[] <BossRankMail>k__BackingField": [
+              "t-20240127082545",
+              "t-20231205063048",
+              "t-20231205063237",
+              "t-20231205063237"
+            ]
+          }
+        },
+        {
+          "Int32 hashCode": 1561362073,
+          "Int32 next": -1,
+          "Int32 key": 1561362073,
+          "guildBossSeasonNewRow value": {
+            "Int32 <ID>k__BackingField": 54,
+            "Int32 <Desc>k__BackingField": 0,
+            "Int32 <SeasonStart>k__BackingField": 1730736000,
+            "Int32 <SoloTime>k__BackingField": 1730822400,
+            "Int32 <BossTime>k__BackingField": 1731081600,
+            "Int32 <SeasonEnd>k__BackingField": 1731340799,
+            "String[] <SoloMail>k__BackingField": [
+              "t-20231008073606",
+              "t-20231008073606",
+              "t-20231008073745",
+              "t-20231008073745"
+            ],
+            "String[] <SeasonMail>k__BackingField": [
+              "t-20231008073649",
+              "t-20231008073649",
+              "t-20231008073804",
+              "t-20231008073804"
+            ],
+            "String[] <BossRankMail>k__BackingField": [
+              "t-20240127082545",
+              "t-20231205063048",
+              "t-20231205063237",
+              "t-20231205063237"
+            ]
+          }
+        },
+        {
+          "Int32 hashCode": 1561362074,
+          "Int32 next": -1,
+          "Int32 key": 1561362074,
+          "guildBossSeasonNewRow value": {
+            "Int32 <ID>k__BackingField": 55,
+            "Int32 <Desc>k__BackingField": 0,
+            "Int32 <SeasonStart>k__BackingField": 1731340800,
+            "Int32 <SoloTime>k__BackingField": 1731427200,
+            "Int32 <BossTime>k__BackingField": 1731686400,
+            "Int32 <SeasonEnd>k__BackingField": 1731945599,
+            "String[] <SoloMail>k__BackingField": [
+              "t-20231008073606",
+              "t-20231008073606",
+              "t-20231008073745",
+              "t-20231008073745"
+            ],
+            "String[] <SeasonMail>k__BackingField": [
+              "t-20231008073649",
+              "t-20231008073649",
+              "t-20231008073804",
+              "t-20231008073804"
+            ],
+            "String[] <BossRankMail>k__BackingField": [
+              "t-20240127082545",
+              "t-20231205063048",
+              "t-20231205063237",
+              "t-20231205063237"
+            ]
+          }
+        },
+        {
+          "Int32 hashCode": 1561362075,
+          "Int32 next": -1,
+          "Int32 key": 1561362075,
+          "guildBossSeasonNewRow value": {
+            "Int32 <ID>k__BackingField": 56,
+            "Int32 <Desc>k__BackingField": 0,
+            "Int32 <SeasonStart>k__BackingField": 1731945600,
+            "Int32 <SoloTime>k__BackingField": 1732032000,
+            "Int32 <BossTime>k__BackingField": 1732291200,
+            "Int32 <SeasonEnd>k__BackingField": 1732550399,
+            "String[] <SoloMail>k__BackingField": [
+              "t-20231008073606",
+              "t-20231008073606",
+              "t-20231008073745",
+              "t-20231008073745"
+            ],
+            "String[] <SeasonMail>k__BackingField": [
+              "t-20231008073649",
+              "t-20231008073649",
+              "t-20231008073804",
+              "t-20231008073804"
+            ],
+            "String[] <BossRankMail>k__BackingField": [
+              "t-20240127082545",
+              "t-20231205063048",
+              "t-20231205063237",
+              "t-20231205063237"
+            ]
+          }
+        },
+        {
+          "Int32 hashCode": 1561362076,
+          "Int32 next": -1,
+          "Int32 key": 1561362076,
+          "guildBossSeasonNewRow value": {
+            "Int32 <ID>k__BackingField": 57,
+            "Int32 <Desc>k__BackingField": 0,
+            "Int32 <SeasonStart>k__BackingField": 1732550400,
+            "Int32 <SoloTime>k__BackingField": 1732636800,
+            "Int32 <BossTime>k__BackingField": 1732896000,
+            "Int32 <SeasonEnd>k__BackingField": 1733155199,
+            "String[] <SoloMail>k__BackingField": [
+              "t-20231008073606",
+              "t-20231008073606",
+              "t-20231008073745",
+              "t-20231008073745"
+            ],
+            "String[] <SeasonMail>k__BackingField": [
+              "t-20231008073649",
+              "t-20231008073649",
+              "t-20231008073804",
+              "t-20231008073804"
+            ],
+            "String[] <BossRankMail>k__BackingField": [
+              "t-20240127082545",
+              "t-20231205063048",
+              "t-20231205063237",
+              "t-20231205063237"
+            ]
+          }
+        },
+        {
+          "Int32 hashCode": 1561362077,
+          "Int32 next": -1,
+          "Int32 key": 1561362077,
+          "guildBossSeasonNewRow value": {
+            "Int32 <ID>k__BackingField": 58,
+            "Int32 <Desc>k__BackingField": 0,
+            "Int32 <SeasonStart>k__BackingField": 1733155200,
+            "Int32 <SoloTime>k__BackingField": 1733241600,
+            "Int32 <BossTime>k__BackingField": 1733500800,
+            "Int32 <SeasonEnd>k__BackingField": 1733759999,
+            "String[] <SoloMail>k__BackingField": [
+              "t-20231008073606",
+              "t-20231008073606",
+              "t-20231008073745",
+              "t-20231008073745"
+            ],
+            "String[] <SeasonMail>k__BackingField": [
+              "t-20231008073649",
+              "t-20231008073649",
+              "t-20231008073804",
+              "t-20231008073804"
+            ],
+            "String[] <BossRankMail>k__BackingField": [
+              "t-20240127082545",
+              "t-20231205063048",
+              "t-20231205063237",
+              "t-20231205063237"
+            ]
+          }
+        },
+        {
+          "Int32 hashCode": 1561362078,
+          "Int32 next": -1,
+          "Int32 key": 1561362078,
+          "guildBossSeasonNewRow value": {
+            "Int32 <ID>k__BackingField": 59,
+            "Int32 <Desc>k__BackingField": 0,
+            "Int32 <SeasonStart>k__BackingField": 1733760000,
+            "Int32 <SoloTime>k__BackingField": 1733846400,
+            "Int32 <BossTime>k__BackingField": 1734105600,
+            "Int32 <SeasonEnd>k__BackingField": 1734364799,
+            "String[] <SoloMail>k__BackingField": [
+              "t-20231008073606",
+              "t-20231008073606",
+              "t-20231008073745",
+              "t-20231008073745"
+            ],
+            "String[] <SeasonMail>k__BackingField": [
+              "t-20231008073649",
+              "t-20231008073649",
+              "t-20231008073804",
+              "t-20231008073804"
+            ],
+            "String[] <BossRankMail>k__BackingField": [
+              "t-20240127082545",
+              "t-20231205063048",
+              "t-20231205063237",
+              "t-20231205063237"
+            ]
+          }
+        },
+        {
+          "Int32 hashCode": 1561362079,
+          "Int32 next": -1,
+          "Int32 key": 1561362079,
+          "guildBossSeasonNewRow value": {
+            "Int32 <ID>k__BackingField": 60,
+            "Int32 <Desc>k__BackingField": 0,
+            "Int32 <SeasonStart>k__BackingField": 1734364800,
+            "Int32 <SoloTime>k__BackingField": 1734451200,
+            "Int32 <BossTime>k__BackingField": 1734710400,
+            "Int32 <SeasonEnd>k__BackingField": 1734969599,
+            "String[] <SoloMail>k__BackingField": [
+              "t-20231008073606",
+              "t-20231008073606",
+              "t-20231008073745",
+              "t-20231008073745"
+            ],
+            "String[] <SeasonMail>k__BackingField": [
+              "t-20231008073649",
+              "t-20231008073649",
+              "t-20231008073804",
+              "t-20231008073804"
+            ],
+            "String[] <BossRankMail>k__BackingField": [
+              "t-20240127082545",
+              "t-20231205063048",
+              "t-20231205063237",
+              "t-20231205063237"
+            ]
+          }
+        },
+        {
+          "Int32 hashCode": 1561362064,
+          "Int32 next": -1,
+          "Int32 key": 1561362064,
+          "guildBossSeasonNewRow value": {
+            "Int32 <ID>k__BackingField": 61,
+            "Int32 <Desc>k__BackingField": 0,
+            "Int32 <SeasonStart>k__BackingField": 1734969600,
+            "Int32 <SoloTime>k__BackingField": 1735056000,
+            "Int32 <BossTime>k__BackingField": 1735315200,
+            "Int32 <SeasonEnd>k__BackingField": 1735574399,
+            "String[] <SoloMail>k__BackingField": [
+              "t-20231008073606",
+              "t-20231008073606",
+              "t-20231008073745",
+              "t-20231008073745"
+            ],
+            "String[] <SeasonMail>k__BackingField": [
+              "t-20231008073649",
+              "t-20231008073649",
+              "t-20231008073804",
+              "t-20231008073804"
+            ],
+            "String[] <BossRankMail>k__BackingField": [
+              "t-20240127082545",
+              "t-20231205063048",
+              "t-20231205063237",
+              "t-20231205063237"
+            ]
+          }
+        },
+        {
+          "Int32 hashCode": 1561362065,
+          "Int32 next": -1,
+          "Int32 key": 1561362065,
+          "guildBossSeasonNewRow value": {
+            "Int32 <ID>k__BackingField": 62,
+            "Int32 <Desc>k__BackingField": 0,
+            "Int32 <SeasonStart>k__BackingField": 1735574400,
+            "Int32 <SoloTime>k__BackingField": 1735660800,
+            "Int32 <BossTime>k__BackingField": 1735920000,
+            "Int32 <SeasonEnd>k__BackingField": 1736179199,
+            "String[] <SoloMail>k__BackingField": [
+              "t-20231008073606",
+              "t-20231008073606",
+              "t-20231008073745",
+              "t-20231008073745"
+            ],
+            "String[] <SeasonMail>k__BackingField": [
+              "t-20231008073649",
+              "t-20231008073649",
+              "t-20231008073804",
+              "t-20231008073804"
+            ],
+            "String[] <BossRankMail>k__BackingField": [
+              "t-20240127082545",
+              "t-20231205063048",
+              "t-20231205063237",
+              "t-20231205063237"
+            ]
+          }
+        },
+        {
+          "Int32 hashCode": 1561362066,
+          "Int32 next": -1,
+          "Int32 key": 1561362066,
+          "guildBossSeasonNewRow value": {
+            "Int32 <ID>k__BackingField": 63,
+            "Int32 <Desc>k__BackingField": 0,
+            "Int32 <SeasonStart>k__BackingField": 1736179200,
+            "Int32 <SoloTime>k__BackingField": 1736265600,
+            "Int32 <BossTime>k__BackingField": 1736524800,
+            "Int32 <SeasonEnd>k__BackingField": 1736783999,
+            "String[] <SoloMail>k__BackingField": [
+              "t-20231008073606",
+              "t-20231008073606",
+              "t-20231008073745",
+              "t-20231008073745"
+            ],
+            "String[] <SeasonMail>k__BackingField": [
+              "t-20231008073649",
+              "t-20231008073649",
+              "t-20231008073804",
+              "t-20231008073804"
+            ],
+            "String[] <BossRankMail>k__BackingField": [
+              "t-20240127082545",
+              "t-20231205063048",
+              "t-20231205063237",
+              "t-20231205063237"
+            ]
+          }
+        },
+        {
+          "Int32 hashCode": 1561362067,
+          "Int32 next": -1,
+          "Int32 key": 1561362067,
+          "guildBossSeasonNewRow value": {
+            "Int32 <ID>k__BackingField": 64,
+            "Int32 <Desc>k__BackingField": 0,
+            "Int32 <SeasonStart>k__BackingField": 1736784000,
+            "Int32 <SoloTime>k__BackingField": 1736870400,
+            "Int32 <BossTime>k__BackingField": 1737129600,
+            "Int32 <SeasonEnd>k__BackingField": 1737388799,
+            "String[] <SoloMail>k__BackingField": [
+              "t-20231008073606",
+              "t-20231008073606",
+              "t-20231008073745",
+              "t-20231008073745"
+            ],
+            "String[] <SeasonMail>k__BackingField": [
+              "t-20231008073649",
+              "t-20231008073649",
+              "t-20231008073804",
+              "t-20231008073804"
+            ],
+            "String[] <BossRankMail>k__BackingField": [
+              "t-20240127082545",
+              "t-20231205063048",
+              "t-20231205063237",
+              "t-20231205063237"
+            ]
+          }
+        },
+        {
+          "Int32 hashCode": 1561362068,
+          "Int32 next": -1,
+          "Int32 key": 1561362068,
+          "guildBossSeasonNewRow value": {
+            "Int32 <ID>k__BackingField": 65,
+            "Int32 <Desc>k__BackingField": 0,
+            "Int32 <SeasonStart>k__BackingField": 1737388800,
+            "Int32 <SoloTime>k__BackingField": 1737475200,
+            "Int32 <BossTime>k__BackingField": 1737734400,
+            "Int32 <SeasonEnd>k__BackingField": 1737993599,
+            "String[] <SoloMail>k__BackingField": [
+              "t-20231008073606",
+              "t-20231008073606",
+              "t-20231008073745",
+              "t-20231008073745"
+            ],
+            "String[] <SeasonMail>k__BackingField": [
+              "t-20231008073649",
+              "t-20231008073649",
+              "t-20231008073804",
+              "t-20231008073804"
+            ],
+            "String[] <BossRankMail>k__BackingField": [
+              "t-20240127082545",
+              "t-20231205063048",
+              "t-20231205063237",
+              "t-20231205063237"
+            ]
+          }
+        },
+        {
+          "Int32 hashCode": 1561362069,
+          "Int32 next": -1,
+          "Int32 key": 1561362069,
+          "guildBossSeasonNewRow value": {
+            "Int32 <ID>k__BackingField": 66,
+            "Int32 <Desc>k__BackingField": 0,
+            "Int32 <SeasonStart>k__BackingField": 1737993600,
+            "Int32 <SoloTime>k__BackingField": 1738080000,
+            "Int32 <BossTime>k__BackingField": 1738339200,
+            "Int32 <SeasonEnd>k__BackingField": 1738598399,
+            "String[] <SoloMail>k__BackingField": [
+              "t-20231008073606",
+              "t-20231008073606",
+              "t-20231008073745",
+              "t-20231008073745"
+            ],
+            "String[] <SeasonMail>k__BackingField": [
+              "t-20231008073649",
+              "t-20231008073649",
+              "t-20231008073804",
+              "t-20231008073804"
+            ],
+            "String[] <BossRankMail>k__BackingField": [
+              "t-20240127082545",
+              "t-20231205063048",
+              "t-20231205063237",
+              "t-20231205063237"
+            ]
+          }
+        },
+        {
+          "Int32 hashCode": 1561362070,
+          "Int32 next": -1,
+          "Int32 key": 1561362070,
+          "guildBossSeasonNewRow value": {
+            "Int32 <ID>k__BackingField": 67,
+            "Int32 <Desc>k__BackingField": 0,
+            "Int32 <SeasonStart>k__BackingField": 1738598400,
+            "Int32 <SoloTime>k__BackingField": 1738684800,
+            "Int32 <BossTime>k__BackingField": 1738944000,
+            "Int32 <SeasonEnd>k__BackingField": 1739203199,
+            "String[] <SoloMail>k__BackingField": [
+              "t-20231008073606",
+              "t-20231008073606",
+              "t-20231008073745",
+              "t-20231008073745"
+            ],
+            "String[] <SeasonMail>k__BackingField": [
+              "t-20231008073649",
+              "t-20231008073649",
+              "t-20231008073804",
+              "t-20231008073804"
+            ],
+            "String[] <BossRankMail>k__BackingField": [
+              "t-20240127082545",
+              "t-20231205063048",
+              "t-20231205063237",
+              "t-20231205063237"
+            ]
+          }
+        },
+        {
+          "Int32 hashCode": 1561362071,
+          "Int32 next": -1,
+          "Int32 key": 1561362071,
+          "guildBossSeasonNewRow value": {
+            "Int32 <ID>k__BackingField": 68,
+            "Int32 <Desc>k__BackingField": 0,
+            "Int32 <SeasonStart>k__BackingField": 1739203200,
+            "Int32 <SoloTime>k__BackingField": 1739289600,
+            "Int32 <BossTime>k__BackingField": 1739548800,
+            "Int32 <SeasonEnd>k__BackingField": 1739807999,
+            "String[] <SoloMail>k__BackingField": [
+              "t-20231008073606",
+              "t-20231008073606",
+              "t-20231008073745",
+              "t-20231008073745"
+            ],
+            "String[] <SeasonMail>k__BackingField": [
+              "t-20231008073649",
+              "t-20231008073649",
+              "t-20231008073804",
+              "t-20231008073804"
+            ],
+            "String[] <BossRankMail>k__BackingField": [
+              "t-20240127082545",
+              "t-20231205063048",
+              "t-20231205063237",
+              "t-20231205063237"
+            ]
+          }
+        },
+        {
+          "Int32 hashCode": 1561362056,
+          "Int32 next": -1,
+          "Int32 key": 1561362056,
+          "guildBossSeasonNewRow value": {
+            "Int32 <ID>k__BackingField": 69,
+            "Int32 <Desc>k__BackingField": 0,
+            "Int32 <SeasonStart>k__BackingField": 1739808000,
+            "Int32 <SoloTime>k__BackingField": 1739894400,
+            "Int32 <BossTime>k__BackingField": 1740153600,
+            "Int32 <SeasonEnd>k__BackingField": 1740412799,
+            "String[] <SoloMail>k__BackingField": [
+              "t-20231008073606",
+              "t-20231008073606",
+              "t-20231008073745",
+              "t-20231008073745"
+            ],
+            "String[] <SeasonMail>k__BackingField": [
+              "t-20231008073649",
+              "t-20231008073649",
+              "t-20231008073804",
+              "t-20231008073804"
+            ],
+            "String[] <BossRankMail>k__BackingField": [
+              "t-20240127082545",
+              "t-20231205063048",
+              "t-20231205063237",
+              "t-20231205063237"
+            ]
+          }
+        },
+        {
+          "Int32 hashCode": 1561362057,
+          "Int32 next": -1,
+          "Int32 key": 1561362057,
+          "guildBossSeasonNewRow value": {
+            "Int32 <ID>k__BackingField": 70,
+            "Int32 <Desc>k__BackingField": 0,
+            "Int32 <SeasonStart>k__BackingField": 1740412800,
+            "Int32 <SoloTime>k__BackingField": 1740499200,
+            "Int32 <BossTime>k__BackingField": 1740758400,
+            "Int32 <SeasonEnd>k__BackingField": 1741017599,
+            "String[] <SoloMail>k__BackingField": [
+              "t-20231008073606",
+              "t-20231008073606",
+              "t-20231008073745",
+              "t-20231008073745"
+            ],
+            "String[] <SeasonMail>k__BackingField": [
+              "t-20231008073649",
+              "t-20231008073649",
+              "t-20231008073804",
+              "t-20231008073804"
+            ],
+            "String[] <BossRankMail>k__BackingField": [
+              "t-20240127082545",
+              "t-20231205063048",
+              "t-20231205063237",
+              "t-20231205063237"
+            ]
+          }
+        },
+        {
+          "Int32 hashCode": 1561362058,
+          "Int32 next": -1,
+          "Int32 key": 1561362058,
+          "guildBossSeasonNewRow value": {
+            "Int32 <ID>k__BackingField": 71,
+            "Int32 <Desc>k__BackingField": 0,
+            "Int32 <SeasonStart>k__BackingField": 1741017600,
+            "Int32 <SoloTime>k__BackingField": 1741104000,
+            "Int32 <BossTime>k__BackingField": 1741363200,
+            "Int32 <SeasonEnd>k__BackingField": 1741622399,
+            "String[] <SoloMail>k__BackingField": [
+              "t-20231008073606",
+              "t-20231008073606",
+              "t-20231008073745",
+              "t-20231008073745"
+            ],
+            "String[] <SeasonMail>k__BackingField": [
+              "t-20231008073649",
+              "t-20231008073649",
+              "t-20231008073804",
+              "t-20231008073804"
+            ],
+            "String[] <BossRankMail>k__BackingField": [
+              "t-20240127082545",
+              "t-20231205063048",
+              "t-20231205063237",
+              "t-20231205063237"
+            ]
+          }
+        },
+        {
+          "Int32 hashCode": 0,
+          "Int32 next": 0,
+          "Int32 key": 0,
+          "guildBossSeasonNewRow value": "(null-object)"
+        },
+        {
+          "Int32 hashCode": 0,
+          "Int32 next": 0,
+          "Int32 key": 0,
+          "guildBossSeasonNewRow value": "(null-object)"
+        },
+        {
+          "Int32 hashCode": 0,
+          "Int32 next": 0,
+          "Int32 key": 0,
+          "guildBossSeasonNewRow value": "(null-object)"
+        },
+        {
+          "Int32 hashCode": 0,
+          "Int32 next": 0,
+          "Int32 key": 0,
+          "guildBossSeasonNewRow value": "(null-object)"
+        },
+        {
+          "Int32 hashCode": 0,
+          "Int32 next": 0,
+          "Int32 key": 0,
+          "guildBossSeasonNewRow value": "(null-object)"
+        },
+        {
+          "Int32 hashCode": 0,
+          "Int32 next": 0,
+          "Int32 key": 0,
+          "guildBossSeasonNewRow value": "(null-object)"
+        },
+        {
+          "Int32 hashCode": 0,
+          "Int32 next": 0,
+          "Int32 key": 0,
+          "guildBossSeasonNewRow value": "(null-object)"
+        },
+        {
+          "Int32 hashCode": 0,
+          "Int32 next": 0,
+          "Int32 key": 0,
+          "guildBossSeasonNewRow value": "(null-object)"
+        },
+        {
+          "Int32 hashCode": 0,
+          "Int32 next": 0,
+          "Int32 key": 0,
+          "guildBossSeasonNewRow value": "(null-object)"
+        },
+        {
+          "Int32 hashCode": 0,
+          "Int32 next": 0,
+          "Int32 key": 0,
+          "guildBossSeasonNewRow value": "(null-object)"
+        },
+        {
+          "Int32 hashCode": 0,
+          "Int32 next": 0,
+          "Int32 key": 0,
+          "guildBossSeasonNewRow value": "(null-object)"
+        },
+        {
+          "Int32 hashCode": 0,
+          "Int32 next": 0,
+          "Int32 key": 0,
+          "guildBossSeasonNewRow value": "(null-object)"
+        },
+        {
+          "Int32 hashCode": 0,
+          "Int32 next": 0,
+          "Int32 key": 0,
+          "guildBossSeasonNewRow value": "(null-object)"
+        },
+        {
+          "Int32 hashCode": 0,
+          "Int32 next": 0,
+          "Int32 key": 0,
+          "guildBossSeasonNewRow value": "(null-object)"
+        },
+        {
+          "Int32 hashCode": 0,
+          "Int32 next": 0,
+          "Int32 key": 0,
+          "guildBossSeasonNewRow value": "(null-object)"
+        },
+        {
+          "Int32 hashCode": 0,
+          "Int32 next": 0,
+          "Int32 key": 0,
+          "guildBossSeasonNewRow value": "(null-object)"
+        },
+        {
+          "Int32 hashCode": 0,
+          "Int32 next": 0,
+          "Int32 key": 0,
+          "guildBossSeasonNewRow value": "(null-object)"
+        },
+        {
+          "Int32 hashCode": 0,
+          "Int32 next": 0,
+          "Int32 key": 0,
+          "guildBossSeasonNewRow value": "(null-object)"
+        },
+        {
+          "Int32 hashCode": 0,
+          "Int32 next": 0,
+          "Int32 key": 0,
+          "guildBossSeasonNewRow value": "(null-object)"
+        },
+        {
+          "Int32 hashCode": 0,
+          "Int32 next": 0,
+          "Int32 key": 0,
+          "guildBossSeasonNewRow value": "(null-object)"
+        },
+        {
+          "Int32 hashCode": 0,
+          "Int32 next": 0,
+          "Int32 key": 0,
+          "guildBossSeasonNewRow value": "(null-object)"
+        },
+        {
+          "Int32 hashCode": 0,
+          "Int32 next": 0,
+          "Int32 key": 0,
+          "guildBossSeasonNewRow value": "(null-object)"
+        },
+        {
+          "Int32 hashCode": 0,
+          "Int32 next": 0,
+          "Int32 key": 0,
+          "guildBossSeasonNewRow value": "(null-object)"
+        },
+        {
+          "Int32 hashCode": 0,
+          "Int32 next": 0,
+          "Int32 key": 0,
+          "guildBossSeasonNewRow value": "(null-object)"
+        },
+        {
+          "Int32 hashCode": 0,
+          "Int32 next": 0,
+          "Int32 key": 0,
+          "guildBossSeasonNewRow value": "(null-object)"
+        },
+        {
+          "Int32 hashCode": 0,
+          "Int32 next": 0,
+          "Int32 key": 0,
+          "guildBossSeasonNewRow value": "(null-object)"
+        },
+        {
+          "Int32 hashCode": 0,
+          "Int32 next": 0,
+          "Int32 key": 0,
+          "guildBossSeasonNewRow value": "(null-object)"
+        },
+        {
+          "Int32 hashCode": 0,
+          "Int32 next": 0,
+          "Int32 key": 0,
+          "guildBossSeasonNewRow value": "(null-object)"
+        },
+        {
+          "Int32 hashCode": 0,
+          "Int32 next": 0,
+          "Int32 key": 0,
+          "guildBossSeasonNewRow value": "(null-object)"
+        },
+        {
+          "Int32 hashCode": 0,
+          "Int32 next": 0,
+          "Int32 key": 0,
+          "guildBossSeasonNewRow value": "(null-object)"
+        },
+        {
+          "Int32 hashCode": 0,
+          "Int32 next": 0,
+          "Int32 key": 0,
+          "guildBossSeasonNewRow value": "(null-object)"
+        },
+        {
+          "Int32 hashCode": 0,
+          "Int32 next": 0,
+          "Int32 key": 0,
+          "guildBossSeasonNewRow value": "(null-object)"
+        },
+        {
+          "Int32 hashCode": 0,
+          "Int32 next": 0,
+          "Int32 key": 0,
+          "guildBossSeasonNewRow value": "(null-object)"
+        },
+        {
+          "Int32 hashCode": 0,
+          "Int32 next": 0,
+          "Int32 key": 0,
+          "guildBossSeasonNewRow value": "(null-object)"
+        },
+        {
+          "Int32 hashCode": 0,
+          "Int32 next": 0,
+          "Int32 key": 0,
+          "guildBossSeasonNewRow value": "(null-object)"
+        },
+        {
+          "Int32 hashCode": 0,
+          "Int32 next": 0,
+          "Int32 key": 0,
+          "guildBossSeasonNewRow value": "(null-object)"
+        },
+        {
+          "Int32 hashCode": 0,
+          "Int32 next": 0,
+          "Int32 key": 0,
+          "guildBossSeasonNewRow value": "(null-object)"
+        },
+        {
+          "Int32 hashCode": 0,
+          "Int32 next": 0,
+          "Int32 key": 0,
+          "guildBossSeasonNewRow value": "(null-object)"
+        },
+        {
+          "Int32 hashCode": 0,
+          "Int32 next": 0,
+          "Int32 key": 0,
+          "guildBossSeasonNewRow value": "(null-object)"
+        },
+        {
+          "Int32 hashCode": 0,
+          "Int32 next": 0,
+          "Int32 key": 0,
+          "guildBossSeasonNewRow value": "(null-object)"
+        },
+        {
+          "Int32 hashCode": 0,
+          "Int32 next": 0,
+          "Int32 key": 0,
+          "guildBossSeasonNewRow value": "(null-object)"
+        },
+        {
+          "Int32 hashCode": 0,
+          "Int32 next": 0,
+          "Int32 key": 0,
+          "guildBossSeasonNewRow value": "(null-object)"
+        },
+        {
+          "Int32 hashCode": 0,
+          "Int32 next": 0,
+          "Int32 key": 0,
+          "guildBossSeasonNewRow value": "(null-object)"
+        },
+        {
+          "Int32 hashCode": 0,
+          "Int32 next": 0,
+          "Int32 key": 0,
+          "guildBossSeasonNewRow value": "(null-object)"
+        },
+        {
+          "Int32 hashCode": 0,
+          "Int32 next": 0,
+          "Int32 key": 0,
+          "guildBossSeasonNewRow value": "(null-object)"
+        },
+        {
+          "Int32 hashCode": 0,
+          "Int32 next": 0,
+          "Int32 key": 0,
+          "guildBossSeasonNewRow value": "(null-object)"
+        }
+      ],
+      "Int32 _count": 43,
+      "Int32 _freeList": -1,
+      "Int32 _freeCount": 0,
+      "Int32 _version": 43,
+      "IEqualityComparer<System.Int32> _comparer": "(null-object)",
+      "KeyCollection<System.Int32,guildBossSeasonNewRow> _keys": "(null-object)",
+      "ValueCollection<System.Int32,guildBossSeasonNewRow> _values": "(null-object)",
+      "Object _syncRoot": "(null-object)"
+    }
+  },
+  "List<guildBossSeasonNewRow> _all": [
+    {
+      "guildBossSeasonNewRow": "(circular-reference (0x7A6DEE9D3370))"
+    },
+    {
+      "guildBossSeasonNewRow": "(circular-reference (0x7A6DEE9D3230))"
+    },
+    {
+      "guildBossSeasonNewRow": "(circular-reference (0x7A6DEE9DDE10))"
+    },
+    {
+      "guildBossSeasonNewRow": "(circular-reference (0x7A6DEE9DDCD0))"
+    },
+    {
+      "guildBossSeasonNewRow": "(circular-reference (0x7A6DEE9DDA00))"
+    },
+    {
+      "guildBossSeasonNewRow": "(circular-reference (0x7A6DEE9DD460))"
+    },
+    {
+      "guildBossSeasonNewRow": "(circular-reference (0x7A6DEE9DD320))"
+    },
+    {
+      "guildBossSeasonNewRow": "(circular-reference (0x7A6DEE9DD1E0))"
+    },
+    {
+      "guildBossSeasonNewRow": "(circular-reference (0x7A6DEE9DD0A0))"
+    },
+    {
+      "guildBossSeasonNewRow": "(circular-reference (0x7A6DEE9E9A00))"
+    },
+    {
+      "guildBossSeasonNewRow": "(circular-reference (0x7A6DEE9E98C0))"
+    },
+    {
+      "guildBossSeasonNewRow": "(circular-reference (0x7A6DEE9E9780))"
+    },
+    {
+      "guildBossSeasonNewRow": "(circular-reference (0x7A6DEE9E9410))"
+    },
+    {
+      "guildBossSeasonNewRow": "(circular-reference (0x7A6DEE9E9280))"
+    },
+    {
+      "guildBossSeasonNewRow": "(circular-reference (0x7A6DEE9E9140))"
+    },
+    {
+      "guildBossSeasonNewRow": "(circular-reference (0x7A6DEE9F4B40))"
+    },
+    {
+      "guildBossSeasonNewRow": "(circular-reference (0x7A6DEE9F49B0))"
+    },
+    {
+      "guildBossSeasonNewRow": "(circular-reference (0x7A6DEE9F4870))"
+    },
+    {
+      "guildBossSeasonNewRow": "(circular-reference (0x7A6DEE9F47D0))"
+    },
+    {
+      "guildBossSeasonNewRow": "(circular-reference (0x7A6DEE9F4500))"
+    },
+    {
+      "guildBossSeasonNewRow": "(circular-reference (0x7A6DEE9F4370))"
+    },
+    {
+      "guildBossSeasonNewRow": "(circular-reference (0x7A6DEE9F42D0))"
+    },
+    {
+      "guildBossSeasonNewRow": "(circular-reference (0x7A6DEE9F41E0))"
+    },
+    {
+      "guildBossSeasonNewRow": "(circular-reference (0x7A6DEE9F4140))"
+    },
+    {
+      "guildBossSeasonNewRow": "(circular-reference (0x7A6DEE9F4050))"
+    },
+    {
+      "guildBossSeasonNewRow": "(circular-reference (0x7A6DEEA02AF0))"
+    },
+    {
+      "guildBossSeasonNewRow": "(circular-reference (0x7A6DEEA02A00))"
+    },
+    {
+      "guildBossSeasonNewRow": "(circular-reference (0x7A6DEEA02960))"
+    },
+    {
+      "guildBossSeasonNewRow": "(circular-reference (0x7A6DEEA02870))"
+    },
+    {
+      "guildBossSeasonNewRow": "(circular-reference (0x7A6DEEA02780))"
+    },
+    {
+      "guildBossSeasonNewRow": "(circular-reference (0x7A6DEEA02410))"
+    },
+    {
+      "guildBossSeasonNewRow": "(circular-reference (0x7A6DEEA02370))"
+    },
+    {
+      "guildBossSeasonNewRow": "(circular-reference (0x7A6DEEA022D0))"
+    },
+    {
+      "guildBossSeasonNewRow": "(circular-reference (0x7A6DEEA02230))"
+    },
+    {
+      "guildBossSeasonNewRow": "(circular-reference (0x7A6DEEA02190))"
+    },
+    {
+      "guildBossSeasonNewRow": "(circular-reference (0x7A6DEEA02050))"
+    },
+    {
+      "guildBossSeasonNewRow": "(circular-reference (0x7A6DEEA0DE60))"
+    },
+    {
+      "guildBossSeasonNewRow": "(circular-reference (0x7A6DEEA0D8C0))"
+    },
+    {
+      "guildBossSeasonNewRow": "(circular-reference (0x7A6DEEA0D820))"
+    },
+    {
+      "guildBossSeasonNewRow": "(circular-reference (0x7A6DEEA0D730))"
+    },
+    {
+      "guildBossSeasonNewRow": "(circular-reference (0x7A6DEEA0D690))"
+    },
+    {
+      "guildBossSeasonNewRow": "(circular-reference (0x7A6DEEA0D5F0))"
+    },
+    {
+      "guildBossSeasonNewRow": "(circular-reference (0x7A6DEEA0D550))"
+    }
+  ]
+}

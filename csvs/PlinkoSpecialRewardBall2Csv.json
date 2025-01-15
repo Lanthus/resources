@@ -1,0 +1,146 @@
+[
+  {
+    "PlinkoSpecialRewardBall2Row": {
+      "ID": 1,
+      "Type": 1,
+      "SubType": 1,
+      "BallNum": [
+        [
+          3,
+          10
+        ],
+        [
+          4,
+          50
+        ],
+        [
+          5,
+          100
+        ]
+      ]
+    }
+  },
+  {
+    "PlinkoSpecialRewardBall2Row": {
+      "ID": 2,
+      "Type": 2,
+      "SubType": 1,
+      "BallNum": [
+        [
+          11,
+          10
+        ],
+        [
+          12,
+          30
+        ],
+        [
+          13,
+          50
+        ],
+        [
+          14,
+          50
+        ]
+      ]
+    }
+  },
+  {
+    "PlinkoSpecialRewardBall2Row": {
+      "ID": 3,
+      "Type": 3,
+      "SubType": 1,
+      "BallNum": [
+        [
+          11,
+          10
+        ],
+        [
+          12,
+          30
+        ],
+        [
+          13,
+          50
+        ],
+        [
+          14,
+          50
+        ]
+      ]
+    }
+  },
+  {
+    "PlinkoSpecialRewardBall2Row": {
+      "ID": 4,
+      "Type": 4,
+      "SubType": 1,
+      "BallNum": [
+        [
+          3,
+          10
+        ],
+        [
+          4,
+          50
+        ],
+        [
+          5,
+          100
+        ]
+      ]
+    }
+  },
+  {
+    "PlinkoSpecialRewardBall2Row": {
+      "ID": 5,
+      "Type": 1,
+      "SubType": 2,
+      "BallNum": [
+        [
+          6,
+          100
+        ]
+      ]
+    }
+  },
+  {
+    "PlinkoSpecialRewardBall2Row": {
+      "ID": 6,
+      "Type": 2,
+      "SubType": 2,
+      "BallNum": [
+        [
+          15,
+          100
+        ]
+      ]
+    }
+  },
+  {
+    "PlinkoSpecialRewardBall2Row": {
+      "ID": 7,
+      "Type": 3,
+      "SubType": 2,
+      "BallNum": [
+        [
+          15,
+          100
+        ]
+      ]
+    }
+  },
+  {
+    "PlinkoSpecialRewardBall2Row": {
+      "ID": 8,
+      "Type": 4,
+      "SubType": 2,
+      "BallNum": [
+        [
+          6,
+          100
+        ]
+      ]
+    }
+  }
+]

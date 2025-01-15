@@ -1,0 +1,68 @@
+[
+  {
+    "FishRodRow": {
+      "ID": 1413,
+      "type": 1,
+      "HP": 100,
+      "HPrestore": 30,
+      "Strength": 1000,
+      "Speed": 1000,
+      "TiresSpeed": 2000
+    }
+  },
+  {
+    "FishRodRow": {
+      "ID": 1414,
+      "type": 2,
+      "HP": 120,
+      "HPrestore": 40,
+      "Strength": 1200,
+      "Speed": 1500,
+      "TiresSpeed": 2100
+    }
+  },
+  {
+    "FishRodRow": {
+      "ID": 1415,
+      "type": 3,
+      "HP": 150,
+      "HPrestore": 50,
+      "Strength": 1400,
+      "Speed": 2000,
+      "TiresSpeed": 2200
+    }
+  },
+  {
+    "FishRodRow": {
+      "ID": 1416,
+      "type": 3,
+      "HP": 170,
+      "HPrestore": 70,
+      "Strength": 1450,
+      "Speed": 2200,
+      "TiresSpeed": 2500
+    }
+  },
+  {
+    "FishRodRow": {
+      "ID": 1417,
+      "type": 4,
+      "HP": 180,
+      "HPrestore": 85,
+      "Strength": 1600,
+      "Speed": 2500,
+      "TiresSpeed": 2500
+    }
+  },
+  {
+    "FishRodRow": {
+      "ID": 1418,
+      "type": 4,
+      "HP": 200,
+      "HPrestore": 100,
+      "Strength": 1650,
+      "Speed": 2800,
+      "TiresSpeed": 3000
+    }
+  }
+]

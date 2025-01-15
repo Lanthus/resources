@@ -1,0 +1,912 @@
+{
+  "String <Path>k__BackingField": "CsvData/DynamicCsv/ActiveReward.bytes",
+  "ObscuredDictionaryInt<ActiveRewardRow> _dict": {
+    "Int32 _key": 1581925380,
+    "Int32 _rndIdx": 795,
+    "Dictionary<System.Int32,ActiveRewardRow> _dict": {
+      "Int32[] _buckets": [
+        4,
+        5,
+        10,
+        11,
+        12,
+        13,
+        0,
+        7,
+        8,
+        9,
+        18,
+        19,
+        20,
+        21,
+        14,
+        15,
+        16,
+        17,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        6,
+        0,
+        0,
+        0,
+        2,
+        3
+      ],
+      "Entry<System.Int32,ActiveRewardRow>[] _entries": [
+        {
+          "Int32 hashCode": 1581371627,
+          "Int32 next": -1,
+          "Int32 key": 1581371627,
+          "ActiveRewardRow value": {
+            "Int32 <ID>k__BackingField": 1,
+            "Int32 <ConnectActivityId>k__BackingField": 3,
+            "Int32 <UniqueId>k__BackingField": 1,
+            "Int32 <NeedActive>k__BackingField": 0,
+            "List<System.Int32[]> <Reward>k__BackingField": [
+              {
+                "System.Int32[]": [
+                  13,
+                  2
+                ]
+              }
+            ],
+            "List<System.Int32[]> <IapReward>k__BackingField": [
+              {
+                "System.Int32[]": [
+                  1,
+                  100
+                ]
+              },
+              {
+                "System.Int32[]": [
+                  12,
+                  1
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "Int32 hashCode": 1581371636,
+          "Int32 next": -1,
+          "Int32 key": 1581371636,
+          "ActiveRewardRow value": {
+            "Int32 <ID>k__BackingField": 2,
+            "Int32 <ConnectActivityId>k__BackingField": 3,
+            "Int32 <UniqueId>k__BackingField": 2,
+            "Int32 <NeedActive>k__BackingField": 50,
+            "List<System.Int32[]> <Reward>k__BackingField": [
+              {
+                "System.Int32[]": [
+                  1,
+                  50
+                ]
+              }
+            ],
+            "List<System.Int32[]> <IapReward>k__BackingField": [
+              {
+                "System.Int32[]": [
+                  1,
+                  150
+                ]
+              },
+              {
+                "System.Int32[]": [
+                  1006,
+                  30
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "Int32 hashCode": 1581371637,
+          "Int32 next": -1,
+          "Int32 key": 1581371637,
+          "ActiveRewardRow value": {
+            "Int32 <ID>k__BackingField": 3,
+            "Int32 <ConnectActivityId>k__BackingField": 3,
+            "Int32 <UniqueId>k__BackingField": 3,
+            "Int32 <NeedActive>k__BackingField": 100,
+            "List<System.Int32[]> <Reward>k__BackingField": [
+              {
+                "System.Int32[]": [
+                  13,
+                  4
+                ]
+              }
+            ],
+            "List<System.Int32[]> <IapReward>k__BackingField": [
+              {
+                "System.Int32[]": [
+                  1,
+                  200
+                ]
+              },
+              {
+                "System.Int32[]": [
+                  12,
+                  2
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "Int32 hashCode": 1581371638,
+          "Int32 next": -1,
+          "Int32 key": 1581371638,
+          "ActiveRewardRow value": {
+            "Int32 <ID>k__BackingField": 4,
+            "Int32 <ConnectActivityId>k__BackingField": 3,
+            "Int32 <UniqueId>k__BackingField": 4,
+            "Int32 <NeedActive>k__BackingField": 200,
+            "List<System.Int32[]> <Reward>k__BackingField": [
+              {
+                "System.Int32[]": [
+                  1,
+                  100
+                ]
+              }
+            ],
+            "List<System.Int32[]> <IapReward>k__BackingField": [
+              {
+                "System.Int32[]": [
+                  1,
+                  300
+                ]
+              },
+              {
+                "System.Int32[]": [
+                  1006,
+                  40
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "Int32 hashCode": 1581371639,
+          "Int32 next": -1,
+          "Int32 key": 1581371639,
+          "ActiveRewardRow value": {
+            "Int32 <ID>k__BackingField": 5,
+            "Int32 <ConnectActivityId>k__BackingField": 3,
+            "Int32 <UniqueId>k__BackingField": 5,
+            "Int32 <NeedActive>k__BackingField": 300,
+            "List<System.Int32[]> <Reward>k__BackingField": [
+              {
+                "System.Int32[]": [
+                  13,
+                  6
+                ]
+              }
+            ],
+            "List<System.Int32[]> <IapReward>k__BackingField": [
+              {
+                "System.Int32[]": [
+                  1,
+                  350
+                ]
+              },
+              {
+                "System.Int32[]": [
+                  12,
+                  3
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "Int32 hashCode": 1581371632,
+          "Int32 next": -1,
+          "Int32 key": 1581371632,
+          "ActiveRewardRow value": {
+            "Int32 <ID>k__BackingField": 6,
+            "Int32 <ConnectActivityId>k__BackingField": 3,
+            "Int32 <UniqueId>k__BackingField": 6,
+            "Int32 <NeedActive>k__BackingField": 400,
+            "List<System.Int32[]> <Reward>k__BackingField": [
+              {
+                "System.Int32[]": [
+                  7,
+                  1
+                ]
+              }
+            ],
+            "List<System.Int32[]> <IapReward>k__BackingField": [
+              {
+                "System.Int32[]": [
+                  1,
+                  400
+                ]
+              },
+              {
+                "System.Int32[]": [
+                  1006,
+                  50
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "Int32 hashCode": 1581371645,
+          "Int32 next": -1,
+          "Int32 key": 1581371645,
+          "ActiveRewardRow value": {
+            "Int32 <ID>k__BackingField": 11,
+            "Int32 <ConnectActivityId>k__BackingField": 301,
+            "Int32 <UniqueId>k__BackingField": 1,
+            "Int32 <NeedActive>k__BackingField": 0,
+            "List<System.Int32[]> <Reward>k__BackingField": [
+              {
+                "System.Int32[]": [
+                  6,
+                  1
+                ]
+              }
+            ],
+            "List<System.Int32[]> <IapReward>k__BackingField": [
+              {
+                "System.Int32[]": [
+                  1,
+                  100
+                ]
+              },
+              {
+                "System.Int32[]": [
+                  7,
+                  1
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "Int32 hashCode": 1581371646,
+          "Int32 next": -1,
+          "Int32 key": 1581371646,
+          "ActiveRewardRow value": {
+            "Int32 <ID>k__BackingField": 12,
+            "Int32 <ConnectActivityId>k__BackingField": 301,
+            "Int32 <UniqueId>k__BackingField": 2,
+            "Int32 <NeedActive>k__BackingField": 50,
+            "List<System.Int32[]> <Reward>k__BackingField": [
+              {
+                "System.Int32[]": [
+                  1006,
+                  10
+                ]
+              }
+            ],
+            "List<System.Int32[]> <IapReward>k__BackingField": [
+              {
+                "System.Int32[]": [
+                  1,
+                  100
+                ]
+              },
+              {
+                "System.Int32[]": [
+                  1006,
+                  30
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "Int32 hashCode": 1581371647,
+          "Int32 next": -1,
+          "Int32 key": 1581371647,
+          "ActiveRewardRow value": {
+            "Int32 <ID>k__BackingField": 13,
+            "Int32 <ConnectActivityId>k__BackingField": 301,
+            "Int32 <UniqueId>k__BackingField": 3,
+            "Int32 <NeedActive>k__BackingField": 100,
+            "List<System.Int32[]> <Reward>k__BackingField": [
+              {
+                "System.Int32[]": [
+                  1,
+                  50
+                ]
+              }
+            ],
+            "List<System.Int32[]> <IapReward>k__BackingField": [
+              {
+                "System.Int32[]": [
+                  1,
+                  100
+                ]
+              },
+              {
+                "System.Int32[]": [
+                  12,
+                  1
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "Int32 hashCode": 1581371640,
+          "Int32 next": -1,
+          "Int32 key": 1581371640,
+          "ActiveRewardRow value": {
+            "Int32 <ID>k__BackingField": 14,
+            "Int32 <ConnectActivityId>k__BackingField": 301,
+            "Int32 <UniqueId>k__BackingField": 4,
+            "Int32 <NeedActive>k__BackingField": 150,
+            "List<System.Int32[]> <Reward>k__BackingField": [
+              {
+                "System.Int32[]": [
+                  6,
+                  1
+                ]
+              }
+            ],
+            "List<System.Int32[]> <IapReward>k__BackingField": [
+              {
+                "System.Int32[]": [
+                  1,
+                  100
+                ]
+              },
+              {
+                "System.Int32[]": [
+                  7,
+                  1
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "Int32 hashCode": 1581371641,
+          "Int32 next": -1,
+          "Int32 key": 1581371641,
+          "ActiveRewardRow value": {
+            "Int32 <ID>k__BackingField": 15,
+            "Int32 <ConnectActivityId>k__BackingField": 301,
+            "Int32 <UniqueId>k__BackingField": 5,
+            "Int32 <NeedActive>k__BackingField": 200,
+            "List<System.Int32[]> <Reward>k__BackingField": [
+              {
+                "System.Int32[]": [
+                  13,
+                  5
+                ]
+              }
+            ],
+            "List<System.Int32[]> <IapReward>k__BackingField": [
+              {
+                "System.Int32[]": [
+                  1,
+                  100
+                ]
+              },
+              {
+                "System.Int32[]": [
+                  1006,
+                  30
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "Int32 hashCode": 1581371642,
+          "Int32 next": -1,
+          "Int32 key": 1581371642,
+          "ActiveRewardRow value": {
+            "Int32 <ID>k__BackingField": 16,
+            "Int32 <ConnectActivityId>k__BackingField": 301,
+            "Int32 <UniqueId>k__BackingField": 6,
+            "Int32 <NeedActive>k__BackingField": 250,
+            "List<System.Int32[]> <Reward>k__BackingField": [
+              {
+                "System.Int32[]": [
+                  1,
+                  50
+                ]
+              }
+            ],
+            "List<System.Int32[]> <IapReward>k__BackingField": [
+              {
+                "System.Int32[]": [
+                  1,
+                  100
+                ]
+              },
+              {
+                "System.Int32[]": [
+                  12,
+                  1
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "Int32 hashCode": 1581371643,
+          "Int32 next": -1,
+          "Int32 key": 1581371643,
+          "ActiveRewardRow value": {
+            "Int32 <ID>k__BackingField": 17,
+            "Int32 <ConnectActivityId>k__BackingField": 301,
+            "Int32 <UniqueId>k__BackingField": 7,
+            "Int32 <NeedActive>k__BackingField": 300,
+            "List<System.Int32[]> <Reward>k__BackingField": [
+              {
+                "System.Int32[]": [
+                  6,
+                  1
+                ]
+              }
+            ],
+            "List<System.Int32[]> <IapReward>k__BackingField": [
+              {
+                "System.Int32[]": [
+                  1,
+                  100
+                ]
+              },
+              {
+                "System.Int32[]": [
+                  7,
+                  1
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "Int32 hashCode": 1581371652,
+          "Int32 next": -1,
+          "Int32 key": 1581371652,
+          "ActiveRewardRow value": {
+            "Int32 <ID>k__BackingField": 18,
+            "Int32 <ConnectActivityId>k__BackingField": 301,
+            "Int32 <UniqueId>k__BackingField": 8,
+            "Int32 <NeedActive>k__BackingField": 350,
+            "List<System.Int32[]> <Reward>k__BackingField": [
+              {
+                "System.Int32[]": [
+                  1006,
+                  10
+                ]
+              }
+            ],
+            "List<System.Int32[]> <IapReward>k__BackingField": [
+              {
+                "System.Int32[]": [
+                  1,
+                  200
+                ]
+              },
+              {
+                "System.Int32[]": [
+                  1006,
+                  30
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "Int32 hashCode": 1581371653,
+          "Int32 next": -1,
+          "Int32 key": 1581371653,
+          "ActiveRewardRow value": {
+            "Int32 <ID>k__BackingField": 19,
+            "Int32 <ConnectActivityId>k__BackingField": 301,
+            "Int32 <UniqueId>k__BackingField": 9,
+            "Int32 <NeedActive>k__BackingField": 400,
+            "List<System.Int32[]> <Reward>k__BackingField": [
+              {
+                "System.Int32[]": [
+                  1,
+                  50
+                ]
+              }
+            ],
+            "List<System.Int32[]> <IapReward>k__BackingField": [
+              {
+                "System.Int32[]": [
+                  1,
+                  200
+                ]
+              },
+              {
+                "System.Int32[]": [
+                  12,
+                  1
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "Int32 hashCode": 1581371654,
+          "Int32 next": -1,
+          "Int32 key": 1581371654,
+          "ActiveRewardRow value": {
+            "Int32 <ID>k__BackingField": 20,
+            "Int32 <ConnectActivityId>k__BackingField": 301,
+            "Int32 <UniqueId>k__BackingField": 10,
+            "Int32 <NeedActive>k__BackingField": 450,
+            "List<System.Int32[]> <Reward>k__BackingField": [
+              {
+                "System.Int32[]": [
+                  13,
+                  5
+                ]
+              }
+            ],
+            "List<System.Int32[]> <IapReward>k__BackingField": [
+              {
+                "System.Int32[]": [
+                  1,
+                  200
+                ]
+              },
+              {
+                "System.Int32[]": [
+                  30302,
+                  1
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "Int32 hashCode": 1581371655,
+          "Int32 next": -1,
+          "Int32 key": 1581371655,
+          "ActiveRewardRow value": {
+            "Int32 <ID>k__BackingField": 21,
+            "Int32 <ConnectActivityId>k__BackingField": 301,
+            "Int32 <UniqueId>k__BackingField": 11,
+            "Int32 <NeedActive>k__BackingField": 500,
+            "List<System.Int32[]> <Reward>k__BackingField": [
+              {
+                "System.Int32[]": [
+                  30301,
+                  1
+                ]
+              }
+            ],
+            "List<System.Int32[]> <IapReward>k__BackingField": [
+              {
+                "System.Int32[]": [
+                  1,
+                  200
+                ]
+              },
+              {
+                "System.Int32[]": [
+                  30302,
+                  1
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "Int32 hashCode": 1581371648,
+          "Int32 next": -1,
+          "Int32 key": 1581371648,
+          "ActiveRewardRow value": {
+            "Int32 <ID>k__BackingField": 22,
+            "Int32 <ConnectActivityId>k__BackingField": 301,
+            "Int32 <UniqueId>k__BackingField": 12,
+            "Int32 <NeedActive>k__BackingField": 600,
+            "List<System.Int32[]> <Reward>k__BackingField": [
+              {
+                "System.Int32[]": [
+                  1,
+                  50
+                ]
+              }
+            ],
+            "List<System.Int32[]> <IapReward>k__BackingField": [
+              {
+                "System.Int32[]": [
+                  1,
+                  200
+                ]
+              },
+              {
+                "System.Int32[]": [
+                  30303,
+                  1
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "Int32 hashCode": 1581371649,
+          "Int32 next": -1,
+          "Int32 key": 1581371649,
+          "ActiveRewardRow value": {
+            "Int32 <ID>k__BackingField": 23,
+            "Int32 <ConnectActivityId>k__BackingField": 301,
+            "Int32 <UniqueId>k__BackingField": 13,
+            "Int32 <NeedActive>k__BackingField": 700,
+            "List<System.Int32[]> <Reward>k__BackingField": [
+              {
+                "System.Int32[]": [
+                  30302,
+                  1
+                ]
+              }
+            ],
+            "List<System.Int32[]> <IapReward>k__BackingField": [
+              {
+                "System.Int32[]": [
+                  1,
+                  200
+                ]
+              },
+              {
+                "System.Int32[]": [
+                  30303,
+                  1
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "Int32 hashCode": 1581371650,
+          "Int32 next": -1,
+          "Int32 key": 1581371650,
+          "ActiveRewardRow value": {
+            "Int32 <ID>k__BackingField": 24,
+            "Int32 <ConnectActivityId>k__BackingField": 301,
+            "Int32 <UniqueId>k__BackingField": 14,
+            "Int32 <NeedActive>k__BackingField": 800,
+            "List<System.Int32[]> <Reward>k__BackingField": [
+              {
+                "System.Int32[]": [
+                  1,
+                  50
+                ]
+              }
+            ],
+            "List<System.Int32[]> <IapReward>k__BackingField": [
+              {
+                "System.Int32[]": [
+                  1,
+                  200
+                ]
+              },
+              {
+                "System.Int32[]": [
+                  30304,
+                  1
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "Int32 hashCode": 1581371651,
+          "Int32 next": -1,
+          "Int32 key": 1581371651,
+          "ActiveRewardRow value": {
+            "Int32 <ID>k__BackingField": 25,
+            "Int32 <ConnectActivityId>k__BackingField": 301,
+            "Int32 <UniqueId>k__BackingField": 15,
+            "Int32 <NeedActive>k__BackingField": 900,
+            "List<System.Int32[]> <Reward>k__BackingField": [
+              {
+                "System.Int32[]": [
+                  30303,
+                  1
+                ]
+              }
+            ],
+            "List<System.Int32[]> <IapReward>k__BackingField": [
+              {
+                "System.Int32[]": [
+                  1,
+                  300
+                ]
+              },
+              {
+                "System.Int32[]": [
+                  30304,
+                  1
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "Int32 hashCode": 0,
+          "Int32 next": 0,
+          "Int32 key": 0,
+          "ActiveRewardRow value": "(null-object)"
+        },
+        {
+          "Int32 hashCode": 0,
+          "Int32 next": 0,
+          "Int32 key": 0,
+          "ActiveRewardRow value": "(null-object)"
+        },
+        {
+          "Int32 hashCode": 0,
+          "Int32 next": 0,
+          "Int32 key": 0,
+          "ActiveRewardRow value": "(null-object)"
+        },
+        {
+          "Int32 hashCode": 0,
+          "Int32 next": 0,
+          "Int32 key": 0,
+          "ActiveRewardRow value": "(null-object)"
+        },
+        {
+          "Int32 hashCode": 0,
+          "Int32 next": 0,
+          "Int32 key": 0,
+          "ActiveRewardRow value": "(null-object)"
+        },
+        {
+          "Int32 hashCode": 0,
+          "Int32 next": 0,
+          "Int32 key": 0,
+          "ActiveRewardRow value": "(null-object)"
+        },
+        {
+          "Int32 hashCode": 0,
+          "Int32 next": 0,
+          "Int32 key": 0,
+          "ActiveRewardRow value": "(null-object)"
+        },
+        {
+          "Int32 hashCode": 0,
+          "Int32 next": 0,
+          "Int32 key": 0,
+          "ActiveRewardRow value": "(null-object)"
+        },
+        {
+          "Int32 hashCode": 0,
+          "Int32 next": 0,
+          "Int32 key": 0,
+          "ActiveRewardRow value": "(null-object)"
+        },
+        {
+          "Int32 hashCode": 0,
+          "Int32 next": 0,
+          "Int32 key": 0,
+          "ActiveRewardRow value": "(null-object)"
+        },
+        {
+          "Int32 hashCode": 0,
+          "Int32 next": 0,
+          "Int32 key": 0,
+          "ActiveRewardRow value": "(null-object)"
+        },
+        {
+          "Int32 hashCode": 0,
+          "Int32 next": 0,
+          "Int32 key": 0,
+          "ActiveRewardRow value": "(null-object)"
+        },
+        {
+          "Int32 hashCode": 0,
+          "Int32 next": 0,
+          "Int32 key": 0,
+          "ActiveRewardRow value": "(null-object)"
+        },
+        {
+          "Int32 hashCode": 0,
+          "Int32 next": 0,
+          "Int32 key": 0,
+          "ActiveRewardRow value": "(null-object)"
+        },
+        {
+          "Int32 hashCode": 0,
+          "Int32 next": 0,
+          "Int32 key": 0,
+          "ActiveRewardRow value": "(null-object)"
+        },
+        {
+          "Int32 hashCode": 0,
+          "Int32 next": 0,
+          "Int32 key": 0,
+          "ActiveRewardRow value": "(null-object)"
+        }
+      ],
+      "Int32 _count": 21,
+      "Int32 _freeList": -1,
+      "Int32 _freeCount": 0,
+      "Int32 _version": 21,
+      "IEqualityComparer<System.Int32> _comparer": "(null-object)",
+      "KeyCollection<System.Int32,ActiveRewardRow> _keys": "(null-object)",
+      "ValueCollection<System.Int32,ActiveRewardRow> _values": "(null-object)",
+      "Object _syncRoot": "(null-object)"
+    }
+  },
+  "List<ActiveRewardRow> _all": [
+    {
+      "ActiveRewardRow": "(circular-reference (0x76D2B36D2A80))"
+    },
+    {
+      "ActiveRewardRow": "(circular-reference (0x76D2B36D2A40))"
+    },
+    {
+      "ActiveRewardRow": "(circular-reference (0x76D2B36D2A00))"
+    },
+    {
+      "ActiveRewardRow": "(circular-reference (0x76D2B36D29C0))"
+    },
+    {
+      "ActiveRewardRow": "(circular-reference (0x76D2B36D2980))"
+    },
+    {
+      "ActiveRewardRow": "(circular-reference (0x76D2B36D2940))"
+    },
+    {
+      "ActiveRewardRow": "(circular-reference (0x76D2B36D2900))"
+    },
+    {
+      "ActiveRewardRow": "(circular-reference (0x76D2B36D28C0))"
+    },
+    {
+      "ActiveRewardRow": "(circular-reference (0x76D2B36D2880))"
+    },
+    {
+      "ActiveRewardRow": "(circular-reference (0x76D2B36D2840))"
+    },
+    {
+      "ActiveRewardRow": "(circular-reference (0x76D2B36D2800))"
+    },
+    {
+      "ActiveRewardRow": "(circular-reference (0x76D2B36D27C0))"
+    },
+    {
+      "ActiveRewardRow": "(circular-reference (0x76D2B36D2780))"
+    },
+    {
+      "ActiveRewardRow": "(circular-reference (0x76D2B36D2740))"
+    },
+    {
+      "ActiveRewardRow": "(circular-reference (0x76D2B36D2700))"
+    },
+    {
+      "ActiveRewardRow": "(circular-reference (0x76D2B36D26C0))"
+    },
+    {
+      "ActiveRewardRow": "(circular-reference (0x76D2B36D2680))"
+    },
+    {
+      "ActiveRewardRow": "(circular-reference (0x76D2B36D2640))"
+    },
+    {
+      "ActiveRewardRow": "(circular-reference (0x76D2B36D2600))"
+    },
+    {
+      "ActiveRewardRow": "(circular-reference (0x76D2B36D25C0))"
+    },
+    {
+      "ActiveRewardRow": "(circular-reference (0x76D2B36D2580))"
+    }
+  ]
+}

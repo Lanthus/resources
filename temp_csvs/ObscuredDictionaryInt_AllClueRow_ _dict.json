@@ -1,0 +1,112 @@
+{
+    "Int32 _key": 1519006049,
+    "Int32 _rndIdx": 770,
+    "Dictionary<System.Int32,AllClueRow> _dict": {
+        "Int32[] _buckets": [
+            0,
+            5,
+            0,
+            2,
+            1,
+            4,
+            3
+        ],
+        "Entry<System.Int32,AllClueRow>[] _entries": [
+            {
+                "Int32 hashCode": 1518527763,
+                "Int32 next": -1,
+                "Int32 key": 1518527763,
+                "AllClueRow value": {
+                    "Int32 <ID>k__BackingField": 1,
+                    "Int32 <StartTime>k__BackingField": 1738512000,
+                    "Int32 <EndTime>k__BackingField": 1738598399,
+                    "Int32 <basicAdd>k__BackingField": 105000,
+                    "Int32[] <randomAdd>k__BackingField": [
+                        -42000,
+                        42000
+                    ]
+                }
+            },
+            {
+                "Int32 hashCode": 1518527762,
+                "Int32 next": -1,
+                "Int32 key": 1518527762,
+                "AllClueRow value": {
+                    "Int32 <ID>k__BackingField": 2,
+                    "Int32 <StartTime>k__BackingField": 1738598400,
+                    "Int32 <EndTime>k__BackingField": 1738684799,
+                    "Int32 <basicAdd>k__BackingField": 70000,
+                    "Int32[] <randomAdd>k__BackingField": [
+                        -28000,
+                        28000
+                    ]
+                }
+            },
+            {
+                "Int32 hashCode": 1518527765,
+                "Int32 next": -1,
+                "Int32 key": 1518527765,
+                "AllClueRow value": {
+                    "Int32 <ID>k__BackingField": 3,
+                    "Int32 <StartTime>k__BackingField": 1738684800,
+                    "Int32 <EndTime>k__BackingField": 1738771199,
+                    "Int32 <basicAdd>k__BackingField": 55000,
+                    "Int32[] <randomAdd>k__BackingField": [
+                        -22000,
+                        22000
+                    ]
+                }
+            },
+            {
+                "Int32 hashCode": 1518527764,
+                "Int32 next": -1,
+                "Int32 key": 1518527764,
+                "AllClueRow value": {
+                    "Int32 <ID>k__BackingField": 4,
+                    "Int32 <StartTime>k__BackingField": 1738771200,
+                    "Int32 <EndTime>k__BackingField": 1738857599,
+                    "Int32 <basicAdd>k__BackingField": 65000,
+                    "Int32[] <randomAdd>k__BackingField": [
+                        -26000,
+                        26000
+                    ]
+                }
+            },
+            {
+                "Int32 hashCode": 1518527767,
+                "Int32 next": -1,
+                "Int32 key": 1518527767,
+                "AllClueRow value": {
+                    "Int32 <ID>k__BackingField": 5,
+                    "Int32 <StartTime>k__BackingField": 1738857600,
+                    "Int32 <EndTime>k__BackingField": 1738943999,
+                    "Int32 <basicAdd>k__BackingField": 105000,
+                    "Int32[] <randomAdd>k__BackingField": [
+                        -42000,
+                        42000
+                    ]
+                }
+            },
+            {
+                "Int32 hashCode": 0,
+                "Int32 next": 0,
+                "Int32 key": 0,
+                "AllClueRow value": "(null-object)"
+            },
+            {
+                "Int32 hashCode": 0,
+                "Int32 next": 0,
+                "Int32 key": 0,
+                "AllClueRow value": "(null-object)"
+            }
+        ],
+        "Int32 _count": 5,
+        "Int32 _freeList": -1,
+        "Int32 _freeCount": 0,
+        "Int32 _version": 5,
+        "IEqualityComparer<System.Int32> _comparer": "(null-object)",
+        "KeyCollection<System.Int32,AllClueRow> _keys": "(null-object)",
+        "ValueCollection<System.Int32,AllClueRow> _values": "(null-object)",
+        "Object _syncRoot": "(null-object)"
+    }
+}

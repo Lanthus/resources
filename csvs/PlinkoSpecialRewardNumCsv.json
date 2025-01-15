@@ -1,0 +1,1172 @@
+[
+  {
+    "PlinkoSpecialRewardNumRow": {
+      "ID": 1,
+      "BallNum": [
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          8
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          4,
+          2
+        ],
+        [
+          5,
+          1
+        ]
+      ]
+    }
+  },
+  {
+    "PlinkoSpecialRewardNumRow": {
+      "ID": 2,
+      "BallNum": [
+        [
+          2,
+          13
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          5,
+          1
+        ]
+      ]
+    }
+  },
+  {
+    "PlinkoSpecialRewardNumRow": {
+      "ID": 3,
+      "BallNum": [
+        [
+          1,
+          1
+        ],
+        [
+          2,
+          10
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          4,
+          2
+        ]
+      ]
+    }
+  },
+  {
+    "PlinkoSpecialRewardNumRow": {
+      "ID": 4,
+      "BallNum": [
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          7
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          4,
+          3
+        ]
+      ]
+    }
+  },
+  {
+    "PlinkoSpecialRewardNumRow": {
+      "ID": 5,
+      "BallNum": [
+        [
+          1,
+          1
+        ],
+        [
+          2,
+          10
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          4,
+          2
+        ]
+      ]
+    }
+  },
+  {
+    "PlinkoSpecialRewardNumRow": {
+      "ID": 6,
+      "BallNum": [
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          6
+        ],
+        [
+          3,
+          5
+        ],
+        [
+          4,
+          2
+        ]
+      ]
+    }
+  },
+  {
+    "PlinkoSpecialRewardNumRow": {
+      "ID": 7,
+      "BallNum": [
+        [
+          1,
+          1
+        ],
+        [
+          2,
+          9
+        ],
+        [
+          3,
+          5
+        ],
+        [
+          4,
+          1
+        ]
+      ]
+    }
+  },
+  {
+    "PlinkoSpecialRewardNumRow": {
+      "ID": 8,
+      "BallNum": [
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          10
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          4,
+          2
+        ],
+        [
+          5,
+          1
+        ]
+      ]
+    }
+  },
+  {
+    "PlinkoSpecialRewardNumRow": {
+      "ID": 9,
+      "BallNum": [
+        [
+          2,
+          12
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          4,
+          2
+        ]
+      ]
+    }
+  },
+  {
+    "PlinkoSpecialRewardNumRow": {
+      "ID": 10,
+      "BallNum": [
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          9
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          4,
+          3
+        ]
+      ]
+    }
+  },
+  {
+    "PlinkoSpecialRewardNumRow": {
+      "ID": 11,
+      "BallNum": [
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          6
+        ],
+        [
+          3,
+          5
+        ],
+        [
+          4,
+          2
+        ]
+      ]
+    }
+  },
+  {
+    "PlinkoSpecialRewardNumRow": {
+      "ID": 12,
+      "BallNum": [
+        [
+          1,
+          1
+        ],
+        [
+          2,
+          10
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          4,
+          2
+        ]
+      ]
+    }
+  },
+  {
+    "PlinkoSpecialRewardNumRow": {
+      "ID": 13,
+      "BallNum": [
+        [
+          1,
+          1
+        ],
+        [
+          2,
+          10
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          4,
+          2
+        ]
+      ]
+    }
+  },
+  {
+    "PlinkoSpecialRewardNumRow": {
+      "ID": 14,
+      "BallNum": [
+        [
+          2,
+          12
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          4,
+          2
+        ]
+      ]
+    }
+  },
+  {
+    "PlinkoSpecialRewardNumRow": {
+      "ID": 15,
+      "BallNum": [
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          10
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          4,
+          2
+        ],
+        [
+          5,
+          1
+        ]
+      ]
+    }
+  },
+  {
+    "PlinkoSpecialRewardNumRow": {
+      "ID": 16,
+      "BallNum": [
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          8
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          4,
+          2
+        ],
+        [
+          5,
+          1
+        ]
+      ]
+    }
+  },
+  {
+    "PlinkoSpecialRewardNumRow": {
+      "ID": 17,
+      "BallNum": [
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          7
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          4,
+          3
+        ]
+      ]
+    }
+  },
+  {
+    "PlinkoSpecialRewardNumRow": {
+      "ID": 18,
+      "BallNum": [
+        [
+          2,
+          13
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          5,
+          1
+        ]
+      ]
+    }
+  },
+  {
+    "PlinkoSpecialRewardNumRow": {
+      "ID": 19,
+      "BallNum": [
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          9
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          4,
+          3
+        ]
+      ]
+    }
+  },
+  {
+    "PlinkoSpecialRewardNumRow": {
+      "ID": 20,
+      "BallNum": [
+        [
+          1,
+          1
+        ],
+        [
+          2,
+          9
+        ],
+        [
+          3,
+          5
+        ],
+        [
+          4,
+          1
+        ]
+      ]
+    }
+  },
+  {
+    "PlinkoSpecialRewardNumRow": {
+      "ID": 21,
+      "BallNum": [
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          6
+        ],
+        [
+          3,
+          5
+        ],
+        [
+          4,
+          2
+        ]
+      ]
+    }
+  },
+  {
+    "PlinkoSpecialRewardNumRow": {
+      "ID": 22,
+      "BallNum": [
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          8
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          4,
+          2
+        ],
+        [
+          5,
+          1
+        ]
+      ]
+    }
+  },
+  {
+    "PlinkoSpecialRewardNumRow": {
+      "ID": 23,
+      "BallNum": [
+        [
+          1,
+          1
+        ],
+        [
+          2,
+          10
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          4,
+          2
+        ]
+      ]
+    }
+  },
+  {
+    "PlinkoSpecialRewardNumRow": {
+      "ID": 24,
+      "BallNum": [
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          9
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          4,
+          3
+        ]
+      ]
+    }
+  },
+  {
+    "PlinkoSpecialRewardNumRow": {
+      "ID": 25,
+      "BallNum": [
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          7
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          4,
+          3
+        ]
+      ]
+    }
+  },
+  {
+    "PlinkoSpecialRewardNumRow": {
+      "ID": 26,
+      "BallNum": [
+        [
+          1,
+          1
+        ],
+        [
+          2,
+          9
+        ],
+        [
+          3,
+          5
+        ],
+        [
+          4,
+          1
+        ]
+      ]
+    }
+  },
+  {
+    "PlinkoSpecialRewardNumRow": {
+      "ID": 27,
+      "BallNum": [
+        [
+          1,
+          1
+        ],
+        [
+          2,
+          10
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          4,
+          2
+        ]
+      ]
+    }
+  },
+  {
+    "PlinkoSpecialRewardNumRow": {
+      "ID": 28,
+      "BallNum": [
+        [
+          2,
+          12
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          4,
+          2
+        ]
+      ]
+    }
+  },
+  {
+    "PlinkoSpecialRewardNumRow": {
+      "ID": 29,
+      "BallNum": [
+        [
+          2,
+          13
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          5,
+          1
+        ]
+      ]
+    }
+  },
+  {
+    "PlinkoSpecialRewardNumRow": {
+      "ID": 30,
+      "BallNum": [
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          10
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          4,
+          2
+        ],
+        [
+          5,
+          1
+        ]
+      ]
+    }
+  },
+  {
+    "PlinkoSpecialRewardNumRow": {
+      "ID": 31,
+      "BallNum": [
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          10
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          4,
+          2
+        ],
+        [
+          5,
+          1
+        ]
+      ]
+    }
+  },
+  {
+    "PlinkoSpecialRewardNumRow": {
+      "ID": 32,
+      "BallNum": [
+        [
+          1,
+          1
+        ],
+        [
+          2,
+          10
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          4,
+          2
+        ]
+      ]
+    }
+  },
+  {
+    "PlinkoSpecialRewardNumRow": {
+      "ID": 33,
+      "BallNum": [
+        [
+          1,
+          1
+        ],
+        [
+          2,
+          10
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          4,
+          2
+        ]
+      ]
+    }
+  },
+  {
+    "PlinkoSpecialRewardNumRow": {
+      "ID": 34,
+      "BallNum": [
+        [
+          2,
+          12
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          4,
+          2
+        ]
+      ]
+    }
+  },
+  {
+    "PlinkoSpecialRewardNumRow": {
+      "ID": 35,
+      "BallNum": [
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          8
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          4,
+          2
+        ],
+        [
+          5,
+          1
+        ]
+      ]
+    }
+  },
+  {
+    "PlinkoSpecialRewardNumRow": {
+      "ID": 36,
+      "BallNum": [
+        [
+          1,
+          1
+        ],
+        [
+          2,
+          9
+        ],
+        [
+          3,
+          5
+        ],
+        [
+          4,
+          1
+        ]
+      ]
+    }
+  },
+  {
+    "PlinkoSpecialRewardNumRow": {
+      "ID": 37,
+      "BallNum": [
+        [
+          2,
+          13
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          5,
+          1
+        ]
+      ]
+    }
+  },
+  {
+    "PlinkoSpecialRewardNumRow": {
+      "ID": 38,
+      "BallNum": [
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          7
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          4,
+          3
+        ]
+      ]
+    }
+  },
+  {
+    "PlinkoSpecialRewardNumRow": {
+      "ID": 39,
+      "BallNum": [
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          9
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          4,
+          3
+        ]
+      ]
+    }
+  },
+  {
+    "PlinkoSpecialRewardNumRow": {
+      "ID": 40,
+      "BallNum": [
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          6
+        ],
+        [
+          3,
+          5
+        ],
+        [
+          4,
+          2
+        ]
+      ]
+    }
+  },
+  {
+    "PlinkoSpecialRewardNumRow": {
+      "ID": 41,
+      "BallNum": [
+        [
+          1,
+          1
+        ],
+        [
+          2,
+          10
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          4,
+          2
+        ]
+      ]
+    }
+  },
+  {
+    "PlinkoSpecialRewardNumRow": {
+      "ID": 42,
+      "BallNum": [
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          8
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          4,
+          2
+        ],
+        [
+          5,
+          1
+        ]
+      ]
+    }
+  },
+  {
+    "PlinkoSpecialRewardNumRow": {
+      "ID": 43,
+      "BallNum": [
+        [
+          1,
+          1
+        ],
+        [
+          2,
+          10
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          4,
+          2
+        ]
+      ]
+    }
+  },
+  {
+    "PlinkoSpecialRewardNumRow": {
+      "ID": 44,
+      "BallNum": [
+        [
+          2,
+          13
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          5,
+          1
+        ]
+      ]
+    }
+  },
+  {
+    "PlinkoSpecialRewardNumRow": {
+      "ID": 45,
+      "BallNum": [
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          6
+        ],
+        [
+          3,
+          5
+        ],
+        [
+          4,
+          2
+        ]
+      ]
+    }
+  },
+  {
+    "PlinkoSpecialRewardNumRow": {
+      "ID": 46,
+      "BallNum": [
+        [
+          2,
+          12
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          4,
+          2
+        ]
+      ]
+    }
+  },
+  {
+    "PlinkoSpecialRewardNumRow": {
+      "ID": 47,
+      "BallNum": [
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          9
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          4,
+          3
+        ]
+      ]
+    }
+  },
+  {
+    "PlinkoSpecialRewardNumRow": {
+      "ID": 48,
+      "BallNum": [
+        [
+          1,
+          1
+        ],
+        [
+          2,
+          9
+        ],
+        [
+          3,
+          5
+        ],
+        [
+          4,
+          1
+        ]
+      ]
+    }
+  },
+  {
+    "PlinkoSpecialRewardNumRow": {
+      "ID": 49,
+      "BallNum": [
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          10
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          4,
+          2
+        ],
+        [
+          5,
+          1
+        ]
+      ]
+    }
+  },
+  {
+    "PlinkoSpecialRewardNumRow": {
+      "ID": 50,
+      "BallNum": [
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          7
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          4,
+          3
+        ]
+      ]
+    }
+  }
+]

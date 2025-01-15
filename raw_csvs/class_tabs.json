@@ -1,0 +1,12 @@
+[
+  {
+    "filter": "Srv",
+    "filterByClass": true,
+    "filterByField": false,
+    "filterByMethod": false,
+    "showAllClasses": false,
+    "includeAllImages": false,
+    "caseSensitive": true,
+    "selectedImage": "Assembly-CSharp.dll"
+  }
+]

@@ -1,0 +1,6862 @@
+[
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 1,
+      "VisitRange": [
+        4
+      ],
+      "SubType": 1,
+      "MinConsume": 0,
+      "MaxConsume": 23
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 2,
+      "VisitRange": [
+        5,
+        8
+      ],
+      "SubType": 1,
+      "MinConsume": 3,
+      "MaxConsume": 30
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 3,
+      "VisitRange": [
+        8,
+        12
+      ],
+      "SubType": 1,
+      "MinConsume": 13,
+      "MaxConsume": 38
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 4,
+      "VisitRange": [
+        12,
+        16
+      ],
+      "SubType": 1,
+      "MinConsume": 25,
+      "MaxConsume": 45
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 5,
+      "VisitRange": [
+        16,
+        20
+      ],
+      "SubType": 1,
+      "MinConsume": 38,
+      "MaxConsume": 53
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 6,
+      "VisitRange": [
+        20,
+        24
+      ],
+      "SubType": 1,
+      "MinConsume": 48,
+      "MaxConsume": 63
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 7,
+      "VisitRange": [
+        24,
+        28
+      ],
+      "SubType": 1,
+      "MinConsume": 58,
+      "MaxConsume": 73
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 8,
+      "VisitRange": [
+        28,
+        32
+      ],
+      "SubType": 1,
+      "MinConsume": 68,
+      "MaxConsume": 83
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 9,
+      "VisitRange": [
+        32,
+        36
+      ],
+      "SubType": 1,
+      "MinConsume": 78,
+      "MaxConsume": 93
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 10,
+      "VisitRange": [
+        36,
+        40
+      ],
+      "SubType": 1,
+      "MinConsume": 88,
+      "MaxConsume": 103
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 11,
+      "VisitRange": [
+        40,
+        44
+      ],
+      "SubType": 1,
+      "MinConsume": 98,
+      "MaxConsume": 113
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 12,
+      "VisitRange": [
+        44,
+        48
+      ],
+      "SubType": 1,
+      "MinConsume": 108,
+      "MaxConsume": 123
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 13,
+      "VisitRange": [
+        48,
+        52
+      ],
+      "SubType": 1,
+      "MinConsume": 118,
+      "MaxConsume": 133
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 14,
+      "VisitRange": [
+        52,
+        56
+      ],
+      "SubType": 1,
+      "MinConsume": 128,
+      "MaxConsume": 143
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 15,
+      "VisitRange": [
+        56,
+        60
+      ],
+      "SubType": 1,
+      "MinConsume": 138,
+      "MaxConsume": 153
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 16,
+      "VisitRange": [
+        60,
+        64
+      ],
+      "SubType": 1,
+      "MinConsume": 148,
+      "MaxConsume": 163
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 17,
+      "VisitRange": [
+        64,
+        68
+      ],
+      "SubType": 1,
+      "MinConsume": 158,
+      "MaxConsume": 173
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 18,
+      "VisitRange": [
+        68,
+        72
+      ],
+      "SubType": 1,
+      "MinConsume": 168,
+      "MaxConsume": 183
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 19,
+      "VisitRange": [
+        72,
+        76
+      ],
+      "SubType": 1,
+      "MinConsume": 178,
+      "MaxConsume": 193
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 20,
+      "VisitRange": [
+        76,
+        80
+      ],
+      "SubType": 1,
+      "MinConsume": 188,
+      "MaxConsume": 203
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 21,
+      "VisitRange": [
+        80,
+        84
+      ],
+      "SubType": 1,
+      "MinConsume": 198,
+      "MaxConsume": 213
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 22,
+      "VisitRange": [
+        84,
+        88
+      ],
+      "SubType": 1,
+      "MinConsume": 208,
+      "MaxConsume": 223
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 23,
+      "VisitRange": [
+        88,
+        92
+      ],
+      "SubType": 1,
+      "MinConsume": 218,
+      "MaxConsume": 233
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 24,
+      "VisitRange": [
+        92,
+        96
+      ],
+      "SubType": 1,
+      "MinConsume": 228,
+      "MaxConsume": 243
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 25,
+      "VisitRange": [
+        96,
+        100
+      ],
+      "SubType": 1,
+      "MinConsume": 238,
+      "MaxConsume": 253
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 26,
+      "VisitRange": [
+        100,
+        104
+      ],
+      "SubType": 1,
+      "MinConsume": 248,
+      "MaxConsume": 263
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 27,
+      "VisitRange": [
+        104,
+        108
+      ],
+      "SubType": 1,
+      "MinConsume": 258,
+      "MaxConsume": 273
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 28,
+      "VisitRange": [
+        108,
+        112
+      ],
+      "SubType": 1,
+      "MinConsume": 268,
+      "MaxConsume": 283
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 29,
+      "VisitRange": [
+        112,
+        116
+      ],
+      "SubType": 1,
+      "MinConsume": 278,
+      "MaxConsume": 293
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 30,
+      "VisitRange": [
+        116,
+        120
+      ],
+      "SubType": 1,
+      "MinConsume": 288,
+      "MaxConsume": 303
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 31,
+      "VisitRange": [
+        120,
+        128
+      ],
+      "SubType": 1,
+      "MinConsume": 298,
+      "MaxConsume": 323
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 32,
+      "VisitRange": [
+        128,
+        136
+      ],
+      "SubType": 1,
+      "MinConsume": 318,
+      "MaxConsume": 343
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 33,
+      "VisitRange": [
+        136,
+        144
+      ],
+      "SubType": 1,
+      "MinConsume": 338,
+      "MaxConsume": 363
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 34,
+      "VisitRange": [
+        144,
+        152
+      ],
+      "SubType": 1,
+      "MinConsume": 358,
+      "MaxConsume": 383
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 35,
+      "VisitRange": [
+        152,
+        160
+      ],
+      "SubType": 1,
+      "MinConsume": 378,
+      "MaxConsume": 403
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 36,
+      "VisitRange": [
+        160,
+        168
+      ],
+      "SubType": 1,
+      "MinConsume": 398,
+      "MaxConsume": 423
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 37,
+      "VisitRange": [
+        168,
+        176
+      ],
+      "SubType": 1,
+      "MinConsume": 418,
+      "MaxConsume": 443
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 38,
+      "VisitRange": [
+        176,
+        184
+      ],
+      "SubType": 1,
+      "MinConsume": 438,
+      "MaxConsume": 463
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 39,
+      "VisitRange": [
+        184,
+        192
+      ],
+      "SubType": 1,
+      "MinConsume": 458,
+      "MaxConsume": 483
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 40,
+      "VisitRange": [
+        192,
+        200
+      ],
+      "SubType": 1,
+      "MinConsume": 478,
+      "MaxConsume": 503
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 41,
+      "VisitRange": [
+        200,
+        208
+      ],
+      "SubType": 1,
+      "MinConsume": 498,
+      "MaxConsume": 523
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 42,
+      "VisitRange": [
+        208,
+        216
+      ],
+      "SubType": 1,
+      "MinConsume": 518,
+      "MaxConsume": 543
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 43,
+      "VisitRange": [
+        216,
+        224
+      ],
+      "SubType": 1,
+      "MinConsume": 538,
+      "MaxConsume": 563
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 44,
+      "VisitRange": [
+        224,
+        232
+      ],
+      "SubType": 1,
+      "MinConsume": 558,
+      "MaxConsume": 583
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 45,
+      "VisitRange": [
+        232,
+        240
+      ],
+      "SubType": 1,
+      "MinConsume": 578,
+      "MaxConsume": 603
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 46,
+      "VisitRange": [
+        240,
+        248
+      ],
+      "SubType": 1,
+      "MinConsume": 598,
+      "MaxConsume": 623
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 47,
+      "VisitRange": [
+        248,
+        256
+      ],
+      "SubType": 1,
+      "MinConsume": 618,
+      "MaxConsume": 643
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 48,
+      "VisitRange": [
+        256,
+        264
+      ],
+      "SubType": 1,
+      "MinConsume": 638,
+      "MaxConsume": 663
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 49,
+      "VisitRange": [
+        264,
+        272
+      ],
+      "SubType": 1,
+      "MinConsume": 658,
+      "MaxConsume": 683
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 50,
+      "VisitRange": [
+        272,
+        280
+      ],
+      "SubType": 1,
+      "MinConsume": 678,
+      "MaxConsume": 703
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 51,
+      "VisitRange": [
+        280,
+        288
+      ],
+      "SubType": 1,
+      "MinConsume": 698,
+      "MaxConsume": 723
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 52,
+      "VisitRange": [
+        288,
+        296
+      ],
+      "SubType": 1,
+      "MinConsume": 718,
+      "MaxConsume": 743
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 53,
+      "VisitRange": [
+        296,
+        304
+      ],
+      "SubType": 1,
+      "MinConsume": 738,
+      "MaxConsume": 763
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 54,
+      "VisitRange": [
+        304,
+        312
+      ],
+      "SubType": 1,
+      "MinConsume": 758,
+      "MaxConsume": 783
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 55,
+      "VisitRange": [
+        312,
+        320
+      ],
+      "SubType": 1,
+      "MinConsume": 778,
+      "MaxConsume": 803
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 56,
+      "VisitRange": [
+        320,
+        328
+      ],
+      "SubType": 1,
+      "MinConsume": 798,
+      "MaxConsume": 823
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 57,
+      "VisitRange": [
+        328,
+        336
+      ],
+      "SubType": 1,
+      "MinConsume": 818,
+      "MaxConsume": 843
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 58,
+      "VisitRange": [
+        336,
+        344
+      ],
+      "SubType": 1,
+      "MinConsume": 838,
+      "MaxConsume": 863
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 59,
+      "VisitRange": [
+        344,
+        352
+      ],
+      "SubType": 1,
+      "MinConsume": 858,
+      "MaxConsume": 883
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 60,
+      "VisitRange": [
+        352,
+        360
+      ],
+      "SubType": 1,
+      "MinConsume": 878,
+      "MaxConsume": 903
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 61,
+      "VisitRange": [
+        360,
+        368
+      ],
+      "SubType": 1,
+      "MinConsume": 898,
+      "MaxConsume": 923
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 62,
+      "VisitRange": [
+        368,
+        376
+      ],
+      "SubType": 1,
+      "MinConsume": 918,
+      "MaxConsume": 943
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 63,
+      "VisitRange": [
+        376,
+        384
+      ],
+      "SubType": 1,
+      "MinConsume": 938,
+      "MaxConsume": 963
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 64,
+      "VisitRange": [
+        384,
+        392
+      ],
+      "SubType": 1,
+      "MinConsume": 958,
+      "MaxConsume": 983
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 65,
+      "VisitRange": [
+        392,
+        400
+      ],
+      "SubType": 1,
+      "MinConsume": 978,
+      "MaxConsume": 1003
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 66,
+      "VisitRange": [
+        400,
+        420
+      ],
+      "SubType": 1,
+      "MinConsume": 998,
+      "MaxConsume": 1053
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 67,
+      "VisitRange": [
+        420,
+        440
+      ],
+      "SubType": 1,
+      "MinConsume": 1048,
+      "MaxConsume": 1103
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 68,
+      "VisitRange": [
+        440,
+        460
+      ],
+      "SubType": 1,
+      "MinConsume": 1098,
+      "MaxConsume": 1153
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 69,
+      "VisitRange": [
+        460,
+        480
+      ],
+      "SubType": 1,
+      "MinConsume": 1148,
+      "MaxConsume": 1203
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 70,
+      "VisitRange": [
+        480,
+        500
+      ],
+      "SubType": 1,
+      "MinConsume": 1198,
+      "MaxConsume": 1253
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 71,
+      "VisitRange": [
+        500,
+        520
+      ],
+      "SubType": 1,
+      "MinConsume": 1248,
+      "MaxConsume": 1303
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 72,
+      "VisitRange": [
+        520,
+        540
+      ],
+      "SubType": 1,
+      "MinConsume": 1298,
+      "MaxConsume": 1353
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 73,
+      "VisitRange": [
+        540,
+        560
+      ],
+      "SubType": 1,
+      "MinConsume": 1348,
+      "MaxConsume": 1403
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 74,
+      "VisitRange": [
+        560,
+        580
+      ],
+      "SubType": 1,
+      "MinConsume": 1398,
+      "MaxConsume": 1453
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 75,
+      "VisitRange": [
+        580,
+        600
+      ],
+      "SubType": 1,
+      "MinConsume": 1448,
+      "MaxConsume": 1503
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 76,
+      "VisitRange": [
+        600,
+        620
+      ],
+      "SubType": 1,
+      "MinConsume": 1498,
+      "MaxConsume": 1553
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 77,
+      "VisitRange": [
+        620,
+        640
+      ],
+      "SubType": 1,
+      "MinConsume": 1548,
+      "MaxConsume": 1603
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 78,
+      "VisitRange": [
+        640,
+        660
+      ],
+      "SubType": 1,
+      "MinConsume": 1598,
+      "MaxConsume": 1653
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 79,
+      "VisitRange": [
+        660,
+        680
+      ],
+      "SubType": 1,
+      "MinConsume": 1648,
+      "MaxConsume": 1703
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 80,
+      "VisitRange": [
+        680,
+        700
+      ],
+      "SubType": 1,
+      "MinConsume": 1698,
+      "MaxConsume": 1753
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 81,
+      "VisitRange": [
+        700,
+        720
+      ],
+      "SubType": 1,
+      "MinConsume": 1748,
+      "MaxConsume": 1803
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 82,
+      "VisitRange": [
+        720,
+        740
+      ],
+      "SubType": 1,
+      "MinConsume": 1798,
+      "MaxConsume": 1853
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 83,
+      "VisitRange": [
+        740,
+        760
+      ],
+      "SubType": 1,
+      "MinConsume": 1848,
+      "MaxConsume": 1903
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 84,
+      "VisitRange": [
+        760,
+        780
+      ],
+      "SubType": 1,
+      "MinConsume": 1898,
+      "MaxConsume": 1953
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 85,
+      "VisitRange": [
+        780,
+        800
+      ],
+      "SubType": 1,
+      "MinConsume": 1948,
+      "MaxConsume": 2003
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 86,
+      "VisitRange": [
+        800,
+        820
+      ],
+      "SubType": 1,
+      "MinConsume": 1998,
+      "MaxConsume": 2053
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 87,
+      "VisitRange": [
+        820,
+        840
+      ],
+      "SubType": 1,
+      "MinConsume": 2048,
+      "MaxConsume": 2103
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 88,
+      "VisitRange": [
+        840,
+        860
+      ],
+      "SubType": 1,
+      "MinConsume": 2098,
+      "MaxConsume": 2153
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 89,
+      "VisitRange": [
+        860,
+        880
+      ],
+      "SubType": 1,
+      "MinConsume": 2148,
+      "MaxConsume": 2203
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 90,
+      "VisitRange": [
+        880,
+        900
+      ],
+      "SubType": 1,
+      "MinConsume": 2198,
+      "MaxConsume": 2253
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 91,
+      "VisitRange": [
+        900,
+        920
+      ],
+      "SubType": 1,
+      "MinConsume": 2248,
+      "MaxConsume": 2303
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 92,
+      "VisitRange": [
+        920,
+        940
+      ],
+      "SubType": 1,
+      "MinConsume": 2298,
+      "MaxConsume": 2353
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 93,
+      "VisitRange": [
+        940,
+        960
+      ],
+      "SubType": 1,
+      "MinConsume": 2348,
+      "MaxConsume": 2403
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 94,
+      "VisitRange": [
+        960,
+        980
+      ],
+      "SubType": 1,
+      "MinConsume": 2398,
+      "MaxConsume": 2453
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 95,
+      "VisitRange": [
+        980,
+        1000
+      ],
+      "SubType": 1,
+      "MinConsume": 2448,
+      "MaxConsume": 2503
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 96,
+      "VisitRange": [
+        1000,
+        1020
+      ],
+      "SubType": 1,
+      "MinConsume": 2498,
+      "MaxConsume": 2553
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 97,
+      "VisitRange": [
+        1020,
+        1040
+      ],
+      "SubType": 1,
+      "MinConsume": 2548,
+      "MaxConsume": 2603
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 98,
+      "VisitRange": [
+        1040,
+        1060
+      ],
+      "SubType": 1,
+      "MinConsume": 2598,
+      "MaxConsume": 2653
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 99,
+      "VisitRange": [
+        1060,
+        1080
+      ],
+      "SubType": 1,
+      "MinConsume": 2648,
+      "MaxConsume": 2703
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 100,
+      "VisitRange": [
+        1080,
+        1100
+      ],
+      "SubType": 1,
+      "MinConsume": 2698,
+      "MaxConsume": 2753
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 101,
+      "VisitRange": [
+        1100,
+        1120
+      ],
+      "SubType": 1,
+      "MinConsume": 2748,
+      "MaxConsume": 2803
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 102,
+      "VisitRange": [
+        1120,
+        1140
+      ],
+      "SubType": 1,
+      "MinConsume": 2798,
+      "MaxConsume": 2853
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 103,
+      "VisitRange": [
+        1140,
+        1160
+      ],
+      "SubType": 1,
+      "MinConsume": 2848,
+      "MaxConsume": 2903
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 104,
+      "VisitRange": [
+        1160,
+        1180
+      ],
+      "SubType": 1,
+      "MinConsume": 2898,
+      "MaxConsume": 2953
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 105,
+      "VisitRange": [
+        1180,
+        1200
+      ],
+      "SubType": 1,
+      "MinConsume": 2948,
+      "MaxConsume": 3003
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 106,
+      "VisitRange": [
+        1200,
+        1220
+      ],
+      "SubType": 1,
+      "MinConsume": 2998,
+      "MaxConsume": 3053
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 107,
+      "VisitRange": [
+        1220,
+        1240
+      ],
+      "SubType": 1,
+      "MinConsume": 3048,
+      "MaxConsume": 3103
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 108,
+      "VisitRange": [
+        1240,
+        1260
+      ],
+      "SubType": 1,
+      "MinConsume": 3098,
+      "MaxConsume": 3153
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 109,
+      "VisitRange": [
+        1260,
+        1280
+      ],
+      "SubType": 1,
+      "MinConsume": 3148,
+      "MaxConsume": 3203
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 110,
+      "VisitRange": [
+        1280,
+        1300
+      ],
+      "SubType": 1,
+      "MinConsume": 3198,
+      "MaxConsume": 3253
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 111,
+      "VisitRange": [
+        1300,
+        1320
+      ],
+      "SubType": 1,
+      "MinConsume": 3248,
+      "MaxConsume": 3303
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 112,
+      "VisitRange": [
+        1320,
+        1340
+      ],
+      "SubType": 1,
+      "MinConsume": 3298,
+      "MaxConsume": 3353
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 113,
+      "VisitRange": [
+        1340,
+        1540
+      ],
+      "SubType": 1,
+      "MinConsume": 3348,
+      "MaxConsume": 3853
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 114,
+      "VisitRange": [
+        1540,
+        1740
+      ],
+      "SubType": 1,
+      "MinConsume": 3848,
+      "MaxConsume": 4353
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 115,
+      "VisitRange": [
+        1740,
+        1940
+      ],
+      "SubType": 1,
+      "MinConsume": 4348,
+      "MaxConsume": 4853
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 116,
+      "VisitRange": [
+        1940,
+        2140
+      ],
+      "SubType": 1,
+      "MinConsume": 4848,
+      "MaxConsume": 5353
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 117,
+      "VisitRange": [
+        2140,
+        2340
+      ],
+      "SubType": 1,
+      "MinConsume": 5348,
+      "MaxConsume": 5853
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 118,
+      "VisitRange": [
+        2340,
+        2540
+      ],
+      "SubType": 1,
+      "MinConsume": 5848,
+      "MaxConsume": 6353
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 119,
+      "VisitRange": [
+        2540,
+        2740
+      ],
+      "SubType": 1,
+      "MinConsume": 6348,
+      "MaxConsume": 6853
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 120,
+      "VisitRange": [
+        2740,
+        2940
+      ],
+      "SubType": 1,
+      "MinConsume": 6848,
+      "MaxConsume": 7353
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 121,
+      "VisitRange": [
+        2940,
+        3140
+      ],
+      "SubType": 1,
+      "MinConsume": 7348,
+      "MaxConsume": 7853
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 122,
+      "VisitRange": [
+        3140,
+        3340
+      ],
+      "SubType": 1,
+      "MinConsume": 7848,
+      "MaxConsume": 8353
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 123,
+      "VisitRange": [
+        3340,
+        3540
+      ],
+      "SubType": 1,
+      "MinConsume": 8348,
+      "MaxConsume": 8853
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 124,
+      "VisitRange": [
+        3540,
+        3740
+      ],
+      "SubType": 1,
+      "MinConsume": 8848,
+      "MaxConsume": 9353
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 125,
+      "VisitRange": [
+        3740,
+        3940
+      ],
+      "SubType": 1,
+      "MinConsume": 9348,
+      "MaxConsume": 9853
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 126,
+      "VisitRange": [
+        3940,
+        4140
+      ],
+      "SubType": 1,
+      "MinConsume": 9848,
+      "MaxConsume": 10353
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 127,
+      "VisitRange": [
+        4140,
+        4340
+      ],
+      "SubType": 1,
+      "MinConsume": 10348,
+      "MaxConsume": 10853
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 128,
+      "VisitRange": [
+        4340,
+        4540
+      ],
+      "SubType": 1,
+      "MinConsume": 10848,
+      "MaxConsume": 11353
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 129,
+      "VisitRange": [
+        4540,
+        4740
+      ],
+      "SubType": 1,
+      "MinConsume": 11348,
+      "MaxConsume": 11853
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 130,
+      "VisitRange": [
+        4740,
+        4940
+      ],
+      "SubType": 1,
+      "MinConsume": 11848,
+      "MaxConsume": 12353
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 131,
+      "VisitRange": [
+        4940,
+        5140
+      ],
+      "SubType": 1,
+      "MinConsume": 12348,
+      "MaxConsume": 12853
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 132,
+      "VisitRange": [
+        5140,
+        5340
+      ],
+      "SubType": 1,
+      "MinConsume": 12848,
+      "MaxConsume": 13353
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 133,
+      "VisitRange": [
+        5340,
+        5540
+      ],
+      "SubType": 1,
+      "MinConsume": 13348,
+      "MaxConsume": 13853
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 134,
+      "VisitRange": [
+        5540,
+        5740
+      ],
+      "SubType": 1,
+      "MinConsume": 13848,
+      "MaxConsume": 14353
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 135,
+      "VisitRange": [
+        5740,
+        5940
+      ],
+      "SubType": 1,
+      "MinConsume": 14348,
+      "MaxConsume": 14853
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 136,
+      "VisitRange": [
+        5940,
+        6140
+      ],
+      "SubType": 1,
+      "MinConsume": 14848,
+      "MaxConsume": 15353
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 137,
+      "VisitRange": [
+        6140,
+        6340
+      ],
+      "SubType": 1,
+      "MinConsume": 15348,
+      "MaxConsume": 15853
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 138,
+      "VisitRange": [
+        6340,
+        6540
+      ],
+      "SubType": 1,
+      "MinConsume": 15848,
+      "MaxConsume": 16353
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 139,
+      "VisitRange": [
+        6540,
+        6740
+      ],
+      "SubType": 1,
+      "MinConsume": 16348,
+      "MaxConsume": 16853
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 140,
+      "VisitRange": [
+        6740,
+        6940
+      ],
+      "SubType": 1,
+      "MinConsume": 16848,
+      "MaxConsume": 17353
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 141,
+      "VisitRange": [
+        6940,
+        7140
+      ],
+      "SubType": 1,
+      "MinConsume": 17348,
+      "MaxConsume": 17853
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 142,
+      "VisitRange": [
+        7140,
+        7340
+      ],
+      "SubType": 1,
+      "MinConsume": 17848,
+      "MaxConsume": 18353
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 143,
+      "VisitRange": [
+        7340,
+        3999996
+      ],
+      "SubType": 1,
+      "MinConsume": 18348,
+      "MaxConsume": 9999993
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 144,
+      "VisitRange": [
+        4
+      ],
+      "SubType": 2,
+      "MinConsume": 0,
+      "MaxConsume": 23
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 145,
+      "VisitRange": [
+        5,
+        8
+      ],
+      "SubType": 2,
+      "MinConsume": 3,
+      "MaxConsume": 30
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 146,
+      "VisitRange": [
+        8,
+        12
+      ],
+      "SubType": 2,
+      "MinConsume": 13,
+      "MaxConsume": 38
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 147,
+      "VisitRange": [
+        12,
+        16
+      ],
+      "SubType": 2,
+      "MinConsume": 25,
+      "MaxConsume": 45
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 148,
+      "VisitRange": [
+        16,
+        20
+      ],
+      "SubType": 2,
+      "MinConsume": 38,
+      "MaxConsume": 53
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 149,
+      "VisitRange": [
+        20,
+        24
+      ],
+      "SubType": 2,
+      "MinConsume": 48,
+      "MaxConsume": 63
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 150,
+      "VisitRange": [
+        24,
+        28
+      ],
+      "SubType": 2,
+      "MinConsume": 58,
+      "MaxConsume": 73
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 151,
+      "VisitRange": [
+        28,
+        32
+      ],
+      "SubType": 2,
+      "MinConsume": 68,
+      "MaxConsume": 83
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 152,
+      "VisitRange": [
+        32,
+        36
+      ],
+      "SubType": 2,
+      "MinConsume": 78,
+      "MaxConsume": 93
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 153,
+      "VisitRange": [
+        36,
+        40
+      ],
+      "SubType": 2,
+      "MinConsume": 88,
+      "MaxConsume": 103
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 154,
+      "VisitRange": [
+        40,
+        44
+      ],
+      "SubType": 2,
+      "MinConsume": 98,
+      "MaxConsume": 113
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 155,
+      "VisitRange": [
+        44,
+        48
+      ],
+      "SubType": 2,
+      "MinConsume": 108,
+      "MaxConsume": 123
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 156,
+      "VisitRange": [
+        48,
+        52
+      ],
+      "SubType": 2,
+      "MinConsume": 118,
+      "MaxConsume": 133
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 157,
+      "VisitRange": [
+        52,
+        56
+      ],
+      "SubType": 2,
+      "MinConsume": 128,
+      "MaxConsume": 143
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 158,
+      "VisitRange": [
+        56,
+        60
+      ],
+      "SubType": 2,
+      "MinConsume": 138,
+      "MaxConsume": 153
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 159,
+      "VisitRange": [
+        60,
+        64
+      ],
+      "SubType": 2,
+      "MinConsume": 148,
+      "MaxConsume": 163
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 160,
+      "VisitRange": [
+        64,
+        68
+      ],
+      "SubType": 2,
+      "MinConsume": 158,
+      "MaxConsume": 173
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 161,
+      "VisitRange": [
+        68,
+        72
+      ],
+      "SubType": 2,
+      "MinConsume": 168,
+      "MaxConsume": 183
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 162,
+      "VisitRange": [
+        72,
+        76
+      ],
+      "SubType": 2,
+      "MinConsume": 178,
+      "MaxConsume": 193
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 163,
+      "VisitRange": [
+        76,
+        80
+      ],
+      "SubType": 2,
+      "MinConsume": 188,
+      "MaxConsume": 203
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 164,
+      "VisitRange": [
+        80,
+        84
+      ],
+      "SubType": 2,
+      "MinConsume": 198,
+      "MaxConsume": 213
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 165,
+      "VisitRange": [
+        84,
+        88
+      ],
+      "SubType": 2,
+      "MinConsume": 208,
+      "MaxConsume": 223
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 166,
+      "VisitRange": [
+        88,
+        92
+      ],
+      "SubType": 2,
+      "MinConsume": 218,
+      "MaxConsume": 233
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 167,
+      "VisitRange": [
+        92,
+        96
+      ],
+      "SubType": 2,
+      "MinConsume": 228,
+      "MaxConsume": 243
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 168,
+      "VisitRange": [
+        96,
+        100
+      ],
+      "SubType": 2,
+      "MinConsume": 238,
+      "MaxConsume": 253
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 169,
+      "VisitRange": [
+        100,
+        104
+      ],
+      "SubType": 2,
+      "MinConsume": 248,
+      "MaxConsume": 263
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 170,
+      "VisitRange": [
+        104,
+        108
+      ],
+      "SubType": 2,
+      "MinConsume": 258,
+      "MaxConsume": 273
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 171,
+      "VisitRange": [
+        108,
+        112
+      ],
+      "SubType": 2,
+      "MinConsume": 268,
+      "MaxConsume": 283
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 172,
+      "VisitRange": [
+        112,
+        116
+      ],
+      "SubType": 2,
+      "MinConsume": 278,
+      "MaxConsume": 293
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 173,
+      "VisitRange": [
+        116,
+        120
+      ],
+      "SubType": 2,
+      "MinConsume": 288,
+      "MaxConsume": 303
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 174,
+      "VisitRange": [
+        120,
+        128
+      ],
+      "SubType": 2,
+      "MinConsume": 298,
+      "MaxConsume": 323
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 175,
+      "VisitRange": [
+        128,
+        136
+      ],
+      "SubType": 2,
+      "MinConsume": 318,
+      "MaxConsume": 343
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 176,
+      "VisitRange": [
+        136,
+        144
+      ],
+      "SubType": 2,
+      "MinConsume": 338,
+      "MaxConsume": 363
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 177,
+      "VisitRange": [
+        144,
+        152
+      ],
+      "SubType": 2,
+      "MinConsume": 358,
+      "MaxConsume": 383
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 178,
+      "VisitRange": [
+        152,
+        160
+      ],
+      "SubType": 2,
+      "MinConsume": 378,
+      "MaxConsume": 403
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 179,
+      "VisitRange": [
+        160,
+        168
+      ],
+      "SubType": 2,
+      "MinConsume": 398,
+      "MaxConsume": 423
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 180,
+      "VisitRange": [
+        168,
+        176
+      ],
+      "SubType": 2,
+      "MinConsume": 418,
+      "MaxConsume": 443
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 181,
+      "VisitRange": [
+        176,
+        184
+      ],
+      "SubType": 2,
+      "MinConsume": 438,
+      "MaxConsume": 463
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 182,
+      "VisitRange": [
+        184,
+        192
+      ],
+      "SubType": 2,
+      "MinConsume": 458,
+      "MaxConsume": 483
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 183,
+      "VisitRange": [
+        192,
+        200
+      ],
+      "SubType": 2,
+      "MinConsume": 478,
+      "MaxConsume": 503
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 184,
+      "VisitRange": [
+        200,
+        208
+      ],
+      "SubType": 2,
+      "MinConsume": 498,
+      "MaxConsume": 523
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 185,
+      "VisitRange": [
+        208,
+        216
+      ],
+      "SubType": 2,
+      "MinConsume": 518,
+      "MaxConsume": 543
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 186,
+      "VisitRange": [
+        216,
+        224
+      ],
+      "SubType": 2,
+      "MinConsume": 538,
+      "MaxConsume": 563
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 187,
+      "VisitRange": [
+        224,
+        232
+      ],
+      "SubType": 2,
+      "MinConsume": 558,
+      "MaxConsume": 583
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 188,
+      "VisitRange": [
+        232,
+        240
+      ],
+      "SubType": 2,
+      "MinConsume": 578,
+      "MaxConsume": 603
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 189,
+      "VisitRange": [
+        240,
+        248
+      ],
+      "SubType": 2,
+      "MinConsume": 598,
+      "MaxConsume": 623
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 190,
+      "VisitRange": [
+        248,
+        256
+      ],
+      "SubType": 2,
+      "MinConsume": 618,
+      "MaxConsume": 643
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 191,
+      "VisitRange": [
+        256,
+        264
+      ],
+      "SubType": 2,
+      "MinConsume": 638,
+      "MaxConsume": 663
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 192,
+      "VisitRange": [
+        264,
+        272
+      ],
+      "SubType": 2,
+      "MinConsume": 658,
+      "MaxConsume": 683
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 193,
+      "VisitRange": [
+        272,
+        280
+      ],
+      "SubType": 2,
+      "MinConsume": 678,
+      "MaxConsume": 703
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 194,
+      "VisitRange": [
+        280,
+        288
+      ],
+      "SubType": 2,
+      "MinConsume": 698,
+      "MaxConsume": 723
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 195,
+      "VisitRange": [
+        288,
+        296
+      ],
+      "SubType": 2,
+      "MinConsume": 718,
+      "MaxConsume": 743
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 196,
+      "VisitRange": [
+        296,
+        304
+      ],
+      "SubType": 2,
+      "MinConsume": 738,
+      "MaxConsume": 763
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 197,
+      "VisitRange": [
+        304,
+        312
+      ],
+      "SubType": 2,
+      "MinConsume": 758,
+      "MaxConsume": 783
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 198,
+      "VisitRange": [
+        312,
+        320
+      ],
+      "SubType": 2,
+      "MinConsume": 778,
+      "MaxConsume": 803
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 199,
+      "VisitRange": [
+        320,
+        328
+      ],
+      "SubType": 2,
+      "MinConsume": 798,
+      "MaxConsume": 823
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 200,
+      "VisitRange": [
+        328,
+        336
+      ],
+      "SubType": 2,
+      "MinConsume": 818,
+      "MaxConsume": 843
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 201,
+      "VisitRange": [
+        336,
+        344
+      ],
+      "SubType": 2,
+      "MinConsume": 838,
+      "MaxConsume": 863
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 202,
+      "VisitRange": [
+        344,
+        352
+      ],
+      "SubType": 2,
+      "MinConsume": 858,
+      "MaxConsume": 883
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 203,
+      "VisitRange": [
+        352,
+        360
+      ],
+      "SubType": 2,
+      "MinConsume": 878,
+      "MaxConsume": 903
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 204,
+      "VisitRange": [
+        360,
+        368
+      ],
+      "SubType": 2,
+      "MinConsume": 898,
+      "MaxConsume": 923
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 205,
+      "VisitRange": [
+        368,
+        376
+      ],
+      "SubType": 2,
+      "MinConsume": 918,
+      "MaxConsume": 943
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 206,
+      "VisitRange": [
+        376,
+        384
+      ],
+      "SubType": 2,
+      "MinConsume": 938,
+      "MaxConsume": 963
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 207,
+      "VisitRange": [
+        384,
+        392
+      ],
+      "SubType": 2,
+      "MinConsume": 958,
+      "MaxConsume": 983
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 208,
+      "VisitRange": [
+        392,
+        400
+      ],
+      "SubType": 2,
+      "MinConsume": 978,
+      "MaxConsume": 1003
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 209,
+      "VisitRange": [
+        400,
+        420
+      ],
+      "SubType": 2,
+      "MinConsume": 998,
+      "MaxConsume": 1053
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 210,
+      "VisitRange": [
+        420,
+        440
+      ],
+      "SubType": 2,
+      "MinConsume": 1048,
+      "MaxConsume": 1103
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 211,
+      "VisitRange": [
+        440,
+        460
+      ],
+      "SubType": 2,
+      "MinConsume": 1098,
+      "MaxConsume": 1153
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 212,
+      "VisitRange": [
+        460,
+        480
+      ],
+      "SubType": 2,
+      "MinConsume": 1148,
+      "MaxConsume": 1203
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 213,
+      "VisitRange": [
+        480,
+        500
+      ],
+      "SubType": 2,
+      "MinConsume": 1198,
+      "MaxConsume": 1253
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 214,
+      "VisitRange": [
+        500,
+        520
+      ],
+      "SubType": 2,
+      "MinConsume": 1248,
+      "MaxConsume": 1303
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 215,
+      "VisitRange": [
+        520,
+        540
+      ],
+      "SubType": 2,
+      "MinConsume": 1298,
+      "MaxConsume": 1353
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 216,
+      "VisitRange": [
+        540,
+        560
+      ],
+      "SubType": 2,
+      "MinConsume": 1348,
+      "MaxConsume": 1403
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 217,
+      "VisitRange": [
+        560,
+        580
+      ],
+      "SubType": 2,
+      "MinConsume": 1398,
+      "MaxConsume": 1453
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 218,
+      "VisitRange": [
+        580,
+        600
+      ],
+      "SubType": 2,
+      "MinConsume": 1448,
+      "MaxConsume": 1503
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 219,
+      "VisitRange": [
+        600,
+        620
+      ],
+      "SubType": 2,
+      "MinConsume": 1498,
+      "MaxConsume": 1553
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 220,
+      "VisitRange": [
+        620,
+        640
+      ],
+      "SubType": 2,
+      "MinConsume": 1548,
+      "MaxConsume": 1603
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 221,
+      "VisitRange": [
+        640,
+        660
+      ],
+      "SubType": 2,
+      "MinConsume": 1598,
+      "MaxConsume": 1653
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 222,
+      "VisitRange": [
+        660,
+        680
+      ],
+      "SubType": 2,
+      "MinConsume": 1648,
+      "MaxConsume": 1703
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 223,
+      "VisitRange": [
+        680,
+        700
+      ],
+      "SubType": 2,
+      "MinConsume": 1698,
+      "MaxConsume": 1753
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 224,
+      "VisitRange": [
+        700,
+        720
+      ],
+      "SubType": 2,
+      "MinConsume": 1748,
+      "MaxConsume": 1803
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 225,
+      "VisitRange": [
+        720,
+        740
+      ],
+      "SubType": 2,
+      "MinConsume": 1798,
+      "MaxConsume": 1853
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 226,
+      "VisitRange": [
+        740,
+        760
+      ],
+      "SubType": 2,
+      "MinConsume": 1848,
+      "MaxConsume": 1903
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 227,
+      "VisitRange": [
+        760,
+        780
+      ],
+      "SubType": 2,
+      "MinConsume": 1898,
+      "MaxConsume": 1953
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 228,
+      "VisitRange": [
+        780,
+        800
+      ],
+      "SubType": 2,
+      "MinConsume": 1948,
+      "MaxConsume": 2003
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 229,
+      "VisitRange": [
+        800,
+        820
+      ],
+      "SubType": 2,
+      "MinConsume": 1998,
+      "MaxConsume": 2053
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 230,
+      "VisitRange": [
+        820,
+        840
+      ],
+      "SubType": 2,
+      "MinConsume": 2048,
+      "MaxConsume": 2103
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 231,
+      "VisitRange": [
+        840,
+        860
+      ],
+      "SubType": 2,
+      "MinConsume": 2098,
+      "MaxConsume": 2153
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 232,
+      "VisitRange": [
+        860,
+        880
+      ],
+      "SubType": 2,
+      "MinConsume": 2148,
+      "MaxConsume": 2203
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 233,
+      "VisitRange": [
+        880,
+        900
+      ],
+      "SubType": 2,
+      "MinConsume": 2198,
+      "MaxConsume": 2253
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 234,
+      "VisitRange": [
+        900,
+        920
+      ],
+      "SubType": 2,
+      "MinConsume": 2248,
+      "MaxConsume": 2303
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 235,
+      "VisitRange": [
+        920,
+        940
+      ],
+      "SubType": 2,
+      "MinConsume": 2298,
+      "MaxConsume": 2353
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 236,
+      "VisitRange": [
+        940,
+        960
+      ],
+      "SubType": 2,
+      "MinConsume": 2348,
+      "MaxConsume": 2403
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 237,
+      "VisitRange": [
+        960,
+        980
+      ],
+      "SubType": 2,
+      "MinConsume": 2398,
+      "MaxConsume": 2453
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 238,
+      "VisitRange": [
+        980,
+        1000
+      ],
+      "SubType": 2,
+      "MinConsume": 2448,
+      "MaxConsume": 2503
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 239,
+      "VisitRange": [
+        1000,
+        1020
+      ],
+      "SubType": 2,
+      "MinConsume": 2498,
+      "MaxConsume": 2553
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 240,
+      "VisitRange": [
+        1020,
+        1040
+      ],
+      "SubType": 2,
+      "MinConsume": 2548,
+      "MaxConsume": 2603
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 241,
+      "VisitRange": [
+        1040,
+        1060
+      ],
+      "SubType": 2,
+      "MinConsume": 2598,
+      "MaxConsume": 2653
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 242,
+      "VisitRange": [
+        1060,
+        1080
+      ],
+      "SubType": 2,
+      "MinConsume": 2648,
+      "MaxConsume": 2703
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 243,
+      "VisitRange": [
+        1080,
+        1100
+      ],
+      "SubType": 2,
+      "MinConsume": 2698,
+      "MaxConsume": 2753
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 244,
+      "VisitRange": [
+        1100,
+        1120
+      ],
+      "SubType": 2,
+      "MinConsume": 2748,
+      "MaxConsume": 2803
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 245,
+      "VisitRange": [
+        1120,
+        1140
+      ],
+      "SubType": 2,
+      "MinConsume": 2798,
+      "MaxConsume": 2853
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 246,
+      "VisitRange": [
+        1140,
+        1160
+      ],
+      "SubType": 2,
+      "MinConsume": 2848,
+      "MaxConsume": 2903
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 247,
+      "VisitRange": [
+        1160,
+        1180
+      ],
+      "SubType": 2,
+      "MinConsume": 2898,
+      "MaxConsume": 2953
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 248,
+      "VisitRange": [
+        1180,
+        1200
+      ],
+      "SubType": 2,
+      "MinConsume": 2948,
+      "MaxConsume": 3003
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 249,
+      "VisitRange": [
+        1200,
+        1220
+      ],
+      "SubType": 2,
+      "MinConsume": 2998,
+      "MaxConsume": 3053
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 250,
+      "VisitRange": [
+        1220,
+        1240
+      ],
+      "SubType": 2,
+      "MinConsume": 3048,
+      "MaxConsume": 3103
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 251,
+      "VisitRange": [
+        1240,
+        1260
+      ],
+      "SubType": 2,
+      "MinConsume": 3098,
+      "MaxConsume": 3153
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 252,
+      "VisitRange": [
+        1260,
+        1280
+      ],
+      "SubType": 2,
+      "MinConsume": 3148,
+      "MaxConsume": 3203
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 253,
+      "VisitRange": [
+        1280,
+        1300
+      ],
+      "SubType": 2,
+      "MinConsume": 3198,
+      "MaxConsume": 3253
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 254,
+      "VisitRange": [
+        1300,
+        1320
+      ],
+      "SubType": 2,
+      "MinConsume": 3248,
+      "MaxConsume": 3303
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 255,
+      "VisitRange": [
+        1320,
+        1340
+      ],
+      "SubType": 2,
+      "MinConsume": 3298,
+      "MaxConsume": 3353
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 256,
+      "VisitRange": [
+        1340,
+        1540
+      ],
+      "SubType": 2,
+      "MinConsume": 3348,
+      "MaxConsume": 3853
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 257,
+      "VisitRange": [
+        1540,
+        1740
+      ],
+      "SubType": 2,
+      "MinConsume": 3848,
+      "MaxConsume": 4353
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 258,
+      "VisitRange": [
+        1740,
+        1940
+      ],
+      "SubType": 2,
+      "MinConsume": 4348,
+      "MaxConsume": 4853
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 259,
+      "VisitRange": [
+        1940,
+        2140
+      ],
+      "SubType": 2,
+      "MinConsume": 4848,
+      "MaxConsume": 5353
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 260,
+      "VisitRange": [
+        2140,
+        2340
+      ],
+      "SubType": 2,
+      "MinConsume": 5348,
+      "MaxConsume": 5853
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 261,
+      "VisitRange": [
+        2340,
+        2540
+      ],
+      "SubType": 2,
+      "MinConsume": 5848,
+      "MaxConsume": 6353
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 262,
+      "VisitRange": [
+        2540,
+        2740
+      ],
+      "SubType": 2,
+      "MinConsume": 6348,
+      "MaxConsume": 6853
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 263,
+      "VisitRange": [
+        2740,
+        2940
+      ],
+      "SubType": 2,
+      "MinConsume": 6848,
+      "MaxConsume": 7353
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 264,
+      "VisitRange": [
+        2940,
+        3140
+      ],
+      "SubType": 2,
+      "MinConsume": 7348,
+      "MaxConsume": 7853
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 265,
+      "VisitRange": [
+        3140,
+        3340
+      ],
+      "SubType": 2,
+      "MinConsume": 7848,
+      "MaxConsume": 8353
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 266,
+      "VisitRange": [
+        3340,
+        3540
+      ],
+      "SubType": 2,
+      "MinConsume": 8348,
+      "MaxConsume": 8853
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 267,
+      "VisitRange": [
+        3540,
+        3740
+      ],
+      "SubType": 2,
+      "MinConsume": 8848,
+      "MaxConsume": 9353
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 268,
+      "VisitRange": [
+        3740,
+        3940
+      ],
+      "SubType": 2,
+      "MinConsume": 9348,
+      "MaxConsume": 9853
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 269,
+      "VisitRange": [
+        3940,
+        4140
+      ],
+      "SubType": 2,
+      "MinConsume": 9848,
+      "MaxConsume": 10353
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 270,
+      "VisitRange": [
+        4140,
+        4340
+      ],
+      "SubType": 2,
+      "MinConsume": 10348,
+      "MaxConsume": 10853
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 271,
+      "VisitRange": [
+        4340,
+        4540
+      ],
+      "SubType": 2,
+      "MinConsume": 10848,
+      "MaxConsume": 11353
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 272,
+      "VisitRange": [
+        4540,
+        4740
+      ],
+      "SubType": 2,
+      "MinConsume": 11348,
+      "MaxConsume": 11853
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 273,
+      "VisitRange": [
+        4740,
+        4940
+      ],
+      "SubType": 2,
+      "MinConsume": 11848,
+      "MaxConsume": 12353
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 274,
+      "VisitRange": [
+        4940,
+        5140
+      ],
+      "SubType": 2,
+      "MinConsume": 12348,
+      "MaxConsume": 12853
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 275,
+      "VisitRange": [
+        5140,
+        5340
+      ],
+      "SubType": 2,
+      "MinConsume": 12848,
+      "MaxConsume": 13353
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 276,
+      "VisitRange": [
+        5340,
+        5540
+      ],
+      "SubType": 2,
+      "MinConsume": 13348,
+      "MaxConsume": 13853
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 277,
+      "VisitRange": [
+        5540,
+        5740
+      ],
+      "SubType": 2,
+      "MinConsume": 13848,
+      "MaxConsume": 14353
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 278,
+      "VisitRange": [
+        5740,
+        5940
+      ],
+      "SubType": 2,
+      "MinConsume": 14348,
+      "MaxConsume": 14853
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 279,
+      "VisitRange": [
+        5940,
+        6140
+      ],
+      "SubType": 2,
+      "MinConsume": 14848,
+      "MaxConsume": 15353
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 280,
+      "VisitRange": [
+        6140,
+        6340
+      ],
+      "SubType": 2,
+      "MinConsume": 15348,
+      "MaxConsume": 15853
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 281,
+      "VisitRange": [
+        6340,
+        6540
+      ],
+      "SubType": 2,
+      "MinConsume": 15848,
+      "MaxConsume": 16353
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 282,
+      "VisitRange": [
+        6540,
+        6740
+      ],
+      "SubType": 2,
+      "MinConsume": 16348,
+      "MaxConsume": 16853
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 283,
+      "VisitRange": [
+        6740,
+        6940
+      ],
+      "SubType": 2,
+      "MinConsume": 16848,
+      "MaxConsume": 17353
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 284,
+      "VisitRange": [
+        6940,
+        7140
+      ],
+      "SubType": 2,
+      "MinConsume": 17348,
+      "MaxConsume": 17853
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 285,
+      "VisitRange": [
+        7140,
+        7340
+      ],
+      "SubType": 2,
+      "MinConsume": 17848,
+      "MaxConsume": 18353
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 286,
+      "VisitRange": [
+        7340,
+        3999996
+      ],
+      "SubType": 2,
+      "MinConsume": 18348,
+      "MaxConsume": 9999993
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 287,
+      "VisitRange": [
+        2
+      ],
+      "SubType": 4,
+      "MinConsume": 0,
+      "MaxConsume": 15
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 288,
+      "VisitRange": [
+        2,
+        5
+      ],
+      "SubType": 4,
+      "MinConsume": 0,
+      "MaxConsume": 20
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 289,
+      "VisitRange": [
+        5,
+        7
+      ],
+      "SubType": 4,
+      "MinConsume": 4,
+      "MaxConsume": 22
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 290,
+      "VisitRange": [
+        7,
+        9
+      ],
+      "SubType": 4,
+      "MinConsume": 11,
+      "MaxConsume": 24
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 291,
+      "VisitRange": [
+        9,
+        11
+      ],
+      "SubType": 4,
+      "MinConsume": 18,
+      "MaxConsume": 26
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 292,
+      "VisitRange": [
+        11,
+        14
+      ],
+      "SubType": 4,
+      "MinConsume": 22,
+      "MaxConsume": 33
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 293,
+      "VisitRange": [
+        14,
+        16
+      ],
+      "SubType": 4,
+      "MinConsume": 29,
+      "MaxConsume": 37
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 294,
+      "VisitRange": [
+        16,
+        18
+      ],
+      "SubType": 4,
+      "MinConsume": 33,
+      "MaxConsume": 42
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 295,
+      "VisitRange": [
+        18,
+        20
+      ],
+      "SubType": 4,
+      "MinConsume": 37,
+      "MaxConsume": 46
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 296,
+      "VisitRange": [
+        20,
+        23
+      ],
+      "SubType": 4,
+      "MinConsume": 42,
+      "MaxConsume": 53
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 297,
+      "VisitRange": [
+        23,
+        25
+      ],
+      "SubType": 4,
+      "MinConsume": 48,
+      "MaxConsume": 57
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 298,
+      "VisitRange": [
+        25,
+        27
+      ],
+      "SubType": 4,
+      "MinConsume": 53,
+      "MaxConsume": 62
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 299,
+      "VisitRange": [
+        27,
+        30
+      ],
+      "SubType": 4,
+      "MinConsume": 57,
+      "MaxConsume": 68
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 300,
+      "VisitRange": [
+        30,
+        32
+      ],
+      "SubType": 4,
+      "MinConsume": 64,
+      "MaxConsume": 73
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 301,
+      "VisitRange": [
+        32,
+        34
+      ],
+      "SubType": 4,
+      "MinConsume": 68,
+      "MaxConsume": 77
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 302,
+      "VisitRange": [
+        34,
+        36
+      ],
+      "SubType": 4,
+      "MinConsume": 73,
+      "MaxConsume": 81
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 303,
+      "VisitRange": [
+        36,
+        39
+      ],
+      "SubType": 4,
+      "MinConsume": 77,
+      "MaxConsume": 88
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 304,
+      "VisitRange": [
+        39,
+        41
+      ],
+      "SubType": 4,
+      "MinConsume": 84,
+      "MaxConsume": 92
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 305,
+      "VisitRange": [
+        41,
+        43
+      ],
+      "SubType": 4,
+      "MinConsume": 88,
+      "MaxConsume": 97
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 306,
+      "VisitRange": [
+        43,
+        45
+      ],
+      "SubType": 4,
+      "MinConsume": 92,
+      "MaxConsume": 101
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 307,
+      "VisitRange": [
+        45,
+        48
+      ],
+      "SubType": 4,
+      "MinConsume": 97,
+      "MaxConsume": 108
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 308,
+      "VisitRange": [
+        48,
+        50
+      ],
+      "SubType": 4,
+      "MinConsume": 103,
+      "MaxConsume": 112
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 309,
+      "VisitRange": [
+        50,
+        52
+      ],
+      "SubType": 4,
+      "MinConsume": 108,
+      "MaxConsume": 117
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 310,
+      "VisitRange": [
+        52,
+        54
+      ],
+      "SubType": 4,
+      "MinConsume": 112,
+      "MaxConsume": 121
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 311,
+      "VisitRange": [
+        54,
+        57
+      ],
+      "SubType": 4,
+      "MinConsume": 117,
+      "MaxConsume": 128
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 312,
+      "VisitRange": [
+        57,
+        59
+      ],
+      "SubType": 4,
+      "MinConsume": 123,
+      "MaxConsume": 132
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 313,
+      "VisitRange": [
+        59,
+        61
+      ],
+      "SubType": 4,
+      "MinConsume": 128,
+      "MaxConsume": 136
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 314,
+      "VisitRange": [
+        61,
+        64
+      ],
+      "SubType": 4,
+      "MinConsume": 132,
+      "MaxConsume": 143
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 315,
+      "VisitRange": [
+        64,
+        66
+      ],
+      "SubType": 4,
+      "MinConsume": 139,
+      "MaxConsume": 147
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 316,
+      "VisitRange": [
+        66,
+        68
+      ],
+      "SubType": 4,
+      "MinConsume": 143,
+      "MaxConsume": 152
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 317,
+      "VisitRange": [
+        68,
+        73
+      ],
+      "SubType": 4,
+      "MinConsume": 147,
+      "MaxConsume": 163
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 318,
+      "VisitRange": [
+        73,
+        77
+      ],
+      "SubType": 4,
+      "MinConsume": 158,
+      "MaxConsume": 172
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 319,
+      "VisitRange": [
+        77,
+        82
+      ],
+      "SubType": 4,
+      "MinConsume": 167,
+      "MaxConsume": 183
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 320,
+      "VisitRange": [
+        82,
+        86
+      ],
+      "SubType": 4,
+      "MinConsume": 178,
+      "MaxConsume": 191
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 321,
+      "VisitRange": [
+        86,
+        91
+      ],
+      "SubType": 4,
+      "MinConsume": 187,
+      "MaxConsume": 202
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 322,
+      "VisitRange": [
+        91,
+        95
+      ],
+      "SubType": 4,
+      "MinConsume": 198,
+      "MaxConsume": 211
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 323,
+      "VisitRange": [
+        95,
+        100
+      ],
+      "SubType": 4,
+      "MinConsume": 207,
+      "MaxConsume": 222
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 324,
+      "VisitRange": [
+        100,
+        104
+      ],
+      "SubType": 4,
+      "MinConsume": 218,
+      "MaxConsume": 231
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 325,
+      "VisitRange": [
+        104,
+        109
+      ],
+      "SubType": 4,
+      "MinConsume": 227,
+      "MaxConsume": 242
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 326,
+      "VisitRange": [
+        109,
+        114
+      ],
+      "SubType": 4,
+      "MinConsume": 238,
+      "MaxConsume": 253
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 327,
+      "VisitRange": [
+        114,
+        118
+      ],
+      "SubType": 4,
+      "MinConsume": 249,
+      "MaxConsume": 262
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 328,
+      "VisitRange": [
+        118,
+        123
+      ],
+      "SubType": 4,
+      "MinConsume": 257,
+      "MaxConsume": 273
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 329,
+      "VisitRange": [
+        123,
+        127
+      ],
+      "SubType": 4,
+      "MinConsume": 268,
+      "MaxConsume": 282
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 330,
+      "VisitRange": [
+        127,
+        132
+      ],
+      "SubType": 4,
+      "MinConsume": 277,
+      "MaxConsume": 293
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 331,
+      "VisitRange": [
+        132,
+        136
+      ],
+      "SubType": 4,
+      "MinConsume": 288,
+      "MaxConsume": 301
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 332,
+      "VisitRange": [
+        136,
+        141
+      ],
+      "SubType": 4,
+      "MinConsume": 297,
+      "MaxConsume": 312
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 333,
+      "VisitRange": [
+        141,
+        145
+      ],
+      "SubType": 4,
+      "MinConsume": 308,
+      "MaxConsume": 321
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 334,
+      "VisitRange": [
+        145,
+        150
+      ],
+      "SubType": 4,
+      "MinConsume": 317,
+      "MaxConsume": 332
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 335,
+      "VisitRange": [
+        150,
+        154
+      ],
+      "SubType": 4,
+      "MinConsume": 328,
+      "MaxConsume": 341
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 336,
+      "VisitRange": [
+        154,
+        159
+      ],
+      "SubType": 4,
+      "MinConsume": 337,
+      "MaxConsume": 352
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 337,
+      "VisitRange": [
+        159,
+        163
+      ],
+      "SubType": 4,
+      "MinConsume": 348,
+      "MaxConsume": 361
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 338,
+      "VisitRange": [
+        163,
+        168
+      ],
+      "SubType": 4,
+      "MinConsume": 356,
+      "MaxConsume": 372
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 339,
+      "VisitRange": [
+        168,
+        173
+      ],
+      "SubType": 4,
+      "MinConsume": 367,
+      "MaxConsume": 383
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 340,
+      "VisitRange": [
+        173,
+        177
+      ],
+      "SubType": 4,
+      "MinConsume": 378,
+      "MaxConsume": 392
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 341,
+      "VisitRange": [
+        177,
+        182
+      ],
+      "SubType": 4,
+      "MinConsume": 387,
+      "MaxConsume": 403
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 342,
+      "VisitRange": [
+        182,
+        186
+      ],
+      "SubType": 4,
+      "MinConsume": 398,
+      "MaxConsume": 411
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 343,
+      "VisitRange": [
+        186,
+        191
+      ],
+      "SubType": 4,
+      "MinConsume": 407,
+      "MaxConsume": 422
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 344,
+      "VisitRange": [
+        191,
+        195
+      ],
+      "SubType": 4,
+      "MinConsume": 418,
+      "MaxConsume": 431
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 345,
+      "VisitRange": [
+        195,
+        200
+      ],
+      "SubType": 4,
+      "MinConsume": 427,
+      "MaxConsume": 442
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 346,
+      "VisitRange": [
+        200,
+        204
+      ],
+      "SubType": 4,
+      "MinConsume": 438,
+      "MaxConsume": 451
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 347,
+      "VisitRange": [
+        204,
+        209
+      ],
+      "SubType": 4,
+      "MinConsume": 447,
+      "MaxConsume": 462
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 348,
+      "VisitRange": [
+        209,
+        213
+      ],
+      "SubType": 4,
+      "MinConsume": 458,
+      "MaxConsume": 471
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 349,
+      "VisitRange": [
+        213,
+        218
+      ],
+      "SubType": 4,
+      "MinConsume": 466,
+      "MaxConsume": 482
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 350,
+      "VisitRange": [
+        218,
+        222
+      ],
+      "SubType": 4,
+      "MinConsume": 477,
+      "MaxConsume": 491
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 351,
+      "VisitRange": [
+        222,
+        227
+      ],
+      "SubType": 4,
+      "MinConsume": 486,
+      "MaxConsume": 502
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 352,
+      "VisitRange": [
+        227,
+        238
+      ],
+      "SubType": 4,
+      "MinConsume": 497,
+      "MaxConsume": 526
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 353,
+      "VisitRange": [
+        238,
+        250
+      ],
+      "SubType": 4,
+      "MinConsume": 521,
+      "MaxConsume": 552
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 354,
+      "VisitRange": [
+        250,
+        261
+      ],
+      "SubType": 4,
+      "MinConsume": 548,
+      "MaxConsume": 576
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 355,
+      "VisitRange": [
+        261,
+        272
+      ],
+      "SubType": 4,
+      "MinConsume": 572,
+      "MaxConsume": 601
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 356,
+      "VisitRange": [
+        272,
+        284
+      ],
+      "SubType": 4,
+      "MinConsume": 596,
+      "MaxConsume": 627
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 357,
+      "VisitRange": [
+        284,
+        295
+      ],
+      "SubType": 4,
+      "MinConsume": 623,
+      "MaxConsume": 651
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 358,
+      "VisitRange": [
+        295,
+        306
+      ],
+      "SubType": 4,
+      "MinConsume": 647,
+      "MaxConsume": 675
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 359,
+      "VisitRange": [
+        306,
+        318
+      ],
+      "SubType": 4,
+      "MinConsume": 671,
+      "MaxConsume": 702
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 360,
+      "VisitRange": [
+        318,
+        329
+      ],
+      "SubType": 4,
+      "MinConsume": 697,
+      "MaxConsume": 726
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 361,
+      "VisitRange": [
+        329,
+        341
+      ],
+      "SubType": 4,
+      "MinConsume": 722,
+      "MaxConsume": 752
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 362,
+      "VisitRange": [
+        341,
+        352
+      ],
+      "SubType": 4,
+      "MinConsume": 748,
+      "MaxConsume": 777
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 363,
+      "VisitRange": [
+        352,
+        363
+      ],
+      "SubType": 4,
+      "MinConsume": 772,
+      "MaxConsume": 801
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 364,
+      "VisitRange": [
+        363,
+        375
+      ],
+      "SubType": 4,
+      "MinConsume": 796,
+      "MaxConsume": 827
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 365,
+      "VisitRange": [
+        375,
+        386
+      ],
+      "SubType": 4,
+      "MinConsume": 823,
+      "MaxConsume": 851
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 366,
+      "VisitRange": [
+        386,
+        397
+      ],
+      "SubType": 4,
+      "MinConsume": 847,
+      "MaxConsume": 876
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 367,
+      "VisitRange": [
+        397,
+        409
+      ],
+      "SubType": 4,
+      "MinConsume": 871,
+      "MaxConsume": 902
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 368,
+      "VisitRange": [
+        409,
+        420
+      ],
+      "SubType": 4,
+      "MinConsume": 898,
+      "MaxConsume": 926
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 369,
+      "VisitRange": [
+        420,
+        431
+      ],
+      "SubType": 4,
+      "MinConsume": 922,
+      "MaxConsume": 950
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 370,
+      "VisitRange": [
+        431,
+        443
+      ],
+      "SubType": 4,
+      "MinConsume": 946,
+      "MaxConsume": 977
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 371,
+      "VisitRange": [
+        443,
+        454
+      ],
+      "SubType": 4,
+      "MinConsume": 972,
+      "MaxConsume": 1001
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 372,
+      "VisitRange": [
+        454,
+        465
+      ],
+      "SubType": 4,
+      "MinConsume": 997,
+      "MaxConsume": 1025
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 373,
+      "VisitRange": [
+        465,
+        477
+      ],
+      "SubType": 4,
+      "MinConsume": 1021,
+      "MaxConsume": 1052
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 374,
+      "VisitRange": [
+        477,
+        488
+      ],
+      "SubType": 4,
+      "MinConsume": 1047,
+      "MaxConsume": 1076
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 375,
+      "VisitRange": [
+        488,
+        499
+      ],
+      "SubType": 4,
+      "MinConsume": 1071,
+      "MaxConsume": 1100
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 376,
+      "VisitRange": [
+        499,
+        511
+      ],
+      "SubType": 4,
+      "MinConsume": 1096,
+      "MaxConsume": 1126
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 377,
+      "VisitRange": [
+        511,
+        522
+      ],
+      "SubType": 4,
+      "MinConsume": 1122,
+      "MaxConsume": 1151
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 378,
+      "VisitRange": [
+        522,
+        533
+      ],
+      "SubType": 4,
+      "MinConsume": 1146,
+      "MaxConsume": 1175
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 379,
+      "VisitRange": [
+        533,
+        545
+      ],
+      "SubType": 4,
+      "MinConsume": 1170,
+      "MaxConsume": 1201
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 380,
+      "VisitRange": [
+        545,
+        556
+      ],
+      "SubType": 4,
+      "MinConsume": 1197,
+      "MaxConsume": 1225
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 381,
+      "VisitRange": [
+        556,
+        568
+      ],
+      "SubType": 4,
+      "MinConsume": 1221,
+      "MaxConsume": 1252
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 382,
+      "VisitRange": [
+        568,
+        579
+      ],
+      "SubType": 4,
+      "MinConsume": 1247,
+      "MaxConsume": 1276
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 383,
+      "VisitRange": [
+        579,
+        590
+      ],
+      "SubType": 4,
+      "MinConsume": 1272,
+      "MaxConsume": 1300
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 384,
+      "VisitRange": [
+        590,
+        602
+      ],
+      "SubType": 4,
+      "MinConsume": 1296,
+      "MaxConsume": 1327
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 385,
+      "VisitRange": [
+        602,
+        613
+      ],
+      "SubType": 4,
+      "MinConsume": 1322,
+      "MaxConsume": 1351
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 386,
+      "VisitRange": [
+        613,
+        624
+      ],
+      "SubType": 4,
+      "MinConsume": 1346,
+      "MaxConsume": 1375
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 387,
+      "VisitRange": [
+        624,
+        636
+      ],
+      "SubType": 4,
+      "MinConsume": 1371,
+      "MaxConsume": 1401
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 388,
+      "VisitRange": [
+        636,
+        647
+      ],
+      "SubType": 4,
+      "MinConsume": 1397,
+      "MaxConsume": 1426
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 389,
+      "VisitRange": [
+        647,
+        658
+      ],
+      "SubType": 4,
+      "MinConsume": 1421,
+      "MaxConsume": 1450
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 390,
+      "VisitRange": [
+        658,
+        670
+      ],
+      "SubType": 4,
+      "MinConsume": 1445,
+      "MaxConsume": 1476
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 391,
+      "VisitRange": [
+        670,
+        681
+      ],
+      "SubType": 4,
+      "MinConsume": 1472,
+      "MaxConsume": 1500
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 392,
+      "VisitRange": [
+        681,
+        692
+      ],
+      "SubType": 4,
+      "MinConsume": 1496,
+      "MaxConsume": 1525
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 393,
+      "VisitRange": [
+        692,
+        704
+      ],
+      "SubType": 4,
+      "MinConsume": 1520,
+      "MaxConsume": 1551
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 394,
+      "VisitRange": [
+        704,
+        715
+      ],
+      "SubType": 4,
+      "MinConsume": 1547,
+      "MaxConsume": 1575
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 395,
+      "VisitRange": [
+        715,
+        726
+      ],
+      "SubType": 4,
+      "MinConsume": 1571,
+      "MaxConsume": 1599
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 396,
+      "VisitRange": [
+        726,
+        738
+      ],
+      "SubType": 4,
+      "MinConsume": 1595,
+      "MaxConsume": 1626
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 397,
+      "VisitRange": [
+        738,
+        749
+      ],
+      "SubType": 4,
+      "MinConsume": 1621,
+      "MaxConsume": 1650
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 398,
+      "VisitRange": [
+        749,
+        760
+      ],
+      "SubType": 4,
+      "MinConsume": 1646,
+      "MaxConsume": 1674
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 399,
+      "VisitRange": [
+        760,
+        874
+      ],
+      "SubType": 4,
+      "MinConsume": 1670,
+      "MaxConsume": 1925
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 400,
+      "VisitRange": [
+        874,
+        987
+      ],
+      "SubType": 4,
+      "MinConsume": 1921,
+      "MaxConsume": 2174
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 401,
+      "VisitRange": [
+        987,
+        1101
+      ],
+      "SubType": 4,
+      "MinConsume": 2169,
+      "MaxConsume": 2424
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 402,
+      "VisitRange": [
+        1101,
+        1214
+      ],
+      "SubType": 4,
+      "MinConsume": 2420,
+      "MaxConsume": 2673
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 403,
+      "VisitRange": [
+        1214,
+        1328
+      ],
+      "SubType": 4,
+      "MinConsume": 2669,
+      "MaxConsume": 2924
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 404,
+      "VisitRange": [
+        1328,
+        1441
+      ],
+      "SubType": 4,
+      "MinConsume": 2919,
+      "MaxConsume": 3172
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 405,
+      "VisitRange": [
+        1441,
+        1555
+      ],
+      "SubType": 4,
+      "MinConsume": 3168,
+      "MaxConsume": 3423
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 406,
+      "VisitRange": [
+        1555,
+        1668
+      ],
+      "SubType": 4,
+      "MinConsume": 3419,
+      "MaxConsume": 3672
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 407,
+      "VisitRange": [
+        1668,
+        1782
+      ],
+      "SubType": 4,
+      "MinConsume": 3667,
+      "MaxConsume": 3923
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 408,
+      "VisitRange": [
+        1782,
+        1895
+      ],
+      "SubType": 4,
+      "MinConsume": 3918,
+      "MaxConsume": 4171
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 409,
+      "VisitRange": [
+        1895,
+        2009
+      ],
+      "SubType": 4,
+      "MinConsume": 4167,
+      "MaxConsume": 4422
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 410,
+      "VisitRange": [
+        2009,
+        2122
+      ],
+      "SubType": 4,
+      "MinConsume": 4418,
+      "MaxConsume": 4671
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 411,
+      "VisitRange": [
+        2122,
+        2236
+      ],
+      "SubType": 4,
+      "MinConsume": 4666,
+      "MaxConsume": 4921
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 412,
+      "VisitRange": [
+        2236,
+        2349
+      ],
+      "SubType": 4,
+      "MinConsume": 4917,
+      "MaxConsume": 5170
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 413,
+      "VisitRange": [
+        2349,
+        2463
+      ],
+      "SubType": 4,
+      "MinConsume": 5166,
+      "MaxConsume": 5421
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 414,
+      "VisitRange": [
+        2463,
+        2576
+      ],
+      "SubType": 4,
+      "MinConsume": 5416,
+      "MaxConsume": 5669
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 415,
+      "VisitRange": [
+        2576,
+        2690
+      ],
+      "SubType": 4,
+      "MinConsume": 5665,
+      "MaxConsume": 5920
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 416,
+      "VisitRange": [
+        2690,
+        2803
+      ],
+      "SubType": 4,
+      "MinConsume": 5916,
+      "MaxConsume": 6169
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 417,
+      "VisitRange": [
+        2803,
+        2917
+      ],
+      "SubType": 4,
+      "MinConsume": 6164,
+      "MaxConsume": 6420
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 418,
+      "VisitRange": [
+        2917,
+        3030
+      ],
+      "SubType": 4,
+      "MinConsume": 6415,
+      "MaxConsume": 6668
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 419,
+      "VisitRange": [
+        3030,
+        3144
+      ],
+      "SubType": 4,
+      "MinConsume": 6664,
+      "MaxConsume": 6919
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 420,
+      "VisitRange": [
+        3144,
+        3257
+      ],
+      "SubType": 4,
+      "MinConsume": 6915,
+      "MaxConsume": 7168
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 421,
+      "VisitRange": [
+        3257,
+        3371
+      ],
+      "SubType": 4,
+      "MinConsume": 7163,
+      "MaxConsume": 7418
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 422,
+      "VisitRange": [
+        3371,
+        3484
+      ],
+      "SubType": 4,
+      "MinConsume": 7414,
+      "MaxConsume": 7667
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 423,
+      "VisitRange": [
+        3484,
+        3598
+      ],
+      "SubType": 4,
+      "MinConsume": 7663,
+      "MaxConsume": 7918
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 424,
+      "VisitRange": [
+        3598,
+        3711
+      ],
+      "SubType": 4,
+      "MinConsume": 7913,
+      "MaxConsume": 8166
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 425,
+      "VisitRange": [
+        3711,
+        3825
+      ],
+      "SubType": 4,
+      "MinConsume": 8162,
+      "MaxConsume": 8417
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 426,
+      "VisitRange": [
+        3825,
+        3938
+      ],
+      "SubType": 4,
+      "MinConsume": 8413,
+      "MaxConsume": 8666
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 427,
+      "VisitRange": [
+        3938,
+        4052
+      ],
+      "SubType": 4,
+      "MinConsume": 8661,
+      "MaxConsume": 8917
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 428,
+      "VisitRange": [
+        4052,
+        4165
+      ],
+      "SubType": 4,
+      "MinConsume": 8912,
+      "MaxConsume": 9165
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 429,
+      "VisitRange": [
+        4165,
+        2269998
+      ],
+      "SubType": 4,
+      "MinConsume": 9161,
+      "MaxConsume": 4993998
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 430,
+      "VisitRange": [
+        3
+      ],
+      "SubType": 6,
+      "MinConsume": 0,
+      "MaxConsume": 14
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 431,
+      "VisitRange": [
+        3,
+        6
+      ],
+      "SubType": 6,
+      "MinConsume": 0,
+      "MaxConsume": 18
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 432,
+      "VisitRange": [
+        6,
+        8
+      ],
+      "SubType": 6,
+      "MinConsume": 5,
+      "MaxConsume": 20
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 433,
+      "VisitRange": [
+        8,
+        11
+      ],
+      "SubType": 6,
+      "MinConsume": 11,
+      "MaxConsume": 23
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 434,
+      "VisitRange": [
+        11,
+        14
+      ],
+      "SubType": 6,
+      "MinConsume": 18,
+      "MaxConsume": 27
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 435,
+      "VisitRange": [
+        14,
+        17
+      ],
+      "SubType": 6,
+      "MinConsume": 23,
+      "MaxConsume": 32
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 436,
+      "VisitRange": [
+        17,
+        19
+      ],
+      "SubType": 6,
+      "MinConsume": 29,
+      "MaxConsume": 36
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 437,
+      "VisitRange": [
+        19,
+        22
+      ],
+      "SubType": 6,
+      "MinConsume": 34,
+      "MaxConsume": 40
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 438,
+      "VisitRange": [
+        22,
+        25
+      ],
+      "SubType": 6,
+      "MinConsume": 40,
+      "MaxConsume": 45
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 439,
+      "VisitRange": [
+        25,
+        28
+      ],
+      "SubType": 6,
+      "MinConsume": 45,
+      "MaxConsume": 50
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 440,
+      "VisitRange": [
+        28,
+        31
+      ],
+      "SubType": 6,
+      "MinConsume": 50,
+      "MaxConsume": 56
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 441,
+      "VisitRange": [
+        31,
+        33
+      ],
+      "SubType": 6,
+      "MinConsume": 56,
+      "MaxConsume": 59
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 442,
+      "VisitRange": [
+        33,
+        36
+      ],
+      "SubType": 6,
+      "MinConsume": 59,
+      "MaxConsume": 65
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 443,
+      "VisitRange": [
+        36,
+        39
+      ],
+      "SubType": 6,
+      "MinConsume": 65,
+      "MaxConsume": 70
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 444,
+      "VisitRange": [
+        39,
+        42
+      ],
+      "SubType": 6,
+      "MinConsume": 70,
+      "MaxConsume": 76
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 445,
+      "VisitRange": [
+        42,
+        44
+      ],
+      "SubType": 6,
+      "MinConsume": 76,
+      "MaxConsume": 79
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 446,
+      "VisitRange": [
+        44,
+        47
+      ],
+      "SubType": 6,
+      "MinConsume": 79,
+      "MaxConsume": 85
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 447,
+      "VisitRange": [
+        47,
+        50
+      ],
+      "SubType": 6,
+      "MinConsume": 85,
+      "MaxConsume": 90
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 448,
+      "VisitRange": [
+        50,
+        53
+      ],
+      "SubType": 6,
+      "MinConsume": 90,
+      "MaxConsume": 95
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 449,
+      "VisitRange": [
+        53,
+        56
+      ],
+      "SubType": 6,
+      "MinConsume": 94,
+      "MaxConsume": 103
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 450,
+      "VisitRange": [
+        56,
+        58
+      ],
+      "SubType": 6,
+      "MinConsume": 99,
+      "MaxConsume": 106
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 451,
+      "VisitRange": [
+        58,
+        61
+      ],
+      "SubType": 6,
+      "MinConsume": 103,
+      "MaxConsume": 112
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 452,
+      "VisitRange": [
+        61,
+        64
+      ],
+      "SubType": 6,
+      "MinConsume": 108,
+      "MaxConsume": 117
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 453,
+      "VisitRange": [
+        64,
+        67
+      ],
+      "SubType": 6,
+      "MinConsume": 113,
+      "MaxConsume": 122
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 454,
+      "VisitRange": [
+        67,
+        69
+      ],
+      "SubType": 6,
+      "MinConsume": 119,
+      "MaxConsume": 126
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 455,
+      "VisitRange": [
+        69,
+        72
+      ],
+      "SubType": 6,
+      "MinConsume": 122,
+      "MaxConsume": 131
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 456,
+      "VisitRange": [
+        72,
+        75
+      ],
+      "SubType": 6,
+      "MinConsume": 128,
+      "MaxConsume": 137
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 457,
+      "VisitRange": [
+        75,
+        78
+      ],
+      "SubType": 6,
+      "MinConsume": 133,
+      "MaxConsume": 142
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 458,
+      "VisitRange": [
+        78,
+        81
+      ],
+      "SubType": 6,
+      "MinConsume": 139,
+      "MaxConsume": 148
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 459,
+      "VisitRange": [
+        81,
+        83
+      ],
+      "SubType": 6,
+      "MinConsume": 144,
+      "MaxConsume": 151
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 460,
+      "VisitRange": [
+        83,
+        89
+      ],
+      "SubType": 6,
+      "MinConsume": 148,
+      "MaxConsume": 162
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 461,
+      "VisitRange": [
+        89,
+        94
+      ],
+      "SubType": 6,
+      "MinConsume": 158,
+      "MaxConsume": 171
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 462,
+      "VisitRange": [
+        94,
+        100
+      ],
+      "SubType": 6,
+      "MinConsume": 167,
+      "MaxConsume": 182
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 463,
+      "VisitRange": [
+        100,
+        106
+      ],
+      "SubType": 6,
+      "MinConsume": 178,
+      "MaxConsume": 193
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 464,
+      "VisitRange": [
+        106,
+        111
+      ],
+      "SubType": 6,
+      "MinConsume": 189,
+      "MaxConsume": 202
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 465,
+      "VisitRange": [
+        111,
+        117
+      ],
+      "SubType": 6,
+      "MinConsume": 198,
+      "MaxConsume": 212
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 466,
+      "VisitRange": [
+        117,
+        122
+      ],
+      "SubType": 6,
+      "MinConsume": 209,
+      "MaxConsume": 221
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 467,
+      "VisitRange": [
+        122,
+        128
+      ],
+      "SubType": 6,
+      "MinConsume": 218,
+      "MaxConsume": 232
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 468,
+      "VisitRange": [
+        128,
+        133
+      ],
+      "SubType": 6,
+      "MinConsume": 229,
+      "MaxConsume": 241
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 469,
+      "VisitRange": [
+        133,
+        139
+      ],
+      "SubType": 6,
+      "MinConsume": 238,
+      "MaxConsume": 252
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 470,
+      "VisitRange": [
+        139,
+        144
+      ],
+      "SubType": 6,
+      "MinConsume": 248,
+      "MaxConsume": 261
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 471,
+      "VisitRange": [
+        144,
+        150
+      ],
+      "SubType": 6,
+      "MinConsume": 257,
+      "MaxConsume": 272
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 472,
+      "VisitRange": [
+        150,
+        156
+      ],
+      "SubType": 6,
+      "MinConsume": 268,
+      "MaxConsume": 283
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 473,
+      "VisitRange": [
+        156,
+        161
+      ],
+      "SubType": 6,
+      "MinConsume": 279,
+      "MaxConsume": 292
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 474,
+      "VisitRange": [
+        161,
+        167
+      ],
+      "SubType": 6,
+      "MinConsume": 288,
+      "MaxConsume": 302
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 475,
+      "VisitRange": [
+        167,
+        172
+      ],
+      "SubType": 6,
+      "MinConsume": 299,
+      "MaxConsume": 311
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 476,
+      "VisitRange": [
+        172,
+        178
+      ],
+      "SubType": 6,
+      "MinConsume": 308,
+      "MaxConsume": 322
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 477,
+      "VisitRange": [
+        178,
+        183
+      ],
+      "SubType": 6,
+      "MinConsume": 319,
+      "MaxConsume": 331
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 478,
+      "VisitRange": [
+        183,
+        189
+      ],
+      "SubType": 6,
+      "MinConsume": 328,
+      "MaxConsume": 342
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 479,
+      "VisitRange": [
+        189,
+        194
+      ],
+      "SubType": 6,
+      "MinConsume": 338,
+      "MaxConsume": 351
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 480,
+      "VisitRange": [
+        194,
+        200
+      ],
+      "SubType": 6,
+      "MinConsume": 347,
+      "MaxConsume": 362
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 481,
+      "VisitRange": [
+        200,
+        206
+      ],
+      "SubType": 6,
+      "MinConsume": 358,
+      "MaxConsume": 373
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 482,
+      "VisitRange": [
+        206,
+        211
+      ],
+      "SubType": 6,
+      "MinConsume": 369,
+      "MaxConsume": 382
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 483,
+      "VisitRange": [
+        211,
+        217
+      ],
+      "SubType": 6,
+      "MinConsume": 378,
+      "MaxConsume": 392
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 484,
+      "VisitRange": [
+        217,
+        222
+      ],
+      "SubType": 6,
+      "MinConsume": 389,
+      "MaxConsume": 401
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 485,
+      "VisitRange": [
+        222,
+        228
+      ],
+      "SubType": 6,
+      "MinConsume": 398,
+      "MaxConsume": 412
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 486,
+      "VisitRange": [
+        228,
+        233
+      ],
+      "SubType": 6,
+      "MinConsume": 409,
+      "MaxConsume": 421
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 487,
+      "VisitRange": [
+        233,
+        239
+      ],
+      "SubType": 6,
+      "MinConsume": 418,
+      "MaxConsume": 432
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 488,
+      "VisitRange": [
+        239,
+        244
+      ],
+      "SubType": 6,
+      "MinConsume": 428,
+      "MaxConsume": 441
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 489,
+      "VisitRange": [
+        244,
+        250
+      ],
+      "SubType": 6,
+      "MinConsume": 437,
+      "MaxConsume": 452
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 490,
+      "VisitRange": [
+        250,
+        256
+      ],
+      "SubType": 6,
+      "MinConsume": 448,
+      "MaxConsume": 463
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 491,
+      "VisitRange": [
+        256,
+        261
+      ],
+      "SubType": 6,
+      "MinConsume": 459,
+      "MaxConsume": 472
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 492,
+      "VisitRange": [
+        261,
+        267
+      ],
+      "SubType": 6,
+      "MinConsume": 468,
+      "MaxConsume": 482
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 493,
+      "VisitRange": [
+        267,
+        272
+      ],
+      "SubType": 6,
+      "MinConsume": 479,
+      "MaxConsume": 491
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 494,
+      "VisitRange": [
+        272,
+        278
+      ],
+      "SubType": 6,
+      "MinConsume": 488,
+      "MaxConsume": 502
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 495,
+      "VisitRange": [
+        278,
+        292
+      ],
+      "SubType": 6,
+      "MinConsume": 499,
+      "MaxConsume": 527
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 496,
+      "VisitRange": [
+        292,
+        306
+      ],
+      "SubType": 6,
+      "MinConsume": 524,
+      "MaxConsume": 553
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 497,
+      "VisitRange": [
+        306,
+        319
+      ],
+      "SubType": 6,
+      "MinConsume": 549,
+      "MaxConsume": 576
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 498,
+      "VisitRange": [
+        319,
+        333
+      ],
+      "SubType": 6,
+      "MinConsume": 572,
+      "MaxConsume": 601
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 499,
+      "VisitRange": [
+        333,
+        347
+      ],
+      "SubType": 6,
+      "MinConsume": 598,
+      "MaxConsume": 626
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 500,
+      "VisitRange": [
+        347,
+        361
+      ],
+      "SubType": 6,
+      "MinConsume": 623,
+      "MaxConsume": 652
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 501,
+      "VisitRange": [
+        361,
+        375
+      ],
+      "SubType": 6,
+      "MinConsume": 648,
+      "MaxConsume": 677
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 502,
+      "VisitRange": [
+        375,
+        389
+      ],
+      "SubType": 6,
+      "MinConsume": 673,
+      "MaxConsume": 702
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 503,
+      "VisitRange": [
+        389,
+        403
+      ],
+      "SubType": 6,
+      "MinConsume": 698,
+      "MaxConsume": 727
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 504,
+      "VisitRange": [
+        403,
+        417
+      ],
+      "SubType": 6,
+      "MinConsume": 724,
+      "MaxConsume": 752
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 505,
+      "VisitRange": [
+        417,
+        431
+      ],
+      "SubType": 6,
+      "MinConsume": 749,
+      "MaxConsume": 778
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 506,
+      "VisitRange": [
+        431,
+        444
+      ],
+      "SubType": 6,
+      "MinConsume": 774,
+      "MaxConsume": 801
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 507,
+      "VisitRange": [
+        444,
+        458
+      ],
+      "SubType": 6,
+      "MinConsume": 797,
+      "MaxConsume": 826
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 508,
+      "VisitRange": [
+        458,
+        472
+      ],
+      "SubType": 6,
+      "MinConsume": 823,
+      "MaxConsume": 851
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 509,
+      "VisitRange": [
+        472,
+        486
+      ],
+      "SubType": 6,
+      "MinConsume": 848,
+      "MaxConsume": 877
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 510,
+      "VisitRange": [
+        486,
+        500
+      ],
+      "SubType": 6,
+      "MinConsume": 873,
+      "MaxConsume": 902
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 511,
+      "VisitRange": [
+        500,
+        514
+      ],
+      "SubType": 6,
+      "MinConsume": 898,
+      "MaxConsume": 927
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 512,
+      "VisitRange": [
+        514,
+        528
+      ],
+      "SubType": 6,
+      "MinConsume": 923,
+      "MaxConsume": 952
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 513,
+      "VisitRange": [
+        528,
+        542
+      ],
+      "SubType": 6,
+      "MinConsume": 949,
+      "MaxConsume": 977
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 514,
+      "VisitRange": [
+        542,
+        556
+      ],
+      "SubType": 6,
+      "MinConsume": 974,
+      "MaxConsume": 1003
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 515,
+      "VisitRange": [
+        556,
+        569
+      ],
+      "SubType": 6,
+      "MinConsume": 999,
+      "MaxConsume": 1026
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 516,
+      "VisitRange": [
+        569,
+        583
+      ],
+      "SubType": 6,
+      "MinConsume": 1022,
+      "MaxConsume": 1051
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 517,
+      "VisitRange": [
+        583,
+        597
+      ],
+      "SubType": 6,
+      "MinConsume": 1048,
+      "MaxConsume": 1076
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 518,
+      "VisitRange": [
+        597,
+        611
+      ],
+      "SubType": 6,
+      "MinConsume": 1073,
+      "MaxConsume": 1102
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 519,
+      "VisitRange": [
+        611,
+        625
+      ],
+      "SubType": 6,
+      "MinConsume": 1098,
+      "MaxConsume": 1127
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 520,
+      "VisitRange": [
+        625,
+        639
+      ],
+      "SubType": 6,
+      "MinConsume": 1123,
+      "MaxConsume": 1152
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 521,
+      "VisitRange": [
+        639,
+        653
+      ],
+      "SubType": 6,
+      "MinConsume": 1148,
+      "MaxConsume": 1177
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 522,
+      "VisitRange": [
+        653,
+        667
+      ],
+      "SubType": 6,
+      "MinConsume": 1174,
+      "MaxConsume": 1202
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 523,
+      "VisitRange": [
+        667,
+        681
+      ],
+      "SubType": 6,
+      "MinConsume": 1199,
+      "MaxConsume": 1228
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 524,
+      "VisitRange": [
+        681,
+        695
+      ],
+      "SubType": 6,
+      "MinConsume": 1224,
+      "MaxConsume": 1253
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 525,
+      "VisitRange": [
+        695,
+        708
+      ],
+      "SubType": 6,
+      "MinConsume": 1249,
+      "MaxConsume": 1276
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 526,
+      "VisitRange": [
+        708,
+        722
+      ],
+      "SubType": 6,
+      "MinConsume": 1273,
+      "MaxConsume": 1301
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 527,
+      "VisitRange": [
+        722,
+        736
+      ],
+      "SubType": 6,
+      "MinConsume": 1298,
+      "MaxConsume": 1327
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 528,
+      "VisitRange": [
+        736,
+        750
+      ],
+      "SubType": 6,
+      "MinConsume": 1323,
+      "MaxConsume": 1352
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 529,
+      "VisitRange": [
+        750,
+        764
+      ],
+      "SubType": 6,
+      "MinConsume": 1348,
+      "MaxConsume": 1377
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 530,
+      "VisitRange": [
+        764,
+        778
+      ],
+      "SubType": 6,
+      "MinConsume": 1373,
+      "MaxConsume": 1402
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 531,
+      "VisitRange": [
+        778,
+        792
+      ],
+      "SubType": 6,
+      "MinConsume": 1399,
+      "MaxConsume": 1427
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 532,
+      "VisitRange": [
+        792,
+        806
+      ],
+      "SubType": 6,
+      "MinConsume": 1424,
+      "MaxConsume": 1453
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 533,
+      "VisitRange": [
+        806,
+        820
+      ],
+      "SubType": 6,
+      "MinConsume": 1449,
+      "MaxConsume": 1478
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 534,
+      "VisitRange": [
+        820,
+        833
+      ],
+      "SubType": 6,
+      "MinConsume": 1474,
+      "MaxConsume": 1501
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 535,
+      "VisitRange": [
+        833,
+        847
+      ],
+      "SubType": 6,
+      "MinConsume": 1498,
+      "MaxConsume": 1526
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 536,
+      "VisitRange": [
+        847,
+        861
+      ],
+      "SubType": 6,
+      "MinConsume": 1523,
+      "MaxConsume": 1552
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 537,
+      "VisitRange": [
+        861,
+        875
+      ],
+      "SubType": 6,
+      "MinConsume": 1548,
+      "MaxConsume": 1577
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 538,
+      "VisitRange": [
+        875,
+        889
+      ],
+      "SubType": 6,
+      "MinConsume": 1573,
+      "MaxConsume": 1602
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 539,
+      "VisitRange": [
+        889,
+        903
+      ],
+      "SubType": 6,
+      "MinConsume": 1598,
+      "MaxConsume": 1627
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 540,
+      "VisitRange": [
+        903,
+        917
+      ],
+      "SubType": 6,
+      "MinConsume": 1624,
+      "MaxConsume": 1652
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 541,
+      "VisitRange": [
+        917,
+        931
+      ],
+      "SubType": 6,
+      "MinConsume": 1649,
+      "MaxConsume": 1678
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 542,
+      "VisitRange": [
+        931,
+        1070
+      ],
+      "SubType": 6,
+      "MinConsume": 1674,
+      "MaxConsume": 1928
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 543,
+      "VisitRange": [
+        1070,
+        1208
+      ],
+      "SubType": 6,
+      "MinConsume": 1924,
+      "MaxConsume": 2176
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 544,
+      "VisitRange": [
+        1208,
+        1347
+      ],
+      "SubType": 6,
+      "MinConsume": 2173,
+      "MaxConsume": 2426
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 545,
+      "VisitRange": [
+        1347,
+        1486
+      ],
+      "SubType": 6,
+      "MinConsume": 2423,
+      "MaxConsume": 2677
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 546,
+      "VisitRange": [
+        1486,
+        1625
+      ],
+      "SubType": 6,
+      "MinConsume": 2673,
+      "MaxConsume": 2927
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 547,
+      "VisitRange": [
+        1625,
+        1764
+      ],
+      "SubType": 6,
+      "MinConsume": 2923,
+      "MaxConsume": 3177
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 548,
+      "VisitRange": [
+        1764,
+        1903
+      ],
+      "SubType": 6,
+      "MinConsume": 3173,
+      "MaxConsume": 3427
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 549,
+      "VisitRange": [
+        1903,
+        2042
+      ],
+      "SubType": 6,
+      "MinConsume": 3424,
+      "MaxConsume": 3677
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 550,
+      "VisitRange": [
+        2042,
+        2181
+      ],
+      "SubType": 6,
+      "MinConsume": 3674,
+      "MaxConsume": 3928
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 551,
+      "VisitRange": [
+        2181,
+        2320
+      ],
+      "SubType": 6,
+      "MinConsume": 3924,
+      "MaxConsume": 4178
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 552,
+      "VisitRange": [
+        2320,
+        2459
+      ],
+      "SubType": 6,
+      "MinConsume": 4174,
+      "MaxConsume": 4428
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 553,
+      "VisitRange": [
+        2459,
+        2597
+      ],
+      "SubType": 6,
+      "MinConsume": 4424,
+      "MaxConsume": 4676
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 554,
+      "VisitRange": [
+        2597,
+        2736
+      ],
+      "SubType": 6,
+      "MinConsume": 4673,
+      "MaxConsume": 4927
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 555,
+      "VisitRange": [
+        2736,
+        2875
+      ],
+      "SubType": 6,
+      "MinConsume": 4923,
+      "MaxConsume": 5177
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 556,
+      "VisitRange": [
+        2875,
+        3014
+      ],
+      "SubType": 6,
+      "MinConsume": 5173,
+      "MaxConsume": 5427
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 557,
+      "VisitRange": [
+        3014,
+        3153
+      ],
+      "SubType": 6,
+      "MinConsume": 5423,
+      "MaxConsume": 5677
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 558,
+      "VisitRange": [
+        3153,
+        3292
+      ],
+      "SubType": 6,
+      "MinConsume": 5674,
+      "MaxConsume": 5927
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 559,
+      "VisitRange": [
+        3292,
+        3431
+      ],
+      "SubType": 6,
+      "MinConsume": 5924,
+      "MaxConsume": 6178
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 560,
+      "VisitRange": [
+        3431,
+        3570
+      ],
+      "SubType": 6,
+      "MinConsume": 6174,
+      "MaxConsume": 6428
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 561,
+      "VisitRange": [
+        3570,
+        3709
+      ],
+      "SubType": 6,
+      "MinConsume": 6424,
+      "MaxConsume": 6678
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 562,
+      "VisitRange": [
+        3709,
+        3848
+      ],
+      "SubType": 6,
+      "MinConsume": 6674,
+      "MaxConsume": 6928
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 563,
+      "VisitRange": [
+        3848,
+        3986
+      ],
+      "SubType": 6,
+      "MinConsume": 6925,
+      "MaxConsume": 7177
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 564,
+      "VisitRange": [
+        3986,
+        4125
+      ],
+      "SubType": 6,
+      "MinConsume": 7173,
+      "MaxConsume": 7427
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 565,
+      "VisitRange": [
+        4125,
+        4264
+      ],
+      "SubType": 6,
+      "MinConsume": 7423,
+      "MaxConsume": 7677
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 566,
+      "VisitRange": [
+        4264,
+        4403
+      ],
+      "SubType": 6,
+      "MinConsume": 7673,
+      "MaxConsume": 7927
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 567,
+      "VisitRange": [
+        4403,
+        4542
+      ],
+      "SubType": 6,
+      "MinConsume": 7924,
+      "MaxConsume": 8177
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 568,
+      "VisitRange": [
+        4542,
+        4681
+      ],
+      "SubType": 6,
+      "MinConsume": 8174,
+      "MaxConsume": 8428
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 569,
+      "VisitRange": [
+        4681,
+        4820
+      ],
+      "SubType": 6,
+      "MinConsume": 8424,
+      "MaxConsume": 8678
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 570,
+      "VisitRange": [
+        4820,
+        4959
+      ],
+      "SubType": 6,
+      "MinConsume": 8674,
+      "MaxConsume": 8928
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 571,
+      "VisitRange": [
+        4959,
+        5098
+      ],
+      "SubType": 6,
+      "MinConsume": 8924,
+      "MaxConsume": 9178
+    }
+  },
+  {
+    "LuckPushDynamic1Row": {
+      "ID": 572,
+      "VisitRange": [
+        5098,
+        2777997
+      ],
+      "SubType": 6,
+      "MinConsume": 9175,
+      "MaxConsume": 5000396
+    }
+  }
+]

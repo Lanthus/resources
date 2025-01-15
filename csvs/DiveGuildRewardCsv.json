@@ -1,0 +1,114 @@
+[
+  {
+    "DiveGuildRewardRow": {
+      "ID": 1,
+      "ConnectActivityId": 20241201,
+      "BridgeNeed": 1000,
+      "Rewards": [
+        [
+          31,
+          2
+        ]
+      ],
+      "LanguageID": 500321
+    }
+  },
+  {
+    "DiveGuildRewardRow": {
+      "ID": 2,
+      "ConnectActivityId": 20241201,
+      "BridgeNeed": 1500,
+      "Rewards": [
+        [
+          31,
+          2
+        ]
+      ],
+      "LanguageID": 500321
+    }
+  },
+  {
+    "DiveGuildRewardRow": {
+      "ID": 3,
+      "ConnectActivityId": 20241201,
+      "BridgeNeed": 2400,
+      "Rewards": [
+        [
+          31,
+          3
+        ]
+      ],
+      "LanguageID": 500321
+    }
+  },
+  {
+    "DiveGuildRewardRow": {
+      "ID": 4,
+      "ConnectActivityId": 20241201,
+      "BridgeNeed": 3750,
+      "Rewards": [
+        [
+          31,
+          3
+        ]
+      ],
+      "LanguageID": 500321
+    }
+  },
+  {
+    "DiveGuildRewardRow": {
+      "ID": 5,
+      "ConnectActivityId": 20241201,
+      "BridgeNeed": 6000,
+      "Rewards": [
+        [
+          31,
+          5
+        ]
+      ],
+      "LanguageID": 500321
+    }
+  },
+  {
+    "DiveGuildRewardRow": {
+      "ID": 6,
+      "ConnectActivityId": 20241201,
+      "BridgeNeed": 10000,
+      "Rewards": [
+        [
+          31,
+          5
+        ]
+      ],
+      "LanguageID": 500321
+    }
+  },
+  {
+    "DiveGuildRewardRow": {
+      "ID": 7,
+      "ConnectActivityId": 20241201,
+      "BridgeNeed": 15000,
+      "Rewards": [
+        [
+          31,
+          10
+        ]
+      ],
+      "LanguageID": 500321
+    }
+  },
+  {
+    "DiveGuildRewardRow": {
+      "ID": 8,
+      "ConnectActivityId": 20241201,
+      "BridgeNeed": 21000,
+      "Rewards": [
+        [
+          31107,
+          1
+        ]
+      ],
+      "LanguageID": 500321
+    }
+  }
+]

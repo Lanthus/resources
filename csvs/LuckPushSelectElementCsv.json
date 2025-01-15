@@ -1,0 +1,212 @@
+[
+  {
+    "LuckPushSelectElementRow": {
+      "ID": 1,
+      "Item": [
+        32234,
+        1
+      ],
+      "SlectItem1": 2,
+      "SlectItem2": 4,
+      "ItemLv1": [
+        32234,
+        5
+      ],
+      "ItemLv2": [
+        32105,
+        1
+      ],
+      "Time1": 1,
+      "Time2": 1
+    }
+  },
+  {
+    "LuckPushSelectElementRow": {
+      "ID": 2,
+      "Item": [
+        6199,
+        1
+      ],
+      "SlectItem1": 1,
+      "SlectItem2": 2,
+      "ItemLv1": [
+        6199,
+        3
+      ],
+      "ItemLv2": [
+        32105,
+        1
+      ],
+      "Time1": 1,
+      "Time2": 1
+    }
+  },
+  {
+    "LuckPushSelectElementRow": {
+      "ID": 3,
+      "Item": [
+        6100,
+        2
+      ],
+      "SlectItem1": 1,
+      "SlectItem2": 2,
+      "ItemLv1": [
+        6199,
+        2
+      ],
+      "ItemLv2": [
+        32105,
+        1
+      ],
+      "Time1": 1,
+      "Time2": 1
+    }
+  },
+  {
+    "LuckPushSelectElementRow": {
+      "ID": 4,
+      "Item": [
+        30303,
+        2
+      ],
+      "SlectItem1": 1,
+      "SlectItem2": 2,
+      "ItemLv1": [
+        30304,
+        1
+      ],
+      "ItemLv2": [
+        32105,
+        1
+      ],
+      "Time1": 1,
+      "Time2": 1
+    }
+  },
+  {
+    "LuckPushSelectElementRow": {
+      "ID": 5,
+      "Item": [
+        30311,
+        2
+      ],
+      "SlectItem1": 2,
+      "SlectItem2": 4,
+      "ItemLv1": [
+        30310,
+        2
+      ],
+      "ItemLv2": [
+        32105,
+        1
+      ],
+      "Time1": 1,
+      "Time2": 1
+    }
+  },
+  {
+    "LuckPushSelectElementRow": {
+      "ID": 6,
+      "Item": [
+        30312,
+        3
+      ],
+      "SlectItem1": 5,
+      "SlectItem2": 10,
+      "ItemLv1": [
+        30311,
+        6
+      ],
+      "ItemLv2": [
+        32105,
+        1
+      ],
+      "Time1": 1,
+      "Time2": 1
+    }
+  },
+  {
+    "LuckPushSelectElementRow": {
+      "ID": 7,
+      "Item": [
+        7,
+        1
+      ],
+      "SlectItem1": 1,
+      "SlectItem2": 2,
+      "ItemLv1": [
+        30204,
+        1
+      ],
+      "ItemLv2": [
+        32105,
+        1
+      ],
+      "Time1": 1,
+      "Time2": 1
+    }
+  },
+  {
+    "LuckPushSelectElementRow": {
+      "ID": 8,
+      "Item": [
+        31,
+        1
+      ],
+      "SlectItem1": 1,
+      "SlectItem2": 2,
+      "ItemLv1": [
+        31,
+        3
+      ],
+      "ItemLv2": [
+        32105,
+        1
+      ],
+      "Time1": 1,
+      "Time2": 1
+    }
+  },
+  {
+    "LuckPushSelectElementRow": {
+      "ID": 9,
+      "Item": [
+        65,
+        1
+      ],
+      "SlectItem1": 1,
+      "SlectItem2": 2,
+      "ItemLv1": [
+        65,
+        3
+      ],
+      "ItemLv2": [
+        32105,
+        1
+      ],
+      "Time1": 1,
+      "Time2": 1
+    }
+  },
+  {
+    "LuckPushSelectElementRow": {
+      "ID": 10,
+      "Item": [
+        63,
+        1
+      ],
+      "SlectItem1": 1,
+      "SlectItem2": 2,
+      "ItemLv1": [
+        32203,
+        1
+      ],
+      "ItemLv2": [
+        32105,
+        1
+      ],
+      "Time1": 1,
+      "Time2": 1
+    }
+  }
+]

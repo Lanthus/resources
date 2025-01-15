@@ -1,0 +1,223 @@
+[
+  {
+    "FestivalTaskSumRow": {
+      "ID": 2024061001,
+      "ConnectActivityId": 20240610,
+      "Need": 2,
+      "Reward": [
+        [
+          6100,
+          3
+        ]
+      ]
+    }
+  },
+  {
+    "FestivalTaskSumRow": {
+      "ID": 2024061002,
+      "ConnectActivityId": 20240610,
+      "Need": 4,
+      "Reward": [
+        [
+          1113,
+          1
+        ]
+      ]
+    }
+  },
+  {
+    "FestivalTaskSumRow": {
+      "ID": 2024061003,
+      "ConnectActivityId": 20240610,
+      "Need": 6,
+      "Reward": [
+        [
+          7,
+          5
+        ]
+      ]
+    }
+  },
+  {
+    "FestivalTaskSumRow": {
+      "ID": 2024061004,
+      "ConnectActivityId": 20240610,
+      "Need": 8,
+      "Reward": [
+        [
+          1113,
+          1
+        ]
+      ]
+    }
+  },
+  {
+    "FestivalTaskSumRow": {
+      "ID": 2024061005,
+      "ConnectActivityId": 20240610,
+      "Need": 12,
+      "Reward": [
+        [
+          63,
+          5
+        ]
+      ]
+    }
+  },
+  {
+    "FestivalTaskSumRow": {
+      "ID": 2024061006,
+      "ConnectActivityId": 20240610,
+      "Need": 16,
+      "Reward": [
+        [
+          1113,
+          2
+        ]
+      ]
+    }
+  },
+  {
+    "FestivalTaskSumRow": {
+      "ID": 2024061007,
+      "ConnectActivityId": 20240610,
+      "Need": 20,
+      "Reward": [
+        [
+          6199,
+          5
+        ]
+      ]
+    }
+  },
+  {
+    "FestivalTaskSumRow": {
+      "ID": 2024061008,
+      "ConnectActivityId": 20240610,
+      "Need": 25,
+      "Reward": [
+        [
+          1113,
+          2
+        ]
+      ]
+    }
+  },
+  {
+    "FestivalTaskSumRow": {
+      "ID": 2024061009,
+      "ConnectActivityId": 20240610,
+      "Need": 30,
+      "Reward": [
+        [
+          6199,
+          5
+        ]
+      ]
+    }
+  },
+  {
+    "FestivalTaskSumRow": {
+      "ID": 2024061010,
+      "ConnectActivityId": 20240610,
+      "Need": 35,
+      "Reward": [
+        [
+          31,
+          5
+        ]
+      ]
+    }
+  },
+  {
+    "FestivalTaskSumRow": {
+      "ID": 2024061011,
+      "ConnectActivityId": 20240610,
+      "Need": 40,
+      "Reward": [
+        [
+          1113,
+          4
+        ]
+      ]
+    }
+  },
+  {
+    "FestivalTaskSumRow": {
+      "ID": 2024061012,
+      "ConnectActivityId": 20240610,
+      "Need": 45,
+      "Reward": [
+        [
+          6199,
+          10
+        ]
+      ]
+    }
+  },
+  {
+    "FestivalTaskSumRow": {
+      "ID": 2024061013,
+      "ConnectActivityId": 20240610,
+      "Need": 50,
+      "Reward": [
+        [
+          31,
+          10
+        ]
+      ]
+    }
+  },
+  {
+    "FestivalTaskSumRow": {
+      "ID": 2024061014,
+      "ConnectActivityId": 20240610,
+      "Need": 55,
+      "Reward": [
+        [
+          31213,
+          1
+        ]
+      ]
+    }
+  },
+  {
+    "FestivalTaskSumRow": {
+      "ID": 2024061015,
+      "ConnectActivityId": 20240610,
+      "Need": 60,
+      "Reward": [
+        [
+          6199,
+          20
+        ]
+      ]
+    }
+  },
+  {
+    "FestivalTaskSumRow": {
+      "ID": 2024061016,
+      "ConnectActivityId": 20240610,
+      "Need": 70,
+      "Reward": [
+        [
+          31,
+          20
+        ]
+      ]
+    }
+  },
+  {
+    "FestivalTaskSumRow": {
+      "ID": 2024061017,
+      "ConnectActivityId": 20240610,
+      "Need": 80,
+      "Reward": [
+        [
+          31107,
+          1
+        ]
+      ]
+    }
+  }
+]

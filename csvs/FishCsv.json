@@ -1,0 +1,618 @@
+[
+  {
+    "FishRow": {
+      "ID": 1386,
+      "Area": 1,
+      "Type": 1,
+      "Number": 15,
+      "Weight": 300,
+      "WeightFloat": [
+        75,
+        125
+      ],
+      "InitialDamage": 25,
+      "Strength": 1250,
+      "Speed": 400,
+      "ActionList": [
+        1,
+        2
+      ],
+      "DropID": [
+        389
+      ],
+      "FishKingReward": 0
+    }
+  },
+  {
+    "FishRow": {
+      "ID": 1387,
+      "Area": 1,
+      "Type": 1,
+      "Number": 10,
+      "Weight": 600,
+      "WeightFloat": [
+        75,
+        125
+      ],
+      "InitialDamage": 25,
+      "Strength": 1250,
+      "Speed": 400,
+      "ActionList": [
+        1,
+        2
+      ],
+      "DropID": [
+        389
+      ],
+      "FishKingReward": 0
+    }
+  },
+  {
+    "FishRow": {
+      "ID": 1388,
+      "Area": 1,
+      "Type": 1,
+      "Number": 5,
+      "Weight": 900,
+      "WeightFloat": [
+        75,
+        125
+      ],
+      "InitialDamage": 25,
+      "Strength": 1250,
+      "Speed": 400,
+      "ActionList": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "DropID": [
+        389
+      ],
+      "FishKingReward": 0
+    }
+  },
+  {
+    "FishRow": {
+      "ID": 1389,
+      "Area": 1,
+      "Type": 2,
+      "Number": 6,
+      "Weight": 1500,
+      "WeightFloat": [
+        75,
+        125
+      ],
+      "InitialDamage": 35,
+      "Strength": 1300,
+      "Speed": 450,
+      "ActionList": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "DropID": [
+        390
+      ],
+      "FishKingReward": 0
+    }
+  },
+  {
+    "FishRow": {
+      "ID": 1390,
+      "Area": 1,
+      "Type": 2,
+      "Number": 3,
+      "Weight": 3000,
+      "WeightFloat": [
+        75,
+        125
+      ],
+      "InitialDamage": 35,
+      "Strength": 1300,
+      "Speed": 450,
+      "ActionList": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "DropID": [
+        390
+      ],
+      "FishKingReward": 0
+    }
+  },
+  {
+    "FishRow": {
+      "ID": 1391,
+      "Area": 1,
+      "Type": 3,
+      "Number": 1,
+      "Weight": 6000,
+      "WeightFloat": [
+        75,
+        125
+      ],
+      "InitialDamage": 50,
+      "Strength": 1350,
+      "Speed": 550,
+      "ActionList": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "DropID": [
+        391
+      ],
+      "FishKingReward": 1
+    }
+  },
+  {
+    "FishRow": {
+      "ID": 1392,
+      "Area": 2,
+      "Type": 1,
+      "Number": 15,
+      "Weight": 480,
+      "WeightFloat": [
+        75,
+        125
+      ],
+      "InitialDamage": 40,
+      "Strength": 1450,
+      "Speed": 900,
+      "ActionList": [
+        1,
+        2
+      ],
+      "DropID": [
+        389
+      ],
+      "FishKingReward": 0
+    }
+  },
+  {
+    "FishRow": {
+      "ID": 1393,
+      "Area": 2,
+      "Type": 1,
+      "Number": 10,
+      "Weight": 960,
+      "WeightFloat": [
+        75,
+        125
+      ],
+      "InitialDamage": 40,
+      "Strength": 1450,
+      "Speed": 900,
+      "ActionList": [
+        1,
+        2
+      ],
+      "DropID": [
+        389
+      ],
+      "FishKingReward": 0
+    }
+  },
+  {
+    "FishRow": {
+      "ID": 1394,
+      "Area": 2,
+      "Type": 1,
+      "Number": 5,
+      "Weight": 1440,
+      "WeightFloat": [
+        75,
+        125
+      ],
+      "InitialDamage": 40,
+      "Strength": 1450,
+      "Speed": 900,
+      "ActionList": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "DropID": [
+        389
+      ],
+      "FishKingReward": 0
+    }
+  },
+  {
+    "FishRow": {
+      "ID": 1395,
+      "Area": 2,
+      "Type": 2,
+      "Number": 6,
+      "Weight": 2400,
+      "WeightFloat": [
+        75,
+        125
+      ],
+      "InitialDamage": 50,
+      "Strength": 1500,
+      "Speed": 950,
+      "ActionList": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "DropID": [
+        390
+      ],
+      "FishKingReward": 0
+    }
+  },
+  {
+    "FishRow": {
+      "ID": 1396,
+      "Area": 2,
+      "Type": 2,
+      "Number": 3,
+      "Weight": 4800,
+      "WeightFloat": [
+        75,
+        125
+      ],
+      "InitialDamage": 50,
+      "Strength": 1500,
+      "Speed": 950,
+      "ActionList": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "DropID": [
+        390
+      ],
+      "FishKingReward": 0
+    }
+  },
+  {
+    "FishRow": {
+      "ID": 1397,
+      "Area": 2,
+      "Type": 3,
+      "Number": 1,
+      "Weight": 9600,
+      "WeightFloat": [
+        75,
+        125
+      ],
+      "InitialDamage": 65,
+      "Strength": 1550,
+      "Speed": 1000,
+      "ActionList": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "DropID": [
+        391
+      ],
+      "FishKingReward": 1
+    }
+  },
+  {
+    "FishRow": {
+      "ID": 1398,
+      "Area": 3,
+      "Type": 1,
+      "Number": 15,
+      "Weight": 800,
+      "WeightFloat": [
+        75,
+        125
+      ],
+      "InitialDamage": 65,
+      "Strength": 1650,
+      "Speed": 1300,
+      "ActionList": [
+        1,
+        2
+      ],
+      "DropID": [
+        389
+      ],
+      "FishKingReward": 0
+    }
+  },
+  {
+    "FishRow": {
+      "ID": 1399,
+      "Area": 3,
+      "Type": 1,
+      "Number": 10,
+      "Weight": 1200,
+      "WeightFloat": [
+        75,
+        125
+      ],
+      "InitialDamage": 65,
+      "Strength": 1650,
+      "Speed": 1300,
+      "ActionList": [
+        1,
+        2
+      ],
+      "DropID": [
+        389
+      ],
+      "FishKingReward": 0
+    }
+  },
+  {
+    "FishRow": {
+      "ID": 1400,
+      "Area": 3,
+      "Type": 1,
+      "Number": 5,
+      "Weight": 2400,
+      "WeightFloat": [
+        75,
+        125
+      ],
+      "InitialDamage": 65,
+      "Strength": 1650,
+      "Speed": 1300,
+      "ActionList": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "DropID": [
+        389
+      ],
+      "FishKingReward": 0
+    }
+  },
+  {
+    "FishRow": {
+      "ID": 1401,
+      "Area": 3,
+      "Type": 2,
+      "Number": 6,
+      "Weight": 4000,
+      "WeightFloat": [
+        75,
+        125
+      ],
+      "InitialDamage": 75,
+      "Strength": 1700,
+      "Speed": 1350,
+      "ActionList": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "DropID": [
+        390
+      ],
+      "FishKingReward": 0
+    }
+  },
+  {
+    "FishRow": {
+      "ID": 1402,
+      "Area": 3,
+      "Type": 2,
+      "Number": 3,
+      "Weight": 6400,
+      "WeightFloat": [
+        75,
+        125
+      ],
+      "InitialDamage": 75,
+      "Strength": 1700,
+      "Speed": 1350,
+      "ActionList": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "DropID": [
+        390
+      ],
+      "FishKingReward": 0
+    }
+  },
+  {
+    "FishRow": {
+      "ID": 1403,
+      "Area": 3,
+      "Type": 3,
+      "Number": 1,
+      "Weight": 14400,
+      "WeightFloat": [
+        75,
+        125
+      ],
+      "InitialDamage": 90,
+      "Strength": 1750,
+      "Speed": 1400,
+      "ActionList": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "DropID": [
+        391
+      ],
+      "FishKingReward": 1
+    }
+  },
+  {
+    "FishRow": {
+      "ID": 1404,
+      "Area": 4,
+      "Type": 1,
+      "Number": 30,
+      "Weight": 1600,
+      "WeightFloat": [
+        75,
+        125
+      ],
+      "InitialDamage": 90,
+      "Strength": 1850,
+      "Speed": 1750,
+      "ActionList": [
+        1,
+        2
+      ],
+      "DropID": [
+        389
+      ],
+      "FishKingReward": 0
+    }
+  },
+  {
+    "FishRow": {
+      "ID": 1405,
+      "Area": 4,
+      "Type": 1,
+      "Number": 20,
+      "Weight": 2400,
+      "WeightFloat": [
+        75,
+        125
+      ],
+      "InitialDamage": 90,
+      "Strength": 1850,
+      "Speed": 1750,
+      "ActionList": [
+        1,
+        2
+      ],
+      "DropID": [
+        389
+      ],
+      "FishKingReward": 0
+    }
+  },
+  {
+    "FishRow": {
+      "ID": 1406,
+      "Area": 4,
+      "Type": 1,
+      "Number": 10,
+      "Weight": 4800,
+      "WeightFloat": [
+        75,
+        125
+      ],
+      "InitialDamage": 90,
+      "Strength": 1850,
+      "Speed": 1750,
+      "ActionList": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "DropID": [
+        389
+      ],
+      "FishKingReward": 0
+    }
+  },
+  {
+    "FishRow": {
+      "ID": 1407,
+      "Area": 4,
+      "Type": 2,
+      "Number": 12,
+      "Weight": 8000,
+      "WeightFloat": [
+        75,
+        125
+      ],
+      "InitialDamage": 100,
+      "Strength": 1900,
+      "Speed": 1800,
+      "ActionList": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "DropID": [
+        390
+      ],
+      "FishKingReward": 0
+    }
+  },
+  {
+    "FishRow": {
+      "ID": 1408,
+      "Area": 4,
+      "Type": 2,
+      "Number": 6,
+      "Weight": 12800,
+      "WeightFloat": [
+        75,
+        125
+      ],
+      "InitialDamage": 100,
+      "Strength": 1900,
+      "Speed": 1800,
+      "ActionList": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "DropID": [
+        390
+      ],
+      "FishKingReward": 0
+    }
+  },
+  {
+    "FishRow": {
+      "ID": 1409,
+      "Area": 4,
+      "Type": 3,
+      "Number": 2,
+      "Weight": 28800,
+      "WeightFloat": [
+        75,
+        125
+      ],
+      "InitialDamage": 120,
+      "Strength": 1950,
+      "Speed": 1850,
+      "ActionList": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "DropID": [
+        391
+      ],
+      "FishKingReward": 1
+    }
+  }
+]

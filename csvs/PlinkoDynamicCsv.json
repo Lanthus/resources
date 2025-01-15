@@ -1,0 +1,1673 @@
+[
+  {
+    "PlinkoDynamicRow": {
+      "ID": 1,
+      "ComsumRange": [
+        500
+      ],
+      "MinValue": 0,
+      "MaxValue": 13000
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 2,
+      "ComsumRange": [
+        501,
+        600
+      ],
+      "MinValue": 10020,
+      "MaxValue": 15240
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 3,
+      "ComsumRange": [
+        601,
+        700
+      ],
+      "MinValue": 12020,
+      "MaxValue": 17360
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 4,
+      "ComsumRange": [
+        701,
+        800
+      ],
+      "MinValue": 14020,
+      "MaxValue": 19360
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 5,
+      "ComsumRange": [
+        801,
+        900
+      ],
+      "MinValue": 16020,
+      "MaxValue": 21240
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 6,
+      "ComsumRange": [
+        901,
+        1000
+      ],
+      "MinValue": 18020,
+      "MaxValue": 23000
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 7,
+      "ComsumRange": [
+        1001,
+        1100
+      ],
+      "MinValue": 20020,
+      "MaxValue": 24640
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 8,
+      "ComsumRange": [
+        1101,
+        1200
+      ],
+      "MinValue": 22020,
+      "MaxValue": 26160
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 9,
+      "ComsumRange": [
+        1201,
+        1300
+      ],
+      "MinValue": 24020,
+      "MaxValue": 27560
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 10,
+      "ComsumRange": [
+        1301,
+        1400
+      ],
+      "MinValue": 26020,
+      "MaxValue": 29400
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 11,
+      "ComsumRange": [
+        1401,
+        1500
+      ],
+      "MinValue": 28020,
+      "MaxValue": 31500
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 12,
+      "ComsumRange": [
+        1501,
+        1600
+      ],
+      "MinValue": 30020,
+      "MaxValue": 33600
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 13,
+      "ComsumRange": [
+        1601,
+        1700
+      ],
+      "MinValue": 32020,
+      "MaxValue": 35700
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 14,
+      "ComsumRange": [
+        1701,
+        1800
+      ],
+      "MinValue": 34020,
+      "MaxValue": 37800
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 15,
+      "ComsumRange": [
+        1801,
+        1900
+      ],
+      "MinValue": 36020,
+      "MaxValue": 39900
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 16,
+      "ComsumRange": [
+        1901,
+        2000
+      ],
+      "MinValue": 38020,
+      "MaxValue": 42000
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 17,
+      "ComsumRange": [
+        2001,
+        2200
+      ],
+      "MinValue": 40020,
+      "MaxValue": 46200
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 18,
+      "ComsumRange": [
+        2201,
+        2400
+      ],
+      "MinValue": 44020,
+      "MaxValue": 50400
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 19,
+      "ComsumRange": [
+        2401,
+        2600
+      ],
+      "MinValue": 48020,
+      "MaxValue": 54600
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 20,
+      "ComsumRange": [
+        2601,
+        2800
+      ],
+      "MinValue": 52020,
+      "MaxValue": 58800
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 21,
+      "ComsumRange": [
+        2801,
+        3000
+      ],
+      "MinValue": 56020,
+      "MaxValue": 63000
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 22,
+      "ComsumRange": [
+        3001,
+        3200
+      ],
+      "MinValue": 60020,
+      "MaxValue": 67200
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 23,
+      "ComsumRange": [
+        3201,
+        3400
+      ],
+      "MinValue": 64020,
+      "MaxValue": 71400
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 24,
+      "ComsumRange": [
+        3401,
+        3600
+      ],
+      "MinValue": 68020,
+      "MaxValue": 75600
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 25,
+      "ComsumRange": [
+        3601,
+        3800
+      ],
+      "MinValue": 72020,
+      "MaxValue": 79800
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 26,
+      "ComsumRange": [
+        3801,
+        4000
+      ],
+      "MinValue": 76020,
+      "MaxValue": 84000
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 27,
+      "ComsumRange": [
+        4001,
+        4200
+      ],
+      "MinValue": 80020,
+      "MaxValue": 88200
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 28,
+      "ComsumRange": [
+        4201,
+        4400
+      ],
+      "MinValue": 84020,
+      "MaxValue": 92400
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 29,
+      "ComsumRange": [
+        4401,
+        4600
+      ],
+      "MinValue": 88020,
+      "MaxValue": 96600
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 30,
+      "ComsumRange": [
+        4601,
+        4800
+      ],
+      "MinValue": 92020,
+      "MaxValue": 100800
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 31,
+      "ComsumRange": [
+        4801,
+        5000
+      ],
+      "MinValue": 96020,
+      "MaxValue": 105000
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 32,
+      "ComsumRange": [
+        5001,
+        5200
+      ],
+      "MinValue": 100020,
+      "MaxValue": 109200
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 33,
+      "ComsumRange": [
+        5201,
+        5400
+      ],
+      "MinValue": 104020,
+      "MaxValue": 113400
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 34,
+      "ComsumRange": [
+        5401,
+        5600
+      ],
+      "MinValue": 108020,
+      "MaxValue": 117600
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 35,
+      "ComsumRange": [
+        5601,
+        5800
+      ],
+      "MinValue": 112020,
+      "MaxValue": 121800
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 36,
+      "ComsumRange": [
+        5801,
+        6000
+      ],
+      "MinValue": 116020,
+      "MaxValue": 126000
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 37,
+      "ComsumRange": [
+        6001,
+        6200
+      ],
+      "MinValue": 120020,
+      "MaxValue": 130200
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 38,
+      "ComsumRange": [
+        6201,
+        6400
+      ],
+      "MinValue": 124020,
+      "MaxValue": 134400
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 39,
+      "ComsumRange": [
+        6401,
+        6600
+      ],
+      "MinValue": 128020,
+      "MaxValue": 138600
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 40,
+      "ComsumRange": [
+        6601,
+        6800
+      ],
+      "MinValue": 132020,
+      "MaxValue": 142800
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 41,
+      "ComsumRange": [
+        6801,
+        7000
+      ],
+      "MinValue": 136020,
+      "MaxValue": 147000
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 42,
+      "ComsumRange": [
+        7001,
+        7200
+      ],
+      "MinValue": 140020,
+      "MaxValue": 151200
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 43,
+      "ComsumRange": [
+        7201,
+        7400
+      ],
+      "MinValue": 144020,
+      "MaxValue": 155400
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 44,
+      "ComsumRange": [
+        7401,
+        7600
+      ],
+      "MinValue": 148020,
+      "MaxValue": 159600
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 45,
+      "ComsumRange": [
+        7601,
+        7800
+      ],
+      "MinValue": 152020,
+      "MaxValue": 163800
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 46,
+      "ComsumRange": [
+        7801,
+        8000
+      ],
+      "MinValue": 156020,
+      "MaxValue": 168000
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 47,
+      "ComsumRange": [
+        8001,
+        8200
+      ],
+      "MinValue": 160020,
+      "MaxValue": 172200
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 48,
+      "ComsumRange": [
+        8201,
+        8400
+      ],
+      "MinValue": 164020,
+      "MaxValue": 176400
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 49,
+      "ComsumRange": [
+        8401,
+        8600
+      ],
+      "MinValue": 168020,
+      "MaxValue": 180600
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 50,
+      "ComsumRange": [
+        8601,
+        8800
+      ],
+      "MinValue": 172020,
+      "MaxValue": 184800
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 51,
+      "ComsumRange": [
+        8801,
+        9000
+      ],
+      "MinValue": 176020,
+      "MaxValue": 189000
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 52,
+      "ComsumRange": [
+        9001,
+        9200
+      ],
+      "MinValue": 180020,
+      "MaxValue": 193200
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 53,
+      "ComsumRange": [
+        9201,
+        9400
+      ],
+      "MinValue": 184020,
+      "MaxValue": 197400
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 54,
+      "ComsumRange": [
+        9401,
+        9600
+      ],
+      "MinValue": 188020,
+      "MaxValue": 201600
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 55,
+      "ComsumRange": [
+        9601,
+        9800
+      ],
+      "MinValue": 192020,
+      "MaxValue": 205800
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 56,
+      "ComsumRange": [
+        9801,
+        10000
+      ],
+      "MinValue": 196020,
+      "MaxValue": 210000
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 57,
+      "ComsumRange": [
+        10001,
+        10200
+      ],
+      "MinValue": 200020,
+      "MaxValue": 214200
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 58,
+      "ComsumRange": [
+        10201,
+        10400
+      ],
+      "MinValue": 204020,
+      "MaxValue": 218400
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 59,
+      "ComsumRange": [
+        10401,
+        10600
+      ],
+      "MinValue": 208020,
+      "MaxValue": 222600
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 60,
+      "ComsumRange": [
+        10601,
+        10800
+      ],
+      "MinValue": 212020,
+      "MaxValue": 226800
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 61,
+      "ComsumRange": [
+        10801,
+        11000
+      ],
+      "MinValue": 216020,
+      "MaxValue": 231000
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 62,
+      "ComsumRange": [
+        11001,
+        11500
+      ],
+      "MinValue": 220020,
+      "MaxValue": 241500
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 63,
+      "ComsumRange": [
+        11501,
+        12000
+      ],
+      "MinValue": 230020,
+      "MaxValue": 252000
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 64,
+      "ComsumRange": [
+        12001,
+        12500
+      ],
+      "MinValue": 240020,
+      "MaxValue": 262500
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 65,
+      "ComsumRange": [
+        12501,
+        13000
+      ],
+      "MinValue": 250020,
+      "MaxValue": 273000
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 66,
+      "ComsumRange": [
+        13001,
+        13500
+      ],
+      "MinValue": 260020,
+      "MaxValue": 283500
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 67,
+      "ComsumRange": [
+        13501,
+        14000
+      ],
+      "MinValue": 270020,
+      "MaxValue": 294000
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 68,
+      "ComsumRange": [
+        14001,
+        14500
+      ],
+      "MinValue": 280020,
+      "MaxValue": 304500
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 69,
+      "ComsumRange": [
+        14501,
+        15000
+      ],
+      "MinValue": 290020,
+      "MaxValue": 315000
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 70,
+      "ComsumRange": [
+        15001,
+        15500
+      ],
+      "MinValue": 300020,
+      "MaxValue": 325500
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 71,
+      "ComsumRange": [
+        15501,
+        16000
+      ],
+      "MinValue": 310020,
+      "MaxValue": 336000
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 72,
+      "ComsumRange": [
+        16001,
+        16500
+      ],
+      "MinValue": 320020,
+      "MaxValue": 346500
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 73,
+      "ComsumRange": [
+        16501,
+        17000
+      ],
+      "MinValue": 330020,
+      "MaxValue": 357000
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 74,
+      "ComsumRange": [
+        17001,
+        17500
+      ],
+      "MinValue": 340020,
+      "MaxValue": 367500
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 75,
+      "ComsumRange": [
+        17501,
+        18000
+      ],
+      "MinValue": 350020,
+      "MaxValue": 378000
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 76,
+      "ComsumRange": [
+        18001,
+        18500
+      ],
+      "MinValue": 360020,
+      "MaxValue": 388500
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 77,
+      "ComsumRange": [
+        18501,
+        19000
+      ],
+      "MinValue": 370020,
+      "MaxValue": 399000
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 78,
+      "ComsumRange": [
+        19001,
+        19500
+      ],
+      "MinValue": 380020,
+      "MaxValue": 409500
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 79,
+      "ComsumRange": [
+        19501,
+        20000
+      ],
+      "MinValue": 390020,
+      "MaxValue": 420000
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 80,
+      "ComsumRange": [
+        20001,
+        21000
+      ],
+      "MinValue": 400020,
+      "MaxValue": 441000
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 81,
+      "ComsumRange": [
+        21001,
+        21500
+      ],
+      "MinValue": 420020,
+      "MaxValue": 451500
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 82,
+      "ComsumRange": [
+        21501,
+        22000
+      ],
+      "MinValue": 430020,
+      "MaxValue": 462000
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 83,
+      "ComsumRange": [
+        22001,
+        22500
+      ],
+      "MinValue": 440020,
+      "MaxValue": 472500
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 84,
+      "ComsumRange": [
+        22501,
+        23000
+      ],
+      "MinValue": 450020,
+      "MaxValue": 483000
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 85,
+      "ComsumRange": [
+        23001,
+        23500
+      ],
+      "MinValue": 460020,
+      "MaxValue": 493500
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 86,
+      "ComsumRange": [
+        23501,
+        24000
+      ],
+      "MinValue": 470020,
+      "MaxValue": 504000
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 87,
+      "ComsumRange": [
+        24001,
+        24500
+      ],
+      "MinValue": 480020,
+      "MaxValue": 514500
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 88,
+      "ComsumRange": [
+        24501,
+        25000
+      ],
+      "MinValue": 490020,
+      "MaxValue": 525000
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 89,
+      "ComsumRange": [
+        25001,
+        25500
+      ],
+      "MinValue": 500020,
+      "MaxValue": 535500
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 90,
+      "ComsumRange": [
+        25501,
+        26000
+      ],
+      "MinValue": 510020,
+      "MaxValue": 546000
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 91,
+      "ComsumRange": [
+        26001,
+        26500
+      ],
+      "MinValue": 520020,
+      "MaxValue": 556500
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 92,
+      "ComsumRange": [
+        26501,
+        27000
+      ],
+      "MinValue": 530020,
+      "MaxValue": 567000
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 93,
+      "ComsumRange": [
+        27001,
+        27500
+      ],
+      "MinValue": 540020,
+      "MaxValue": 577500
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 94,
+      "ComsumRange": [
+        27501,
+        28000
+      ],
+      "MinValue": 550020,
+      "MaxValue": 588000
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 95,
+      "ComsumRange": [
+        28001,
+        28500
+      ],
+      "MinValue": 560020,
+      "MaxValue": 598500
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 96,
+      "ComsumRange": [
+        28501,
+        29000
+      ],
+      "MinValue": 570020,
+      "MaxValue": 609000
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 97,
+      "ComsumRange": [
+        29001,
+        29200
+      ],
+      "MinValue": 580020,
+      "MaxValue": 613200
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 98,
+      "ComsumRange": [
+        29201,
+        29400
+      ],
+      "MinValue": 584020,
+      "MaxValue": 617400
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 99,
+      "ComsumRange": [
+        29401,
+        29600
+      ],
+      "MinValue": 588020,
+      "MaxValue": 621600
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 100,
+      "ComsumRange": [
+        29601,
+        29800
+      ],
+      "MinValue": 592020,
+      "MaxValue": 625800
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 101,
+      "ComsumRange": [
+        29801,
+        30000
+      ],
+      "MinValue": 596020,
+      "MaxValue": 630000
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 102,
+      "ComsumRange": [
+        30001,
+        30200
+      ],
+      "MinValue": 600020,
+      "MaxValue": 634200
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 103,
+      "ComsumRange": [
+        30201,
+        30400
+      ],
+      "MinValue": 604020,
+      "MaxValue": 638400
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 104,
+      "ComsumRange": [
+        30401,
+        30600
+      ],
+      "MinValue": 608020,
+      "MaxValue": 642600
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 105,
+      "ComsumRange": [
+        30601,
+        30800
+      ],
+      "MinValue": 612020,
+      "MaxValue": 646800
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 106,
+      "ComsumRange": [
+        30801,
+        31000
+      ],
+      "MinValue": 616020,
+      "MaxValue": 651000
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 107,
+      "ComsumRange": [
+        31001,
+        31200
+      ],
+      "MinValue": 620020,
+      "MaxValue": 655200
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 108,
+      "ComsumRange": [
+        31201,
+        31400
+      ],
+      "MinValue": 624020,
+      "MaxValue": 659400
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 109,
+      "ComsumRange": [
+        31401,
+        31600
+      ],
+      "MinValue": 628020,
+      "MaxValue": 663600
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 110,
+      "ComsumRange": [
+        31601,
+        31800
+      ],
+      "MinValue": 632020,
+      "MaxValue": 667800
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 111,
+      "ComsumRange": [
+        31801,
+        32000
+      ],
+      "MinValue": 636020,
+      "MaxValue": 672000
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 112,
+      "ComsumRange": [
+        32001,
+        32200
+      ],
+      "MinValue": 640020,
+      "MaxValue": 676200
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 113,
+      "ComsumRange": [
+        32201,
+        32400
+      ],
+      "MinValue": 644020,
+      "MaxValue": 680400
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 114,
+      "ComsumRange": [
+        32401,
+        32600
+      ],
+      "MinValue": 648020,
+      "MaxValue": 684600
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 115,
+      "ComsumRange": [
+        32601,
+        32800
+      ],
+      "MinValue": 652020,
+      "MaxValue": 688800
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 116,
+      "ComsumRange": [
+        32801,
+        33000
+      ],
+      "MinValue": 656020,
+      "MaxValue": 693000
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 117,
+      "ComsumRange": [
+        33001,
+        33200
+      ],
+      "MinValue": 660020,
+      "MaxValue": 697200
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 118,
+      "ComsumRange": [
+        33201,
+        33400
+      ],
+      "MinValue": 664020,
+      "MaxValue": 701400
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 119,
+      "ComsumRange": [
+        33401,
+        33600
+      ],
+      "MinValue": 668020,
+      "MaxValue": 705600
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 120,
+      "ComsumRange": [
+        33601,
+        33800
+      ],
+      "MinValue": 672020,
+      "MaxValue": 709800
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 121,
+      "ComsumRange": [
+        33801,
+        34000
+      ],
+      "MinValue": 676020,
+      "MaxValue": 714000
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 122,
+      "ComsumRange": [
+        34001,
+        34200
+      ],
+      "MinValue": 680020,
+      "MaxValue": 718200
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 123,
+      "ComsumRange": [
+        34201,
+        34400
+      ],
+      "MinValue": 684020,
+      "MaxValue": 722400
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 124,
+      "ComsumRange": [
+        34401,
+        34600
+      ],
+      "MinValue": 688020,
+      "MaxValue": 726600
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 125,
+      "ComsumRange": [
+        34601,
+        34800
+      ],
+      "MinValue": 692020,
+      "MaxValue": 730800
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 126,
+      "ComsumRange": [
+        34801,
+        35000
+      ],
+      "MinValue": 696020,
+      "MaxValue": 735000
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 127,
+      "ComsumRange": [
+        35001,
+        35200
+      ],
+      "MinValue": 700020,
+      "MaxValue": 739200
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 128,
+      "ComsumRange": [
+        35201,
+        35400
+      ],
+      "MinValue": 704020,
+      "MaxValue": 743400
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 129,
+      "ComsumRange": [
+        35401,
+        35600
+      ],
+      "MinValue": 708020,
+      "MaxValue": 747600
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 130,
+      "ComsumRange": [
+        35601,
+        35800
+      ],
+      "MinValue": 712020,
+      "MaxValue": 751800
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 131,
+      "ComsumRange": [
+        35801,
+        36000
+      ],
+      "MinValue": 716020,
+      "MaxValue": 756000
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 132,
+      "ComsumRange": [
+        36001,
+        36200
+      ],
+      "MinValue": 720020,
+      "MaxValue": 760200
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 133,
+      "ComsumRange": [
+        36201,
+        36400
+      ],
+      "MinValue": 724020,
+      "MaxValue": 764400
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 134,
+      "ComsumRange": [
+        36401,
+        36600
+      ],
+      "MinValue": 728020,
+      "MaxValue": 768600
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 135,
+      "ComsumRange": [
+        36601,
+        36800
+      ],
+      "MinValue": 732020,
+      "MaxValue": 772800
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 136,
+      "ComsumRange": [
+        36801,
+        37000
+      ],
+      "MinValue": 736020,
+      "MaxValue": 777000
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 137,
+      "ComsumRange": [
+        37001,
+        37200
+      ],
+      "MinValue": 740020,
+      "MaxValue": 781200
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 138,
+      "ComsumRange": [
+        37201,
+        37400
+      ],
+      "MinValue": 744020,
+      "MaxValue": 785400
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 139,
+      "ComsumRange": [
+        37401,
+        37600
+      ],
+      "MinValue": 748020,
+      "MaxValue": 789600
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 140,
+      "ComsumRange": [
+        37601,
+        37800
+      ],
+      "MinValue": 752020,
+      "MaxValue": 793800
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 141,
+      "ComsumRange": [
+        37801,
+        38000
+      ],
+      "MinValue": 756020,
+      "MaxValue": 798000
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 142,
+      "ComsumRange": [
+        38001,
+        38200
+      ],
+      "MinValue": 760020,
+      "MaxValue": 802200
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 143,
+      "ComsumRange": [
+        38201,
+        38400
+      ],
+      "MinValue": 764020,
+      "MaxValue": 806400
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 144,
+      "ComsumRange": [
+        38401,
+        38600
+      ],
+      "MinValue": 768020,
+      "MaxValue": 810600
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 145,
+      "ComsumRange": [
+        38601,
+        38800
+      ],
+      "MinValue": 772020,
+      "MaxValue": 814800
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 146,
+      "ComsumRange": [
+        38801,
+        39000
+      ],
+      "MinValue": 776020,
+      "MaxValue": 819000
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 147,
+      "ComsumRange": [
+        39001,
+        39200
+      ],
+      "MinValue": 780020,
+      "MaxValue": 823200
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 148,
+      "ComsumRange": [
+        39201,
+        39400
+      ],
+      "MinValue": 784020,
+      "MaxValue": 827400
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 149,
+      "ComsumRange": [
+        39401,
+        39600
+      ],
+      "MinValue": 788020,
+      "MaxValue": 831600
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 150,
+      "ComsumRange": [
+        39601,
+        39800
+      ],
+      "MinValue": 792020,
+      "MaxValue": 835800
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 151,
+      "ComsumRange": [
+        39801,
+        40000
+      ],
+      "MinValue": 796020,
+      "MaxValue": 840000
+    }
+  },
+  {
+    "PlinkoDynamicRow": {
+      "ID": 152,
+      "ComsumRange": [
+        40001,
+        99999999
+      ],
+      "MinValue": 800020,
+      "MaxValue": 999999999
+    }
+  }
+]

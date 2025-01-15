@@ -1,0 +1,128 @@
+{
+  "String <Path>k__BackingField": "CsvData/DynamicCsv/gexplorationLanguage.bytes",
+  "ObscuredDictionaryInt<gexplorationLanguageRow> _dict": {
+    "Int32 _key": 1015848456,
+    "Int32 _rndIdx": 1000,
+    "Dictionary<System.Int32,gexplorationLanguageRow> _dict": {
+      "Int32[] _buckets": [
+        7,
+        6,
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "Entry<System.Int32,gexplorationLanguageRow>[] _entries": [
+        {
+          "Int32 hashCode": 1015559674,
+          "Int32 next": -1,
+          "Int32 key": 1015559674,
+          "gexplorationLanguageRow value": {
+            "Int32 <ID>k__BackingField": 1,
+            "Int32 <Name>k__BackingField": 90429,
+            "Int32 <Disc>k__BackingField": 90430,
+            "String <Icon>k__BackingField": "task_1"
+          }
+        },
+        {
+          "Int32 hashCode": 1015559675,
+          "Int32 next": -1,
+          "Int32 key": 1015559675,
+          "gexplorationLanguageRow value": {
+            "Int32 <ID>k__BackingField": 2,
+            "Int32 <Name>k__BackingField": 90402,
+            "Int32 <Disc>k__BackingField": 90403,
+            "String <Icon>k__BackingField": "task_2"
+          }
+        },
+        {
+          "Int32 hashCode": 1015559676,
+          "Int32 next": -1,
+          "Int32 key": 1015559676,
+          "gexplorationLanguageRow value": {
+            "Int32 <ID>k__BackingField": 3,
+            "Int32 <Name>k__BackingField": 90404,
+            "Int32 <Disc>k__BackingField": 90405,
+            "String <Icon>k__BackingField": "task_3"
+          }
+        },
+        {
+          "Int32 hashCode": 1015559677,
+          "Int32 next": -1,
+          "Int32 key": 1015559677,
+          "gexplorationLanguageRow value": {
+            "Int32 <ID>k__BackingField": 4,
+            "Int32 <Name>k__BackingField": 90408,
+            "Int32 <Disc>k__BackingField": 90409,
+            "String <Icon>k__BackingField": "task_4"
+          }
+        },
+        {
+          "Int32 hashCode": 1015559678,
+          "Int32 next": -1,
+          "Int32 key": 1015559678,
+          "gexplorationLanguageRow value": {
+            "Int32 <ID>k__BackingField": 5,
+            "Int32 <Name>k__BackingField": 90406,
+            "Int32 <Disc>k__BackingField": 90407,
+            "String <Icon>k__BackingField": "task_5"
+          }
+        },
+        {
+          "Int32 hashCode": 1015559679,
+          "Int32 next": -1,
+          "Int32 key": 1015559679,
+          "gexplorationLanguageRow value": {
+            "Int32 <ID>k__BackingField": 6,
+            "Int32 <Name>k__BackingField": 90466,
+            "Int32 <Disc>k__BackingField": 90467,
+            "String <Icon>k__BackingField": "task_6"
+          }
+        },
+        {
+          "Int32 hashCode": 1015559664,
+          "Int32 next": 4,
+          "Int32 key": 1015559664,
+          "gexplorationLanguageRow value": {
+            "Int32 <ID>k__BackingField": 7,
+            "Int32 <Name>k__BackingField": 111,
+            "Int32 <Disc>k__BackingField": 111,
+            "String <Icon>k__BackingField": "task_7"
+          }
+        }
+      ],
+      "Int32 _count": 7,
+      "Int32 _freeList": -1,
+      "Int32 _freeCount": 0,
+      "Int32 _version": 7,
+      "IEqualityComparer<System.Int32> _comparer": "(null-object)",
+      "KeyCollection<System.Int32,gexplorationLanguageRow> _keys": "(null-object)",
+      "ValueCollection<System.Int32,gexplorationLanguageRow> _values": "(null-object)",
+      "Object _syncRoot": "(null-object)"
+    }
+  },
+  "List<gexplorationLanguageRow> _all": [
+    {
+      "gexplorationLanguageRow": "(circular-reference (0x76D26C8888A0))"
+    },
+    {
+      "gexplorationLanguageRow": "(circular-reference (0x76D26C888870))"
+    },
+    {
+      "gexplorationLanguageRow": "(circular-reference (0x76D26C888840))"
+    },
+    {
+      "gexplorationLanguageRow": "(circular-reference (0x76D26C888810))"
+    },
+    {
+      "gexplorationLanguageRow": "(circular-reference (0x76D26C8887E0))"
+    },
+    {
+      "gexplorationLanguageRow": "(circular-reference (0x76D26C8887B0))"
+    },
+    {
+      "gexplorationLanguageRow": "(circular-reference (0x76D26C888780))"
+    }
+  ]
+}

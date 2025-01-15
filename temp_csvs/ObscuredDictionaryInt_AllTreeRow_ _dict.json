@@ -1,0 +1,227 @@
+{
+    "Int32 _key": 2031716979,
+    "Int32 _rndIdx": 449,
+    "Dictionary<System.Int32,AllTreeRow> _dict": {
+        "Int32[] _buckets": [
+            10,
+            9,
+            8,
+            0,
+            0,
+            0,
+            3,
+            2,
+            1,
+            0,
+            0,
+            0,
+            7,
+            6,
+            5,
+            4,
+            0
+        ],
+        "Entry<System.Int32,AllTreeRow>[] _entries": [
+            {
+                "Int32 hashCode": 2031765854,
+                "Int32 next": -1,
+                "Int32 key": 2031765854,
+                "AllTreeRow value": {
+                    "Int32 <ID>k__BackingField": 1,
+                    "Int32 <StartTime>k__BackingField": 1678550400,
+                    "Int32 <EndTime>k__BackingField": 1678636799,
+                    "Int32 <basicAdd>k__BackingField": 240000,
+                    "Int32[] <randomAdd>k__BackingField": [
+                        -96000,
+                        96000
+                    ]
+                }
+            },
+            {
+                "Int32 hashCode": 2031765853,
+                "Int32 next": -1,
+                "Int32 key": 2031765853,
+                "AllTreeRow value": {
+                    "Int32 <ID>k__BackingField": 2,
+                    "Int32 <StartTime>k__BackingField": 1678636800,
+                    "Int32 <EndTime>k__BackingField": 1678723199,
+                    "Int32 <basicAdd>k__BackingField": 160000,
+                    "Int32[] <randomAdd>k__BackingField": [
+                        -64000,
+                        64000
+                    ]
+                }
+            },
+            {
+                "Int32 hashCode": 2031765852,
+                "Int32 next": -1,
+                "Int32 key": 2031765852,
+                "AllTreeRow value": {
+                    "Int32 <ID>k__BackingField": 3,
+                    "Int32 <StartTime>k__BackingField": 1678723200,
+                    "Int32 <EndTime>k__BackingField": 1678809599,
+                    "Int32 <basicAdd>k__BackingField": 80000,
+                    "Int32[] <randomAdd>k__BackingField": [
+                        -32000,
+                        32000
+                    ]
+                }
+            },
+            {
+                "Int32 hashCode": 2031765827,
+                "Int32 next": -1,
+                "Int32 key": 2031765827,
+                "AllTreeRow value": {
+                    "Int32 <ID>k__BackingField": 4,
+                    "Int32 <StartTime>k__BackingField": 1678809600,
+                    "Int32 <EndTime>k__BackingField": 1678895999,
+                    "Int32 <basicAdd>k__BackingField": 80000,
+                    "Int32[] <randomAdd>k__BackingField": [
+                        -32000,
+                        32000
+                    ]
+                }
+            },
+            {
+                "Int32 hashCode": 2031765826,
+                "Int32 next": -1,
+                "Int32 key": 2031765826,
+                "AllTreeRow value": {
+                    "Int32 <ID>k__BackingField": 5,
+                    "Int32 <StartTime>k__BackingField": 1678896000,
+                    "Int32 <EndTime>k__BackingField": 1678982399,
+                    "Int32 <basicAdd>k__BackingField": 180000,
+                    "Int32[] <randomAdd>k__BackingField": [
+                        -72000,
+                        72000
+                    ]
+                }
+            },
+            {
+                "Int32 hashCode": 2031765825,
+                "Int32 next": -1,
+                "Int32 key": 2031765825,
+                "AllTreeRow value": {
+                    "Int32 <ID>k__BackingField": 6,
+                    "Int32 <StartTime>k__BackingField": 1678982400,
+                    "Int32 <EndTime>k__BackingField": 1679068799,
+                    "Int32 <basicAdd>k__BackingField": 120000,
+                    "Int32[] <randomAdd>k__BackingField": [
+                        -48000,
+                        48000
+                    ]
+                }
+            },
+            {
+                "Int32 hashCode": 2031765824,
+                "Int32 next": -1,
+                "Int32 key": 2031765824,
+                "AllTreeRow value": {
+                    "Int32 <ID>k__BackingField": 7,
+                    "Int32 <StartTime>k__BackingField": 1679068800,
+                    "Int32 <EndTime>k__BackingField": 1679155199,
+                    "Int32 <basicAdd>k__BackingField": 360000,
+                    "Int32[] <randomAdd>k__BackingField": [
+                        -144000,
+                        144000
+                    ]
+                }
+            },
+            {
+                "Int32 hashCode": 2031765831,
+                "Int32 next": -1,
+                "Int32 key": 2031765831,
+                "AllTreeRow value": {
+                    "Int32 <ID>k__BackingField": 8,
+                    "Int32 <StartTime>k__BackingField": 1679155200,
+                    "Int32 <EndTime>k__BackingField": 1679241599,
+                    "Int32 <basicAdd>k__BackingField": 240000,
+                    "Int32[] <randomAdd>k__BackingField": [
+                        -96000,
+                        96000
+                    ]
+                }
+            },
+            {
+                "Int32 hashCode": 2031765830,
+                "Int32 next": -1,
+                "Int32 key": 2031765830,
+                "AllTreeRow value": {
+                    "Int32 <ID>k__BackingField": 9,
+                    "Int32 <StartTime>k__BackingField": 1679241600,
+                    "Int32 <EndTime>k__BackingField": 1679327999,
+                    "Int32 <basicAdd>k__BackingField": 160000,
+                    "Int32[] <randomAdd>k__BackingField": [
+                        -64000,
+                        64000
+                    ]
+                }
+            },
+            {
+                "Int32 hashCode": 2031765829,
+                "Int32 next": -1,
+                "Int32 key": 2031765829,
+                "AllTreeRow value": {
+                    "Int32 <ID>k__BackingField": 10,
+                    "Int32 <StartTime>k__BackingField": 1679328000,
+                    "Int32 <EndTime>k__BackingField": 1679414399,
+                    "Int32 <basicAdd>k__BackingField": 450000,
+                    "Int32[] <randomAdd>k__BackingField": [
+                        -120000,
+                        120000
+                    ]
+                }
+            },
+            {
+                "Int32 hashCode": 0,
+                "Int32 next": 0,
+                "Int32 key": 0,
+                "AllTreeRow value": "(null-object)"
+            },
+            {
+                "Int32 hashCode": 0,
+                "Int32 next": 0,
+                "Int32 key": 0,
+                "AllTreeRow value": "(null-object)"
+            },
+            {
+                "Int32 hashCode": 0,
+                "Int32 next": 0,
+                "Int32 key": 0,
+                "AllTreeRow value": "(null-object)"
+            },
+            {
+                "Int32 hashCode": 0,
+                "Int32 next": 0,
+                "Int32 key": 0,
+                "AllTreeRow value": "(null-object)"
+            },
+            {
+                "Int32 hashCode": 0,
+                "Int32 next": 0,
+                "Int32 key": 0,
+                "AllTreeRow value": "(null-object)"
+            },
+            {
+                "Int32 hashCode": 0,
+                "Int32 next": 0,
+                "Int32 key": 0,
+                "AllTreeRow value": "(null-object)"
+            },
+            {
+                "Int32 hashCode": 0,
+                "Int32 next": 0,
+                "Int32 key": 0,
+                "AllTreeRow value": "(null-object)"
+            }
+        ],
+        "Int32 _count": 10,
+        "Int32 _freeList": -1,
+        "Int32 _freeCount": 0,
+        "Int32 _version": 10,
+        "IEqualityComparer<System.Int32> _comparer": "(null-object)",
+        "KeyCollection<System.Int32,AllTreeRow> _keys": "(null-object)",
+        "ValueCollection<System.Int32,AllTreeRow> _values": "(null-object)",
+        "Object _syncRoot": "(null-object)"
+    }
+}

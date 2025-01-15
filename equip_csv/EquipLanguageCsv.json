@@ -1,0 +1,2486 @@
+[
+  {
+    "EquipLanguageRow": {
+      "Id": 100101,
+      "BaseLangaugeBaseId": 3210202,
+      "LangaugeBaseId": 3310202,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 100102,
+      "BaseLangaugeBaseId": 3210203,
+      "LangaugeBaseId": 3310203,
+      "ParamType0": 2,
+      "ParamValue0": {
+        "FeatureId": 12103001
+      },
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 100103,
+      "BaseLangaugeBaseId": 3210204,
+      "LangaugeBaseId": 3310204,
+      "ParamType0": 2,
+      "ParamValue0": {
+        "FeatureId": 12104001
+      },
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 100104,
+      "BaseLangaugeBaseId": 3210207,
+      "LangaugeBaseId": 3310207,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 100105,
+      "BaseLangaugeBaseId": 3210211,
+      "LangaugeBaseId": 3310211,
+      "ParamType0": 2,
+      "ParamValue0": {
+        "FeatureId": 12111001
+      },
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 100201,
+      "BaseLangaugeBaseId": 3210302,
+      "LangaugeBaseId": 3310302,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 100202,
+      "BaseLangaugeBaseId": 3210303,
+      "LangaugeBaseId": 3310303,
+      "ParamType0": 2,
+      "ParamValue0": {
+        "FeatureId": 13103001
+      },
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 100203,
+      "BaseLangaugeBaseId": 3210304,
+      "LangaugeBaseId": 3310304,
+      "ParamType0": 2,
+      "ParamValue0": {
+        "FeatureId": 13104001
+      },
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 100204,
+      "BaseLangaugeBaseId": 3210307,
+      "LangaugeBaseId": 3310307,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 100205,
+      "BaseLangaugeBaseId": 3210311,
+      "LangaugeBaseId": 3310311,
+      "ParamType0": 2,
+      "ParamValue0": {
+        "FeatureId": 13111001
+      },
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 100301,
+      "BaseLangaugeBaseId": 3220202,
+      "LangaugeBaseId": 3320202,
+      "ParamType0": 1,
+      "ParamValue0": {
+        "FeatureId": 12204002
+      },
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 100302,
+      "BaseLangaugeBaseId": 3220203,
+      "LangaugeBaseId": 3320203,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 100303,
+      "BaseLangaugeBaseId": 3220204,
+      "LangaugeBaseId": 3320204,
+      "ParamType0": 1,
+      "ParamValue0": {
+        "FeatureId": 12204002
+      },
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 100304,
+      "BaseLangaugeBaseId": 3220207,
+      "LangaugeBaseId": 3320207,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 100305,
+      "BaseLangaugeBaseId": 3220211,
+      "LangaugeBaseId": 3320211,
+      "ParamType0": 2,
+      "ParamValue0": {
+        "FeatureId": 12211002
+      },
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 100401,
+      "BaseLangaugeBaseId": 3230102,
+      "LangaugeBaseId": 3330102,
+      "ParamType0": 2,
+      "ParamValue0": {
+        "FeatureId": 11302001
+      },
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 100402,
+      "BaseLangaugeBaseId": 3230103,
+      "LangaugeBaseId": 3330103,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 100403,
+      "BaseLangaugeBaseId": 3230104,
+      "LangaugeBaseId": 3330104,
+      "ParamType0": 2,
+      "ParamValue0": {
+        "FeatureId": 11304001
+      },
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 100404,
+      "BaseLangaugeBaseId": 3230107,
+      "LangaugeBaseId": 3330107,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 100405,
+      "BaseLangaugeBaseId": 3230111,
+      "LangaugeBaseId": 3330111,
+      "ParamType0": 2,
+      "ParamValue0": {
+        "FeatureId": 11311002
+      },
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 100501,
+      "BaseLangaugeBaseId": 3240302,
+      "LangaugeBaseId": 3340302,
+      "ParamType0": 2,
+      "ParamValue0": {
+        "FeatureId": 13403001
+      },
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 100502,
+      "BaseLangaugeBaseId": 3240303,
+      "LangaugeBaseId": 3340303,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 100503,
+      "BaseLangaugeBaseId": 3240304,
+      "LangaugeBaseId": 3340304,
+      "ParamType0": 2,
+      "ParamValue0": {
+        "FeatureId": 13404002
+      },
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 100504,
+      "BaseLangaugeBaseId": 3240307,
+      "LangaugeBaseId": 3340307,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 100505,
+      "BaseLangaugeBaseId": 3240311,
+      "LangaugeBaseId": 3340311,
+      "ParamType0": 2,
+      "ParamValue0": {
+        "FeatureId": 13404002
+      },
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 100601,
+      "BaseLangaugeBaseId": 3250202,
+      "LangaugeBaseId": 3350202,
+      "ParamType0": 2,
+      "ParamValue0": {
+        "FeatureId": 12502001
+      },
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 100602,
+      "BaseLangaugeBaseId": 3250203,
+      "LangaugeBaseId": 3350203,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 100603,
+      "BaseLangaugeBaseId": 3250204,
+      "LangaugeBaseId": 3350204,
+      "ParamType0": 2,
+      "ParamValue0": {
+        "FeatureId": 12504001
+      },
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 100604,
+      "BaseLangaugeBaseId": 3250207,
+      "LangaugeBaseId": 3350207,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 100605,
+      "BaseLangaugeBaseId": 3250211,
+      "LangaugeBaseId": 3350211,
+      "ParamType0": 2,
+      "ParamValue0": {
+        "FeatureId": 12511002
+      },
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 100701,
+      "BaseLangaugeBaseId": 3210102,
+      "LangaugeBaseId": 3210102,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 100702,
+      "BaseLangaugeBaseId": 3210103,
+      "LangaugeBaseId": 3210103,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 100703,
+      "BaseLangaugeBaseId": 3210104,
+      "LangaugeBaseId": 3310104,
+      "ParamType0": 1,
+      "ParamValue0": {},
+      "ParamType1": 2,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 100704,
+      "BaseLangaugeBaseId": 3210107,
+      "LangaugeBaseId": 3210107,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 100705,
+      "BaseLangaugeBaseId": 3210111,
+      "LangaugeBaseId": 3310111,
+      "ParamType0": 1,
+      "ParamValue0": {},
+      "ParamType1": 2,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 100801,
+      "BaseLangaugeBaseId": 3230202,
+      "LangaugeBaseId": 3230202,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 100802,
+      "BaseLangaugeBaseId": 3230203,
+      "LangaugeBaseId": 3230203,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 100803,
+      "BaseLangaugeBaseId": 3230204,
+      "LangaugeBaseId": 3330204,
+      "ParamType0": 2,
+      "ParamValue0": {
+        "FeatureId": 20330721
+      },
+      "ParamType1": 2,
+      "ParamValue1": {
+        "FeatureId": 20330741
+      }
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 100804,
+      "BaseLangaugeBaseId": 3230207,
+      "LangaugeBaseId": 3230207,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 100805,
+      "BaseLangaugeBaseId": 3230211,
+      "LangaugeBaseId": 3330211,
+      "ParamType0": 2,
+      "ParamValue0": {
+        "FeatureId": 20330721
+      },
+      "ParamType1": 4,
+      "ParamValue1": {
+        "FeatureId": 20330791
+      }
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 100806,
+      "BaseLangaugeBaseId": 4031201,
+      "LangaugeBaseId": 3331201,
+      "ParamType0": 2,
+      "ParamValue0": {
+        "FeatureId": 20330721
+      },
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 100901,
+      "BaseLangaugeBaseId": 3260302,
+      "LangaugeBaseId": 3260302,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 100902,
+      "BaseLangaugeBaseId": 3260303,
+      "LangaugeBaseId": 3260303,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 100903,
+      "BaseLangaugeBaseId": 3260304,
+      "LangaugeBaseId": 3360304,
+      "ParamType0": 1,
+      "ParamValue0": {
+        "FeatureId": 20350721
+      },
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 100904,
+      "BaseLangaugeBaseId": 3260307,
+      "LangaugeBaseId": 3260307,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 100905,
+      "BaseLangaugeBaseId": 3260311,
+      "LangaugeBaseId": 3360311,
+      "ParamType0": 2,
+      "ParamValue0": {
+        "FeatureId": 13611002
+      },
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 101001,
+      "BaseLangaugeBaseId": 3250102,
+      "LangaugeBaseId": 3350102,
+      "ParamType0": 2,
+      "ParamValue0": {
+        "FeatureId": 20540721
+      },
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 101002,
+      "BaseLangaugeBaseId": 3250103,
+      "LangaugeBaseId": 3350103,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 101003,
+      "BaseLangaugeBaseId": 3250104,
+      "LangaugeBaseId": 3350104,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 101004,
+      "BaseLangaugeBaseId": 3250107,
+      "LangaugeBaseId": 3350107,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 101005,
+      "BaseLangaugeBaseId": 3250111,
+      "LangaugeBaseId": 3350111,
+      "ParamType0": 2,
+      "ParamValue0": {
+        "FeatureId": 11511001
+      },
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 101006,
+      "BaseLangaugeBaseId": 4051101,
+      "LangaugeBaseId": 3350112,
+      "ParamType0": 2,
+      "ParamValue0": {
+        "FeatureId": 20540741
+      },
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 101007,
+      "BaseLangaugeBaseId": 4010002,
+      "LangaugeBaseId": 3350113,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 101008,
+      "BaseLangaugeBaseId": 4051103,
+      "LangaugeBaseId": 3350114,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 101101,
+      "BaseLangaugeBaseId": 3240202,
+      "LangaugeBaseId": 3340202,
+      "ParamType0": 2,
+      "ParamValue0": {
+        "FeatureId": 12402001
+      },
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 101102,
+      "BaseLangaugeBaseId": 3240203,
+      "LangaugeBaseId": 3340203,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 101103,
+      "BaseLangaugeBaseId": 3240204,
+      "LangaugeBaseId": 3340204,
+      "ParamType0": 2,
+      "ParamValue0": {
+        "FeatureId": 20560791
+      },
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 101104,
+      "BaseLangaugeBaseId": 3240207,
+      "LangaugeBaseId": 3340207,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 101105,
+      "BaseLangaugeBaseId": 3240211,
+      "LangaugeBaseId": 3340211,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 101106,
+      "BaseLangaugeBaseId": 4041201,
+      "LangaugeBaseId": 3340212,
+      "ParamType0": 2,
+      "ParamValue0": {
+        "FeatureId": 20560741
+      },
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 101107,
+      "BaseLangaugeBaseId": 4010002,
+      "LangaugeBaseId": 3340213,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 101108,
+      "BaseLangaugeBaseId": 4041203,
+      "LangaugeBaseId": 3340214,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 101201,
+      "BaseLangaugeBaseId": 3260202,
+      "LangaugeBaseId": 3360202,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 101202,
+      "BaseLangaugeBaseId": 3260203,
+      "LangaugeBaseId": 3360203,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 101203,
+      "BaseLangaugeBaseId": 3260204,
+      "LangaugeBaseId": 3360204,
+      "ParamType0": 2,
+      "ParamValue0": {
+        "FeatureId": 20550721
+      },
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 101204,
+      "BaseLangaugeBaseId": 3260207,
+      "LangaugeBaseId": 3360207,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 101205,
+      "BaseLangaugeBaseId": 3260211,
+      "LangaugeBaseId": 3360211,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 101206,
+      "BaseLangaugeBaseId": 4061201,
+      "LangaugeBaseId": 3360212,
+      "ParamType0": 2,
+      "ParamValue0": {
+        "FeatureId": 20550791
+      },
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 101207,
+      "BaseLangaugeBaseId": 4010002,
+      "LangaugeBaseId": 3360213,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 101208,
+      "BaseLangaugeBaseId": 4061203,
+      "LangaugeBaseId": 3360214,
+      "ParamType0": 2,
+      "ParamValue0": {
+        "FeatureId": 20550741
+      },
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 101301,
+      "BaseLangaugeBaseId": 3220302,
+      "LangaugeBaseId": 3320302,
+      "ParamType0": 2,
+      "ParamValue0": {
+        "FeatureId": 20530721
+      },
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 101302,
+      "BaseLangaugeBaseId": 3220303,
+      "LangaugeBaseId": 3320303,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 101303,
+      "BaseLangaugeBaseId": 3220304,
+      "LangaugeBaseId": 3320304,
+      "ParamType0": 1,
+      "ParamValue0": {
+        "FeatureId": 13204002
+      },
+      "ParamType1": 2,
+      "ParamValue1": {
+        "FeatureId": 20530791
+      }
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 101304,
+      "BaseLangaugeBaseId": 3220307,
+      "LangaugeBaseId": 3320307,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 101305,
+      "BaseLangaugeBaseId": 3220311,
+      "LangaugeBaseId": 3320311,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 101306,
+      "BaseLangaugeBaseId": 4021301,
+      "LangaugeBaseId": 3320312,
+      "ParamType0": 2,
+      "ParamValue0": {
+        "FeatureId": 20530791
+      },
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 101307,
+      "BaseLangaugeBaseId": 4010002,
+      "LangaugeBaseId": 3320313,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 101308,
+      "BaseLangaugeBaseId": 4021303,
+      "LangaugeBaseId": 3320314,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 101401,
+      "BaseLangaugeBaseId": 3211002,
+      "LangaugeBaseId": 3211002,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 101402,
+      "BaseLangaugeBaseId": 3211003,
+      "LangaugeBaseId": 3211003,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 101403,
+      "BaseLangaugeBaseId": 3211004,
+      "LangaugeBaseId": 3311004,
+      "ParamType0": 2,
+      "ParamValue0": {
+        "FeatureId": 110104001
+      },
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 101404,
+      "BaseLangaugeBaseId": 3211007,
+      "LangaugeBaseId": 3211007,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 101405,
+      "BaseLangaugeBaseId": 3211011,
+      "LangaugeBaseId": 3211011,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 101406,
+      "BaseLangaugeBaseId": 3211016,
+      "LangaugeBaseId": 3211016,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 101407,
+      "BaseLangaugeBaseId": 4011001,
+      "LangaugeBaseId": 4011001,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 101408,
+      "BaseLangaugeBaseId": 4011002,
+      "LangaugeBaseId": 4011002,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 101409,
+      "BaseLangaugeBaseId": 4011003,
+      "LangaugeBaseId": 4111003,
+      "ParamType0": 2,
+      "ParamValue0": {
+        "FeatureId": 110116013
+      },
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 101410,
+      "BaseLangaugeBaseId": 4011004,
+      "LangaugeBaseId": 4011004,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 101411,
+      "BaseLangaugeBaseId": 4011005,
+      "LangaugeBaseId": 4011005,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 101412,
+      "BaseLangaugeBaseId": 4011021,
+      "LangaugeBaseId": 4011021,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 101413,
+      "BaseLangaugeBaseId": 4011022,
+      "LangaugeBaseId": 4111022,
+      "ParamType0": 2,
+      "ParamValue0": {
+        "FeatureId": 110116022
+      },
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 101414,
+      "BaseLangaugeBaseId": 4011023,
+      "LangaugeBaseId": 4011023,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 101415,
+      "BaseLangaugeBaseId": 4011024,
+      "LangaugeBaseId": 4011024,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 101416,
+      "BaseLangaugeBaseId": 4011025,
+      "LangaugeBaseId": 4011025,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 101501,
+      "BaseLangaugeBaseId": 3221002,
+      "LangaugeBaseId": 3221002,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 101502,
+      "BaseLangaugeBaseId": 3221003,
+      "LangaugeBaseId": 3221003,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 101503,
+      "BaseLangaugeBaseId": 3221004,
+      "LangaugeBaseId": 3221004,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 101504,
+      "BaseLangaugeBaseId": 3221007,
+      "LangaugeBaseId": 3221007,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 101505,
+      "BaseLangaugeBaseId": 3221011,
+      "LangaugeBaseId": 3321011,
+      "ParamType0": 2,
+      "ParamValue0": {
+        "FeatureId": 110211001
+      },
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 101506,
+      "BaseLangaugeBaseId": 3221016,
+      "LangaugeBaseId": 3221016,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 101507,
+      "BaseLangaugeBaseId": 4021401,
+      "LangaugeBaseId": 4021401,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 101508,
+      "BaseLangaugeBaseId": 4021402,
+      "LangaugeBaseId": 4021402,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 101509,
+      "BaseLangaugeBaseId": 4021403,
+      "LangaugeBaseId": 4021403,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 101510,
+      "BaseLangaugeBaseId": 4021404,
+      "LangaugeBaseId": 4021404,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 101511,
+      "BaseLangaugeBaseId": 4021405,
+      "LangaugeBaseId": 4121405,
+      "ParamType0": 2,
+      "ParamValue0": {
+        "FeatureId": 110216017
+      },
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 101512,
+      "BaseLangaugeBaseId": 4021406,
+      "LangaugeBaseId": 4021406,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 101513,
+      "BaseLangaugeBaseId": 4021407,
+      "LangaugeBaseId": 4121407,
+      "ParamType0": 2,
+      "ParamValue0": {
+        "FeatureId": 110216022
+      },
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 101514,
+      "BaseLangaugeBaseId": 4021408,
+      "LangaugeBaseId": 4021408,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 101515,
+      "BaseLangaugeBaseId": 4021409,
+      "LangaugeBaseId": 4021409,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 101516,
+      "BaseLangaugeBaseId": 4021410,
+      "LangaugeBaseId": 4021410,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 101601,
+      "BaseLangaugeBaseId": 3220102,
+      "LangaugeBaseId": 3320102,
+      "ParamType0": 2,
+      "ParamValue0": {
+        "FeatureId": 20791121
+      },
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 101602,
+      "BaseLangaugeBaseId": 3220103,
+      "LangaugeBaseId": 3320103,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 101603,
+      "BaseLangaugeBaseId": 3220104,
+      "LangaugeBaseId": 3320104,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 101604,
+      "BaseLangaugeBaseId": 3220107,
+      "LangaugeBaseId": 3320107,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 101605,
+      "BaseLangaugeBaseId": 3220111,
+      "LangaugeBaseId": 3320111,
+      "ParamType0": 2,
+      "ParamValue0": {
+        "FeatureId": 14711002
+      },
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 101606,
+      "BaseLangaugeBaseId": 4021101,
+      "LangaugeBaseId": 3320112,
+      "ParamType0": 1,
+      "ParamValue0": {
+        "FeatureId": 20791141
+      },
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 101607,
+      "BaseLangaugeBaseId": 4010002,
+      "LangaugeBaseId": 3320113,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 101608,
+      "BaseLangaugeBaseId": 4021103,
+      "LangaugeBaseId": 3320114,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 101701,
+      "BaseLangaugeBaseId": 3240102,
+      "LangaugeBaseId": 3340102,
+      "ParamType0": 2,
+      "ParamValue0": {
+        "FeatureId": 20801121
+      },
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 101702,
+      "BaseLangaugeBaseId": 3240103,
+      "LangaugeBaseId": 3340103,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 101703,
+      "BaseLangaugeBaseId": 3240104,
+      "LangaugeBaseId": 3340104,
+      "ParamType0": 1,
+      "ParamValue0": {
+        "FeatureId": 20801141
+      },
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 101704,
+      "BaseLangaugeBaseId": 3240107,
+      "LangaugeBaseId": 3340107,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 101705,
+      "BaseLangaugeBaseId": 3240111,
+      "LangaugeBaseId": 3340111,
+      "ParamType0": 2,
+      "ParamValue0": {
+        "FeatureId": 20801191
+      },
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 101706,
+      "BaseLangaugeBaseId": 4041101,
+      "LangaugeBaseId": 3340112,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 101707,
+      "BaseLangaugeBaseId": 4010012,
+      "LangaugeBaseId": 3340113,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 101708,
+      "BaseLangaugeBaseId": 4041103,
+      "LangaugeBaseId": 3340114,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 101801,
+      "BaseLangaugeBaseId": 3230302,
+      "LangaugeBaseId": 3330302,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 101802,
+      "BaseLangaugeBaseId": 3230303,
+      "LangaugeBaseId": 3330303,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 101803,
+      "BaseLangaugeBaseId": 3230304,
+      "LangaugeBaseId": 3330304,
+      "ParamType0": 2,
+      "ParamValue0": {
+        "FeatureId": 20850791
+      },
+      "ParamType1": 2,
+      "ParamValue1": {
+        "FeatureId": 20850791
+      }
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 101804,
+      "BaseLangaugeBaseId": 3230307,
+      "LangaugeBaseId": 3330307,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 101805,
+      "BaseLangaugeBaseId": 3230311,
+      "LangaugeBaseId": 3330311,
+      "ParamType0": 1,
+      "ParamValue0": {
+        "FeatureId": 20850721
+      },
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 101806,
+      "BaseLangaugeBaseId": 4031301,
+      "LangaugeBaseId": 3330312,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 101807,
+      "BaseLangaugeBaseId": 4010002,
+      "LangaugeBaseId": 3330313,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 101808,
+      "BaseLangaugeBaseId": 4031303,
+      "LangaugeBaseId": 3330314,
+      "ParamType0": 2,
+      "ParamValue0": {
+        "FeatureId": 20850741
+      },
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 101901,
+      "BaseLangaugeBaseId": 3250302,
+      "LangaugeBaseId": 3350302,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 101902,
+      "BaseLangaugeBaseId": 3250303,
+      "LangaugeBaseId": 3350303,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 101903,
+      "BaseLangaugeBaseId": 3250304,
+      "LangaugeBaseId": 3350304,
+      "ParamType0": 1,
+      "ParamValue0": {
+        "FeatureId": 20860791
+      },
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 101904,
+      "BaseLangaugeBaseId": 3250307,
+      "LangaugeBaseId": 3350307,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 101905,
+      "BaseLangaugeBaseId": 3250311,
+      "LangaugeBaseId": 3350311,
+      "ParamType0": 1,
+      "ParamValue0": {
+        "FeatureId": 20860721
+      },
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 101906,
+      "BaseLangaugeBaseId": 4051301,
+      "LangaugeBaseId": 3350312,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 101907,
+      "BaseLangaugeBaseId": 4010002,
+      "LangaugeBaseId": 3350313,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 101908,
+      "BaseLangaugeBaseId": 4051303,
+      "LangaugeBaseId": 3350314,
+      "ParamType0": 2,
+      "ParamValue0": {
+        "FeatureId": 20860741
+      },
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 102001,
+      "BaseLangaugeBaseId": 3231002,
+      "LangaugeBaseId": 3231002,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 102002,
+      "BaseLangaugeBaseId": 3231003,
+      "LangaugeBaseId": 3231003,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 102003,
+      "BaseLangaugeBaseId": 3231004,
+      "LangaugeBaseId": 3231004,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 102004,
+      "BaseLangaugeBaseId": 3231007,
+      "LangaugeBaseId": 3231007,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 102005,
+      "BaseLangaugeBaseId": 3231011,
+      "LangaugeBaseId": 3231011,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 102006,
+      "BaseLangaugeBaseId": 3231016,
+      "LangaugeBaseId": 3331016,
+      "ParamType0": 2,
+      "ParamValue0": {
+        "FeatureId": 110316001
+      },
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 102007,
+      "BaseLangaugeBaseId": 4031401,
+      "LangaugeBaseId": 4131401,
+      "ParamType0": 2,
+      "ParamValue0": {
+        "FeatureId": 110316011
+      },
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 102008,
+      "BaseLangaugeBaseId": 4031402,
+      "LangaugeBaseId": 4031402,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 102009,
+      "BaseLangaugeBaseId": 4031403,
+      "LangaugeBaseId": 4031403,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 102010,
+      "BaseLangaugeBaseId": 4031404,
+      "LangaugeBaseId": 4031404,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 102011,
+      "BaseLangaugeBaseId": 4031405,
+      "LangaugeBaseId": 4031405,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 102012,
+      "BaseLangaugeBaseId": 4031406,
+      "LangaugeBaseId": 4031406,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 102013,
+      "BaseLangaugeBaseId": 4031407,
+      "LangaugeBaseId": 4131407,
+      "ParamType0": 2,
+      "ParamValue0": {
+        "FeatureId": 110316022
+      },
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 102014,
+      "BaseLangaugeBaseId": 4031408,
+      "LangaugeBaseId": 4031408,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 102015,
+      "BaseLangaugeBaseId": 4031409,
+      "LangaugeBaseId": 4031409,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 102016,
+      "BaseLangaugeBaseId": 4031410,
+      "LangaugeBaseId": 4031410,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 102101,
+      "BaseLangaugeBaseId": 3242002,
+      "LangaugeBaseId": 3242002,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 102102,
+      "BaseLangaugeBaseId": 3242003,
+      "LangaugeBaseId": 3242003,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 102103,
+      "BaseLangaugeBaseId": 3242004,
+      "LangaugeBaseId": 3242004,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 102104,
+      "BaseLangaugeBaseId": 3242007,
+      "LangaugeBaseId": 3242007,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 102105,
+      "BaseLangaugeBaseId": 3242011,
+      "LangaugeBaseId": 3242011,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 102106,
+      "BaseLangaugeBaseId": 3242016,
+      "LangaugeBaseId": 3242016,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 102107,
+      "BaseLangaugeBaseId": 4051401,
+      "LangaugeBaseId": 4051401,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 102108,
+      "BaseLangaugeBaseId": 4051402,
+      "LangaugeBaseId": 4051402,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 102109,
+      "BaseLangaugeBaseId": 4051403,
+      "LangaugeBaseId": 4051403,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 102110,
+      "BaseLangaugeBaseId": 4051404,
+      "LangaugeBaseId": 4051404,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 102111,
+      "BaseLangaugeBaseId": 4051405,
+      "LangaugeBaseId": 4051405,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 102112,
+      "BaseLangaugeBaseId": 4051406,
+      "LangaugeBaseId": 4051406,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 102113,
+      "BaseLangaugeBaseId": 4051407,
+      "LangaugeBaseId": 4051407,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 102114,
+      "BaseLangaugeBaseId": 4051408,
+      "LangaugeBaseId": 4051408,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 102115,
+      "BaseLangaugeBaseId": 4051409,
+      "LangaugeBaseId": 4051409,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 102116,
+      "BaseLangaugeBaseId": 4051410,
+      "LangaugeBaseId": 4051410,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 102117,
+      "BaseLangaugeBaseId": 3260102,
+      "LangaugeBaseId": 3360102,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 102118,
+      "BaseLangaugeBaseId": 3260103,
+      "LangaugeBaseId": 3360103,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 102119,
+      "BaseLangaugeBaseId": 3260104,
+      "LangaugeBaseId": 3360104,
+      "ParamType0": 2,
+      "ParamValue0": {
+        "Tag": 301
+      },
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 102120,
+      "BaseLangaugeBaseId": 3260107,
+      "LangaugeBaseId": 3360107,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 102121,
+      "BaseLangaugeBaseId": 3260111,
+      "LangaugeBaseId": 3360111,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 102122,
+      "BaseLangaugeBaseId": 4061101,
+      "LangaugeBaseId": 3360112,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 102123,
+      "BaseLangaugeBaseId": 4010012,
+      "LangaugeBaseId": 3360113,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 102124,
+      "BaseLangaugeBaseId": 4061103,
+      "LangaugeBaseId": 3360114,
+      "ParamType0": 2,
+      "ParamValue0": {
+        "FeatureId": 21141191
+      },
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 102201,
+      "BaseLangaugeBaseId": 3261002,
+      "LangaugeBaseId": 3261002,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 102202,
+      "BaseLangaugeBaseId": 3261003,
+      "LangaugeBaseId": 3261003,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 102203,
+      "BaseLangaugeBaseId": 3261004,
+      "LangaugeBaseId": 3261004,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 102204,
+      "BaseLangaugeBaseId": 3261007,
+      "LangaugeBaseId": 3261007,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 102205,
+      "BaseLangaugeBaseId": 3261011,
+      "LangaugeBaseId": 3261011,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 102206,
+      "BaseLangaugeBaseId": 3261016,
+      "LangaugeBaseId": 3261016,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 102207,
+      "BaseLangaugeBaseId": 4061401,
+      "LangaugeBaseId": 4061401,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 102208,
+      "BaseLangaugeBaseId": 4061402,
+      "LangaugeBaseId": 4061402,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 102209,
+      "BaseLangaugeBaseId": 4061403,
+      "LangaugeBaseId": 4061403,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 102210,
+      "BaseLangaugeBaseId": 4061404,
+      "LangaugeBaseId": 4061404,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 102211,
+      "BaseLangaugeBaseId": 4061405,
+      "LangaugeBaseId": 4061405,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 102212,
+      "BaseLangaugeBaseId": 4061406,
+      "LangaugeBaseId": 4061406,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 102213,
+      "BaseLangaugeBaseId": 4061407,
+      "LangaugeBaseId": 4061407,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 102214,
+      "BaseLangaugeBaseId": 4061408,
+      "LangaugeBaseId": 4061408,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 102215,
+      "BaseLangaugeBaseId": 4061409,
+      "LangaugeBaseId": 4061409,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 102216,
+      "BaseLangaugeBaseId": 4061410,
+      "LangaugeBaseId": 4061410,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 102301,
+      "BaseLangaugeBaseId": 3241002,
+      "LangaugeBaseId": 3241002,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 102302,
+      "BaseLangaugeBaseId": 3241003,
+      "LangaugeBaseId": 3241003,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 102303,
+      "BaseLangaugeBaseId": 3241004,
+      "LangaugeBaseId": 3241004,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 102304,
+      "BaseLangaugeBaseId": 3241007,
+      "LangaugeBaseId": 3241007,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 102305,
+      "BaseLangaugeBaseId": 3241011,
+      "LangaugeBaseId": 3341011,
+      "ParamType0": 2,
+      "ParamValue0": {
+        "FeatureId": 110411001
+      },
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 102306,
+      "BaseLangaugeBaseId": 3241016,
+      "LangaugeBaseId": 3241016,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 102307,
+      "BaseLangaugeBaseId": 4041401,
+      "LangaugeBaseId": 4041401,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 102308,
+      "BaseLangaugeBaseId": 4041402,
+      "LangaugeBaseId": 4041402,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 102309,
+      "BaseLangaugeBaseId": 4041403,
+      "LangaugeBaseId": 4141403,
+      "ParamType0": 2,
+      "ParamValue0": {
+        "FeatureId": 110416013
+      },
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 102310,
+      "BaseLangaugeBaseId": 4041404,
+      "LangaugeBaseId": 4041404,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 102311,
+      "BaseLangaugeBaseId": 4041405,
+      "LangaugeBaseId": 4041405,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 102312,
+      "BaseLangaugeBaseId": 4041406,
+      "LangaugeBaseId": 4041406,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 102313,
+      "BaseLangaugeBaseId": 4041407,
+      "LangaugeBaseId": 4141407,
+      "ParamType0": 2,
+      "ParamValue0": {
+        "FeatureId": 110416023
+      },
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 102314,
+      "BaseLangaugeBaseId": 4041408,
+      "LangaugeBaseId": 4041408,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 102315,
+      "BaseLangaugeBaseId": 4041409,
+      "LangaugeBaseId": 4041409,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  },
+  {
+    "EquipLanguageRow": {
+      "Id": 102316,
+      "BaseLangaugeBaseId": 4041410,
+      "LangaugeBaseId": 4041410,
+      "ParamType0": 0,
+      "ParamValue0": {},
+      "ParamType1": 0,
+      "ParamValue1": {}
+    }
+  }
+]

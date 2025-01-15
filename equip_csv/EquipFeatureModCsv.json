@@ -1,0 +1,1212 @@
+[
+  {
+    "EquipFeatureModRow": {
+      "Id": 11511031,
+      "Target": 11502001,
+      "TargetType": 101,
+      "OperationType": 1000,
+      "OperationParams": {
+        "Ord": 100
+      },
+      "Params": {}
+    }
+  },
+  {
+    "EquipFeatureModRow": {
+      "Id": 11611001,
+      "Target": 11604001,
+      "TargetType": 101,
+      "OperationType": 1000,
+      "OperationParams": {
+        "Ord": 100
+      },
+      "Params": {}
+    }
+  },
+  {
+    "EquipFeatureModRow": {
+      "Id": 11611011,
+      "Target": 11604001,
+      "TargetType": 101,
+      "OperationType": 1000,
+      "OperationParams": {
+        "Ord": 200
+      },
+      "Params": {}
+    }
+  },
+  {
+    "EquipFeatureModRow": {
+      "Id": 11611031,
+      "Target": 11604001,
+      "TargetType": 101,
+      "OperationType": 1000,
+      "OperationParams": {
+        "Ord": 300
+      },
+      "Params": {}
+    }
+  },
+  {
+    "EquipFeatureModRow": {
+      "Id": 12204001,
+      "Target": 12202001,
+      "TargetType": 101,
+      "OperationType": 1000,
+      "OperationParams": {
+        "Ord": 100
+      },
+      "Params": {}
+    }
+  },
+  {
+    "EquipFeatureModRow": {
+      "Id": 12211001,
+      "Target": 12202001,
+      "TargetType": 101,
+      "OperationType": 1000,
+      "OperationParams": {
+        "Ord": 200
+      },
+      "Params": {}
+    }
+  },
+  {
+    "EquipFeatureModRow": {
+      "Id": 12211011,
+      "Target": 12202001,
+      "TargetType": 101,
+      "OperationType": 1000,
+      "OperationParams": {
+        "Ord": 300
+      },
+      "Params": {}
+    }
+  },
+  {
+    "EquipFeatureModRow": {
+      "Id": 12211031,
+      "Target": 12202001,
+      "TargetType": 101,
+      "OperationType": 1000,
+      "OperationParams": {
+        "Ord": 400
+      },
+      "Params": {}
+    }
+  },
+  {
+    "EquipFeatureModRow": {
+      "Id": 12304001,
+      "Target": 12302001,
+      "TargetType": 101,
+      "OperationType": 1000,
+      "OperationParams": {
+        "Ord": 100
+      },
+      "Params": {}
+    }
+  },
+  {
+    "EquipFeatureModRow": {
+      "Id": 12311001,
+      "Target": 12302001,
+      "TargetType": 101,
+      "OperationType": 1000,
+      "OperationParams": {
+        "Ord": 200
+      },
+      "Params": {}
+    }
+  },
+  {
+    "EquipFeatureModRow": {
+      "Id": 12311011,
+      "Target": 12302001,
+      "TargetType": 101,
+      "OperationType": 1000,
+      "OperationParams": {
+        "Ord": 300
+      },
+      "Params": {}
+    }
+  },
+  {
+    "EquipFeatureModRow": {
+      "Id": 12311031,
+      "Target": 12302001,
+      "TargetType": 101,
+      "OperationType": 1000,
+      "OperationParams": {
+        "Ord": 400
+      },
+      "Params": {}
+    }
+  },
+  {
+    "EquipFeatureModRow": {
+      "Id": 12411001,
+      "Target": 12404001,
+      "TargetType": 101,
+      "OperationType": 1000,
+      "OperationParams": {
+        "Ord": 100
+      },
+      "Params": {}
+    }
+  },
+  {
+    "EquipFeatureModRow": {
+      "Id": 12411011,
+      "Target": 12404001,
+      "TargetType": 101,
+      "OperationType": 1000,
+      "OperationParams": {
+        "Ord": 200
+      },
+      "Params": {}
+    }
+  },
+  {
+    "EquipFeatureModRow": {
+      "Id": 12411031,
+      "Target": 12404001,
+      "TargetType": 101,
+      "OperationType": 1000,
+      "OperationParams": {
+        "Ord": 300
+      },
+      "Params": {}
+    }
+  },
+  {
+    "EquipFeatureModRow": {
+      "Id": 12511001,
+      "Target": 12502002,
+      "TargetType": 101,
+      "OperationType": 1000,
+      "OperationParams": {
+        "Ord": 100
+      },
+      "Params": {}
+    }
+  },
+  {
+    "EquipFeatureModRow": {
+      "Id": 12511011,
+      "Target": 12502002,
+      "TargetType": 101,
+      "OperationType": 1000,
+      "OperationParams": {
+        "Ord": 200
+      },
+      "Params": {}
+    }
+  },
+  {
+    "EquipFeatureModRow": {
+      "Id": 12511032,
+      "Target": 12502002,
+      "TargetType": 101,
+      "OperationType": 1000,
+      "OperationParams": {
+        "Ord": 300
+      },
+      "Params": {}
+    }
+  },
+  {
+    "EquipFeatureModRow": {
+      "Id": 12611001,
+      "Target": 12604001,
+      "TargetType": 101,
+      "OperationType": 1000,
+      "OperationParams": {
+        "Ord": 100
+      },
+      "Params": {}
+    }
+  },
+  {
+    "EquipFeatureModRow": {
+      "Id": 12611011,
+      "Target": 12604001,
+      "TargetType": 101,
+      "OperationType": 1000,
+      "OperationParams": {
+        "Ord": 200
+      },
+      "Params": {}
+    }
+  },
+  {
+    "EquipFeatureModRow": {
+      "Id": 12611031,
+      "Target": 12604001,
+      "TargetType": 101,
+      "OperationType": 1000,
+      "OperationParams": {
+        "Ord": 300
+      },
+      "Params": {}
+    }
+  },
+  {
+    "EquipFeatureModRow": {
+      "Id": 13204001,
+      "Target": 13202001,
+      "TargetType": 101,
+      "OperationType": 1000,
+      "OperationParams": {
+        "Ord": 100
+      },
+      "Params": {}
+    }
+  },
+  {
+    "EquipFeatureModRow": {
+      "Id": 13211001,
+      "Target": 13202001,
+      "TargetType": 101,
+      "OperationType": 1000,
+      "OperationParams": {
+        "Ord": 200
+      },
+      "Params": {}
+    }
+  },
+  {
+    "EquipFeatureModRow": {
+      "Id": 13211011,
+      "Target": 13202001,
+      "TargetType": 101,
+      "OperationType": 1000,
+      "OperationParams": {
+        "Ord": 300
+      },
+      "Params": {}
+    }
+  },
+  {
+    "EquipFeatureModRow": {
+      "Id": 13211031,
+      "Target": 13202001,
+      "TargetType": 101,
+      "OperationType": 1000,
+      "OperationParams": {
+        "Ord": 400
+      },
+      "Params": {}
+    }
+  },
+  {
+    "EquipFeatureModRow": {
+      "Id": 13611001,
+      "Target": 13604001,
+      "TargetType": 101,
+      "OperationType": 1000,
+      "OperationParams": {
+        "Ord": 100
+      },
+      "Params": {}
+    }
+  },
+  {
+    "EquipFeatureModRow": {
+      "Id": 13611011,
+      "Target": 13604001,
+      "TargetType": 101,
+      "OperationType": 1000,
+      "OperationParams": {
+        "Ord": 200
+      },
+      "Params": {}
+    }
+  },
+  {
+    "EquipFeatureModRow": {
+      "Id": 13611031,
+      "Target": 13604001,
+      "TargetType": 101,
+      "OperationType": 1000,
+      "OperationParams": {
+        "Ord": 300
+      },
+      "Params": {}
+    }
+  },
+  {
+    "EquipFeatureModRow": {
+      "Id": 14711011,
+      "Target": 14711001,
+      "TargetType": 101,
+      "OperationType": 1000,
+      "OperationParams": {
+        "Ord": 100
+      },
+      "Params": {}
+    }
+  },
+  {
+    "EquipFeatureModRow": {
+      "Id": 14711031,
+      "Target": 14711001,
+      "TargetType": 101,
+      "OperationType": 1000,
+      "OperationParams": {
+        "Ord": 200
+      },
+      "Params": {}
+    }
+  },
+  {
+    "EquipFeatureModRow": {
+      "Id": 14811011,
+      "Target": 14811001,
+      "TargetType": 101,
+      "OperationType": 1000,
+      "OperationParams": {
+        "Ord": 100
+      },
+      "Params": {}
+    }
+  },
+  {
+    "EquipFeatureModRow": {
+      "Id": 14811031,
+      "Target": 14811001,
+      "TargetType": 101,
+      "OperationType": 1000,
+      "OperationParams": {
+        "Ord": 200
+      },
+      "Params": {}
+    }
+  },
+  {
+    "EquipFeatureModRow": {
+      "Id": 14911011,
+      "Target": 14911001,
+      "TargetType": 101,
+      "OperationType": 1000,
+      "OperationParams": {
+        "Ord": 100
+      },
+      "Params": {}
+    }
+  },
+  {
+    "EquipFeatureModRow": {
+      "Id": 14911031,
+      "Target": 14911001,
+      "TargetType": 101,
+      "OperationType": 1000,
+      "OperationParams": {
+        "Ord": 200
+      },
+      "Params": {}
+    }
+  },
+  {
+    "EquipFeatureModRow": {
+      "Id": 15011011,
+      "Target": 15011001,
+      "TargetType": 101,
+      "OperationType": 1000,
+      "OperationParams": {
+        "Ord": 100
+      },
+      "Params": {}
+    }
+  },
+  {
+    "EquipFeatureModRow": {
+      "Id": 15011031,
+      "Target": 15011001,
+      "TargetType": 101,
+      "OperationType": 1000,
+      "OperationParams": {
+        "Ord": 200
+      },
+      "Params": {}
+    }
+  },
+  {
+    "EquipFeatureModRow": {
+      "Id": 20011121,
+      "Target": 13103001,
+      "TargetType": 1,
+      "OperationType": 1,
+      "OperationParams": {},
+      "Params": {
+        "ApFinalPercent": [
+          0.06017189100384712,
+          0.07500038295984268
+        ]
+      }
+    }
+  },
+  {
+    "EquipFeatureModRow": {
+      "Id": 20011141,
+      "Target": 13104001,
+      "TargetType": 3,
+      "OperationType": 1,
+      "OperationParams": {},
+      "Params": {
+        "AS_TrappedGhostConvertRatio": [
+          0.0019264636794105172,
+          0.001873266533948481
+        ],
+        "showValue": [
+          0.23137207329273224,
+          0.261770635843277
+        ]
+      }
+    }
+  },
+  {
+    "EquipFeatureModRow": {
+      "Id": 20011191,
+      "Target": 13111001,
+      "TargetType": 3,
+      "OperationType": 1,
+      "OperationParams": {},
+      "Params": {
+        "AS_GhostBoomDmgAddRate": [
+          1.6039307117462158,
+          0.7725464105606079
+        ]
+      }
+    }
+  },
+  {
+    "EquipFeatureModRow": {
+      "Id": 20021121,
+      "Target": 12103001,
+      "TargetType": 1,
+      "OperationType": 1,
+      "OperationParams": {},
+      "Params": {
+        "BulletShapeRate": [
+          0.0990196242928505,
+          0.1112743392586708
+        ]
+      }
+    }
+  },
+  {
+    "EquipFeatureModRow": {
+      "Id": 20021141,
+      "Target": 12104001,
+      "TargetType": 4,
+      "OperationType": 1,
+      "OperationParams": {},
+      "Params": {
+        "AS_VPExpDmgAddRate": [
+          0.7450958490371704,
+          1.6509888172149658
+        ]
+      }
+    }
+  },
+  {
+    "EquipFeatureModRow": {
+      "Id": 20021191,
+      "Target": 12111001,
+      "TargetType": 4,
+      "OperationType": 1,
+      "OperationParams": {},
+      "Params": {
+        "AS_VPShdExpDmgAddRate": [
+          0.7725464105606079,
+          0.7568603754043579
+        ]
+      }
+    }
+  },
+  {
+    "EquipFeatureModRow": {
+      "Id": 20030721,
+      "Target": 11302001,
+      "TargetType": 1,
+      "OperationType": 1,
+      "OperationParams": {},
+      "Params": {
+        "HitHighHpPercentApRateAddition": [
+          0.16078491508960724,
+          0.12941284477710724
+        ]
+      }
+    }
+  },
+  {
+    "EquipFeatureModRow": {
+      "Id": 20030741,
+      "Target": 11304001,
+      "TargetType": 1,
+      "OperationType": 1,
+      "OperationParams": {},
+      "Params": {
+        "HitFullHpApRateAddition": [
+          0.388235479593277,
+          0.1593162566423416
+        ]
+      }
+    }
+  },
+  {
+    "EquipFeatureModRow": {
+      "Id": 20030791,
+      "Target": 11311002,
+      "TargetType": 4,
+      "OperationType": 1,
+      "OperationParams": {},
+      "Params": {
+        "AS_SupplyStatsAdditionRate": [
+          0.04090934619307518,
+          0.05902725085616112
+        ]
+      }
+    }
+  },
+  {
+    "EquipFeatureModRow": {
+      "Id": 20040721,
+      "Target": 12204002,
+      "TargetType": 4,
+      "OperationType": 1,
+      "OperationParams": {},
+      "Params": {
+        "AS_CrazyDuration": 2
+      }
+    }
+  },
+  {
+    "EquipFeatureModRow": {
+      "Id": 20040741,
+      "Target": 12204002,
+      "TargetType": 4,
+      "OperationType": 1,
+      "OperationParams": {},
+      "Params": {
+        "AS_CrazyDuration": 2
+      }
+    }
+  },
+  {
+    "EquipFeatureModRow": {
+      "Id": 20040791,
+      "Target": 12211002,
+      "TargetType": 4,
+      "OperationType": 1,
+      "OperationParams": {},
+      "Params": {
+        "AS_CrazyLeechOverHealConvertRate": [
+          0.2686294615268707,
+          0.1985313445329666
+        ]
+      }
+    }
+  },
+  {
+    "EquipFeatureModRow": {
+      "Id": 20050721,
+      "Target": 12502001,
+      "TargetType": 3,
+      "OperationType": 1,
+      "OperationParams": {},
+      "Params": {
+        "AS_SecKillNormalAndElitePercent": [
+          0.055679358541965485,
+          0.07661445438861847
+        ]
+      }
+    }
+  },
+  {
+    "EquipFeatureModRow": {
+      "Id": 20050741,
+      "Target": 12504001,
+      "TargetType": 1,
+      "OperationType": 1,
+      "OperationParams": {},
+      "Params": {
+        "ApFinalAdditionPercent_BossElite": [
+          0.355886846780777,
+          0.18529434502124786
+        ]
+      }
+    }
+  },
+  {
+    "EquipFeatureModRow": {
+      "Id": 20050791,
+      "Target": 12511002,
+      "TargetType": 4,
+      "OperationType": 1,
+      "OperationParams": {},
+      "Params": {
+        "AS_DeathAndDecayAddPercent": [
+          0.005164198111742735,
+          0.005195073317736387
+        ]
+      }
+    }
+  },
+  {
+    "EquipFeatureModRow": {
+      "Id": 20060721,
+      "Target": 13403001,
+      "TargetType": 1,
+      "OperationType": 1,
+      "OperationParams": {},
+      "Params": {
+        "AllRecoverUp": [
+          0.10098037868738174,
+          0.0838237777352333
+        ]
+      }
+    }
+  },
+  {
+    "EquipFeatureModRow": {
+      "Id": 20060741,
+      "Target": 13404002,
+      "TargetType": 4,
+      "OperationType": 1,
+      "OperationParams": {},
+      "Params": {
+        "AS_RandomApRateMaxAddition": [
+          0.1191173568367958,
+          0.1112743392586708
+        ]
+      }
+    }
+  },
+  {
+    "EquipFeatureModRow": {
+      "Id": 20060791,
+      "Target": 13404002,
+      "TargetType": 4,
+      "OperationType": 1,
+      "OperationParams": {},
+      "Params": {
+        "AS_RandomApRateMaxAddition": [
+          0.07107887417078018,
+          0.0591915138065815
+        ]
+      }
+    }
+  },
+  {
+    "EquipFeatureModRow": {
+      "Id": 20311141,
+      "Target": 20311121,
+      "TargetType": 4,
+      "OperationType": 1,
+      "OperationParams": {},
+      "Params": {
+        "AS_LightSaberSpinTriggerCount": -1,
+        "AS_LightSaberRedTriggerCount": -2,
+        "AS_LightSaberRedDmgAddRate": [
+          0.0916667953133583,
+          0.11666641384363174
+        ]
+      }
+    }
+  },
+  {
+    "EquipFeatureModRow": {
+      "Id": 20311191,
+      "Target": 20311121,
+      "TargetType": 4,
+      "OperationType": 1,
+      "OperationParams": {},
+      "Params": {
+        "AS_LightSaberSpinDmgAddRate": [
+          0.20882339775562286,
+          0.14117737114429474
+        ],
+        "AS_LightSaberRedDmgAddRate": [
+          0.1754905730485916,
+          0.4401992857456207
+        ]
+      }
+    }
+  },
+  {
+    "EquipFeatureModRow": {
+      "Id": 20350741,
+      "Target": 13611002,
+      "TargetType": 4,
+      "OperationType": 1,
+      "OperationParams": {},
+      "Params": {
+        "AS_ReverseApRateAddition": [
+          0.057966042309999466,
+          0.05502491071820259
+        ]
+      }
+    }
+  },
+  {
+    "EquipFeatureModRow": {
+      "Id": 20350791,
+      "Target": 13611002,
+      "TargetType": 4,
+      "OperationType": 1,
+      "OperationParams": {},
+      "Params": {
+        "AS_ReverseApRateAddition": [
+          0.050123024731874466,
+          0.12352905422449112
+        ]
+      }
+    }
+  },
+  {
+    "EquipFeatureModRow": {
+      "Id": 20530721,
+      "Target": 13204002,
+      "TargetType": 4,
+      "OperationType": 1,
+      "OperationParams": {},
+      "Params": {
+        "AS_GhostArmor_GhostModeDuration": 3
+      }
+    }
+  },
+  {
+    "EquipFeatureModRow": {
+      "Id": 20530741,
+      "Target": 13204002,
+      "TargetType": 4,
+      "OperationType": 1,
+      "OperationParams": {},
+      "Params": {
+        "AS_GhostArmor_GhostModeDuration": 3
+      }
+    }
+  },
+  {
+    "EquipFeatureModRow": {
+      "Id": 20540791,
+      "Target": 11511001,
+      "TargetType": 1,
+      "OperationType": 1,
+      "OperationParams": {},
+      "Params": {
+        "CritValuePlus": [
+          0.3421615660190582,
+          0.15000076591968536
+        ]
+      }
+    }
+  },
+  {
+    "EquipFeatureModRow": {
+      "Id": 20560721,
+      "Target": 12402001,
+      "TargetType": 1,
+      "OperationType": 1,
+      "OperationParams": {},
+      "Params": {
+        "AllRecoverUp": [
+          0.2068626433610916,
+          0.316671758890152
+        ]
+      }
+    }
+  },
+  {
+    "EquipFeatureModRow": {
+      "Id": 20791191,
+      "Target": 14711002,
+      "TargetType": 1,
+      "OperationType": 1,
+      "OperationParams": {},
+      "Params": {
+        "ApFinalPercent": [
+          0.2676528990268707,
+          0.16862793266773224
+        ]
+      }
+    }
+  },
+  {
+    "EquipFeatureModRow": {
+      "Id": 21131121,
+      "Target": 12204002,
+      "TargetType": 4,
+      "OperationType": 1,
+      "OperationParams": {},
+      "Params": {
+        "AS_CrazyDuration": 3
+      }
+    }
+  },
+  {
+    "EquipFeatureModRow": {
+      "Id": 21131141,
+      "Target": 12204002,
+      "TargetType": 4,
+      "OperationType": 1,
+      "OperationParams": {},
+      "Params": {
+        "AS_CrazyDuration": 3
+      }
+    }
+  },
+  {
+    "EquipFeatureModRow": {
+      "Id": 21131191,
+      "Target": 12211002,
+      "TargetType": 4,
+      "OperationType": 1,
+      "OperationParams": {},
+      "Params": {
+        "AS_CrazyLeechOverHealConvertRate": [
+          0.7607818841934204,
+          0.5215698480606079
+        ]
+      }
+    }
+  },
+  {
+    "EquipFeatureModRow": {
+      "Id": 21181121,
+      "Target": 12104001,
+      "TargetType": 4,
+      "OperationType": 1,
+      "OperationParams": {},
+      "Params": {
+        "AS_VPExpDmgAddRate": [
+          0.277456670999527,
+          0.21274490654468536
+        ]
+      }
+    }
+  },
+  {
+    "EquipFeatureModRow": {
+      "Id": 21181141,
+      "Target": 12111001,
+      "TargetType": 4,
+      "OperationType": 1,
+      "OperationParams": {},
+      "Params": {
+        "AS_VPShdExpDmgAddRate": [
+          0.23235245048999786,
+          0.2490188628435135
+        ]
+      }
+    }
+  },
+  {
+    "EquipFeatureModRow": {
+      "Id": 21181191,
+      "Target": 12104001,
+      "TargetType": 4,
+      "OperationType": 1,
+      "OperationParams": {},
+      "Params": {
+        "AS_VPExpDmgAddRate": [
+          0.2676528990268707,
+          0.19607849419116974
+        ]
+      }
+    }
+  },
+  {
+    "EquipFeatureModRow": {
+      "Id": 21181192,
+      "Target": 12111001,
+      "TargetType": 4,
+      "OperationType": 1,
+      "OperationParams": {},
+      "Params": {
+        "AS_VPShdExpDmgAddRate": [
+          0.2068626433610916,
+          0.22450943291187286
+        ]
+      }
+    }
+  },
+  {
+    "EquipFeatureModRow": {
+      "Id": 30309021,
+      "Target": 110104001,
+      "TargetType": 4,
+      "OperationType": 1,
+      "OperationParams": {},
+      "Params": {
+        "AS_WeaponBurstDamageMaxAp": [
+          0.3029464781284332,
+          0.18137283623218536
+        ]
+      }
+    }
+  },
+  {
+    "EquipFeatureModRow": {
+      "Id": 30309041,
+      "Target": 110116013,
+      "TargetType": 4,
+      "OperationType": 1,
+      "OperationParams": {},
+      "Params": {
+        "AS_WeaponStarFlashHitApValue": [
+          0.07303962856531143,
+          0.08235321193933487
+        ]
+      }
+    }
+  },
+  {
+    "EquipFeatureModRow": {
+      "Id": 30309081,
+      "Target": 110116022,
+      "TargetType": 4,
+      "OperationType": 1,
+      "OperationParams": {},
+      "Params": {
+        "AS_WeaponStarBurstBulletTraceHitApValue": [
+          0.1352943480014801,
+          0.24607697129249573
+        ]
+      }
+    }
+  },
+  {
+    "EquipFeatureModRow": {
+      "Id": 30310021,
+      "Target": 110216017,
+      "TargetType": 4,
+      "OperationType": 1,
+      "OperationParams": {},
+      "Params": {
+        "AS_WeaponEternalDestruction_ShieldIncreasePercent": [
+          -0.03676490858197212,
+          -0.07769737392663956
+        ]
+      }
+    }
+  },
+  {
+    "EquipFeatureModRow": {
+      "Id": 30310041,
+      "Target": 110211001,
+      "TargetType": 4,
+      "OperationType": 1,
+      "OperationParams": {},
+      "Params": {
+        "AS_WeaponEternalDestruction_DamageIncreasePercent": [
+          0.05036811903119087,
+          0.05845623090863228
+        ]
+      }
+    }
+  },
+  {
+    "EquipFeatureModRow": {
+      "Id": 30310081,
+      "Target": 110216022,
+      "TargetType": 4,
+      "OperationType": 1,
+      "OperationParams": {},
+      "Params": {
+        "AS_WeaponEternalDestruction_ShieldHigherThanLifePercent": [
+          0.3500045835971832,
+          0.3676513731479645
+        ]
+      }
+    }
+  },
+  {
+    "EquipFeatureModRow": {
+      "Id": 30411021,
+      "Target": 110316011,
+      "TargetType": 4,
+      "OperationType": 1,
+      "OperationParams": {},
+      "Params": {
+        "AS_EternalBreakerNecklace_RabidSkillDmgMod": [
+          0.0435054786503315,
+          0.08529434353113174
+        ]
+      }
+    }
+  },
+  {
+    "EquipFeatureModRow": {
+      "Id": 30411041,
+      "Target": 110316001,
+      "TargetType": 1,
+      "OperationType": 1,
+      "OperationParams": {},
+      "Params": {
+        "WeakAddition": [
+          0.054044533520936966,
+          0.044976044446229935
+        ]
+      }
+    }
+  },
+  {
+    "EquipFeatureModRow": {
+      "Id": 30411081,
+      "Target": 110316022,
+      "TargetType": 4,
+      "OperationType": 1,
+      "OperationParams": {},
+      "Params": {
+        "AS_EternalBreakerNecklace_SupplyLvToCritValMod": [
+          0.023584861308336258,
+          0.012856969609856606
+        ]
+      }
+    }
+  },
+  {
+    "EquipFeatureModRow": {
+      "Id": 30501021,
+      "Target": 110416023,
+      "TargetType": 1,
+      "OperationType": 1,
+      "OperationParams": {},
+      "Params": {
+        "ShieldAddition": [
+          0.10490188747644424,
+          0.07107887417078018
+        ]
+      }
+    }
+  },
+  {
+    "EquipFeatureModRow": {
+      "Id": 30501041,
+      "Target": 110416013,
+      "TargetType": 4,
+      "OperationType": 1,
+      "OperationParams": {},
+      "Params": {
+        "WeaponEternalDestructionBelt_ExtraSkill_DamagePercentValue": [
+          0.05367641523480415,
+          0.037255097180604935
+        ]
+      }
+    }
+  },
+  {
+    "EquipFeatureModRow": {
+      "Id": 30501081,
+      "Target": 110411001,
+      "TargetType": 4,
+      "OperationType": 1,
+      "OperationParams": {},
+      "Params": {
+        "WeaponEternalDestructionBelt_EnergyBall_UpgradeApRate": [
+          0.02808477357029915,
+          0.008113870397210121
+        ]
+      }
+    }
+  },
+  {
+    "EquipFeatureModRow": {
+      "Id": 121120102,
+      "Target": 121120101,
+      "TargetType": 102,
+      "OperationType": 1000,
+      "OperationParams": {
+        "Ord": 100
+      },
+      "Params": {}
+    }
+  },
+  {
+    "EquipFeatureModRow": {
+      "Id": 121120104,
+      "Target": 121120101,
+      "TargetType": 102,
+      "OperationType": 1000,
+      "OperationParams": {
+        "Ord": 200
+      },
+      "Params": {}
+    }
+  },
+  {
+    "EquipFeatureModRow": {
+      "Id": 121170102,
+      "Target": 121170101,
+      "TargetType": 102,
+      "OperationType": 1000,
+      "OperationParams": {
+        "Ord": 100
+      },
+      "Params": {}
+    }
+  },
+  {
+    "EquipFeatureModRow": {
+      "Id": 121170103,
+      "Target": 121170101,
+      "TargetType": 102,
+      "OperationType": 1000,
+      "OperationParams": {
+        "Ord": 200
+      },
+      "Params": {}
+    }
+  },
+  {
+    "EquipFeatureModRow": {
+      "Id": 121170104,
+      "Target": 121170101,
+      "TargetType": 102,
+      "OperationType": 1000,
+      "OperationParams": {
+        "Ord": 300
+      },
+      "Params": {}
+    }
+  },
+  {
+    "EquipFeatureModRow": {
+      "Id": 121180102,
+      "Target": 121180101,
+      "TargetType": 102,
+      "OperationType": 1000,
+      "OperationParams": {
+        "Ord": 100
+      },
+      "Params": {}
+    }
+  },
+  {
+    "EquipFeatureModRow": {
+      "Id": 121180103,
+      "Target": 121180101,
+      "TargetType": 102,
+      "OperationType": 1000,
+      "OperationParams": {
+        "Ord": 200
+      },
+      "Params": {}
+    }
+  },
+  {
+    "EquipFeatureModRow": {
+      "Id": 121180104,
+      "Target": 121180101,
+      "TargetType": 102,
+      "OperationType": 1000,
+      "OperationParams": {
+        "Ord": 300
+      },
+      "Params": {}
+    }
+  }
+]

@@ -1,0 +1,3005 @@
+{
+    "Int32 _key": 1057736578,
+    "Int32 _rndIdx": 608,
+    "Dictionary<System.Int32,EquipSSGodForgeRow> _dict": {
+        "Int32[] _buckets": [
+            0,
+            0,
+            50,
+            0,
+            48,
+            49,
+            0,
+            0,
+            0,
+            0,
+            58,
+            59,
+            56,
+            57,
+            0,
+            0,
+            60,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            2,
+            0,
+            0,
+            5,
+            0,
+            3,
+            4,
+            0,
+            6,
+            7,
+            0,
+            13,
+            14,
+            11,
+            12,
+            0,
+            0,
+            15,
+            0,
+            21,
+            22,
+            0,
+            0,
+            25,
+            0,
+            23,
+            24,
+            0,
+            0,
+            0,
+            0,
+            33,
+            34,
+            31,
+            32,
+            0,
+            0,
+            35,
+            0,
+            41,
+            42,
+            0,
+            0,
+            45,
+            0,
+            43,
+            44,
+            0,
+            0,
+            0,
+            0,
+            53,
+            54,
+            51,
+            52,
+            0,
+            0,
+            55,
+            0,
+            46,
+            47
+        ],
+        "Entry<System.Int32,EquipSSGodForgeRow>[] _entries": [
+            {
+                "Int32 hashCode": 1057978004,
+                "Int32 next": -1,
+                "Int32 key": 1057978004,
+                "EquipSSGodForgeRow value": {
+                    "ObscuredInt <id>k__BackingField": {
+                        "Int32 currentCryptoKey": 1811395578,
+                        "Int32 hiddenValue": 1811394579,
+                        "Int32 fakeValue": 1496650418,
+                        "Int32 currentFakeCryptoKey": 1496650075,
+                        "Boolean fakeValueActive": true,
+                        "Boolean inited": true
+                    },
+                    "List<System.Int32[]> <CostEquip>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                210107,
+                                1
+                            ]
+                        }
+                    ],
+                    "List<System.Int32[]> <CostItem>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                614,
+                                1
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                611,
+                                10
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                610,
+                                500
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "Int32 hashCode": 1057978005,
+                "Int32 next": -1,
+                "Int32 key": 1057978005,
+                "EquipSSGodForgeRow value": {
+                    "ObscuredInt <id>k__BackingField": {
+                        "Int32 currentCryptoKey": 1958672582,
+                        "Int32 hiddenValue": 1958673196,
+                        "Int32 fakeValue": 1969860074,
+                        "Int32 currentFakeCryptoKey": 1969860096,
+                        "Boolean fakeValueActive": true,
+                        "Boolean inited": true
+                    },
+                    "List<System.Int32[]> <CostEquip>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                210107,
+                                1
+                            ]
+                        }
+                    ],
+                    "List<System.Int32[]> <CostItem>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                614,
+                                2
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                611,
+                                20
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                610,
+                                500
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "Int32 hashCode": 1057978010,
+                "Int32 next": -1,
+                "Int32 key": 1057978010,
+                "EquipSSGodForgeRow value": {
+                    "ObscuredInt <id>k__BackingField": {
+                        "Int32 currentCryptoKey": 1729094919,
+                        "Int32 hiddenValue": 1729095404,
+                        "Int32 fakeValue": 1687524788,
+                        "Int32 currentFakeCryptoKey": 1687524959,
+                        "Boolean fakeValueActive": true,
+                        "Boolean inited": true
+                    },
+                    "List<System.Int32[]> <CostEquip>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                210107,
+                                1
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                210107,
+                                1
+                            ]
+                        }
+                    ],
+                    "List<System.Int32[]> <CostItem>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                614,
+                                3
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                611,
+                                40
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                610,
+                                500
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "Int32 hashCode": 1057978011,
+                "Int32 next": -1,
+                "Int32 key": 1057978011,
+                "EquipSSGodForgeRow value": {
+                    "ObscuredInt <id>k__BackingField": {
+                        "Int32 currentCryptoKey": 1242451260,
+                        "Int32 hiddenValue": 1242451664,
+                        "Int32 fakeValue": 1274850897,
+                        "Int32 currentFakeCryptoKey": 1274850749,
+                        "Boolean fakeValueActive": true,
+                        "Boolean inited": true
+                    },
+                    "List<System.Int32[]> <CostEquip>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                210107,
+                                1
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                210107,
+                                1
+                            ]
+                        }
+                    ],
+                    "List<System.Int32[]> <CostItem>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                614,
+                                5
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                611,
+                                60
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                610,
+                                500
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "Int32 hashCode": 1057978008,
+                "Int32 next": -1,
+                "Int32 key": 1057978008,
+                "EquipSSGodForgeRow value": {
+                    "ObscuredInt <id>k__BackingField": {
+                        "Int32 currentCryptoKey": 2083332044,
+                        "Int32 hiddenValue": 2083331105,
+                        "Int32 fakeValue": 1064142020,
+                        "Int32 currentFakeCryptoKey": 1064142633,
+                        "Boolean fakeValueActive": true,
+                        "Boolean inited": true
+                    },
+                    "List<System.Int32[]> <CostEquip>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                210111,
+                                1
+                            ]
+                        }
+                    ],
+                    "List<System.Int32[]> <CostItem>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                614,
+                                8
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                611,
+                                80
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                610,
+                                1000
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "Int32 hashCode": 1057977212,
+                "Int32 next": -1,
+                "Int32 key": 1057977212,
+                "EquipSSGodForgeRow value": {
+                    "ObscuredInt <id>k__BackingField": {
+                        "Int32 currentCryptoKey": 1146360263,
+                        "Int32 hiddenValue": 1146361366,
+                        "Int32 fakeValue": 1922353970,
+                        "Int32 currentFakeCryptoKey": 1922354403,
+                        "Boolean fakeValueActive": true,
+                        "Boolean inited": true
+                    },
+                    "List<System.Int32[]> <CostEquip>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                210207,
+                                1
+                            ]
+                        }
+                    ],
+                    "List<System.Int32[]> <CostItem>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                614,
+                                1
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                612,
+                                10
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                610,
+                                500
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "Int32 hashCode": 1057977213,
+                "Int32 next": -1,
+                "Int32 key": 1057977213,
+                "EquipSSGodForgeRow value": {
+                    "ObscuredInt <id>k__BackingField": {
+                        "Int32 currentCryptoKey": 1415673386,
+                        "Int32 hiddenValue": 1415672312,
+                        "Int32 fakeValue": 1159422255,
+                        "Int32 currentFakeCryptoKey": 1159423741,
+                        "Boolean fakeValueActive": true,
+                        "Boolean inited": true
+                    },
+                    "List<System.Int32[]> <CostEquip>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                210207,
+                                1
+                            ]
+                        }
+                    ],
+                    "List<System.Int32[]> <CostItem>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                614,
+                                2
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                612,
+                                20
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                610,
+                                500
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "Int32 hashCode": 1057976962,
+                "Int32 next": -1,
+                "Int32 key": 1057976962,
+                "EquipSSGodForgeRow value": {
+                    "ObscuredInt <id>k__BackingField": {
+                        "Int32 currentCryptoKey": 1262008920,
+                        "Int32 hiddenValue": 1262009739,
+                        "Int32 fakeValue": 1422039369,
+                        "Int32 currentFakeCryptoKey": 1422040730,
+                        "Boolean fakeValueActive": true,
+                        "Boolean inited": true
+                    },
+                    "List<System.Int32[]> <CostEquip>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                210207,
+                                1
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                210207,
+                                1
+                            ]
+                        }
+                    ],
+                    "List<System.Int32[]> <CostItem>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                614,
+                                3
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                612,
+                                40
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                610,
+                                500
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "Int32 hashCode": 1057976963,
+                "Int32 next": -1,
+                "Int32 key": 1057976963,
+                "EquipSSGodForgeRow value": {
+                    "ObscuredInt <id>k__BackingField": {
+                        "Int32 currentCryptoKey": 1125687219,
+                        "Int32 hiddenValue": 1125685351,
+                        "Int32 fakeValue": 1075287669,
+                        "Int32 currentFakeCryptoKey": 1075286433,
+                        "Boolean fakeValueActive": true,
+                        "Boolean inited": true
+                    },
+                    "List<System.Int32[]> <CostEquip>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                210207,
+                                1
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                210207,
+                                1
+                            ]
+                        }
+                    ],
+                    "List<System.Int32[]> <CostItem>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                614,
+                                5
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                612,
+                                60
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                610,
+                                500
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "Int32 hashCode": 1057976960,
+                "Int32 next": -1,
+                "Int32 key": 1057976960,
+                "EquipSSGodForgeRow value": {
+                    "ObscuredInt <id>k__BackingField": {
+                        "Int32 currentCryptoKey": 1917511954,
+                        "Int32 hiddenValue": 1917513415,
+                        "Int32 fakeValue": 1147553485,
+                        "Int32 currentFakeCryptoKey": 1147552024,
+                        "Boolean fakeValueActive": true,
+                        "Boolean inited": true
+                    },
+                    "List<System.Int32[]> <CostEquip>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                210211,
+                                1
+                            ]
+                        }
+                    ],
+                    "List<System.Int32[]> <CostItem>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                614,
+                                8
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                612,
+                                80
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                610,
+                                1000
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "Int32 hashCode": 1057978018,
+                "Int32 next": -1,
+                "Int32 key": 1057978018,
+                "EquipSSGodForgeRow value": {
+                    "ObscuredInt <id>k__BackingField": {
+                        "Int32 currentCryptoKey": 1890400636,
+                        "Int32 hiddenValue": 1890400911,
+                        "Int32 fakeValue": 1373965236,
+                        "Int32 currentFakeCryptoKey": 1373964359,
+                        "Boolean fakeValueActive": true,
+                        "Boolean inited": true
+                    },
+                    "List<System.Int32[]> <CostEquip>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                220107,
+                                1
+                            ]
+                        }
+                    ],
+                    "List<System.Int32[]> <CostItem>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                614,
+                                1
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                611,
+                                10
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                610,
+                                500
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "Int32 hashCode": 1057978019,
+                "Int32 next": -1,
+                "Int32 key": 1057978019,
+                "EquipSSGodForgeRow value": {
+                    "ObscuredInt <id>k__BackingField": {
+                        "Int32 currentCryptoKey": 1848911290,
+                        "Int32 hiddenValue": 1848911438,
+                        "Int32 fakeValue": 1211349107,
+                        "Int32 currentFakeCryptoKey": 1211349895,
+                        "Boolean fakeValueActive": true,
+                        "Boolean inited": true
+                    },
+                    "List<System.Int32[]> <CostEquip>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                220107,
+                                1
+                            ]
+                        }
+                    ],
+                    "List<System.Int32[]> <CostItem>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                614,
+                                2
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                611,
+                                20
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                610,
+                                500
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "Int32 hashCode": 1057978016,
+                "Int32 next": -1,
+                "Int32 key": 1057978016,
+                "EquipSSGodForgeRow value": {
+                    "ObscuredInt <id>k__BackingField": {
+                        "Int32 currentCryptoKey": 2032341258,
+                        "Int32 hiddenValue": 2032341759,
+                        "Int32 fakeValue": 2054214947,
+                        "Int32 currentFakeCryptoKey": 2054215382,
+                        "Boolean fakeValueActive": true,
+                        "Boolean inited": true
+                    },
+                    "List<System.Int32[]> <CostEquip>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                220107,
+                                1
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                220107,
+                                1
+                            ]
+                        }
+                    ],
+                    "List<System.Int32[]> <CostItem>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                614,
+                                3
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                611,
+                                40
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                610,
+                                500
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "Int32 hashCode": 1057978017,
+                "Int32 next": -1,
+                "Int32 key": 1057978017,
+                "EquipSSGodForgeRow value": {
+                    "ObscuredInt <id>k__BackingField": {
+                        "Int32 currentCryptoKey": 1882660786,
+                        "Int32 hiddenValue": 1882659908,
+                        "Int32 fakeValue": 1333120030,
+                        "Int32 currentFakeCryptoKey": 1333121000,
+                        "Boolean fakeValueActive": true,
+                        "Boolean inited": true
+                    },
+                    "List<System.Int32[]> <CostEquip>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                220107,
+                                1
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                220107,
+                                1
+                            ]
+                        }
+                    ],
+                    "List<System.Int32[]> <CostItem>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                614,
+                                5
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                611,
+                                60
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                610,
+                                500
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "Int32 hashCode": 1057978022,
+                "Int32 next": -1,
+                "Int32 key": 1057978022,
+                "EquipSSGodForgeRow value": {
+                    "ObscuredInt <id>k__BackingField": {
+                        "Int32 currentCryptoKey": 1955416470,
+                        "Int32 hiddenValue": 1955416673,
+                        "Int32 fakeValue": 1787961904,
+                        "Int32 currentFakeCryptoKey": 1787961799,
+                        "Boolean fakeValueActive": true,
+                        "Boolean inited": true
+                    },
+                    "List<System.Int32[]> <CostEquip>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                220111,
+                                1
+                            ]
+                        }
+                    ],
+                    "List<System.Int32[]> <CostItem>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                614,
+                                8
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                611,
+                                80
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                610,
+                                1000
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "Int32 hashCode": 1057976970,
+                "Int32 next": -1,
+                "Int32 key": 1057976970,
+                "EquipSSGodForgeRow value": {
+                    "ObscuredInt <id>k__BackingField": {
+                        "Int32 currentCryptoKey": 1529922679,
+                        "Int32 hiddenValue": 1529922476,
+                        "Int32 fakeValue": 1569130323,
+                        "Int32 currentFakeCryptoKey": 1569128584,
+                        "Boolean fakeValueActive": true,
+                        "Boolean inited": true
+                    },
+                    "List<System.Int32[]> <CostEquip>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                220207,
+                                1
+                            ]
+                        }
+                    ],
+                    "List<System.Int32[]> <CostItem>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                614,
+                                1
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                612,
+                                10
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                610,
+                                500
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "Int32 hashCode": 1057976971,
+                "Int32 next": -1,
+                "Int32 key": 1057976971,
+                "EquipSSGodForgeRow value": {
+                    "ObscuredInt <id>k__BackingField": {
+                        "Int32 currentCryptoKey": 1378502604,
+                        "Int32 hiddenValue": 1378500624,
+                        "Int32 fakeValue": 1872699316,
+                        "Int32 currentFakeCryptoKey": 1872697448,
+                        "Boolean fakeValueActive": true,
+                        "Boolean inited": true
+                    },
+                    "List<System.Int32[]> <CostEquip>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                220207,
+                                1
+                            ]
+                        }
+                    ],
+                    "List<System.Int32[]> <CostItem>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                614,
+                                2
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                612,
+                                20
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                610,
+                                500
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "Int32 hashCode": 1057976968,
+                "Int32 next": -1,
+                "Int32 key": 1057976968,
+                "EquipSSGodForgeRow value": {
+                    "ObscuredInt <id>k__BackingField": {
+                        "Int32 currentCryptoKey": 1568656935,
+                        "Int32 hiddenValue": 1568655866,
+                        "Int32 fakeValue": 1988137104,
+                        "Int32 currentFakeCryptoKey": 1988138829,
+                        "Boolean fakeValueActive": true,
+                        "Boolean inited": true
+                    },
+                    "List<System.Int32[]> <CostEquip>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                220207,
+                                1
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                220207,
+                                1
+                            ]
+                        }
+                    ],
+                    "List<System.Int32[]> <CostItem>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                614,
+                                3
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                612,
+                                40
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                610,
+                                500
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "Int32 hashCode": 1057976969,
+                "Int32 next": -1,
+                "Int32 key": 1057976969,
+                "EquipSSGodForgeRow value": {
+                    "ObscuredInt <id>k__BackingField": {
+                        "Int32 currentCryptoKey": 1902735804,
+                        "Int32 hiddenValue": 1902736994,
+                        "Int32 fakeValue": 1827742079,
+                        "Int32 currentFakeCryptoKey": 1827743393,
+                        "Boolean fakeValueActive": true,
+                        "Boolean inited": true
+                    },
+                    "List<System.Int32[]> <CostEquip>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                220207,
+                                1
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                220207,
+                                1
+                            ]
+                        }
+                    ],
+                    "List<System.Int32[]> <CostItem>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                614,
+                                5
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                612,
+                                60
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                610,
+                                500
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "Int32 hashCode": 1057976974,
+                "Int32 next": -1,
+                "Int32 key": 1057976974,
+                "EquipSSGodForgeRow value": {
+                    "ObscuredInt <id>k__BackingField": {
+                        "Int32 currentCryptoKey": 1774979909,
+                        "Int32 hiddenValue": 1774980250,
+                        "Int32 fakeValue": 1735675417,
+                        "Int32 currentFakeCryptoKey": 1735674310,
+                        "Boolean fakeValueActive": true,
+                        "Boolean inited": true
+                    },
+                    "List<System.Int32[]> <CostEquip>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                220211,
+                                1
+                            ]
+                        }
+                    ],
+                    "List<System.Int32[]> <CostItem>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                614,
+                                8
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                612,
+                                80
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                610,
+                                1000
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "Int32 hashCode": 1057978024,
+                "Int32 next": -1,
+                "Int32 key": 1057978024,
+                "EquipSSGodForgeRow value": {
+                    "ObscuredInt <id>k__BackingField": {
+                        "Int32 currentCryptoKey": 1659647552,
+                        "Int32 hiddenValue": 1659647421,
+                        "Int32 fakeValue": 1683886882,
+                        "Int32 currentFakeCryptoKey": 1683886303,
+                        "Boolean fakeValueActive": true,
+                        "Boolean inited": true
+                    },
+                    "List<System.Int32[]> <CostEquip>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                230107,
+                                1
+                            ]
+                        }
+                    ],
+                    "List<System.Int32[]> <CostItem>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                614,
+                                1
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                611,
+                                10
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                610,
+                                500
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "Int32 hashCode": 1057978025,
+                "Int32 next": -1,
+                "Int32 key": 1057978025,
+                "EquipSSGodForgeRow value": {
+                    "ObscuredInt <id>k__BackingField": {
+                        "Int32 currentCryptoKey": 2022046445,
+                        "Int32 hiddenValue": 2022045971,
+                        "Int32 fakeValue": 1073691556,
+                        "Int32 currentFakeCryptoKey": 1073690714,
+                        "Boolean fakeValueActive": true,
+                        "Boolean inited": true
+                    },
+                    "List<System.Int32[]> <CostEquip>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                230107,
+                                1
+                            ]
+                        }
+                    ],
+                    "List<System.Int32[]> <CostItem>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                614,
+                                2
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                611,
+                                20
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                610,
+                                500
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "Int32 hashCode": 1057978030,
+                "Int32 next": 7,
+                "Int32 key": 1057978030,
+                "EquipSSGodForgeRow value": {
+                    "ObscuredInt <id>k__BackingField": {
+                        "Int32 currentCryptoKey": 2043852306,
+                        "Int32 hiddenValue": 2043852269,
+                        "Int32 fakeValue": 1345846184,
+                        "Int32 currentFakeCryptoKey": 1345845335,
+                        "Boolean fakeValueActive": true,
+                        "Boolean inited": true
+                    },
+                    "List<System.Int32[]> <CostEquip>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                230107,
+                                1
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                230107,
+                                1
+                            ]
+                        }
+                    ],
+                    "List<System.Int32[]> <CostItem>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                614,
+                                3
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                611,
+                                40
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                610,
+                                500
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "Int32 hashCode": 1057978031,
+                "Int32 next": 8,
+                "Int32 key": 1057978031,
+                "EquipSSGodForgeRow value": {
+                    "ObscuredInt <id>k__BackingField": {
+                        "Int32 currentCryptoKey": 1335618289,
+                        "Int32 hiddenValue": 1335619313,
+                        "Int32 fakeValue": 1332518098,
+                        "Int32 currentFakeCryptoKey": 1332517074,
+                        "Boolean fakeValueActive": true,
+                        "Boolean inited": true
+                    },
+                    "List<System.Int32[]> <CostEquip>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                230107,
+                                1
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                230107,
+                                1
+                            ]
+                        }
+                    ],
+                    "List<System.Int32[]> <CostItem>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                614,
+                                5
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                611,
+                                60
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                610,
+                                500
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "Int32 hashCode": 1057978028,
+                "Int32 next": 9,
+                "Int32 key": 1057978028,
+                "EquipSSGodForgeRow value": {
+                    "ObscuredInt <id>k__BackingField": {
+                        "Int32 currentCryptoKey": 1190858490,
+                        "Int32 hiddenValue": 1190857467,
+                        "Int32 fakeValue": 1052706269,
+                        "Int32 currentFakeCryptoKey": 1052705244,
+                        "Boolean fakeValueActive": true,
+                        "Boolean inited": true
+                    },
+                    "List<System.Int32[]> <CostEquip>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                230111,
+                                1
+                            ]
+                        }
+                    ],
+                    "List<System.Int32[]> <CostItem>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                614,
+                                8
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                611,
+                                80
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                610,
+                                1000
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "Int32 hashCode": 1057976976,
+                "Int32 next": -1,
+                "Int32 key": 1057976976,
+                "EquipSSGodForgeRow value": {
+                    "ObscuredInt <id>k__BackingField": {
+                        "Int32 currentCryptoKey": 1157174145,
+                        "Int32 hiddenValue": 1157174372,
+                        "Int32 fakeValue": 1364255247,
+                        "Int32 currentFakeCryptoKey": 1364256234,
+                        "Boolean fakeValueActive": true,
+                        "Boolean inited": true
+                    },
+                    "List<System.Int32[]> <CostEquip>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                230207,
+                                1
+                            ]
+                        }
+                    ],
+                    "List<System.Int32[]> <CostItem>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                614,
+                                1
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                612,
+                                10
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                610,
+                                500
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "Int32 hashCode": 1057976977,
+                "Int32 next": -1,
+                "Int32 key": 1057976977,
+                "EquipSSGodForgeRow value": {
+                    "ObscuredInt <id>k__BackingField": {
+                        "Int32 currentCryptoKey": 1025693975,
+                        "Int32 hiddenValue": 1025695473,
+                        "Int32 fakeValue": 1200875632,
+                        "Int32 currentFakeCryptoKey": 1200877462,
+                        "Boolean fakeValueActive": true,
+                        "Boolean inited": true
+                    },
+                    "List<System.Int32[]> <CostEquip>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                230207,
+                                1
+                            ]
+                        }
+                    ],
+                    "List<System.Int32[]> <CostItem>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                614,
+                                2
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                612,
+                                20
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                610,
+                                500
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "Int32 hashCode": 1057976982,
+                "Int32 next": -1,
+                "Int32 key": 1057976982,
+                "EquipSSGodForgeRow value": {
+                    "ObscuredInt <id>k__BackingField": {
+                        "Int32 currentCryptoKey": 1608563722,
+                        "Int32 hiddenValue": 1608563693,
+                        "Int32 fakeValue": 1437430357,
+                        "Int32 currentFakeCryptoKey": 1437431218,
+                        "Boolean fakeValueActive": true,
+                        "Boolean inited": true
+                    },
+                    "List<System.Int32[]> <CostEquip>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                230207,
+                                1
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                230207,
+                                1
+                            ]
+                        }
+                    ],
+                    "List<System.Int32[]> <CostItem>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                614,
+                                3
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                612,
+                                40
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                610,
+                                500
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "Int32 hashCode": 1057976983,
+                "Int32 next": -1,
+                "Int32 key": 1057976983,
+                "EquipSSGodForgeRow value": {
+                    "ObscuredInt <id>k__BackingField": {
+                        "Int32 currentCryptoKey": 1795222431,
+                        "Int32 hiddenValue": 1795222647,
+                        "Int32 fakeValue": 1747321046,
+                        "Int32 currentFakeCryptoKey": 1747322686,
+                        "Boolean fakeValueActive": true,
+                        "Boolean inited": true
+                    },
+                    "List<System.Int32[]> <CostEquip>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                230207,
+                                1
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                230207,
+                                1
+                            ]
+                        }
+                    ],
+                    "List<System.Int32[]> <CostItem>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                614,
+                                5
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                612,
+                                60
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                610,
+                                500
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "Int32 hashCode": 1057976980,
+                "Int32 next": -1,
+                "Int32 key": 1057976980,
+                "EquipSSGodForgeRow value": {
+                    "ObscuredInt <id>k__BackingField": {
+                        "Int32 currentCryptoKey": 2085002484,
+                        "Int32 hiddenValue": 2085002013,
+                        "Int32 fakeValue": 1822362073,
+                        "Int32 currentFakeCryptoKey": 1822363184,
+                        "Boolean fakeValueActive": true,
+                        "Boolean inited": true
+                    },
+                    "List<System.Int32[]> <CostEquip>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                230211,
+                                1
+                            ]
+                        }
+                    ],
+                    "List<System.Int32[]> <CostItem>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                614,
+                                8
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                612,
+                                80
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                610,
+                                1000
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "Int32 hashCode": 1057978038,
+                "Int32 next": 15,
+                "Int32 key": 1057978038,
+                "EquipSSGodForgeRow value": {
+                    "ObscuredInt <id>k__BackingField": {
+                        "Int32 currentCryptoKey": 1952347820,
+                        "Int32 hiddenValue": 1952346795,
+                        "Int32 fakeValue": 2056812884,
+                        "Int32 currentFakeCryptoKey": 2056813907,
+                        "Boolean fakeValueActive": true,
+                        "Boolean inited": true
+                    },
+                    "List<System.Int32[]> <CostEquip>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                240107,
+                                1
+                            ]
+                        }
+                    ],
+                    "List<System.Int32[]> <CostItem>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                614,
+                                1
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                611,
+                                10
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                610,
+                                500
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "Int32 hashCode": 1057978039,
+                "Int32 next": 16,
+                "Int32 key": 1057978039,
+                "EquipSSGodForgeRow value": {
+                    "ObscuredInt <id>k__BackingField": {
+                        "Int32 currentCryptoKey": 1466917926,
+                        "Int32 hiddenValue": 1466916910,
+                        "Int32 fakeValue": 1295371277,
+                        "Int32 currentFakeCryptoKey": 1295370245,
+                        "Boolean fakeValueActive": true,
+                        "Boolean inited": true
+                    },
+                    "List<System.Int32[]> <CostEquip>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                240107,
+                                1
+                            ]
+                        }
+                    ],
+                    "List<System.Int32[]> <CostItem>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                614,
+                                2
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                611,
+                                20
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                610,
+                                500
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "Int32 hashCode": 1057978036,
+                "Int32 next": 17,
+                "Int32 key": 1057978036,
+                "EquipSSGodForgeRow value": {
+                    "ObscuredInt <id>k__BackingField": {
+                        "Int32 currentCryptoKey": 1681703600,
+                        "Int32 hiddenValue": 1681704633,
+                        "Int32 fakeValue": 1724716343,
+                        "Int32 currentFakeCryptoKey": 1724715326,
+                        "Boolean fakeValueActive": true,
+                        "Boolean inited": true
+                    },
+                    "List<System.Int32[]> <CostEquip>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                240107,
+                                1
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                240107,
+                                1
+                            ]
+                        }
+                    ],
+                    "List<System.Int32[]> <CostItem>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                614,
+                                3
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                611,
+                                40
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                610,
+                                500
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "Int32 hashCode": 1057978037,
+                "Int32 next": 18,
+                "Int32 key": 1057978037,
+                "EquipSSGodForgeRow value": {
+                    "ObscuredInt <id>k__BackingField": {
+                        "Int32 currentCryptoKey": 1543851798,
+                        "Int32 hiddenValue": 1543850780,
+                        "Int32 fakeValue": 1690458571,
+                        "Int32 currentFakeCryptoKey": 1690459585,
+                        "Boolean fakeValueActive": true,
+                        "Boolean inited": true
+                    },
+                    "List<System.Int32[]> <CostEquip>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                240107,
+                                1
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                240107,
+                                1
+                            ]
+                        }
+                    ],
+                    "List<System.Int32[]> <CostItem>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                614,
+                                5
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                611,
+                                60
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                610,
+                                500
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "Int32 hashCode": 1057978042,
+                "Int32 next": 19,
+                "Int32 key": 1057978042,
+                "EquipSSGodForgeRow value": {
+                    "ObscuredInt <id>k__BackingField": {
+                        "Int32 currentCryptoKey": 1738250452,
+                        "Int32 hiddenValue": 1738251487,
+                        "Int32 fakeValue": 1421354753,
+                        "Int32 currentFakeCryptoKey": 1421353738,
+                        "Boolean fakeValueActive": true,
+                        "Boolean inited": true
+                    },
+                    "List<System.Int32[]> <CostEquip>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                240111,
+                                1
+                            ]
+                        }
+                    ],
+                    "List<System.Int32[]> <CostItem>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                614,
+                                8
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                611,
+                                80
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                610,
+                                1000
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "Int32 hashCode": 1057976990,
+                "Int32 next": -1,
+                "Int32 key": 1057976990,
+                "EquipSSGodForgeRow value": {
+                    "ObscuredInt <id>k__BackingField": {
+                        "Int32 currentCryptoKey": 1666788573,
+                        "Int32 hiddenValue": 1666788146,
+                        "Int32 fakeValue": 1445428991,
+                        "Int32 currentFakeCryptoKey": 1445427472,
+                        "Boolean fakeValueActive": true,
+                        "Boolean inited": true
+                    },
+                    "List<System.Int32[]> <CostEquip>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                240207,
+                                1
+                            ]
+                        }
+                    ],
+                    "List<System.Int32[]> <CostItem>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                614,
+                                1
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                612,
+                                10
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                610,
+                                500
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "Int32 hashCode": 1057976991,
+                "Int32 next": -1,
+                "Int32 key": 1057976991,
+                "EquipSSGodForgeRow value": {
+                    "ObscuredInt <id>k__BackingField": {
+                        "Int32 currentCryptoKey": 1447790170,
+                        "Int32 hiddenValue": 1447788970,
+                        "Int32 fakeValue": 1181839035,
+                        "Int32 currentFakeCryptoKey": 1181837643,
+                        "Boolean fakeValueActive": true,
+                        "Boolean inited": true
+                    },
+                    "List<System.Int32[]> <CostEquip>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                240207,
+                                1
+                            ]
+                        }
+                    ],
+                    "List<System.Int32[]> <CostItem>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                614,
+                                2
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                612,
+                                20
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                610,
+                                500
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "Int32 hashCode": 1057976988,
+                "Int32 next": -1,
+                "Int32 key": 1057976988,
+                "EquipSSGodForgeRow value": {
+                    "ObscuredInt <id>k__BackingField": {
+                        "Int32 currentCryptoKey": 1635388119,
+                        "Int32 hiddenValue": 1635388710,
+                        "Int32 fakeValue": 1206515053,
+                        "Int32 currentFakeCryptoKey": 1206514332,
+                        "Boolean fakeValueActive": true,
+                        "Boolean inited": true
+                    },
+                    "List<System.Int32[]> <CostEquip>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                240207,
+                                1
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                240207,
+                                1
+                            ]
+                        }
+                    ],
+                    "List<System.Int32[]> <CostItem>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                614,
+                                3
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                612,
+                                40
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                610,
+                                500
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "Int32 hashCode": 1057976989,
+                "Int32 next": -1,
+                "Int32 key": 1057976989,
+                "EquipSSGodForgeRow value": {
+                    "ObscuredInt <id>k__BackingField": {
+                        "Int32 currentCryptoKey": 1499401560,
+                        "Int32 hiddenValue": 1499400874,
+                        "Int32 fakeValue": 1775218861,
+                        "Int32 currentFakeCryptoKey": 1775220575,
+                        "Boolean fakeValueActive": true,
+                        "Boolean inited": true
+                    },
+                    "List<System.Int32[]> <CostEquip>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                240207,
+                                1
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                240207,
+                                1
+                            ]
+                        }
+                    ],
+                    "List<System.Int32[]> <CostItem>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                614,
+                                5
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                612,
+                                60
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                610,
+                                500
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "Int32 hashCode": 1057976994,
+                "Int32 next": -1,
+                "Int32 key": 1057976994,
+                "EquipSSGodForgeRow value": {
+                    "ObscuredInt <id>k__BackingField": {
+                        "Int32 currentCryptoKey": 1314981235,
+                        "Int32 hiddenValue": 1314980480,
+                        "Int32 fakeValue": 1686496577,
+                        "Int32 currentFakeCryptoKey": 1686495922,
+                        "Boolean fakeValueActive": true,
+                        "Boolean inited": true
+                    },
+                    "List<System.Int32[]> <CostEquip>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                240211,
+                                1
+                            ]
+                        }
+                    ],
+                    "List<System.Int32[]> <CostItem>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                614,
+                                8
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                612,
+                                80
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                610,
+                                1000
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "Int32 hashCode": 1057978044,
+                "Int32 next": 25,
+                "Int32 key": 1057978044,
+                "EquipSSGodForgeRow value": {
+                    "ObscuredInt <id>k__BackingField": {
+                        "Int32 currentCryptoKey": 1718597093,
+                        "Int32 hiddenValue": 1718596084,
+                        "Int32 fakeValue": 1550144753,
+                        "Int32 currentFakeCryptoKey": 1550143712,
+                        "Boolean fakeValueActive": true,
+                        "Boolean inited": true
+                    },
+                    "List<System.Int32[]> <CostEquip>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                250107,
+                                1
+                            ]
+                        }
+                    ],
+                    "List<System.Int32[]> <CostItem>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                614,
+                                1
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                611,
+                                10
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                610,
+                                500
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "Int32 hashCode": 1057978045,
+                "Int32 next": 26,
+                "Int32 key": 1057978045,
+                "EquipSSGodForgeRow value": {
+                    "ObscuredInt <id>k__BackingField": {
+                        "Int32 currentCryptoKey": 1142262510,
+                        "Int32 hiddenValue": 1142263548,
+                        "Int32 fakeValue": 1902712232,
+                        "Int32 currentFakeCryptoKey": 1902711226,
+                        "Boolean fakeValueActive": true,
+                        "Boolean inited": true
+                    },
+                    "List<System.Int32[]> <CostEquip>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                250107,
+                                1
+                            ]
+                        }
+                    ],
+                    "List<System.Int32[]> <CostItem>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                614,
+                                2
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                611,
+                                20
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                610,
+                                500
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "Int32 hashCode": 1057978050,
+                "Int32 next": 27,
+                "Int32 key": 1057978050,
+                "EquipSSGodForgeRow value": {
+                    "ObscuredInt <id>k__BackingField": {
+                        "Int32 currentCryptoKey": 1630787654,
+                        "Int32 hiddenValue": 1630788693,
+                        "Int32 fakeValue": 1165667486,
+                        "Int32 currentFakeCryptoKey": 1165666445,
+                        "Boolean fakeValueActive": true,
+                        "Boolean inited": true
+                    },
+                    "List<System.Int32[]> <CostEquip>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                250107,
+                                1
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                250107,
+                                1
+                            ]
+                        }
+                    ],
+                    "List<System.Int32[]> <CostItem>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                614,
+                                3
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                611,
+                                40
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                610,
+                                500
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "Int32 hashCode": 1057978051,
+                "Int32 next": 28,
+                "Int32 key": 1057978051,
+                "EquipSSGodForgeRow value": {
+                    "ObscuredInt <id>k__BackingField": {
+                        "Int32 currentCryptoKey": 1543434609,
+                        "Int32 hiddenValue": 1543435621,
+                        "Int32 fakeValue": 1177626145,
+                        "Int32 currentFakeCryptoKey": 1177625141,
+                        "Boolean fakeValueActive": true,
+                        "Boolean inited": true
+                    },
+                    "List<System.Int32[]> <CostEquip>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                250107,
+                                1
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                250107,
+                                1
+                            ]
+                        }
+                    ],
+                    "List<System.Int32[]> <CostItem>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                614,
+                                5
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                611,
+                                60
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                610,
+                                500
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "Int32 hashCode": 1057978048,
+                "Int32 next": 29,
+                "Int32 key": 1057978048,
+                "EquipSSGodForgeRow value": {
+                    "ObscuredInt <id>k__BackingField": {
+                        "Int32 currentCryptoKey": 1264133725,
+                        "Int32 hiddenValue": 1264132680,
+                        "Int32 fakeValue": 1131226720,
+                        "Int32 currentFakeCryptoKey": 1131225717,
+                        "Boolean fakeValueActive": true,
+                        "Boolean inited": true
+                    },
+                    "List<System.Int32[]> <CostEquip>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                250111,
+                                1
+                            ]
+                        }
+                    ],
+                    "List<System.Int32[]> <CostItem>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                614,
+                                8
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                611,
+                                80
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                610,
+                                1000
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "Int32 hashCode": 1057976996,
+                "Int32 next": -1,
+                "Int32 key": 1057976996,
+                "EquipSSGodForgeRow value": {
+                    "ObscuredInt <id>k__BackingField": {
+                        "Int32 currentCryptoKey": 1192916397,
+                        "Int32 hiddenValue": 1192915540,
+                        "Int32 fakeValue": 1155412868,
+                        "Int32 currentFakeCryptoKey": 1155413117,
+                        "Boolean fakeValueActive": true,
+                        "Boolean inited": true
+                    },
+                    "List<System.Int32[]> <CostEquip>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                250207,
+                                1
+                            ]
+                        }
+                    ],
+                    "List<System.Int32[]> <CostItem>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                614,
+                                1
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                612,
+                                10
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                610,
+                                500
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "Int32 hashCode": 1057976997,
+                "Int32 next": -1,
+                "Int32 key": 1057976997,
+                "EquipSSGodForgeRow value": {
+                    "ObscuredInt <id>k__BackingField": {
+                        "Int32 currentCryptoKey": 1890224555,
+                        "Int32 hiddenValue": 1890225745,
+                        "Int32 fakeValue": 2100099817,
+                        "Int32 currentFakeCryptoKey": 2100100371,
+                        "Boolean fakeValueActive": true,
+                        "Boolean inited": true
+                    },
+                    "List<System.Int32[]> <CostEquip>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                250207,
+                                1
+                            ]
+                        }
+                    ],
+                    "List<System.Int32[]> <CostItem>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                614,
+                                2
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                612,
+                                20
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                610,
+                                500
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "Int32 hashCode": 1057977002,
+                "Int32 next": -1,
+                "Int32 key": 1057977002,
+                "EquipSSGodForgeRow value": {
+                    "ObscuredInt <id>k__BackingField": {
+                        "Int32 currentCryptoKey": 1930810137,
+                        "Int32 hiddenValue": 1930810594,
+                        "Int32 fakeValue": 1750318864,
+                        "Int32 currentFakeCryptoKey": 1750317291,
+                        "Boolean fakeValueActive": true,
+                        "Boolean inited": true
+                    },
+                    "List<System.Int32[]> <CostEquip>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                250207,
+                                1
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                250207,
+                                1
+                            ]
+                        }
+                    ],
+                    "List<System.Int32[]> <CostItem>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                614,
+                                3
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                612,
+                                40
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                610,
+                                500
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "Int32 hashCode": 1057977003,
+                "Int32 next": -1,
+                "Int32 key": 1057977003,
+                "EquipSSGodForgeRow value": {
+                    "ObscuredInt <id>k__BackingField": {
+                        "Int32 currentCryptoKey": 1216968376,
+                        "Int32 hiddenValue": 1216966980,
+                        "Int32 fakeValue": 1726675732,
+                        "Int32 currentFakeCryptoKey": 1726676200,
+                        "Boolean fakeValueActive": true,
+                        "Boolean inited": true
+                    },
+                    "List<System.Int32[]> <CostEquip>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                250207,
+                                1
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                250207,
+                                1
+                            ]
+                        }
+                    ],
+                    "List<System.Int32[]> <CostItem>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                614,
+                                5
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                612,
+                                60
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                610,
+                                500
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "Int32 hashCode": 1057977000,
+                "Int32 next": -1,
+                "Int32 key": 1057977000,
+                "EquipSSGodForgeRow value": {
+                    "ObscuredInt <id>k__BackingField": {
+                        "Int32 currentCryptoKey": 1539470761,
+                        "Int32 hiddenValue": 1539469908,
+                        "Int32 fakeValue": 1319135529,
+                        "Int32 currentFakeCryptoKey": 1319136980,
+                        "Boolean fakeValueActive": true,
+                        "Boolean inited": true
+                    },
+                    "List<System.Int32[]> <CostEquip>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                250211,
+                                1
+                            ]
+                        }
+                    ],
+                    "List<System.Int32[]> <CostItem>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                614,
+                                8
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                612,
+                                80
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                610,
+                                1000
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "Int32 hashCode": 1057978058,
+                "Int32 next": 35,
+                "Int32 key": 1057978058,
+                "EquipSSGodForgeRow value": {
+                    "ObscuredInt <id>k__BackingField": {
+                        "Int32 currentCryptoKey": 1949477184,
+                        "Int32 hiddenValue": 1949478235,
+                        "Int32 fakeValue": 1792641333,
+                        "Int32 currentFakeCryptoKey": 1792642350,
+                        "Boolean fakeValueActive": true,
+                        "Boolean inited": true
+                    },
+                    "List<System.Int32[]> <CostEquip>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                260107,
+                                1
+                            ]
+                        }
+                    ],
+                    "List<System.Int32[]> <CostItem>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                614,
+                                1
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                611,
+                                10
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                610,
+                                500
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "Int32 hashCode": 1057978059,
+                "Int32 next": 36,
+                "Int32 key": 1057978059,
+                "EquipSSGodForgeRow value": {
+                    "ObscuredInt <id>k__BackingField": {
+                        "Int32 currentCryptoKey": 1741750268,
+                        "Int32 hiddenValue": 1741749216,
+                        "Int32 fakeValue": 1916989426,
+                        "Int32 currentFakeCryptoKey": 1916988398,
+                        "Boolean fakeValueActive": true,
+                        "Boolean inited": true
+                    },
+                    "List<System.Int32[]> <CostEquip>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                260107,
+                                1
+                            ]
+                        }
+                    ],
+                    "List<System.Int32[]> <CostItem>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                614,
+                                2
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                611,
+                                20
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                610,
+                                500
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "Int32 hashCode": 1057978056,
+                "Int32 next": 37,
+                "Int32 key": 1057978056,
+                "EquipSSGodForgeRow value": {
+                    "ObscuredInt <id>k__BackingField": {
+                        "Int32 currentCryptoKey": 1533400318,
+                        "Int32 hiddenValue": 1533399267,
+                        "Int32 fakeValue": 1859231346,
+                        "Int32 currentFakeCryptoKey": 1859230319,
+                        "Boolean fakeValueActive": true,
+                        "Boolean inited": true
+                    },
+                    "List<System.Int32[]> <CostEquip>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                260107,
+                                1
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                260107,
+                                1
+                            ]
+                        }
+                    ],
+                    "List<System.Int32[]> <CostItem>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                614,
+                                3
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                611,
+                                40
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                610,
+                                500
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "Int32 hashCode": 1057978057,
+                "Int32 next": 38,
+                "Int32 key": 1057978057,
+                "EquipSSGodForgeRow value": {
+                    "ObscuredInt <id>k__BackingField": {
+                        "Int32 currentCryptoKey": 2063949710,
+                        "Int32 hiddenValue": 2063948688,
+                        "Int32 fakeValue": 1991338964,
+                        "Int32 currentFakeCryptoKey": 1991339978,
+                        "Boolean fakeValueActive": true,
+                        "Boolean inited": true
+                    },
+                    "List<System.Int32[]> <CostEquip>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                260107,
+                                1
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                260107,
+                                1
+                            ]
+                        }
+                    ],
+                    "List<System.Int32[]> <CostItem>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                614,
+                                5
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                611,
+                                60
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                610,
+                                500
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "Int32 hashCode": 1057978062,
+                "Int32 next": 39,
+                "Int32 key": 1057978062,
+                "EquipSSGodForgeRow value": {
+                    "ObscuredInt <id>k__BackingField": {
+                        "Int32 currentCryptoKey": 1712972989,
+                        "Int32 hiddenValue": 1712971938,
+                        "Int32 fakeValue": 1402050417,
+                        "Int32 currentFakeCryptoKey": 1402049390,
+                        "Boolean fakeValueActive": true,
+                        "Boolean inited": true
+                    },
+                    "List<System.Int32[]> <CostEquip>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                260111,
+                                1
+                            ]
+                        }
+                    ],
+                    "List<System.Int32[]> <CostItem>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                614,
+                                8
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                611,
+                                80
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                610,
+                                1000
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "Int32 hashCode": 1057977010,
+                "Int32 next": -1,
+                "Int32 key": 1057977010,
+                "EquipSSGodForgeRow value": {
+                    "ObscuredInt <id>k__BackingField": {
+                        "Int32 currentCryptoKey": 2085513304,
+                        "Int32 hiddenValue": 2085511259,
+                        "Int32 fakeValue": 1019999811,
+                        "Int32 currentFakeCryptoKey": 1020001856,
+                        "Boolean fakeValueActive": true,
+                        "Boolean inited": true
+                    },
+                    "List<System.Int32[]> <CostEquip>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                260207,
+                                1
+                            ]
+                        }
+                    ],
+                    "List<System.Int32[]> <CostItem>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                614,
+                                1
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                612,
+                                10
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                610,
+                                500
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "Int32 hashCode": 1057977011,
+                "Int32 next": -1,
+                "Int32 key": 1057977011,
+                "EquipSSGodForgeRow value": {
+                    "ObscuredInt <id>k__BackingField": {
+                        "Int32 currentCryptoKey": 1432341451,
+                        "Int32 hiddenValue": 1432339407,
+                        "Int32 fakeValue": 1398508613,
+                        "Int32 currentFakeCryptoKey": 1398506561,
+                        "Boolean fakeValueActive": true,
+                        "Boolean inited": true
+                    },
+                    "List<System.Int32[]> <CostEquip>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                260207,
+                                1
+                            ]
+                        }
+                    ],
+                    "List<System.Int32[]> <CostItem>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                614,
+                                2
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                612,
+                                20
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                610,
+                                500
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "Int32 hashCode": 1057977008,
+                "Int32 next": -1,
+                "Int32 key": 1057977008,
+                "EquipSSGodForgeRow value": {
+                    "ObscuredInt <id>k__BackingField": {
+                        "Int32 currentCryptoKey": 1103766091,
+                        "Int32 hiddenValue": 1103768142,
+                        "Int32 fakeValue": 1402202057,
+                        "Int32 currentFakeCryptoKey": 1402204108,
+                        "Boolean fakeValueActive": true,
+                        "Boolean inited": true
+                    },
+                    "List<System.Int32[]> <CostEquip>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                260207,
+                                1
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                260207,
+                                1
+                            ]
+                        }
+                    ],
+                    "List<System.Int32[]> <CostItem>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                614,
+                                3
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                612,
+                                40
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                610,
+                                500
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "Int32 hashCode": 1057977009,
+                "Int32 next": -1,
+                "Int32 key": 1057977009,
+                "EquipSSGodForgeRow value": {
+                    "ObscuredInt <id>k__BackingField": {
+                        "Int32 currentCryptoKey": 1914551397,
+                        "Int32 hiddenValue": 1914549347,
+                        "Int32 fakeValue": 1711692397,
+                        "Int32 currentFakeCryptoKey": 1711690347,
+                        "Boolean fakeValueActive": true,
+                        "Boolean inited": true
+                    },
+                    "List<System.Int32[]> <CostEquip>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                260207,
+                                1
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                260207,
+                                1
+                            ]
+                        }
+                    ],
+                    "List<System.Int32[]> <CostItem>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                614,
+                                5
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                612,
+                                60
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                610,
+                                500
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "Int32 hashCode": 1057977014,
+                "Int32 next": -1,
+                "Int32 key": 1057977014,
+                "EquipSSGodForgeRow value": {
+                    "ObscuredInt <id>k__BackingField": {
+                        "Int32 currentCryptoKey": 1812066237,
+                        "Int32 hiddenValue": 1812064186,
+                        "Int32 fakeValue": 1516039205,
+                        "Int32 currentFakeCryptoKey": 1516037154,
+                        "Boolean fakeValueActive": true,
+                        "Boolean inited": true
+                    },
+                    "List<System.Int32[]> <CostEquip>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                260211,
+                                1
+                            ]
+                        }
+                    ],
+                    "List<System.Int32[]> <CostItem>k__BackingField": [
+                        {
+                            "System.Int32[]": [
+                                614,
+                                8
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                612,
+                                80
+                            ]
+                        },
+                        {
+                            "System.Int32[]": [
+                                610,
+                                1000
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "Int32 hashCode": 0,
+                "Int32 next": 0,
+                "Int32 key": 0,
+                "EquipSSGodForgeRow value": "(null-object)"
+            },
+            {
+                "Int32 hashCode": 0,
+                "Int32 next": 0,
+                "Int32 key": 0,
+                "EquipSSGodForgeRow value": "(null-object)"
+            },
+            {
+                "Int32 hashCode": 0,
+                "Int32 next": 0,
+                "Int32 key": 0,
+                "EquipSSGodForgeRow value": "(null-object)"
+            },
+            {
+                "Int32 hashCode": 0,
+                "Int32 next": 0,
+                "Int32 key": 0,
+                "EquipSSGodForgeRow value": "(null-object)"
+            },
+            {
+                "Int32 hashCode": 0,
+                "Int32 next": 0,
+                "Int32 key": 0,
+                "EquipSSGodForgeRow value": "(null-object)"
+            },
+            {
+                "Int32 hashCode": 0,
+                "Int32 next": 0,
+                "Int32 key": 0,
+                "EquipSSGodForgeRow value": "(null-object)"
+            },
+            {
+                "Int32 hashCode": 0,
+                "Int32 next": 0,
+                "Int32 key": 0,
+                "EquipSSGodForgeRow value": "(null-object)"
+            },
+            {
+                "Int32 hashCode": 0,
+                "Int32 next": 0,
+                "Int32 key": 0,
+                "EquipSSGodForgeRow value": "(null-object)"
+            },
+            {
+                "Int32 hashCode": 0,
+                "Int32 next": 0,
+                "Int32 key": 0,
+                "EquipSSGodForgeRow value": "(null-object)"
+            },
+            {
+                "Int32 hashCode": 0,
+                "Int32 next": 0,
+                "Int32 key": 0,
+                "EquipSSGodForgeRow value": "(null-object)"
+            },
+            {
+                "Int32 hashCode": 0,
+                "Int32 next": 0,
+                "Int32 key": 0,
+                "EquipSSGodForgeRow value": "(null-object)"
+            },
+            {
+                "Int32 hashCode": 0,
+                "Int32 next": 0,
+                "Int32 key": 0,
+                "EquipSSGodForgeRow value": "(null-object)"
+            },
+            {
+                "Int32 hashCode": 0,
+                "Int32 next": 0,
+                "Int32 key": 0,
+                "EquipSSGodForgeRow value": "(null-object)"
+            },
+            {
+                "Int32 hashCode": 0,
+                "Int32 next": 0,
+                "Int32 key": 0,
+                "EquipSSGodForgeRow value": "(null-object)"
+            },
+            {
+                "Int32 hashCode": 0,
+                "Int32 next": 0,
+                "Int32 key": 0,
+                "EquipSSGodForgeRow value": "(null-object)"
+            },
+            {
+                "Int32 hashCode": 0,
+                "Int32 next": 0,
+                "Int32 key": 0,
+                "EquipSSGodForgeRow value": "(null-object)"
+            },
+            {
+                "Int32 hashCode": 0,
+                "Int32 next": 0,
+                "Int32 key": 0,
+                "EquipSSGodForgeRow value": "(null-object)"
+            },
+            {
+                "Int32 hashCode": 0,
+                "Int32 next": 0,
+                "Int32 key": 0,
+                "EquipSSGodForgeRow value": "(null-object)"
+            },
+            {
+                "Int32 hashCode": 0,
+                "Int32 next": 0,
+                "Int32 key": 0,
+                "EquipSSGodForgeRow value": "(null-object)"
+            },
+            {
+                "Int32 hashCode": 0,
+                "Int32 next": 0,
+                "Int32 key": 0,
+                "EquipSSGodForgeRow value": "(null-object)"
+            },
+            {
+                "Int32 hashCode": 0,
+                "Int32 next": 0,
+                "Int32 key": 0,
+                "EquipSSGodForgeRow value": "(null-object)"
+            },
+            {
+                "Int32 hashCode": 0,
+                "Int32 next": 0,
+                "Int32 key": 0,
+                "EquipSSGodForgeRow value": "(null-object)"
+            },
+            {
+                "Int32 hashCode": 0,
+                "Int32 next": 0,
+                "Int32 key": 0,
+                "EquipSSGodForgeRow value": "(null-object)"
+            },
+            {
+                "Int32 hashCode": 0,
+                "Int32 next": 0,
+                "Int32 key": 0,
+                "EquipSSGodForgeRow value": "(null-object)"
+            },
+            {
+                "Int32 hashCode": 0,
+                "Int32 next": 0,
+                "Int32 key": 0,
+                "EquipSSGodForgeRow value": "(null-object)"
+            },
+            {
+                "Int32 hashCode": 0,
+                "Int32 next": 0,
+                "Int32 key": 0,
+                "EquipSSGodForgeRow value": "(null-object)"
+            },
+            {
+                "Int32 hashCode": 0,
+                "Int32 next": 0,
+                "Int32 key": 0,
+                "EquipSSGodForgeRow value": "(null-object)"
+            },
+            {
+                "Int32 hashCode": 0,
+                "Int32 next": 0,
+                "Int32 key": 0,
+                "EquipSSGodForgeRow value": "(null-object)"
+            },
+            {
+                "Int32 hashCode": 0,
+                "Int32 next": 0,
+                "Int32 key": 0,
+                "EquipSSGodForgeRow value": "(null-object)"
+            }
+        ],
+        "Int32 _count": 60,
+        "Int32 _freeList": -1,
+        "Int32 _freeCount": 0,
+        "Int32 _version": 60,
+        "IEqualityComparer<System.Int32> _comparer": "(null-object)",
+        "KeyCollection<System.Int32,EquipSSGodForgeRow> _keys": "(null-object)",
+        "ValueCollection<System.Int32,EquipSSGodForgeRow> _values": "(null-object)",
+        "Object _syncRoot": "(null-object)"
+    }
+}

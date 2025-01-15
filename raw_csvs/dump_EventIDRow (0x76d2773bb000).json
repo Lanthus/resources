@@ -1,0 +1,12 @@
+{
+  "Int32 <ID>k__BackingField": 1,
+  "Int32 <Type>k__BackingField": 1,
+  "Int32 <ActiveType>k__BackingField": 3,
+  "Single <ActivePara>k__BackingField": 3.0,
+  "Int32 <Duration>k__BackingField": 604800,
+  "Int32 <extratine>k__BackingField": 0,
+  "Int32[] <ExtraId>k__BackingField": [
+    5
+  ],
+  "Int32 <NetVersion>k__BackingField": 9
+}

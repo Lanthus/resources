@@ -1,0 +1,644 @@
+[
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DEEA26240))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DEEA26120))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DEEA26000))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DEEA2AE10))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DEEA2ACF0))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DEEA2AB40))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DEEA2AA20))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DEEA2A900))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DEEA2A750))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DEEA2A630))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DEEA2A480))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DEEA2A360))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DEEA2A240))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DEEA2A090))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DEEA41F30))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DEEA41D80))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DEEA41C60))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DEEA41B40))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DEEA41990))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DEEA41870))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DEEA41750))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DEEA41630))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DEEA41510))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DEEA413F0))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DEEA412D0))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DEEA411B0))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DEEA41090))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DE2466F30))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DE2466E10))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DE2466CF0))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DE2466BD0))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DE2466AB0))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DE24667E0))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DE24665A0))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DE2466480))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DE24662D0))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DE2466090))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DE2495EA0))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DE2495D80))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DE2495BD0))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DE2495AB0))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DE2495990))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DE2495870))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DE2495750))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DE2495630))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DE2495510))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DE24953F0))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DE24952D0))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DE24951B0))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DE2495090))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DE24C3F30))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DE24C3CF0))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DE24C3AB0))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DE24C3900))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DE24C37E0))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DE24C36C0))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DE24C35A0))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DE24C3480))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DE24C3360))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DE24C3240))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DE24C3120))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DE24C3000))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DE275FAB0))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DE275F900))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DE275F7E0))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DE276EB40))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DE276E870))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DE276E510))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DE276E3F0))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DE276E1B0))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA66F0F30))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA66F0E10))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA66F0CF0))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA66F0BD0))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA66F0AB0))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA66F0990))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA66F0870))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA66F0750))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA66F05A0))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA66F0480))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA66F0360))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA66F0240))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA66F0120))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA66F0000))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA563CEA0))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA563CD80))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA563CC60))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA563CB40))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA563CA20))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA563C900))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA563C7E0))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA563C6C0))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA563C510))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA563C2D0))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA563C090))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA38FDEA0))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA38FDD80))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA38FDC60))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA38FDB40))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA38FDA20))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA38FD900))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA38FD7E0))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA38FD6C0))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA38FD5A0))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA38FD480))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA38FD360))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA38FD1B0))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA38FD090))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA376FF30))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA376FE10))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA376FCF0))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA376FBD0))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA376FAB0))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA376F990))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA376F870))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA376F750))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA376F630))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA376F510))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA376F3F0))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA376F2D0))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA376F120))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA376F000))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA2C52E10))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA2C52BD0))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA2C52990))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA2C52750))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA2C52510))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA2C52360))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA2C52240))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA2C52120))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA2C52000))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA2D55E10))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA2D55CF0))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA2D55BD0))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA2D55AB0))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA2D55990))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA2D55870))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA2D556C0))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA2D555A0))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA2D55480))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA2D55360))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA2D55240))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA2D55120))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA2D5AF30))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA2D5AE10))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA2D5ACF0))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA2D5ABD0))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA2D5AAB0))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA2D5A990))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA2D5A7E0))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA2D5A6C0))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA2D5A5A0))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA2D5A480))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA2D5A360))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA2D5A240))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA2D5A090))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA2D5DF30))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA2D5DE10))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA2D5DCF0))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA2D5DBD0))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA2D5DAB0))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA2D5D900))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA2D5D7E0))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA2D5D6C0))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA2D5D5A0))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA2D5D480))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA2D5D360))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA2D5D1B0))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA2D5D090))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA2D61F30))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA2D61E10))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA2D61CF0))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA2D61BD0))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA2D61A20))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA2D61900))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA2D617E0))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA2D616C0))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA2D615A0))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA2D61480))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA2D612D0))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA2D611B0))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA2D61090))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA2D65F30))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA2D65E10))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA2D65CF0))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA2D65B40))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA2D65A20))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA2D65900))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA2D657E0))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA2D656C0))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA2D655A0))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA2D653F0))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA2D652D0))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA2D651B0))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA2D65090))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA2D67F30))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA2D67E10))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA2D67C60))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA2D67B40))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA2D67A20))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA2D67900))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA2D677E0))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA2D676C0))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA2D67510))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA2D673F0))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA2D672D0))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA2D671B0))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA2D67090))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA2D6AF30))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA2D6AD80))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA2D6AC60))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA2D6AB40))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA2D6AA20))"
+    },
+    {
+        "EquipLanguageRow": "(circular-reference (0x7A6DA2D6A900))"
+    }
+]

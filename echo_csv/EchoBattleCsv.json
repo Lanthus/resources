@@ -1,0 +1,3113 @@
+[
+  {
+    "EchoBattleRow": {
+      "ID": 1,
+      "NetVersion": 400,
+      "CostLifeValue": 0,
+      "FreeCnt": 2,
+      "BuyCnt": 0,
+      "BuyDiamonds": 800,
+      "MissionID": [
+        40001,
+        40002,
+        40003,
+        40004
+      ],
+      "image": [
+        20100,
+        20102,
+        20103,
+        20104
+      ],
+      "MissionIDNew": [],
+      "imageNew": [],
+      "OpenTime": [
+        1671724800,
+        1672329600,
+        1672934400,
+        1673539200
+      ],
+      "FinishTime": 1674143999,
+      "NameLanguageId": [
+        23088,
+        23089,
+        23090,
+        23091
+      ],
+      "NameLanguageIdNew": [],
+      "SingleLimit": 300,
+      "ChapterLimit": [
+        {
+          "System.Int32[]": [
+            9,
+            12
+          ]
+        },
+        {
+          "System.Int32[]": [
+            13,
+            15
+          ]
+        },
+        {
+          "System.Int32[]": [
+            16,
+            17
+          ]
+        },
+        {
+          "System.Int32[]": [
+            18,
+            20
+          ]
+        },
+        {
+          "System.Int32[]": [
+            21,
+            23
+          ]
+        },
+        {
+          "System.Int32[]": [
+            24,
+            30
+          ]
+        },
+        {
+          "System.Int32[]": [
+            31,
+            9999
+          ]
+        }
+      ],
+      "PromotionRankDamage": ""
+    }
+  },
+  {
+    "EchoBattleRow": {
+      "ID": 2,
+      "NetVersion": 400,
+      "CostLifeValue": 0,
+      "FreeCnt": 2,
+      "BuyCnt": 0,
+      "BuyDiamonds": 800,
+      "MissionID": [
+        40001,
+        40002,
+        40003,
+        40004
+      ],
+      "image": [
+        20100,
+        20102,
+        20103,
+        20104
+      ],
+      "MissionIDNew": [],
+      "imageNew": [],
+      "OpenTime": [
+        1674144000,
+        1674748800,
+        1675353600,
+        1675958400
+      ],
+      "FinishTime": 1676563199,
+      "NameLanguageId": [
+        23088,
+        23089,
+        23090,
+        23091
+      ],
+      "NameLanguageIdNew": [],
+      "SingleLimit": 300,
+      "ChapterLimit": [
+        {
+          "System.Int32[]": [
+            9,
+            12
+          ]
+        },
+        {
+          "System.Int32[]": [
+            13,
+            15
+          ]
+        },
+        {
+          "System.Int32[]": [
+            16,
+            17
+          ]
+        },
+        {
+          "System.Int32[]": [
+            18,
+            20
+          ]
+        },
+        {
+          "System.Int32[]": [
+            21,
+            23
+          ]
+        },
+        {
+          "System.Int32[]": [
+            24,
+            30
+          ]
+        },
+        {
+          "System.Int32[]": [
+            31,
+            9999
+          ]
+        }
+      ],
+      "PromotionRankDamage": ""
+    }
+  },
+  {
+    "EchoBattleRow": {
+      "ID": 3,
+      "NetVersion": 400,
+      "CostLifeValue": 0,
+      "FreeCnt": 2,
+      "BuyCnt": 0,
+      "BuyDiamonds": 800,
+      "MissionID": [
+        40001,
+        40002,
+        40003,
+        40004
+      ],
+      "image": [
+        20100,
+        20102,
+        20103,
+        20104
+      ],
+      "MissionIDNew": [],
+      "imageNew": [],
+      "OpenTime": [
+        1676563200,
+        1677168000,
+        1677772800,
+        1678377600
+      ],
+      "FinishTime": 1678982399,
+      "NameLanguageId": [
+        23088,
+        23089,
+        23090,
+        23091
+      ],
+      "NameLanguageIdNew": [],
+      "SingleLimit": 300,
+      "ChapterLimit": [
+        {
+          "System.Int32[]": [
+            9,
+            12
+          ]
+        },
+        {
+          "System.Int32[]": [
+            13,
+            15
+          ]
+        },
+        {
+          "System.Int32[]": [
+            16,
+            17
+          ]
+        },
+        {
+          "System.Int32[]": [
+            18,
+            20
+          ]
+        },
+        {
+          "System.Int32[]": [
+            21,
+            23
+          ]
+        },
+        {
+          "System.Int32[]": [
+            24,
+            30
+          ]
+        },
+        {
+          "System.Int32[]": [
+            31,
+            9999
+          ]
+        }
+      ],
+      "PromotionRankDamage": ""
+    }
+  },
+  {
+    "EchoBattleRow": {
+      "ID": 4,
+      "NetVersion": 400,
+      "CostLifeValue": 0,
+      "FreeCnt": 2,
+      "BuyCnt": 0,
+      "BuyDiamonds": 800,
+      "MissionID": [
+        40005,
+        40006,
+        40007,
+        40008
+      ],
+      "image": [
+        20127,
+        20126,
+        20128,
+        20125
+      ],
+      "MissionIDNew": [],
+      "imageNew": [],
+      "OpenTime": [
+        1678982400,
+        1679587200,
+        1680192000,
+        1680796800
+      ],
+      "FinishTime": 1681401599,
+      "NameLanguageId": [
+        23103,
+        23102,
+        23104,
+        23101
+      ],
+      "NameLanguageIdNew": [],
+      "SingleLimit": 300,
+      "ChapterLimit": [
+        {
+          "System.Int32[]": [
+            9,
+            12
+          ]
+        },
+        {
+          "System.Int32[]": [
+            13,
+            15
+          ]
+        },
+        {
+          "System.Int32[]": [
+            16,
+            17
+          ]
+        },
+        {
+          "System.Int32[]": [
+            18,
+            20
+          ]
+        },
+        {
+          "System.Int32[]": [
+            21,
+            23
+          ]
+        },
+        {
+          "System.Int32[]": [
+            24,
+            30
+          ]
+        },
+        {
+          "System.Int32[]": [
+            31,
+            9999
+          ]
+        }
+      ],
+      "PromotionRankDamage": ""
+    }
+  },
+  {
+    "EchoBattleRow": {
+      "ID": 5,
+      "NetVersion": 400,
+      "CostLifeValue": 0,
+      "FreeCnt": 2,
+      "BuyCnt": 0,
+      "BuyDiamonds": 800,
+      "MissionID": [
+        40005,
+        40006,
+        40007,
+        40008
+      ],
+      "image": [
+        20127,
+        20126,
+        20128,
+        20125
+      ],
+      "MissionIDNew": [],
+      "imageNew": [],
+      "OpenTime": [
+        1681401600,
+        1682006400,
+        1682611200,
+        1683216000
+      ],
+      "FinishTime": 1683820799,
+      "NameLanguageId": [
+        23103,
+        23102,
+        23104,
+        23101
+      ],
+      "NameLanguageIdNew": [],
+      "SingleLimit": 300,
+      "ChapterLimit": [
+        {
+          "System.Int32[]": [
+            9,
+            12
+          ]
+        },
+        {
+          "System.Int32[]": [
+            13,
+            15
+          ]
+        },
+        {
+          "System.Int32[]": [
+            16,
+            17
+          ]
+        },
+        {
+          "System.Int32[]": [
+            18,
+            20
+          ]
+        },
+        {
+          "System.Int32[]": [
+            21,
+            23
+          ]
+        },
+        {
+          "System.Int32[]": [
+            24,
+            30
+          ]
+        },
+        {
+          "System.Int32[]": [
+            31,
+            9999
+          ]
+        }
+      ],
+      "PromotionRankDamage": ""
+    }
+  },
+  {
+    "EchoBattleRow": {
+      "ID": 6,
+      "NetVersion": 400,
+      "CostLifeValue": 0,
+      "FreeCnt": 2,
+      "BuyCnt": 0,
+      "BuyDiamonds": 800,
+      "MissionID": [
+        40005,
+        40006,
+        40007,
+        40008
+      ],
+      "image": [
+        20127,
+        20126,
+        20128,
+        20125
+      ],
+      "MissionIDNew": [],
+      "imageNew": [],
+      "OpenTime": [
+        1683820800,
+        1684425600,
+        1685030400,
+        1685635200
+      ],
+      "FinishTime": 1686239999,
+      "NameLanguageId": [
+        23103,
+        23102,
+        23104,
+        23101
+      ],
+      "NameLanguageIdNew": [],
+      "SingleLimit": 300,
+      "ChapterLimit": [
+        {
+          "System.Int32[]": [
+            9,
+            12
+          ]
+        },
+        {
+          "System.Int32[]": [
+            13,
+            15
+          ]
+        },
+        {
+          "System.Int32[]": [
+            16,
+            17
+          ]
+        },
+        {
+          "System.Int32[]": [
+            18,
+            20
+          ]
+        },
+        {
+          "System.Int32[]": [
+            21,
+            23
+          ]
+        },
+        {
+          "System.Int32[]": [
+            24,
+            30
+          ]
+        },
+        {
+          "System.Int32[]": [
+            31,
+            9999
+          ]
+        }
+      ],
+      "PromotionRankDamage": ""
+    }
+  },
+  {
+    "EchoBattleRow": {
+      "ID": 7,
+      "NetVersion": 1000,
+      "CostLifeValue": 0,
+      "FreeCnt": 2,
+      "BuyCnt": 0,
+      "BuyDiamonds": 800,
+      "MissionID": [
+        40009,
+        40010,
+        40011,
+        40012
+      ],
+      "image": [
+        20145,
+        20100,
+        20146,
+        20103
+      ],
+      "MissionIDNew": [],
+      "imageNew": [],
+      "OpenTime": [
+        1686240000,
+        1686844800,
+        1687449600,
+        1688054400
+      ],
+      "FinishTime": 1688659199,
+      "NameLanguageId": [
+        23114,
+        23088,
+        23115,
+        23090
+      ],
+      "NameLanguageIdNew": [],
+      "SingleLimit": 300,
+      "ChapterLimit": [
+        {
+          "System.Int32[]": [
+            9,
+            12
+          ]
+        },
+        {
+          "System.Int32[]": [
+            13,
+            15
+          ]
+        },
+        {
+          "System.Int32[]": [
+            16,
+            17
+          ]
+        },
+        {
+          "System.Int32[]": [
+            18,
+            20
+          ]
+        },
+        {
+          "System.Int32[]": [
+            21,
+            23
+          ]
+        },
+        {
+          "System.Int32[]": [
+            24,
+            30
+          ]
+        },
+        {
+          "System.Int32[]": [
+            31,
+            9999
+          ]
+        }
+      ],
+      "PromotionRankDamage": ""
+    }
+  },
+  {
+    "EchoBattleRow": {
+      "ID": 8,
+      "NetVersion": 1000,
+      "CostLifeValue": 0,
+      "FreeCnt": 2,
+      "BuyCnt": 0,
+      "BuyDiamonds": 800,
+      "MissionID": [
+        40009,
+        40010,
+        40011,
+        40012
+      ],
+      "image": [
+        20145,
+        20100,
+        20146,
+        20103
+      ],
+      "MissionIDNew": [],
+      "imageNew": [],
+      "OpenTime": [
+        1688659200,
+        1689264000,
+        1689868800,
+        1690473600
+      ],
+      "FinishTime": 1691251199,
+      "NameLanguageId": [
+        23114,
+        23088,
+        23115,
+        23090
+      ],
+      "NameLanguageIdNew": [],
+      "SingleLimit": 300,
+      "ChapterLimit": [
+        {
+          "System.Int32[]": [
+            9,
+            12
+          ]
+        },
+        {
+          "System.Int32[]": [
+            13,
+            15
+          ]
+        },
+        {
+          "System.Int32[]": [
+            16,
+            17
+          ]
+        },
+        {
+          "System.Int32[]": [
+            18,
+            20
+          ]
+        },
+        {
+          "System.Int32[]": [
+            21,
+            23
+          ]
+        },
+        {
+          "System.Int32[]": [
+            24,
+            30
+          ]
+        },
+        {
+          "System.Int32[]": [
+            31,
+            9999
+          ]
+        }
+      ],
+      "PromotionRankDamage": ""
+    }
+  },
+  {
+    "EchoBattleRow": {
+      "ID": 9,
+      "NetVersion": 1000,
+      "CostLifeValue": 0,
+      "FreeCnt": 2,
+      "BuyCnt": 0,
+      "BuyDiamonds": 800,
+      "MissionID": [
+        40009,
+        40010,
+        40011,
+        40012
+      ],
+      "image": [
+        20145,
+        20100,
+        20146,
+        20103
+      ],
+      "MissionIDNew": [],
+      "imageNew": [],
+      "OpenTime": [
+        1691251200,
+        1691769600,
+        1692288000,
+        1692806400
+      ],
+      "FinishTime": 1693411199,
+      "NameLanguageId": [
+        23114,
+        23088,
+        23115,
+        23090
+      ],
+      "NameLanguageIdNew": [],
+      "SingleLimit": 300,
+      "ChapterLimit": [
+        {
+          "System.Int32[]": [
+            9,
+            12
+          ]
+        },
+        {
+          "System.Int32[]": [
+            13,
+            15
+          ]
+        },
+        {
+          "System.Int32[]": [
+            16,
+            17
+          ]
+        },
+        {
+          "System.Int32[]": [
+            18,
+            20
+          ]
+        },
+        {
+          "System.Int32[]": [
+            21,
+            23
+          ]
+        },
+        {
+          "System.Int32[]": [
+            24,
+            30
+          ]
+        },
+        {
+          "System.Int32[]": [
+            31,
+            9999
+          ]
+        }
+      ],
+      "PromotionRankDamage": ""
+    }
+  },
+  {
+    "EchoBattleRow": {
+      "ID": 10,
+      "NetVersion": 1270,
+      "CostLifeValue": 0,
+      "FreeCnt": 2,
+      "BuyCnt": 0,
+      "BuyDiamonds": 800,
+      "MissionID": [
+        40013,
+        40014,
+        40015,
+        40016
+      ],
+      "image": [
+        20145,
+        20126,
+        20128,
+        20127
+      ],
+      "MissionIDNew": [],
+      "imageNew": [],
+      "OpenTime": [
+        1693411200,
+        1694016000,
+        1694620800,
+        1695225600
+      ],
+      "FinishTime": 1695830399,
+      "NameLanguageId": [
+        23114,
+        23102,
+        23104,
+        23103
+      ],
+      "NameLanguageIdNew": [],
+      "SingleLimit": 300,
+      "ChapterLimit": [
+        {
+          "System.Int32[]": [
+            9,
+            12
+          ]
+        },
+        {
+          "System.Int32[]": [
+            13,
+            15
+          ]
+        },
+        {
+          "System.Int32[]": [
+            16,
+            17
+          ]
+        },
+        {
+          "System.Int32[]": [
+            18,
+            20
+          ]
+        },
+        {
+          "System.Int32[]": [
+            21,
+            23
+          ]
+        },
+        {
+          "System.Int32[]": [
+            24,
+            30
+          ]
+        },
+        {
+          "System.Int32[]": [
+            31,
+            9999
+          ]
+        }
+      ],
+      "PromotionRankDamage": ""
+    }
+  },
+  {
+    "EchoBattleRow": {
+      "ID": 11,
+      "NetVersion": 1270,
+      "CostLifeValue": 0,
+      "FreeCnt": 2,
+      "BuyCnt": 0,
+      "BuyDiamonds": 800,
+      "MissionID": [
+        40013,
+        40014,
+        40015,
+        40016
+      ],
+      "image": [
+        20147,
+        20126,
+        20148,
+        20127
+      ],
+      "MissionIDNew": [],
+      "imageNew": [],
+      "OpenTime": [
+        1695830400,
+        1696435200,
+        1697040000,
+        1697644800
+      ],
+      "FinishTime": 1698249599,
+      "NameLanguageId": [
+        23116,
+        23102,
+        23117,
+        23103
+      ],
+      "NameLanguageIdNew": [],
+      "SingleLimit": 300,
+      "ChapterLimit": [
+        {
+          "System.Int32[]": [
+            9,
+            12
+          ]
+        },
+        {
+          "System.Int32[]": [
+            13,
+            15
+          ]
+        },
+        {
+          "System.Int32[]": [
+            16,
+            17
+          ]
+        },
+        {
+          "System.Int32[]": [
+            18,
+            20
+          ]
+        },
+        {
+          "System.Int32[]": [
+            21,
+            23
+          ]
+        },
+        {
+          "System.Int32[]": [
+            24,
+            30
+          ]
+        },
+        {
+          "System.Int32[]": [
+            31,
+            9999
+          ]
+        }
+      ],
+      "PromotionRankDamage": ""
+    }
+  },
+  {
+    "EchoBattleRow": {
+      "ID": 12,
+      "NetVersion": 1270,
+      "CostLifeValue": 0,
+      "FreeCnt": 2,
+      "BuyCnt": 0,
+      "BuyDiamonds": 800,
+      "MissionID": [
+        40013,
+        40014,
+        40015,
+        40016
+      ],
+      "image": [
+        20147,
+        20126,
+        20148,
+        20127
+      ],
+      "MissionIDNew": [],
+      "imageNew": [],
+      "OpenTime": [
+        1698249600,
+        1698854400,
+        1699459200,
+        1700064000
+      ],
+      "FinishTime": 1700668799,
+      "NameLanguageId": [
+        23116,
+        23102,
+        23117,
+        23103
+      ],
+      "NameLanguageIdNew": [],
+      "SingleLimit": 300,
+      "ChapterLimit": [
+        {
+          "System.Int32[]": [
+            9,
+            12
+          ]
+        },
+        {
+          "System.Int32[]": [
+            13,
+            15
+          ]
+        },
+        {
+          "System.Int32[]": [
+            16,
+            17
+          ]
+        },
+        {
+          "System.Int32[]": [
+            18,
+            20
+          ]
+        },
+        {
+          "System.Int32[]": [
+            21,
+            23
+          ]
+        },
+        {
+          "System.Int32[]": [
+            24,
+            30
+          ]
+        },
+        {
+          "System.Int32[]": [
+            31,
+            9999
+          ]
+        }
+      ],
+      "PromotionRankDamage": ""
+    }
+  },
+  {
+    "EchoBattleRow": {
+      "ID": 13,
+      "NetVersion": 1400,
+      "CostLifeValue": 0,
+      "FreeCnt": 2,
+      "BuyCnt": 0,
+      "BuyDiamonds": 800,
+      "MissionID": [
+        40004,
+        40011,
+        40007,
+        40002
+      ],
+      "image": [
+        20104,
+        20146,
+        20128,
+        20102
+      ],
+      "MissionIDNew": [],
+      "imageNew": [],
+      "OpenTime": [
+        1700668800,
+        1701273600,
+        1701878400,
+        1702483200
+      ],
+      "FinishTime": 1703087999,
+      "NameLanguageId": [
+        23091,
+        23115,
+        23104,
+        23089
+      ],
+      "NameLanguageIdNew": [],
+      "SingleLimit": 300,
+      "ChapterLimit": [
+        {
+          "System.Int32[]": [
+            9,
+            12
+          ]
+        },
+        {
+          "System.Int32[]": [
+            13,
+            15
+          ]
+        },
+        {
+          "System.Int32[]": [
+            16,
+            17
+          ]
+        },
+        {
+          "System.Int32[]": [
+            18,
+            20
+          ]
+        },
+        {
+          "System.Int32[]": [
+            21,
+            23
+          ]
+        },
+        {
+          "System.Int32[]": [
+            24,
+            30
+          ]
+        },
+        {
+          "System.Int32[]": [
+            31,
+            9999
+          ]
+        }
+      ],
+      "PromotionRankDamage": ""
+    }
+  },
+  {
+    "EchoBattleRow": {
+      "ID": 14,
+      "NetVersion": 1400,
+      "CostLifeValue": 0,
+      "FreeCnt": 2,
+      "BuyCnt": 0,
+      "BuyDiamonds": 800,
+      "MissionID": [
+        40004,
+        40011,
+        40007,
+        40002
+      ],
+      "image": [
+        20104,
+        20146,
+        20128,
+        20102
+      ],
+      "MissionIDNew": [],
+      "imageNew": [],
+      "OpenTime": [
+        1703088000,
+        1703692800,
+        1704297600,
+        1704902400
+      ],
+      "FinishTime": 1705507199,
+      "NameLanguageId": [
+        23091,
+        23115,
+        23104,
+        23089
+      ],
+      "NameLanguageIdNew": [],
+      "SingleLimit": 300,
+      "ChapterLimit": [
+        {
+          "System.Int32[]": [
+            9,
+            12
+          ]
+        },
+        {
+          "System.Int32[]": [
+            13,
+            15
+          ]
+        },
+        {
+          "System.Int32[]": [
+            16,
+            17
+          ]
+        },
+        {
+          "System.Int32[]": [
+            18,
+            20
+          ]
+        },
+        {
+          "System.Int32[]": [
+            21,
+            23
+          ]
+        },
+        {
+          "System.Int32[]": [
+            24,
+            30
+          ]
+        },
+        {
+          "System.Int32[]": [
+            31,
+            9999
+          ]
+        }
+      ],
+      "PromotionRankDamage": ""
+    }
+  },
+  {
+    "EchoBattleRow": {
+      "ID": 15,
+      "NetVersion": 1400,
+      "CostLifeValue": 0,
+      "FreeCnt": 2,
+      "BuyCnt": 0,
+      "BuyDiamonds": 800,
+      "MissionID": [
+        40004,
+        40011,
+        40007,
+        40002
+      ],
+      "image": [
+        20104,
+        20146,
+        20128,
+        20102
+      ],
+      "MissionIDNew": [],
+      "imageNew": [],
+      "OpenTime": [
+        1705507200,
+        1706112000,
+        1706716800,
+        1707321600
+      ],
+      "FinishTime": 1707926399,
+      "NameLanguageId": [
+        23091,
+        23115,
+        23104,
+        23089
+      ],
+      "NameLanguageIdNew": [],
+      "SingleLimit": 300,
+      "ChapterLimit": [
+        {
+          "System.Int32[]": [
+            9,
+            12
+          ]
+        },
+        {
+          "System.Int32[]": [
+            13,
+            15
+          ]
+        },
+        {
+          "System.Int32[]": [
+            16,
+            17
+          ]
+        },
+        {
+          "System.Int32[]": [
+            18,
+            20
+          ]
+        },
+        {
+          "System.Int32[]": [
+            21,
+            23
+          ]
+        },
+        {
+          "System.Int32[]": [
+            24,
+            30
+          ]
+        },
+        {
+          "System.Int32[]": [
+            31,
+            9999
+          ]
+        }
+      ],
+      "PromotionRankDamage": ""
+    }
+  },
+  {
+    "EchoBattleRow": {
+      "ID": 16,
+      "NetVersion": 1800,
+      "CostLifeValue": 0,
+      "FreeCnt": 2,
+      "BuyCnt": 0,
+      "BuyDiamonds": 800,
+      "MissionID": [
+        40013,
+        40008,
+        40012,
+        40014
+      ],
+      "image": [
+        20147,
+        20125,
+        20103,
+        20126
+      ],
+      "MissionIDNew": [],
+      "imageNew": [],
+      "OpenTime": [
+        1707926400,
+        1708531200,
+        1709136000,
+        1709740800
+      ],
+      "FinishTime": 1710345599,
+      "NameLanguageId": [
+        23116,
+        23101,
+        23090,
+        23102
+      ],
+      "NameLanguageIdNew": [],
+      "SingleLimit": 300,
+      "ChapterLimit": [
+        {
+          "System.Int32[]": [
+            9,
+            12
+          ]
+        },
+        {
+          "System.Int32[]": [
+            13,
+            15
+          ]
+        },
+        {
+          "System.Int32[]": [
+            16,
+            17
+          ]
+        },
+        {
+          "System.Int32[]": [
+            18,
+            20
+          ]
+        },
+        {
+          "System.Int32[]": [
+            21,
+            23
+          ]
+        },
+        {
+          "System.Int32[]": [
+            24,
+            30
+          ]
+        },
+        {
+          "System.Int32[]": [
+            31,
+            9999
+          ]
+        }
+      ],
+      "PromotionRankDamage": ""
+    }
+  },
+  {
+    "EchoBattleRow": {
+      "ID": 17,
+      "NetVersion": 1900,
+      "CostLifeValue": 0,
+      "FreeCnt": 2,
+      "BuyCnt": 0,
+      "BuyDiamonds": 800,
+      "MissionID": [
+        40008,
+        40014,
+        40012,
+        40013
+      ],
+      "image": [
+        20125,
+        20126,
+        20103,
+        20147
+      ],
+      "MissionIDNew": [],
+      "imageNew": [],
+      "OpenTime": [
+        1710345600,
+        1710950400,
+        1711555200,
+        1712160000
+      ],
+      "FinishTime": 1712764799,
+      "NameLanguageId": [
+        23101,
+        23102,
+        23090,
+        23116
+      ],
+      "NameLanguageIdNew": [],
+      "SingleLimit": 300,
+      "ChapterLimit": [
+        {
+          "System.Int32[]": [
+            9,
+            12
+          ]
+        },
+        {
+          "System.Int32[]": [
+            13,
+            15
+          ]
+        },
+        {
+          "System.Int32[]": [
+            16,
+            17
+          ]
+        },
+        {
+          "System.Int32[]": [
+            18,
+            20
+          ]
+        },
+        {
+          "System.Int32[]": [
+            21,
+            23
+          ]
+        },
+        {
+          "System.Int32[]": [
+            24,
+            30
+          ]
+        },
+        {
+          "System.Int32[]": [
+            31,
+            9999
+          ]
+        }
+      ],
+      "PromotionRankDamage": ""
+    }
+  },
+  {
+    "EchoBattleRow": {
+      "ID": 18,
+      "NetVersion": 1900,
+      "CostLifeValue": 0,
+      "FreeCnt": 2,
+      "BuyCnt": 0,
+      "BuyDiamonds": 800,
+      "MissionID": [
+        40008,
+        40014,
+        40012,
+        40013
+      ],
+      "image": [
+        20125,
+        20126,
+        20103,
+        20147
+      ],
+      "MissionIDNew": [],
+      "imageNew": [],
+      "OpenTime": [
+        1712764800,
+        1713369600,
+        1713974400,
+        1714579200
+      ],
+      "FinishTime": 1715183999,
+      "NameLanguageId": [
+        23101,
+        23102,
+        23090,
+        23116
+      ],
+      "NameLanguageIdNew": [],
+      "SingleLimit": 300,
+      "ChapterLimit": [
+        {
+          "System.Int32[]": [
+            9,
+            12
+          ]
+        },
+        {
+          "System.Int32[]": [
+            13,
+            15
+          ]
+        },
+        {
+          "System.Int32[]": [
+            16,
+            17
+          ]
+        },
+        {
+          "System.Int32[]": [
+            18,
+            20
+          ]
+        },
+        {
+          "System.Int32[]": [
+            21,
+            23
+          ]
+        },
+        {
+          "System.Int32[]": [
+            24,
+            30
+          ]
+        },
+        {
+          "System.Int32[]": [
+            31,
+            9999
+          ]
+        }
+      ],
+      "PromotionRankDamage": ""
+    }
+  },
+  {
+    "EchoBattleRow": {
+      "ID": 19,
+      "NetVersion": 2100,
+      "CostLifeValue": 0,
+      "FreeCnt": 2,
+      "BuyCnt": 0,
+      "BuyDiamonds": 800,
+      "MissionID": [
+        40018,
+        40015,
+        40012,
+        40002
+      ],
+      "image": [
+        20215,
+        20148,
+        20103,
+        20102
+      ],
+      "MissionIDNew": [],
+      "imageNew": [],
+      "OpenTime": [
+        1715184000,
+        1715788800,
+        1716393600,
+        1716998400
+      ],
+      "FinishTime": 1717603199,
+      "NameLanguageId": [
+        23138,
+        23117,
+        23090,
+        23089
+      ],
+      "NameLanguageIdNew": [],
+      "SingleLimit": 300,
+      "ChapterLimit": [
+        {
+          "System.Int32[]": [
+            9,
+            12
+          ]
+        },
+        {
+          "System.Int32[]": [
+            13,
+            15
+          ]
+        },
+        {
+          "System.Int32[]": [
+            16,
+            17
+          ]
+        },
+        {
+          "System.Int32[]": [
+            18,
+            20
+          ]
+        },
+        {
+          "System.Int32[]": [
+            21,
+            23
+          ]
+        },
+        {
+          "System.Int32[]": [
+            24,
+            30
+          ]
+        },
+        {
+          "System.Int32[]": [
+            31,
+            9999
+          ]
+        }
+      ],
+      "PromotionRankDamage": ""
+    }
+  },
+  {
+    "EchoBattleRow": {
+      "ID": 20,
+      "NetVersion": 2100,
+      "CostLifeValue": 0,
+      "FreeCnt": 2,
+      "BuyCnt": 0,
+      "BuyDiamonds": 800,
+      "MissionID": [
+        40017,
+        40014,
+        40019,
+        40013
+      ],
+      "image": [
+        20214,
+        20126,
+        20193,
+        20147
+      ],
+      "MissionIDNew": [],
+      "imageNew": [],
+      "OpenTime": [
+        1717603200,
+        1718208000,
+        1718812800,
+        1719417600
+      ],
+      "FinishTime": 1720022399,
+      "NameLanguageId": [
+        23137,
+        23102,
+        23142,
+        23116
+      ],
+      "NameLanguageIdNew": [],
+      "SingleLimit": 300,
+      "ChapterLimit": [
+        {
+          "System.Int32[]": [
+            9,
+            12
+          ]
+        },
+        {
+          "System.Int32[]": [
+            13,
+            15
+          ]
+        },
+        {
+          "System.Int32[]": [
+            16,
+            17
+          ]
+        },
+        {
+          "System.Int32[]": [
+            18,
+            20
+          ]
+        },
+        {
+          "System.Int32[]": [
+            21,
+            23
+          ]
+        },
+        {
+          "System.Int32[]": [
+            24,
+            30
+          ]
+        },
+        {
+          "System.Int32[]": [
+            31,
+            9999
+          ]
+        }
+      ],
+      "PromotionRankDamage": ""
+    }
+  },
+  {
+    "EchoBattleRow": {
+      "ID": 21,
+      "NetVersion": 2100,
+      "CostLifeValue": 0,
+      "FreeCnt": 2,
+      "BuyCnt": 0,
+      "BuyDiamonds": 800,
+      "MissionID": [
+        40020,
+        40021,
+        40018,
+        40015,
+        40012,
+        40002,
+        40005,
+        40006,
+        40007,
+        40007
+      ],
+      "image": [
+        20220,
+        20241,
+        20215,
+        20148,
+        20103,
+        20102,
+        20127,
+        20126,
+        20128,
+        20128
+      ],
+      "MissionIDNew": [],
+      "imageNew": [],
+      "OpenTime": [
+        1720022400,
+        1720281600,
+        1720540800,
+        1720800000,
+        1721059200,
+        1721318400,
+        1721577600,
+        1721836800,
+        1722096000,
+        1722355200
+      ],
+      "FinishTime": 1722441599,
+      "NameLanguageId": [
+        23149,
+        23150,
+        23138,
+        23117,
+        23090,
+        23089,
+        23103,
+        23102,
+        23104,
+        23104
+      ],
+      "NameLanguageIdNew": [],
+      "SingleLimit": 300,
+      "ChapterLimit": [
+        {
+          "System.Int32[]": [
+            9,
+            12
+          ]
+        },
+        {
+          "System.Int32[]": [
+            13,
+            15
+          ]
+        },
+        {
+          "System.Int32[]": [
+            16,
+            17
+          ]
+        },
+        {
+          "System.Int32[]": [
+            18,
+            20
+          ]
+        },
+        {
+          "System.Int32[]": [
+            21,
+            23
+          ]
+        },
+        {
+          "System.Int32[]": [
+            24,
+            30
+          ]
+        },
+        {
+          "System.Int32[]": [
+            31,
+            9999
+          ]
+        }
+      ],
+      "PromotionRankDamage": "1,0|2,942854102|3,135249501420|4,951046738508|5,0|6,0|7,0|8,0|9,0|10,0|11,0"
+    }
+  },
+  {
+    "EchoBattleRow": {
+      "ID": 22,
+      "NetVersion": 2100,
+      "CostLifeValue": 0,
+      "FreeCnt": 2,
+      "BuyCnt": 0,
+      "BuyDiamonds": 800,
+      "MissionID": [
+        40019,
+        40017,
+        40016,
+        40014,
+        40013,
+        40011,
+        40010,
+        40008,
+        40012,
+        40012
+      ],
+      "image": [
+        20193,
+        20214,
+        20127,
+        20126,
+        20147,
+        20146,
+        20100,
+        20125,
+        20103,
+        20103
+      ],
+      "MissionIDNew": [],
+      "imageNew": [],
+      "OpenTime": [
+        1722441600,
+        1722700800,
+        1722960000,
+        1723219200,
+        1723478400,
+        1723737600,
+        1723996800,
+        1724256000,
+        1724515200,
+        1724774400
+      ],
+      "FinishTime": 1724860799,
+      "NameLanguageId": [
+        23142,
+        23137,
+        23103,
+        23102,
+        23116,
+        23115,
+        23088,
+        23101,
+        23090,
+        23090
+      ],
+      "NameLanguageIdNew": [],
+      "SingleLimit": 300,
+      "ChapterLimit": [
+        {
+          "System.Int32[]": [
+            9,
+            12
+          ]
+        },
+        {
+          "System.Int32[]": [
+            13,
+            15
+          ]
+        },
+        {
+          "System.Int32[]": [
+            16,
+            17
+          ]
+        },
+        {
+          "System.Int32[]": [
+            18,
+            20
+          ]
+        },
+        {
+          "System.Int32[]": [
+            21,
+            23
+          ]
+        },
+        {
+          "System.Int32[]": [
+            24,
+            30
+          ]
+        },
+        {
+          "System.Int32[]": [
+            31,
+            9999
+          ]
+        }
+      ],
+      "PromotionRankDamage": "1,0|2,942854102|3,135249501420|4,951046738508|5,0|6,0|7,0|8,0|9,0|10,0|11,0"
+    }
+  },
+  {
+    "EchoBattleRow": {
+      "ID": 23,
+      "NetVersion": 2100,
+      "CostLifeValue": 0,
+      "FreeCnt": 2,
+      "BuyCnt": 0,
+      "BuyDiamonds": 800,
+      "MissionID": [
+        40006,
+        40007,
+        40005,
+        40020,
+        40021,
+        40002,
+        40012,
+        40015,
+        40018,
+        40018
+      ],
+      "image": [
+        20126,
+        20128,
+        20127,
+        20220,
+        20241,
+        20102,
+        20103,
+        20148,
+        20215,
+        20215
+      ],
+      "MissionIDNew": [],
+      "imageNew": [],
+      "OpenTime": [
+        1724860800,
+        1725120000,
+        1725379200,
+        1725638400,
+        1725897600,
+        1726156800,
+        1726416000,
+        1726675200,
+        1726934400,
+        1727193600
+      ],
+      "FinishTime": 1727279999,
+      "NameLanguageId": [
+        23102,
+        23104,
+        23103,
+        23149,
+        23150,
+        23089,
+        23090,
+        23117,
+        23138,
+        23138
+      ],
+      "NameLanguageIdNew": [],
+      "SingleLimit": 300,
+      "ChapterLimit": [
+        {
+          "System.Int32[]": [
+            9,
+            12
+          ]
+        },
+        {
+          "System.Int32[]": [
+            13,
+            15
+          ]
+        },
+        {
+          "System.Int32[]": [
+            16,
+            17
+          ]
+        },
+        {
+          "System.Int32[]": [
+            18,
+            20
+          ]
+        },
+        {
+          "System.Int32[]": [
+            21,
+            23
+          ]
+        },
+        {
+          "System.Int32[]": [
+            24,
+            30
+          ]
+        },
+        {
+          "System.Int32[]": [
+            31,
+            9999
+          ]
+        }
+      ],
+      "PromotionRankDamage": "1,0|2,942854102|3,135249501420|4,951046738508|5,0|6,0|7,0|8,0|9,0|10,0|11,0"
+    }
+  },
+  {
+    "EchoBattleRow": {
+      "ID": 24,
+      "NetVersion": 2100,
+      "CostLifeValue": 0,
+      "FreeCnt": 2,
+      "BuyCnt": 0,
+      "BuyDiamonds": 800,
+      "MissionID": [
+        40010,
+        40015,
+        40012,
+        40004,
+        40008,
+        40014,
+        40007,
+        40009,
+        40011,
+        40011
+      ],
+      "image": [
+        20126,
+        20128,
+        20127,
+        20220,
+        20241,
+        20102,
+        20103,
+        20148,
+        20215,
+        20215
+      ],
+      "MissionIDNew": [
+        {
+          "System.Int32[]": [
+            40010,
+            40010,
+            40010,
+            40010,
+            40010
+          ]
+        },
+        {
+          "System.Int32[]": [
+            40015,
+            40015,
+            40015,
+            40015,
+            40015
+          ]
+        },
+        {
+          "System.Int32[]": [
+            40012,
+            40012,
+            40012,
+            40012,
+            40012
+          ]
+        },
+        {
+          "System.Int32[]": [
+            40004,
+            40004,
+            40004,
+            40004,
+            40004
+          ]
+        },
+        {
+          "System.Int32[]": [
+            40008,
+            40008,
+            40008,
+            40008,
+            40008
+          ]
+        },
+        {
+          "System.Int32[]": [
+            40014,
+            40014,
+            40014,
+            40014,
+            40014
+          ]
+        },
+        {
+          "System.Int32[]": [
+            40007,
+            40007,
+            40007,
+            40007,
+            40007
+          ]
+        },
+        {
+          "System.Int32[]": [
+            40009,
+            40009,
+            40009,
+            40009,
+            40009
+          ]
+        },
+        {
+          "System.Int32[]": [
+            40018,
+            40018,
+            40018,
+            40018,
+            40018
+          ]
+        },
+        {
+          "System.Int32[]": [
+            40018
+          ]
+        }
+      ],
+      "imageNew": [
+        {
+          "System.Int32[]": [
+            20100,
+            20100,
+            20100,
+            20100,
+            20100
+          ]
+        },
+        {
+          "System.Int32[]": [
+            20148,
+            20148,
+            20148,
+            20148,
+            20148
+          ]
+        },
+        {
+          "System.Int32[]": [
+            20103,
+            20103,
+            20103,
+            20103,
+            20103
+          ]
+        },
+        {
+          "System.Int32[]": [
+            20104,
+            20104,
+            20104,
+            20104,
+            20104
+          ]
+        },
+        {
+          "System.Int32[]": [
+            20125,
+            20125,
+            20125,
+            20125,
+            20125
+          ]
+        },
+        {
+          "System.Int32[]": [
+            20126,
+            20126,
+            20126,
+            20126,
+            20126
+          ]
+        },
+        {
+          "System.Int32[]": [
+            20128,
+            20128,
+            20128,
+            20128,
+            20128
+          ]
+        },
+        {
+          "System.Int32[]": [
+            20145,
+            20145,
+            20145,
+            20145,
+            20145
+          ]
+        },
+        {
+          "System.Int32[]": [
+            20215,
+            20215,
+            20215,
+            20215,
+            20215
+          ]
+        },
+        {
+          "System.Int32[]": [
+            20215
+          ]
+        }
+      ],
+      "OpenTime": [
+        1727280000,
+        1727539200,
+        1727798400,
+        1728057600,
+        1728316800,
+        1728576000,
+        1728835200,
+        1729094400,
+        1729353600,
+        1729612800
+      ],
+      "FinishTime": 1729699199,
+      "NameLanguageId": [
+        23102,
+        23104,
+        23103,
+        23149,
+        23150,
+        23089,
+        23090,
+        23117,
+        23138,
+        23138
+      ],
+      "NameLanguageIdNew": [
+        {
+          "System.Int32[]": [
+            23088,
+            23088,
+            23088,
+            23088,
+            23088
+          ]
+        },
+        {
+          "System.Int32[]": [
+            23117,
+            23117,
+            23117,
+            23117,
+            23117
+          ]
+        },
+        {
+          "System.Int32[]": [
+            23090,
+            23090,
+            23090,
+            23090,
+            23090
+          ]
+        },
+        {
+          "System.Int32[]": [
+            23091,
+            23091,
+            23091,
+            23091,
+            23091
+          ]
+        },
+        {
+          "System.Int32[]": [
+            23101,
+            23101,
+            23101,
+            23101,
+            23101
+          ]
+        },
+        {
+          "System.Int32[]": [
+            23102,
+            23102,
+            23102,
+            23102,
+            23102
+          ]
+        },
+        {
+          "System.Int32[]": [
+            23104,
+            23104,
+            23104,
+            23104,
+            23104
+          ]
+        },
+        {
+          "System.Int32[]": [
+            23114,
+            23114,
+            23114,
+            23114,
+            23114
+          ]
+        },
+        {
+          "System.Int32[]": [
+            23138,
+            23138,
+            23138,
+            23138,
+            23138
+          ]
+        },
+        {
+          "System.Int32[]": [
+            23138
+          ]
+        }
+      ],
+      "SingleLimit": 300,
+      "ChapterLimit": [
+        {
+          "System.Int32[]": [
+            9,
+            12
+          ]
+        },
+        {
+          "System.Int32[]": [
+            13,
+            15
+          ]
+        },
+        {
+          "System.Int32[]": [
+            16,
+            17
+          ]
+        },
+        {
+          "System.Int32[]": [
+            18,
+            20
+          ]
+        },
+        {
+          "System.Int32[]": [
+            21,
+            23
+          ]
+        },
+        {
+          "System.Int32[]": [
+            24,
+            30
+          ]
+        },
+        {
+          "System.Int32[]": [
+            31,
+            9999
+          ]
+        }
+      ],
+      "PromotionRankDamage": "1,0|2,942854102|3,135249501420|4,951046738508|5,0|6,0|7,0|8,0|9,0|10,0|11,0"
+    }
+  },
+  {
+    "EchoBattleRow": {
+      "ID": 25,
+      "NetVersion": 2100,
+      "CostLifeValue": 0,
+      "FreeCnt": 2,
+      "BuyCnt": 0,
+      "BuyDiamonds": 800,
+      "MissionID": [
+        40006,
+        40007,
+        40005,
+        40020,
+        40021,
+        40002,
+        40012,
+        40015,
+        40018,
+        40018
+      ],
+      "image": [
+        20126,
+        20128,
+        20127,
+        20220,
+        20241,
+        20102,
+        20103,
+        20148,
+        20215,
+        20215
+      ],
+      "MissionIDNew": [
+        {
+          "System.Int32[]": [
+            40022,
+            40022,
+            40022,
+            40022,
+            40022
+          ]
+        },
+        {
+          "System.Int32[]": [
+            40024,
+            40024,
+            40024,
+            40024,
+            40024
+          ]
+        },
+        {
+          "System.Int32[]": [
+            40026,
+            40026,
+            40026,
+            40026,
+            40026
+          ]
+        },
+        {
+          "System.Int32[]": [
+            40018,
+            40018,
+            40018,
+            40018,
+            40018
+          ]
+        },
+        {
+          "System.Int32[]": [
+            40021,
+            40021,
+            40021,
+            40021,
+            40021
+          ]
+        },
+        {
+          "System.Int32[]": [
+            40027,
+            40027,
+            40027,
+            40027,
+            40027
+          ]
+        },
+        {
+          "System.Int32[]": [
+            40025,
+            40025,
+            40025,
+            40025,
+            40025
+          ]
+        },
+        {
+          "System.Int32[]": [
+            40009,
+            40009,
+            40009,
+            40009,
+            40009
+          ]
+        },
+        {
+          "System.Int32[]": [
+            40023,
+            40023,
+            40023,
+            40023,
+            40023
+          ]
+        },
+        {
+          "System.Int32[]": [
+            40023
+          ]
+        }
+      ],
+      "imageNew": [
+        {
+          "System.Int32[]": [
+            20267,
+            20267,
+            20267,
+            20267,
+            20267
+          ]
+        },
+        {
+          "System.Int32[]": [
+            20270,
+            20270,
+            20270,
+            20270,
+            20270
+          ]
+        },
+        {
+          "System.Int32[]": [
+            20273,
+            20273,
+            20273,
+            20273,
+            20273
+          ]
+        },
+        {
+          "System.Int32[]": [
+            20215,
+            20215,
+            20215,
+            20215,
+            20215
+          ]
+        },
+        {
+          "System.Int32[]": [
+            20241,
+            20241,
+            20241,
+            20241,
+            20241
+          ]
+        },
+        {
+          "System.Int32[]": [
+            20274,
+            20274,
+            20274,
+            20274,
+            20274
+          ]
+        },
+        {
+          "System.Int32[]": [
+            20271,
+            20271,
+            20271,
+            20271,
+            20271
+          ]
+        },
+        {
+          "System.Int32[]": [
+            20145,
+            20145,
+            20145,
+            20145,
+            20145
+          ]
+        },
+        {
+          "System.Int32[]": [
+            20268,
+            20268,
+            20268,
+            20268,
+            20268
+          ]
+        },
+        {
+          "System.Int32[]": [
+            20268
+          ]
+        }
+      ],
+      "OpenTime": [
+        1729699200,
+        1729958400,
+        1730217600,
+        1730476800,
+        1730736000,
+        1730995200,
+        1731254400,
+        1731513600,
+        1731772800,
+        1732032000
+      ],
+      "FinishTime": 1732118399,
+      "NameLanguageId": [
+        23102,
+        23104,
+        23103,
+        23149,
+        23150,
+        23089,
+        23090,
+        23117,
+        23138,
+        23138
+      ],
+      "NameLanguageIdNew": [
+        {
+          "System.Int32[]": [
+            23160,
+            23160,
+            23160,
+            23160,
+            23160
+          ]
+        },
+        {
+          "System.Int32[]": [
+            23163,
+            23163,
+            23163,
+            23163,
+            23163
+          ]
+        },
+        {
+          "System.Int32[]": [
+            23166,
+            23166,
+            23166,
+            23166,
+            23166
+          ]
+        },
+        {
+          "System.Int32[]": [
+            23138,
+            23138,
+            23138,
+            23138,
+            23138
+          ]
+        },
+        {
+          "System.Int32[]": [
+            23150,
+            23150,
+            23150,
+            23150,
+            23150
+          ]
+        },
+        {
+          "System.Int32[]": [
+            23167,
+            23167,
+            23167,
+            23167,
+            23167
+          ]
+        },
+        {
+          "System.Int32[]": [
+            23164,
+            23164,
+            23164,
+            23164,
+            23164
+          ]
+        },
+        {
+          "System.Int32[]": [
+            23114,
+            23114,
+            23114,
+            23114,
+            23114
+          ]
+        },
+        {
+          "System.Int32[]": [
+            23161,
+            23161,
+            23161,
+            23161,
+            23161
+          ]
+        },
+        {
+          "System.Int32[]": [
+            23161
+          ]
+        }
+      ],
+      "SingleLimit": 300,
+      "ChapterLimit": [
+        {
+          "System.Int32[]": [
+            9,
+            12
+          ]
+        },
+        {
+          "System.Int32[]": [
+            13,
+            15
+          ]
+        },
+        {
+          "System.Int32[]": [
+            16,
+            17
+          ]
+        },
+        {
+          "System.Int32[]": [
+            18,
+            20
+          ]
+        },
+        {
+          "System.Int32[]": [
+            21,
+            23
+          ]
+        },
+        {
+          "System.Int32[]": [
+            24,
+            30
+          ]
+        },
+        {
+          "System.Int32[]": [
+            31,
+            9999
+          ]
+        }
+      ],
+      "PromotionRankDamage": "1,0|2,942854102|3,135249501420|4,951046738508|5,0|6,0|7,0|8,0|9,0|10,0|11,0"
+    }
+  },
+  {
+    "EchoBattleRow": {
+      "ID": 26,
+      "NetVersion": 2100,
+      "CostLifeValue": 0,
+      "FreeCnt": 2,
+      "BuyCnt": 0,
+      "BuyDiamonds": 800,
+      "MissionID": [
+        40006,
+        40007,
+        40005,
+        40020,
+        40021,
+        40002,
+        40012,
+        40015,
+        40018,
+        40018
+      ],
+      "image": [
+        20126,
+        20128,
+        20127,
+        20220,
+        20241,
+        20102,
+        20103,
+        20148,
+        20215,
+        20215
+      ],
+      "MissionIDNew": [
+        {
+          "System.Int32[]": [
+            40001,
+            40002,
+            40003,
+            40004,
+            40005
+          ]
+        },
+        {
+          "System.Int32[]": [
+            40006,
+            40007,
+            40008,
+            40009,
+            40010
+          ]
+        },
+        {
+          "System.Int32[]": [
+            40001,
+            40002,
+            40003,
+            40004,
+            40005
+          ]
+        },
+        {
+          "System.Int32[]": [
+            40006,
+            40007,
+            40008,
+            40009,
+            40010
+          ]
+        },
+        {
+          "System.Int32[]": [
+            40001,
+            40002,
+            40003,
+            40004,
+            40005
+          ]
+        },
+        {
+          "System.Int32[]": [
+            40006,
+            40007,
+            40008,
+            40009,
+            40010
+          ]
+        },
+        {
+          "System.Int32[]": [
+            40001,
+            40002,
+            40003,
+            40004,
+            40005
+          ]
+        },
+        {
+          "System.Int32[]": [
+            40006,
+            40007,
+            40008,
+            40009,
+            40010
+          ]
+        },
+        {
+          "System.Int32[]": [
+            40001,
+            40002,
+            40003,
+            40004,
+            40005
+          ]
+        },
+        {
+          "System.Int32[]": [
+            40010
+          ]
+        }
+      ],
+      "imageNew": [
+        {
+          "System.Int32[]": [
+            20100,
+            20102,
+            20103,
+            20104,
+            20127
+          ]
+        },
+        {
+          "System.Int32[]": [
+            20126,
+            20128,
+            20125,
+            20145,
+            20100
+          ]
+        },
+        {
+          "System.Int32[]": [
+            20100,
+            20102,
+            20103,
+            20104,
+            20127
+          ]
+        },
+        {
+          "System.Int32[]": [
+            20126,
+            20128,
+            20125,
+            20145,
+            20100
+          ]
+        },
+        {
+          "System.Int32[]": [
+            20100,
+            20102,
+            20103,
+            20104,
+            20127
+          ]
+        },
+        {
+          "System.Int32[]": [
+            20126,
+            20128,
+            20125,
+            20145,
+            20100
+          ]
+        },
+        {
+          "System.Int32[]": [
+            20100,
+            20102,
+            20103,
+            20104,
+            20127
+          ]
+        },
+        {
+          "System.Int32[]": [
+            20126,
+            20128,
+            20125,
+            20145,
+            20100
+          ]
+        },
+        {
+          "System.Int32[]": [
+            20100,
+            20102,
+            20103,
+            20104,
+            20127
+          ]
+        },
+        {
+          "System.Int32[]": [
+            20100
+          ]
+        }
+      ],
+      "OpenTime": [
+        1732118400,
+        1732377600,
+        1732636800,
+        1732896000,
+        1733155200,
+        1733414400,
+        1733673600,
+        1733932800,
+        1734192000,
+        1734451200
+      ],
+      "FinishTime": 1734537599,
+      "NameLanguageId": [
+        23102,
+        23104,
+        23103,
+        23149,
+        23150,
+        23089,
+        23090,
+        23117,
+        23138,
+        23138
+      ],
+      "NameLanguageIdNew": [
+        {
+          "System.Int32[]": [
+            23088,
+            23089,
+            23090,
+            23091,
+            23103
+          ]
+        },
+        {
+          "System.Int32[]": [
+            23102,
+            23104,
+            23101,
+            23114,
+            23088
+          ]
+        },
+        {
+          "System.Int32[]": [
+            23088,
+            23089,
+            23090,
+            23091,
+            23103
+          ]
+        },
+        {
+          "System.Int32[]": [
+            23102,
+            23104,
+            23101,
+            23114,
+            23088
+          ]
+        },
+        {
+          "System.Int32[]": [
+            23088,
+            23089,
+            23090,
+            23091,
+            23103
+          ]
+        },
+        {
+          "System.Int32[]": [
+            23102,
+            23104,
+            23101,
+            23114,
+            23088
+          ]
+        },
+        {
+          "System.Int32[]": [
+            23088,
+            23089,
+            23090,
+            23091,
+            23103
+          ]
+        },
+        {
+          "System.Int32[]": [
+            23102,
+            23104,
+            23101,
+            23114,
+            23088
+          ]
+        },
+        {
+          "System.Int32[]": [
+            23088,
+            23089,
+            23090,
+            23091,
+            23103
+          ]
+        },
+        {
+          "System.Int32[]": [
+            23088
+          ]
+        }
+      ],
+      "SingleLimit": 300,
+      "ChapterLimit": [
+        {
+          "System.Int32[]": [
+            9,
+            12
+          ]
+        },
+        {
+          "System.Int32[]": [
+            13,
+            15
+          ]
+        },
+        {
+          "System.Int32[]": [
+            16,
+            17
+          ]
+        },
+        {
+          "System.Int32[]": [
+            18,
+            20
+          ]
+        },
+        {
+          "System.Int32[]": [
+            21,
+            23
+          ]
+        },
+        {
+          "System.Int32[]": [
+            24,
+            30
+          ]
+        },
+        {
+          "System.Int32[]": [
+            31,
+            9999
+          ]
+        }
+      ],
+      "PromotionRankDamage": "1,0|2,942854102|3,135249501420|4,951046738508|5,0|6,0|7,0|8,0|9,0|10,0|11,0"
+    }
+  }
+]

@@ -1,0 +1,260 @@
+[
+  {
+    "EquipSSCfgRow": {
+      "id": 310116,
+      "Forge": [
+        [
+          611,
+          50
+        ],
+        [
+          612,
+          50
+        ]
+      ],
+      "ForgeCost": [
+        [
+          610,
+          2000
+        ]
+      ],
+      "ForgeIcon": [
+        "Equip_Weapon_6_Icon_Elite",
+        "Equip_Weapon_7_Icon_Elite"
+      ],
+      "GodForgeA": [
+        1001,
+        1002,
+        1003,
+        1004,
+        1005
+      ],
+      "GodForgeB": [
+        2001,
+        2002,
+        2003,
+        2004,
+        2005
+      ],
+      "GodForgeC": [],
+      "GodForgeLevel": 5,
+      "GodForgeLevelLock": 3,
+      "UnlockTime": 1707321600
+    }
+  },
+  {
+    "EquipSSCfgRow": {
+      "id": 320116,
+      "Forge": [
+        [
+          611,
+          50
+        ],
+        [
+          612,
+          50
+        ]
+      ],
+      "ForgeCost": [
+        [
+          610,
+          2000
+        ]
+      ],
+      "ForgeIcon": [
+        "Equip_Armor_6_Icon_Elite",
+        "Equip_Armor_7_Icon_Elite"
+      ],
+      "GodForgeA": [
+        1011,
+        1012,
+        1013,
+        1014,
+        1015
+      ],
+      "GodForgeB": [
+        2011,
+        2012,
+        2013,
+        2014,
+        2015
+      ],
+      "GodForgeC": [],
+      "GodForgeLevel": 5,
+      "GodForgeLevelLock": 3,
+      "UnlockTime": 1712764800
+    }
+  },
+  {
+    "EquipSSCfgRow": {
+      "id": 330116,
+      "Forge": [
+        [
+          611,
+          50
+        ],
+        [
+          612,
+          50
+        ]
+      ],
+      "ForgeCost": [
+        [
+          610,
+          2000
+        ]
+      ],
+      "ForgeIcon": [
+        "Equip_Necklace_6_Icon_Elite",
+        "Equip_Necklace_7_Icon_Elite"
+      ],
+      "GodForgeA": [
+        1021,
+        1022,
+        1023,
+        1024,
+        1025
+      ],
+      "GodForgeB": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "GodForgeC": [],
+      "GodForgeLevel": 5,
+      "GodForgeLevelLock": 3,
+      "UnlockTime": 1718640000
+    }
+  },
+  {
+    "EquipSSCfgRow": {
+      "id": 340116,
+      "Forge": [
+        [
+          611,
+          50
+        ],
+        [
+          612,
+          50
+        ]
+      ],
+      "ForgeCost": [
+        [
+          610,
+          2000
+        ]
+      ],
+      "ForgeIcon": [
+        "Equip_Belt_6_Icon_Elite",
+        "Equip_Belt_7_Icon_Elite"
+      ],
+      "GodForgeA": [
+        1031,
+        1032,
+        1033,
+        1034,
+        1035
+      ],
+      "GodForgeB": [
+        2031,
+        2032,
+        2033,
+        2034,
+        2035
+      ],
+      "GodForgeC": [],
+      "GodForgeLevel": 5,
+      "GodForgeLevelLock": 3,
+      "UnlockTime": 1723305600
+    }
+  },
+  {
+    "EquipSSCfgRow": {
+      "id": 350116,
+      "Forge": [
+        [
+          611,
+          50
+        ],
+        [
+          612,
+          50
+        ]
+      ],
+      "ForgeCost": [
+        [
+          610,
+          2000
+        ]
+      ],
+      "ForgeIcon": [
+        "Equip_Gloves_6_Icon_Elite",
+        "Equip_Gloves_7_Icon_Elite"
+      ],
+      "GodForgeA": [
+        1041,
+        1042,
+        1043,
+        1044,
+        1045
+      ],
+      "GodForgeB": [
+        2041,
+        2042,
+        2043,
+        2044,
+        2045
+      ],
+      "GodForgeC": [],
+      "GodForgeLevel": 5,
+      "GodForgeLevelLock": 3,
+      "UnlockTime": 1728230400
+    }
+  },
+  {
+    "EquipSSCfgRow": {
+      "id": 360116,
+      "Forge": [
+        [
+          611,
+          50
+        ],
+        [
+          612,
+          50
+        ]
+      ],
+      "ForgeCost": [
+        [
+          610,
+          2000
+        ]
+      ],
+      "ForgeIcon": [
+        "Equip_Shoe_6_Icon_Elite",
+        "Equip_Shoe_7_Icon_Elite"
+      ],
+      "GodForgeA": [
+        1051,
+        1052,
+        1053,
+        1054,
+        1055
+      ],
+      "GodForgeB": [
+        2051,
+        2052,
+        2053,
+        2054,
+        2055
+      ],
+      "GodForgeC": [],
+      "GodForgeLevel": 5,
+      "GodForgeLevelLock": 3,
+      "UnlockTime": 1732896000
+    }
+  }
+]

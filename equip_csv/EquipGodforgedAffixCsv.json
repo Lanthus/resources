@@ -1,0 +1,4600 @@
+[
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 10001,
+      "descId": 4010001,
+      "affixParams": [
+        {
+          "type": 5,
+          "ApRateBase": 1047062682
+        }
+      ],
+      "groupPriority": 0,
+      "supportEquipFeature": 0,
+      "supportEquipLanguage": 0,
+      "equipLanguageId": 0,
+      "equipFeature": [],
+      "equipFeatureMod": [],
+      "BaseRate": 1000,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 10002,
+      "descId": 4010002,
+      "affixParams": [
+        {
+          "type": 5,
+          "ApRateBase": 1043378381
+        }
+      ],
+      "groupPriority": 0,
+      "supportEquipFeature": 0,
+      "supportEquipLanguage": 0,
+      "equipLanguageId": 0,
+      "equipFeature": [],
+      "equipFeatureMod": [],
+      "BaseRate": 1000,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 10004,
+      "descId": 4010004,
+      "affixParams": [
+        {
+          "type": 5,
+          "ApRateBase": 1046799360
+        }
+      ],
+      "groupPriority": 0,
+      "supportEquipFeature": 0,
+      "supportEquipLanguage": 0,
+      "equipLanguageId": 0,
+      "equipFeature": [],
+      "equipFeatureMod": [],
+      "BaseRate": 1000,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 10011,
+      "descId": 4010011,
+      "affixParams": [
+        {
+          "type": 5,
+          "MaxHpRateBase": 1045220506
+        }
+      ],
+      "groupPriority": 0,
+      "supportEquipFeature": 0,
+      "supportEquipLanguage": 0,
+      "equipLanguageId": 0,
+      "equipFeature": [],
+      "equipFeatureMod": [],
+      "BaseRate": 1000,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 10012,
+      "descId": 4010012,
+      "affixParams": [
+        {
+          "type": 5,
+          "MaxHpRateBase": 1046996941
+        }
+      ],
+      "groupPriority": 0,
+      "supportEquipFeature": 0,
+      "supportEquipLanguage": 0,
+      "equipLanguageId": 0,
+      "equipFeature": [],
+      "equipFeatureMod": [],
+      "BaseRate": 1000,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 10014,
+      "descId": 4010014,
+      "affixParams": [
+        {
+          "type": 5,
+          "MaxHpRateBase": 1041996544
+        }
+      ],
+      "groupPriority": 0,
+      "supportEquipFeature": 0,
+      "supportEquipLanguage": 0,
+      "equipLanguageId": 0,
+      "equipFeature": [],
+      "equipFeatureMod": [],
+      "BaseRate": 1000,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 10103,
+      "descId": 4010103,
+      "affixParams": [
+        {
+          "type": 6
+        }
+      ],
+      "groupPriority": 0,
+      "supportEquipFeature": 0,
+      "supportEquipLanguage": 0,
+      "equipLanguageId": 0,
+      "equipFeature": [],
+      "equipFeatureMod": [],
+      "BaseRate": 1000,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 10203,
+      "descId": 4010203,
+      "affixParams": [
+        {
+          "type": 3,
+          "sid": 10002,
+          "wids": 10231,
+          "widt": 10491
+        },
+        {
+          "type": 3,
+          "sid": 10002,
+          "wids": 10232,
+          "widt": 10492
+        },
+        {
+          "type": 3,
+          "sid": 10002,
+          "wids": 10233,
+          "widt": 10493
+        },
+        {
+          "type": 3,
+          "sid": 10002,
+          "wids": 10234,
+          "widt": 10494
+        },
+        {
+          "type": 3,
+          "sid": 10002,
+          "wids": 10235,
+          "widt": 10495
+        },
+        {
+          "type": 3,
+          "sid": 10002,
+          "wids": 12231,
+          "widt": 14002
+        }
+      ],
+      "groupPriority": 0,
+      "supportEquipFeature": 0,
+      "supportEquipLanguage": 0,
+      "equipLanguageId": 0,
+      "equipFeature": [],
+      "equipFeatureMod": [],
+      "BaseRate": 1000,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 8524
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 10303,
+      "descId": 4010303,
+      "affixParams": [
+        {
+          "type": 3,
+          "sid": 10004,
+          "wids": 10171,
+          "widt": 10501
+        },
+        {
+          "type": 3,
+          "sid": 10004,
+          "wids": 10172,
+          "widt": 10502
+        },
+        {
+          "type": 3,
+          "sid": 10004,
+          "wids": 10173,
+          "widt": 10503
+        },
+        {
+          "type": 3,
+          "sid": 10004,
+          "wids": 10174,
+          "widt": 10504
+        },
+        {
+          "type": 3,
+          "sid": 10004,
+          "wids": 10175,
+          "widt": 10505
+        },
+        {
+          "type": 3,
+          "sid": 10004,
+          "wids": 12171,
+          "widt": 14003
+        }
+      ],
+      "groupPriority": 0,
+      "supportEquipFeature": 0,
+      "supportEquipLanguage": 0,
+      "equipLanguageId": 0,
+      "equipFeature": [],
+      "equipFeatureMod": [],
+      "BaseRate": 1000,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 10403,
+      "descId": 4010403,
+      "affixParams": [
+        {
+          "type": 3,
+          "sid": 10003,
+          "wids": 10291,
+          "widt": 10511
+        },
+        {
+          "type": 3,
+          "sid": 10003,
+          "wids": 10292,
+          "widt": 10512
+        },
+        {
+          "type": 3,
+          "sid": 10003,
+          "wids": 10293,
+          "widt": 10513
+        },
+        {
+          "type": 3,
+          "sid": 10003,
+          "wids": 10294,
+          "widt": 10514
+        },
+        {
+          "type": 3,
+          "sid": 10003,
+          "wids": 10295,
+          "widt": 10515
+        },
+        {
+          "type": 3,
+          "sid": 10003,
+          "wids": 12301,
+          "widt": 14004
+        }
+      ],
+      "groupPriority": 0,
+      "supportEquipFeature": 0,
+      "supportEquipLanguage": 0,
+      "equipLanguageId": 0,
+      "equipFeature": [],
+      "equipFeatureMod": [],
+      "BaseRate": 1000,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 2893
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 10503,
+      "descId": 4010503,
+      "affixParams": [
+        {
+          "type": 3,
+          "sid": 10005,
+          "wids": 10241,
+          "widt": 10531
+        },
+        {
+          "type": 3,
+          "sid": 10005,
+          "wids": 10242,
+          "widt": 10532
+        },
+        {
+          "type": 3,
+          "sid": 10005,
+          "wids": 10243,
+          "widt": 10533
+        },
+        {
+          "type": 3,
+          "sid": 10005,
+          "wids": 10244,
+          "widt": 10534
+        },
+        {
+          "type": 3,
+          "sid": 10005,
+          "wids": 10245,
+          "widt": 10535
+        },
+        {
+          "type": 3,
+          "sid": 10005,
+          "wids": 12241,
+          "widt": 14006
+        }
+      ],
+      "groupPriority": 0,
+      "supportEquipFeature": 0,
+      "supportEquipLanguage": 0,
+      "equipLanguageId": 0,
+      "equipFeature": [],
+      "equipFeatureMod": [],
+      "BaseRate": 1000,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 1118
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 11101,
+      "descId": 4011101,
+      "affixParams": [
+        {
+          "type": 3,
+          "sid": 10006,
+          "wids": 10331,
+          "widt": 10551
+        },
+        {
+          "type": 3,
+          "sid": 10006,
+          "wids": 10332,
+          "widt": 10552
+        },
+        {
+          "type": 3,
+          "sid": 10006,
+          "wids": 10333,
+          "widt": 10553
+        },
+        {
+          "type": 3,
+          "sid": 10006,
+          "wids": 10334,
+          "widt": 10554
+        },
+        {
+          "type": 3,
+          "sid": 10006,
+          "wids": 10335,
+          "widt": 10555
+        },
+        {
+          "type": 3,
+          "sid": 10006,
+          "wids": 12331,
+          "widt": 14008
+        }
+      ],
+      "groupPriority": 0,
+      "supportEquipFeature": 0,
+      "supportEquipLanguage": 0,
+      "equipLanguageId": 0,
+      "equipFeature": [],
+      "equipFeatureMod": [],
+      "BaseRate": 1000,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 5309
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 11102,
+      "descId": 4010002,
+      "affixParams": [],
+      "groupPriority": 0,
+      "supportEquipFeature": 1,
+      "supportEquipLanguage": 0,
+      "equipLanguageId": 0,
+      "equipFeature": [
+        [
+          11111021
+        ]
+      ],
+      "equipFeatureMod": [],
+      "BaseRate": 1000,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 11103,
+      "descId": 4011103,
+      "affixParams": [
+        {
+          "type": 3,
+          "sid": 10006,
+          "wids": 10331,
+          "widt": 10561
+        },
+        {
+          "type": 3,
+          "sid": 10006,
+          "wids": 10332,
+          "widt": 10562
+        },
+        {
+          "type": 3,
+          "sid": 10006,
+          "wids": 10333,
+          "widt": 10563
+        },
+        {
+          "type": 3,
+          "sid": 10006,
+          "wids": 10334,
+          "widt": 10564
+        },
+        {
+          "type": 3,
+          "sid": 10006,
+          "wids": 10335,
+          "widt": 10565
+        },
+        {
+          "type": 3,
+          "sid": 10006,
+          "wids": 12331,
+          "widt": 14009
+        }
+      ],
+      "groupPriority": 1,
+      "supportEquipFeature": 0,
+      "supportEquipLanguage": 0,
+      "equipLanguageId": 0,
+      "equipFeature": [],
+      "equipFeatureMod": [],
+      "BaseRate": 1000,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 11201,
+      "descId": 4011201,
+      "affixParams": [
+        {
+          "type": 3,
+          "sid": 10007,
+          "wids": 10381,
+          "widt": 10571
+        },
+        {
+          "type": 3,
+          "sid": 10007,
+          "wids": 10382,
+          "widt": 10572
+        },
+        {
+          "type": 3,
+          "sid": 10007,
+          "wids": 10383,
+          "widt": 10573
+        },
+        {
+          "type": 3,
+          "sid": 10007,
+          "wids": 10384,
+          "widt": 10574
+        },
+        {
+          "type": 3,
+          "sid": 10007,
+          "wids": 10385,
+          "widt": 10575
+        },
+        {
+          "type": 3,
+          "sid": 10007,
+          "wids": 12381,
+          "widt": 14010
+        }
+      ],
+      "groupPriority": 0,
+      "supportEquipFeature": 0,
+      "supportEquipLanguage": 0,
+      "equipLanguageId": 0,
+      "equipFeature": [],
+      "equipFeatureMod": [],
+      "BaseRate": 1000,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 11202,
+      "descId": 4010002,
+      "affixParams": [
+        {
+          "type": 5,
+          "ApRateBase": 1042128333
+        }
+      ],
+      "groupPriority": 0,
+      "supportEquipFeature": 1,
+      "supportEquipLanguage": 0,
+      "equipLanguageId": 0,
+      "equipFeature": [
+        [
+          12111021
+        ]
+      ],
+      "equipFeatureMod": [],
+      "BaseRate": 1000,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 11203,
+      "descId": 4011203,
+      "affixParams": [
+        {
+          "type": 3,
+          "sid": 10007,
+          "wids": 10381,
+          "widt": 10581
+        },
+        {
+          "type": 3,
+          "sid": 10007,
+          "wids": 10382,
+          "widt": 10582
+        },
+        {
+          "type": 3,
+          "sid": 10007,
+          "wids": 10383,
+          "widt": 10583
+        },
+        {
+          "type": 3,
+          "sid": 10007,
+          "wids": 10384,
+          "widt": 10584
+        },
+        {
+          "type": 3,
+          "sid": 10007,
+          "wids": 10385,
+          "widt": 10585
+        },
+        {
+          "type": 3,
+          "sid": 10007,
+          "wids": 12381,
+          "widt": 14011
+        }
+      ],
+      "groupPriority": 1,
+      "supportEquipFeature": 0,
+      "supportEquipLanguage": 0,
+      "equipLanguageId": 0,
+      "equipFeature": [],
+      "equipFeatureMod": [],
+      "BaseRate": 1000,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 11301,
+      "descId": 4011301,
+      "affixParams": [
+        {
+          "type": 3,
+          "sid": 10010,
+          "wids": 10471,
+          "widt": 10591
+        },
+        {
+          "type": 3,
+          "sid": 10010,
+          "wids": 10472,
+          "widt": 10592
+        },
+        {
+          "type": 3,
+          "sid": 10010,
+          "wids": 10473,
+          "widt": 10593
+        },
+        {
+          "type": 3,
+          "sid": 10010,
+          "wids": 10474,
+          "widt": 10594
+        },
+        {
+          "type": 3,
+          "sid": 10010,
+          "wids": 10475,
+          "widt": 10595
+        },
+        {
+          "type": 3,
+          "sid": 10010,
+          "wids": 12521,
+          "widt": 12531
+        }
+      ],
+      "groupPriority": 0,
+      "supportEquipFeature": 0,
+      "supportEquipLanguage": 0,
+      "equipLanguageId": 0,
+      "equipFeature": [],
+      "equipFeatureMod": [],
+      "BaseRate": 1000,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 11302,
+      "descId": 4010002,
+      "affixParams": [
+        {
+          "type": 5,
+          "ApRateBase": 1050484173
+        }
+      ],
+      "groupPriority": 0,
+      "supportEquipFeature": 1,
+      "supportEquipLanguage": 0,
+      "equipLanguageId": 0,
+      "equipFeature": [
+        [
+          13111021
+        ]
+      ],
+      "equipFeatureMod": [],
+      "BaseRate": 1000,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 11303,
+      "descId": 4011303,
+      "affixParams": [
+        {
+          "type": 3,
+          "sid": 10010,
+          "wids": 10471,
+          "widt": 10601
+        },
+        {
+          "type": 3,
+          "sid": 10010,
+          "wids": 10472,
+          "widt": 10602
+        },
+        {
+          "type": 3,
+          "sid": 10010,
+          "wids": 10473,
+          "widt": 10603
+        },
+        {
+          "type": 3,
+          "sid": 10010,
+          "wids": 10474,
+          "widt": 10604
+        },
+        {
+          "type": 3,
+          "sid": 10010,
+          "wids": 10475,
+          "widt": 10605
+        },
+        {
+          "type": 3,
+          "sid": 10010,
+          "wids": 12521,
+          "widt": 12541
+        }
+      ],
+      "groupPriority": 1,
+      "supportEquipFeature": 0,
+      "supportEquipLanguage": 0,
+      "equipLanguageId": 0,
+      "equipFeature": [],
+      "equipFeatureMod": [],
+      "BaseRate": 1000,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 20,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 11401,
+      "descId": 4011001,
+      "affixParams": [],
+      "groupPriority": 0,
+      "supportEquipFeature": 1,
+      "supportEquipLanguage": 0,
+      "equipLanguageId": 101407,
+      "equipFeature": [
+        [
+          110116011
+        ],
+        [
+          110116002
+        ]
+      ],
+      "equipFeatureMod": [],
+      "BaseRate": 1000,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 5000
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 11402,
+      "descId": 4011002,
+      "affixParams": [
+        {
+          "type": 5,
+          "ApRateBase": 1024265677
+        }
+      ],
+      "groupPriority": 0,
+      "supportEquipFeature": 1,
+      "supportEquipLanguage": 0,
+      "equipLanguageId": 101408,
+      "equipFeature": [
+        [
+          110116012
+        ]
+      ],
+      "equipFeatureMod": [],
+      "BaseRate": 1000,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 11403,
+      "descId": 4011003,
+      "affixParams": [],
+      "groupPriority": 0,
+      "supportEquipFeature": 1,
+      "supportEquipLanguage": 1,
+      "equipLanguageId": 101409,
+      "equipFeature": [
+        [
+          110116013
+        ]
+      ],
+      "equipFeatureMod": [],
+      "BaseRate": 1000,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 10,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 11404,
+      "descId": 4011004,
+      "affixParams": [
+        {
+          "type": 5,
+          "FinalAp": 4000
+        }
+      ],
+      "groupPriority": 0,
+      "supportEquipFeature": 1,
+      "supportEquipLanguage": 0,
+      "equipLanguageId": 101410,
+      "equipFeature": [
+        [
+          110116014
+        ]
+      ],
+      "equipFeatureMod": [],
+      "BaseRate": 1000,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 11405,
+      "descId": 4011005,
+      "affixParams": [],
+      "groupPriority": 0,
+      "supportEquipFeature": 1,
+      "supportEquipLanguage": 0,
+      "equipLanguageId": 101411,
+      "equipFeature": [
+        [
+          110116015
+        ]
+      ],
+      "equipFeatureMod": [],
+      "BaseRate": 1000,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 35,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 11406,
+      "descId": 4011021,
+      "affixParams": [
+        {
+          "type": 5,
+          "ApRateBase": 1037029325
+        }
+      ],
+      "groupPriority": 0,
+      "supportEquipFeature": 1,
+      "supportEquipLanguage": 0,
+      "equipLanguageId": 101412,
+      "equipFeature": [
+        [
+          110116021
+        ]
+      ],
+      "equipFeatureMod": [],
+      "BaseRate": 1000,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 11407,
+      "descId": 4011022,
+      "affixParams": [],
+      "groupPriority": 0,
+      "supportEquipFeature": 1,
+      "supportEquipLanguage": 1,
+      "equipLanguageId": 101413,
+      "equipFeature": [
+        [
+          110116022
+        ]
+      ],
+      "equipFeatureMod": [],
+      "BaseRate": 1000,
+      "VulnerableDmage": 10,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 5000
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 11408,
+      "descId": 4011023,
+      "affixParams": [
+        {
+          "type": 5,
+          "FinalAp": 4000
+        }
+      ],
+      "groupPriority": 0,
+      "supportEquipFeature": 1,
+      "supportEquipLanguage": 0,
+      "equipLanguageId": 101414,
+      "equipFeature": [
+        [
+          110116023
+        ]
+      ],
+      "equipFeatureMod": [],
+      "BaseRate": 1000,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 11409,
+      "descId": 4011024,
+      "affixParams": [],
+      "groupPriority": 0,
+      "supportEquipFeature": 1,
+      "supportEquipLanguage": 0,
+      "equipLanguageId": 101415,
+      "equipFeature": [
+        [
+          110116024
+        ]
+      ],
+      "equipFeatureMod": [],
+      "BaseRate": 1000,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 10000
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 11410,
+      "descId": 4011025,
+      "affixParams": [
+        {
+          "type": 5,
+          "FinalAp": 8000
+        }
+      ],
+      "groupPriority": 0,
+      "supportEquipFeature": 1,
+      "supportEquipLanguage": 0,
+      "equipLanguageId": 101416,
+      "equipFeature": [
+        [
+          110116025
+        ]
+      ],
+      "equipFeatureMod": [],
+      "BaseRate": 1000,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 20103,
+      "descId": 4020103,
+      "affixParams": [
+        {
+          "type": 2,
+          "wids": 100022,
+          "widt": 140002
+        }
+      ],
+      "groupPriority": 0,
+      "supportEquipFeature": 0,
+      "supportEquipLanguage": 0,
+      "equipLanguageId": 0,
+      "equipFeature": [],
+      "equipFeatureMod": [],
+      "BaseRate": 1027,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 20203,
+      "descId": 4020203,
+      "affixParams": [
+        {
+          "type": 2,
+          "wids": 100005,
+          "widt": 140003
+        }
+      ],
+      "groupPriority": 0,
+      "supportEquipFeature": 0,
+      "supportEquipLanguage": 0,
+      "equipLanguageId": 0,
+      "equipFeature": [],
+      "equipFeatureMod": [],
+      "BaseRate": 1000,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 20303,
+      "descId": 4020303,
+      "affixParams": [
+        {
+          "type": 2,
+          "wids": 100036,
+          "widt": 140031
+        }
+      ],
+      "groupPriority": 0,
+      "supportEquipFeature": 0,
+      "supportEquipLanguage": 0,
+      "equipLanguageId": 0,
+      "equipFeature": [],
+      "equipFeatureMod": [],
+      "BaseRate": 1003,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 20403,
+      "descId": 4020403,
+      "affixParams": [
+        {
+          "type": 2,
+          "wids": 100044,
+          "widt": 140004
+        }
+      ],
+      "groupPriority": 0,
+      "supportEquipFeature": 0,
+      "supportEquipLanguage": 0,
+      "equipLanguageId": 0,
+      "equipFeature": [],
+      "equipFeatureMod": [],
+      "BaseRate": 1000,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 20503,
+      "descId": 4020503,
+      "affixParams": [
+        {
+          "type": 2,
+          "wids": 100015,
+          "widt": 140005
+        }
+      ],
+      "groupPriority": 0,
+      "supportEquipFeature": 0,
+      "supportEquipLanguage": 0,
+      "equipLanguageId": 0,
+      "equipFeature": [],
+      "equipFeatureMod": [],
+      "BaseRate": 1000,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 21101,
+      "descId": 4021101,
+      "affixParams": [
+        {
+          "type": 2,
+          "wids": 110023,
+          "widt": 110024
+        }
+      ],
+      "groupPriority": 0,
+      "supportEquipFeature": 1,
+      "supportEquipLanguage": 1,
+      "equipLanguageId": 101606,
+      "equipFeature": [],
+      "equipFeatureMod": [
+        [
+          14711011
+        ]
+      ],
+      "BaseRate": 952,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 21102,
+      "descId": 4010012,
+      "affixParams": [
+        {
+          "type": 5,
+          "MaxHpRateBase": 1044694221
+        }
+      ],
+      "groupPriority": 0,
+      "supportEquipFeature": 1,
+      "supportEquipLanguage": 1,
+      "equipLanguageId": 101607,
+      "equipFeature": [
+        [
+          14711021
+        ]
+      ],
+      "equipFeatureMod": [],
+      "BaseRate": 1000,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 21103,
+      "descId": 4021103,
+      "affixParams": [
+        {
+          "type": 2,
+          "wids": 110023,
+          "widt": 110025
+        }
+      ],
+      "groupPriority": 1,
+      "supportEquipFeature": 1,
+      "supportEquipLanguage": 1,
+      "equipLanguageId": 101608,
+      "equipFeature": [],
+      "equipFeatureMod": [
+        [
+          14711031
+        ]
+      ],
+      "BaseRate": 1088,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 21201,
+      "descId": 4021201,
+      "affixParams": [
+        {
+          "type": 2,
+          "wids": 120023,
+          "widt": 120024
+        }
+      ],
+      "groupPriority": 0,
+      "supportEquipFeature": 1,
+      "supportEquipLanguage": 0,
+      "equipLanguageId": 0,
+      "equipFeature": [],
+      "equipFeatureMod": [
+        [
+          12211011
+        ]
+      ],
+      "BaseRate": 1000,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 21202,
+      "descId": 4010012,
+      "affixParams": [
+        {
+          "type": 5,
+          "MaxHpRateBase": 1045417933
+        }
+      ],
+      "groupPriority": 0,
+      "supportEquipFeature": 1,
+      "supportEquipLanguage": 0,
+      "equipLanguageId": 0,
+      "equipFeature": [
+        [
+          12211021
+        ]
+      ],
+      "equipFeatureMod": [],
+      "BaseRate": 1000,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 21203,
+      "descId": 4021203,
+      "affixParams": [
+        {
+          "type": 2,
+          "wids": 120023,
+          "widt": 120025
+        }
+      ],
+      "groupPriority": 1,
+      "supportEquipFeature": 1,
+      "supportEquipLanguage": 0,
+      "equipLanguageId": 0,
+      "equipFeature": [],
+      "equipFeatureMod": [
+        [
+          12211031
+        ]
+      ],
+      "BaseRate": 1000,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 21301,
+      "descId": 4021301,
+      "affixParams": [
+        {
+          "type": 2,
+          "wids": 120323,
+          "widt": 120324
+        }
+      ],
+      "groupPriority": 0,
+      "supportEquipFeature": 1,
+      "supportEquipLanguage": 0,
+      "equipLanguageId": 101306,
+      "equipFeature": [],
+      "equipFeatureMod": [
+        [
+          13211011
+        ]
+      ],
+      "BaseRate": 1154,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 21302,
+      "descId": 4010002,
+      "affixParams": [
+        {
+          "type": 5,
+          "ApRateBase": 1049497293
+        }
+      ],
+      "groupPriority": 0,
+      "supportEquipFeature": 1,
+      "supportEquipLanguage": 0,
+      "equipLanguageId": 101307,
+      "equipFeature": [
+        [
+          13211021
+        ]
+      ],
+      "equipFeatureMod": [],
+      "BaseRate": 1000,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 21303,
+      "descId": 4021303,
+      "affixParams": [
+        {
+          "type": 2,
+          "wids": 120323,
+          "widt": 120325
+        }
+      ],
+      "groupPriority": 1,
+      "supportEquipFeature": 1,
+      "supportEquipLanguage": 0,
+      "equipLanguageId": 101308,
+      "equipFeature": [],
+      "equipFeatureMod": [
+        [
+          13211031
+        ]
+      ],
+      "BaseRate": 1000,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 21401,
+      "descId": 4021401,
+      "affixParams": [],
+      "groupPriority": 0,
+      "supportEquipFeature": 1,
+      "supportEquipLanguage": 1,
+      "equipLanguageId": 101507,
+      "equipFeature": [
+        [
+          110216011
+        ],
+        [
+          110216012
+        ]
+      ],
+      "equipFeatureMod": [],
+      "BaseRate": 1000,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 10,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 21402,
+      "descId": 4021402,
+      "affixParams": [],
+      "groupPriority": 0,
+      "supportEquipFeature": 1,
+      "supportEquipLanguage": 1,
+      "equipLanguageId": 101508,
+      "equipFeature": [
+        [
+          110216013
+        ]
+      ],
+      "equipFeatureMod": [],
+      "BaseRate": 1000,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 21403,
+      "descId": 4021403,
+      "affixParams": [],
+      "groupPriority": 0,
+      "supportEquipFeature": 1,
+      "supportEquipLanguage": 1,
+      "equipLanguageId": 101509,
+      "equipFeature": [
+        [
+          110216014
+        ],
+        [
+          110216015
+        ]
+      ],
+      "equipFeatureMod": [],
+      "BaseRate": 1000,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 10,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 21404,
+      "descId": 4021404,
+      "affixParams": [],
+      "groupPriority": 0,
+      "supportEquipFeature": 1,
+      "supportEquipLanguage": 1,
+      "equipLanguageId": 101510,
+      "equipFeature": [
+        [
+          110216016
+        ]
+      ],
+      "equipFeatureMod": [],
+      "BaseRate": 1000,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 21405,
+      "descId": 4021405,
+      "affixParams": [],
+      "groupPriority": 0,
+      "supportEquipFeature": 1,
+      "supportEquipLanguage": 1,
+      "equipLanguageId": 101511,
+      "equipFeature": [
+        [
+          110216017
+        ]
+      ],
+      "equipFeatureMod": [],
+      "BaseRate": 1000,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 20,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 21406,
+      "descId": 4021406,
+      "affixParams": [],
+      "groupPriority": 0,
+      "supportEquipFeature": 1,
+      "supportEquipLanguage": 1,
+      "equipLanguageId": 101512,
+      "equipFeature": [
+        [
+          110216021
+        ]
+      ],
+      "equipFeatureMod": [],
+      "BaseRate": 1000,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 21407,
+      "descId": 4021407,
+      "affixParams": [],
+      "groupPriority": 0,
+      "supportEquipFeature": 1,
+      "supportEquipLanguage": 1,
+      "equipLanguageId": 101513,
+      "equipFeature": [
+        [
+          110216022
+        ]
+      ],
+      "equipFeatureMod": [],
+      "BaseRate": 1000,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 10,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 21408,
+      "descId": 4021408,
+      "affixParams": [],
+      "groupPriority": 0,
+      "supportEquipFeature": 1,
+      "supportEquipLanguage": 1,
+      "equipLanguageId": 101514,
+      "equipFeature": [
+        [
+          110216023
+        ]
+      ],
+      "equipFeatureMod": [],
+      "BaseRate": 1000,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 21409,
+      "descId": 4021409,
+      "affixParams": [],
+      "groupPriority": 0,
+      "supportEquipFeature": 1,
+      "supportEquipLanguage": 1,
+      "equipLanguageId": 101515,
+      "equipFeature": [
+        [
+          110216024
+        ]
+      ],
+      "equipFeatureMod": [],
+      "BaseRate": 1125,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 21410,
+      "descId": 4021410,
+      "affixParams": [],
+      "groupPriority": 0,
+      "supportEquipFeature": 1,
+      "supportEquipLanguage": 1,
+      "equipLanguageId": 101516,
+      "equipFeature": [
+        [
+          110216025
+        ]
+      ],
+      "equipFeatureMod": [],
+      "BaseRate": 1000,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 30103,
+      "descId": 4030103,
+      "affixParams": [
+        {
+          "type": 2,
+          "wids": 100011,
+          "widt": 140016
+        }
+      ],
+      "groupPriority": 0,
+      "supportEquipFeature": 0,
+      "supportEquipLanguage": 0,
+      "equipLanguageId": 0,
+      "equipFeature": [],
+      "equipFeatureMod": [],
+      "BaseRate": 1000,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 30203,
+      "descId": 4030203,
+      "affixParams": [
+        {
+          "type": 2,
+          "wids": 100004,
+          "widt": 140017
+        }
+      ],
+      "groupPriority": 0,
+      "supportEquipFeature": 0,
+      "supportEquipLanguage": 0,
+      "equipLanguageId": 0,
+      "equipFeature": [],
+      "equipFeatureMod": [],
+      "BaseRate": 1000,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 30301,
+      "descId": 4010001,
+      "affixParams": [
+        {
+          "type": 5,
+          "ApRateBase": 1055418522
+        }
+      ],
+      "groupPriority": 0,
+      "supportEquipFeature": 1,
+      "supportEquipLanguage": 0,
+      "equipLanguageId": 0,
+      "equipFeature": [
+        [
+          14311011
+        ]
+      ],
+      "equipFeatureMod": [],
+      "BaseRate": 1000,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 30302,
+      "descId": 4010002,
+      "affixParams": [
+        {
+          "type": 5,
+          "ApRateBase": 1044825805
+        }
+      ],
+      "groupPriority": 0,
+      "supportEquipFeature": 1,
+      "supportEquipLanguage": 0,
+      "equipLanguageId": 0,
+      "equipFeature": [
+        [
+          14311021
+        ]
+      ],
+      "equipFeatureMod": [],
+      "BaseRate": 1000,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 30303,
+      "descId": 4030303,
+      "affixParams": [],
+      "groupPriority": 0,
+      "supportEquipFeature": 1,
+      "supportEquipLanguage": 0,
+      "equipLanguageId": 0,
+      "equipFeature": [
+        [
+          14311031
+        ]
+      ],
+      "equipFeatureMod": [],
+      "BaseRate": 1037,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 30403,
+      "descId": 4030403,
+      "affixParams": [
+        {
+          "type": 2,
+          "wids": 100028,
+          "widt": 140021
+        }
+      ],
+      "groupPriority": 0,
+      "supportEquipFeature": 0,
+      "supportEquipLanguage": 0,
+      "equipLanguageId": 0,
+      "equipFeature": [],
+      "equipFeatureMod": [],
+      "BaseRate": 1111,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 30503,
+      "descId": 4030503,
+      "affixParams": [
+        {
+          "type": 2,
+          "wids": 100017,
+          "widt": 140022
+        }
+      ],
+      "groupPriority": 0,
+      "supportEquipFeature": 0,
+      "supportEquipLanguage": 0,
+      "equipLanguageId": 0,
+      "equipFeature": [],
+      "equipFeatureMod": [],
+      "BaseRate": 1000,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 31101,
+      "descId": 4031101,
+      "affixParams": [
+        {
+          "type": 1002,
+          "Count": 1
+        }
+      ],
+      "groupPriority": 0,
+      "supportEquipFeature": 1,
+      "supportEquipLanguage": 0,
+      "equipLanguageId": 0,
+      "equipFeature": [
+        [
+          11311011
+        ]
+      ],
+      "equipFeatureMod": [],
+      "BaseRate": 1041,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 31102,
+      "descId": 4010002,
+      "affixParams": [
+        {
+          "type": 5,
+          "ApRateBase": 1056010701
+        }
+      ],
+      "groupPriority": 0,
+      "supportEquipFeature": 1,
+      "supportEquipLanguage": 0,
+      "equipLanguageId": 0,
+      "equipFeature": [
+        [
+          11311021
+        ]
+      ],
+      "equipFeatureMod": [],
+      "BaseRate": 1000,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 31103,
+      "descId": 4031103,
+      "affixParams": [
+        {
+          "type": 1002,
+          "Count": 1
+        },
+        {
+          "type": 2,
+          "wids": 110031,
+          "widt": 110032
+        }
+      ],
+      "groupPriority": 1,
+      "supportEquipFeature": 1,
+      "supportEquipLanguage": 0,
+      "equipLanguageId": 0,
+      "equipFeature": [
+        [
+          11311031
+        ]
+      ],
+      "equipFeatureMod": [],
+      "BaseRate": 1032,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 31201,
+      "descId": 4031201,
+      "affixParams": [
+        {
+          "type": 2,
+          "wids": 120033,
+          "widt": 120034
+        }
+      ],
+      "groupPriority": 0,
+      "supportEquipFeature": 1,
+      "supportEquipLanguage": 0,
+      "equipLanguageId": 100806,
+      "equipFeature": [],
+      "equipFeatureMod": [
+        [
+          12311011
+        ]
+      ],
+      "BaseRate": 1000,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 31202,
+      "descId": 4010002,
+      "affixParams": [],
+      "groupPriority": 0,
+      "supportEquipFeature": 1,
+      "supportEquipLanguage": 0,
+      "equipLanguageId": 0,
+      "equipFeature": [
+        [
+          12311021
+        ]
+      ],
+      "equipFeatureMod": [],
+      "BaseRate": 1000,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 31203,
+      "descId": 4031203,
+      "affixParams": [
+        {
+          "type": 2,
+          "wids": 120033,
+          "widt": 120035
+        }
+      ],
+      "groupPriority": 0,
+      "supportEquipFeature": 1,
+      "supportEquipLanguage": 0,
+      "equipLanguageId": 0,
+      "equipFeature": [],
+      "equipFeatureMod": [
+        [
+          12311031
+        ]
+      ],
+      "BaseRate": 1000,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 31301,
+      "descId": 4031301,
+      "affixParams": [
+        {
+          "type": 2,
+          "wids": 120333,
+          "widt": 120334
+        }
+      ],
+      "groupPriority": 0,
+      "supportEquipFeature": 1,
+      "supportEquipLanguage": 1,
+      "equipLanguageId": 101806,
+      "equipFeature": [],
+      "equipFeatureMod": [
+        [
+          14911011
+        ]
+      ],
+      "BaseRate": 1000,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 31302,
+      "descId": 4010002,
+      "affixParams": [],
+      "groupPriority": 0,
+      "supportEquipFeature": 1,
+      "supportEquipLanguage": 1,
+      "equipLanguageId": 101807,
+      "equipFeature": [
+        [
+          14911021
+        ]
+      ],
+      "equipFeatureMod": [],
+      "BaseRate": 0,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 31303,
+      "descId": 4031303,
+      "affixParams": [
+        {
+          "type": 2,
+          "wids": 120333,
+          "widt": 120335
+        }
+      ],
+      "groupPriority": 1,
+      "supportEquipFeature": 1,
+      "supportEquipLanguage": 1,
+      "equipLanguageId": 101808,
+      "equipFeature": [],
+      "equipFeatureMod": [
+        [
+          14911031
+        ]
+      ],
+      "BaseRate": 1085,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 31401,
+      "descId": 4031401,
+      "affixParams": [],
+      "groupPriority": 0,
+      "supportEquipFeature": 1,
+      "supportEquipLanguage": 1,
+      "equipLanguageId": 102007,
+      "equipFeature": [
+        [
+          110316011
+        ]
+      ],
+      "equipFeatureMod": [],
+      "BaseRate": 1000,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 50,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 31402,
+      "descId": 4031402,
+      "affixParams": [],
+      "groupPriority": 0,
+      "supportEquipFeature": 1,
+      "supportEquipLanguage": 1,
+      "equipLanguageId": 102008,
+      "equipFeature": [
+        [
+          110316012
+        ]
+      ],
+      "equipFeatureMod": [],
+      "BaseRate": 1000,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 31403,
+      "descId": 4031403,
+      "affixParams": [],
+      "groupPriority": 0,
+      "supportEquipFeature": 1,
+      "supportEquipLanguage": 1,
+      "equipLanguageId": 102009,
+      "equipFeature": [
+        [
+          110316013
+        ]
+      ],
+      "equipFeatureMod": [],
+      "BaseRate": 1000,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 10,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 31404,
+      "descId": 4031404,
+      "affixParams": [],
+      "groupPriority": 0,
+      "supportEquipFeature": 1,
+      "supportEquipLanguage": 1,
+      "equipLanguageId": 102010,
+      "equipFeature": [
+        [
+          110316014
+        ]
+      ],
+      "equipFeatureMod": [],
+      "BaseRate": 1000,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 31405,
+      "descId": 4031405,
+      "affixParams": [],
+      "groupPriority": 0,
+      "supportEquipFeature": 1,
+      "supportEquipLanguage": 1,
+      "equipLanguageId": 102011,
+      "equipFeature": [
+        [
+          110316015
+        ]
+      ],
+      "equipFeatureMod": [],
+      "BaseRate": 1000,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 4,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 31406,
+      "descId": 4031406,
+      "affixParams": [],
+      "groupPriority": 0,
+      "supportEquipFeature": 1,
+      "supportEquipLanguage": 1,
+      "equipLanguageId": 102012,
+      "equipFeature": [
+        [
+          110316021
+        ]
+      ],
+      "equipFeatureMod": [],
+      "BaseRate": 1000,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 31407,
+      "descId": 4031407,
+      "affixParams": [],
+      "groupPriority": 0,
+      "supportEquipFeature": 1,
+      "supportEquipLanguage": 1,
+      "equipLanguageId": 102013,
+      "equipFeature": [
+        [
+          110316022
+        ]
+      ],
+      "equipFeatureMod": [],
+      "BaseRate": 1000,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 36,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 31408,
+      "descId": 4031408,
+      "affixParams": [],
+      "groupPriority": 0,
+      "supportEquipFeature": 1,
+      "supportEquipLanguage": 1,
+      "equipLanguageId": 102014,
+      "equipFeature": [
+        [
+          110316023
+        ]
+      ],
+      "equipFeatureMod": [],
+      "BaseRate": 1000,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 31409,
+      "descId": 4031409,
+      "affixParams": [],
+      "groupPriority": 0,
+      "supportEquipFeature": 1,
+      "supportEquipLanguage": 1,
+      "equipLanguageId": 102015,
+      "equipFeature": [
+        [
+          110316024
+        ],
+        [
+          110316025
+        ]
+      ],
+      "equipFeatureMod": [],
+      "BaseRate": 1000,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 60,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 31410,
+      "descId": 4031410,
+      "affixParams": [],
+      "groupPriority": 0,
+      "supportEquipFeature": 1,
+      "supportEquipLanguage": 1,
+      "equipLanguageId": 102016,
+      "equipFeature": [
+        [
+          110316026
+        ]
+      ],
+      "equipFeatureMod": [],
+      "BaseRate": 1000,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 40103,
+      "descId": 4040103,
+      "affixParams": [
+        {
+          "type": 2,
+          "wids": 100024,
+          "widt": 140006
+        }
+      ],
+      "groupPriority": 0,
+      "supportEquipFeature": 0,
+      "supportEquipLanguage": 0,
+      "equipLanguageId": 0,
+      "equipFeature": [],
+      "equipFeatureMod": [],
+      "BaseRate": 1000,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 40203,
+      "descId": 4040203,
+      "affixParams": [
+        {
+          "type": 2,
+          "wids": 100040,
+          "widt": 140007
+        }
+      ],
+      "groupPriority": 0,
+      "supportEquipFeature": 0,
+      "supportEquipLanguage": 0,
+      "equipLanguageId": 0,
+      "equipFeature": [],
+      "equipFeatureMod": [],
+      "BaseRate": 1000,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 40303,
+      "descId": 4040303,
+      "affixParams": [
+        {
+          "type": 7,
+          "id": 2,
+          "RadiationValue": 1
+        }
+      ],
+      "groupPriority": 0,
+      "supportEquipFeature": 0,
+      "supportEquipLanguage": 0,
+      "equipLanguageId": 0,
+      "equipFeature": [],
+      "equipFeatureMod": [],
+      "BaseRate": 1000,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 40403,
+      "descId": 4040403,
+      "affixParams": [
+        {
+          "type": 2,
+          "wids": 100026,
+          "widt": 140008
+        }
+      ],
+      "groupPriority": 0,
+      "supportEquipFeature": 0,
+      "supportEquipLanguage": 0,
+      "equipLanguageId": 0,
+      "equipFeature": [],
+      "equipFeatureMod": [],
+      "BaseRate": 1200,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 40503,
+      "descId": 4040503,
+      "affixParams": [
+        {
+          "type": 2,
+          "wids": 100042,
+          "widt": 140009
+        }
+      ],
+      "groupPriority": 0,
+      "supportEquipFeature": 0,
+      "supportEquipLanguage": 0,
+      "equipLanguageId": 0,
+      "equipFeature": [],
+      "equipFeatureMod": [],
+      "BaseRate": 1000,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 41101,
+      "descId": 4041101,
+      "affixParams": [
+        {
+          "type": 2,
+          "wids": 110042,
+          "widt": 110043
+        }
+      ],
+      "groupPriority": 0,
+      "supportEquipFeature": 1,
+      "supportEquipLanguage": 1,
+      "equipLanguageId": 101706,
+      "equipFeature": [],
+      "equipFeatureMod": [
+        [
+          14811011
+        ]
+      ],
+      "BaseRate": 1000,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 41102,
+      "descId": 4010012,
+      "affixParams": [
+        {
+          "type": 5,
+          "MaxHpRateBase": 1053050061
+        }
+      ],
+      "groupPriority": 0,
+      "supportEquipFeature": 1,
+      "supportEquipLanguage": 1,
+      "equipLanguageId": 101707,
+      "equipFeature": [
+        [
+          14811021
+        ]
+      ],
+      "equipFeatureMod": [],
+      "BaseRate": 1000,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 41103,
+      "descId": 4041103,
+      "affixParams": [
+        {
+          "type": 2,
+          "wids": 110042,
+          "widt": 110044
+        }
+      ],
+      "groupPriority": 1,
+      "supportEquipFeature": 1,
+      "supportEquipLanguage": 1,
+      "equipLanguageId": 101708,
+      "equipFeature": [],
+      "equipFeatureMod": [
+        [
+          14811031
+        ]
+      ],
+      "BaseRate": 1000,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 41201,
+      "descId": 4041201,
+      "affixParams": [
+        {
+          "type": 2,
+          "wids": 120042,
+          "widt": 120043
+        }
+      ],
+      "groupPriority": 0,
+      "supportEquipFeature": 1,
+      "supportEquipLanguage": 0,
+      "equipLanguageId": 101106,
+      "equipFeature": [],
+      "equipFeatureMod": [
+        [
+          12411011
+        ]
+      ],
+      "BaseRate": 1000,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 41202,
+      "descId": 4010002,
+      "affixParams": [
+        {
+          "type": 5,
+          "ApRateBase": 1053313229
+        }
+      ],
+      "groupPriority": 0,
+      "supportEquipFeature": 1,
+      "supportEquipLanguage": 0,
+      "equipLanguageId": 101107,
+      "equipFeature": [
+        [
+          12411021
+        ]
+      ],
+      "equipFeatureMod": [],
+      "BaseRate": 0,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 41203,
+      "descId": 4041203,
+      "affixParams": [
+        {
+          "type": 2,
+          "wids": 120042,
+          "widt": 120044
+        }
+      ],
+      "groupPriority": 1,
+      "supportEquipFeature": 1,
+      "supportEquipLanguage": 0,
+      "equipLanguageId": 101108,
+      "equipFeature": [],
+      "equipFeatureMod": [
+        [
+          12411031
+        ]
+      ],
+      "BaseRate": 1000,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 41301,
+      "descId": 4041301,
+      "affixParams": [
+        {
+          "type": 2,
+          "wids": 120342,
+          "widt": 120343
+        }
+      ],
+      "groupPriority": 0,
+      "supportEquipFeature": 1,
+      "supportEquipLanguage": 0,
+      "equipLanguageId": 0,
+      "equipFeature": [
+        [
+          13411011
+        ]
+      ],
+      "equipFeatureMod": [],
+      "BaseRate": 1037,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 41302,
+      "descId": 4010012,
+      "affixParams": [
+        {
+          "type": 5,
+          "MaxHpRateBase": 1046536397
+        }
+      ],
+      "groupPriority": 0,
+      "supportEquipFeature": 1,
+      "supportEquipLanguage": 0,
+      "equipLanguageId": 0,
+      "equipFeature": [
+        [
+          13411021
+        ]
+      ],
+      "equipFeatureMod": [],
+      "BaseRate": 1000,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 41303,
+      "descId": 4041303,
+      "affixParams": [
+        {
+          "type": 2,
+          "wids": 120342,
+          "widt": 120344
+        }
+      ],
+      "groupPriority": 1,
+      "supportEquipFeature": 1,
+      "supportEquipLanguage": 0,
+      "equipLanguageId": 0,
+      "equipFeature": [
+        [
+          13411031
+        ]
+      ],
+      "equipFeatureMod": [],
+      "BaseRate": 1111,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 41401,
+      "descId": 4041401,
+      "affixParams": [],
+      "groupPriority": 0,
+      "supportEquipFeature": 1,
+      "supportEquipLanguage": 1,
+      "equipLanguageId": 102307,
+      "equipFeature": [
+        [
+          110416011
+        ]
+      ],
+      "equipFeatureMod": [],
+      "BaseRate": 1200,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 41402,
+      "descId": 4041402,
+      "affixParams": [],
+      "groupPriority": 0,
+      "supportEquipFeature": 1,
+      "supportEquipLanguage": 1,
+      "equipLanguageId": 102308,
+      "equipFeature": [
+        [
+          110416012
+        ]
+      ],
+      "equipFeatureMod": [],
+      "BaseRate": 1000,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 41403,
+      "descId": 4041403,
+      "affixParams": [],
+      "groupPriority": 0,
+      "supportEquipFeature": 1,
+      "supportEquipLanguage": 1,
+      "equipLanguageId": 102309,
+      "equipFeature": [
+        [
+          110416013
+        ]
+      ],
+      "equipFeatureMod": [],
+      "BaseRate": 1000,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 25,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 41404,
+      "descId": 4041404,
+      "affixParams": [],
+      "groupPriority": 0,
+      "supportEquipFeature": 1,
+      "supportEquipLanguage": 1,
+      "equipLanguageId": 102310,
+      "equipFeature": [
+        [
+          110416014
+        ]
+      ],
+      "equipFeatureMod": [],
+      "BaseRate": 1000,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 41405,
+      "descId": 4041405,
+      "affixParams": [],
+      "groupPriority": 0,
+      "supportEquipFeature": 1,
+      "supportEquipLanguage": 1,
+      "equipLanguageId": 102311,
+      "equipFeature": [
+        [
+          110416015
+        ]
+      ],
+      "equipFeatureMod": [],
+      "BaseRate": 1000,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 50,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 41406,
+      "descId": 4041406,
+      "affixParams": [],
+      "groupPriority": 0,
+      "supportEquipFeature": 1,
+      "supportEquipLanguage": 1,
+      "equipLanguageId": 102312,
+      "equipFeature": [
+        [
+          110416021
+        ]
+      ],
+      "equipFeatureMod": [],
+      "BaseRate": 1000,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 41407,
+      "descId": 4041407,
+      "affixParams": [],
+      "groupPriority": 0,
+      "supportEquipFeature": 1,
+      "supportEquipLanguage": 1,
+      "equipLanguageId": 102313,
+      "equipFeature": [
+        [
+          110416022
+        ],
+        [
+          110416023
+        ]
+      ],
+      "equipFeatureMod": [],
+      "BaseRate": 1000,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 10,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 41408,
+      "descId": 4041408,
+      "affixParams": [],
+      "groupPriority": 0,
+      "supportEquipFeature": 1,
+      "supportEquipLanguage": 1,
+      "equipLanguageId": 102314,
+      "equipFeature": [
+        [
+          110416024
+        ]
+      ],
+      "equipFeatureMod": [],
+      "BaseRate": 1000,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 41409,
+      "descId": 4041409,
+      "affixParams": [],
+      "groupPriority": 0,
+      "supportEquipFeature": 1,
+      "supportEquipLanguage": 1,
+      "equipLanguageId": 102315,
+      "equipFeature": [
+        [
+          110416025
+        ],
+        [
+          110416026
+        ]
+      ],
+      "equipFeatureMod": [],
+      "BaseRate": 1000,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 20,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 41410,
+      "descId": 4041410,
+      "affixParams": [],
+      "groupPriority": 0,
+      "supportEquipFeature": 1,
+      "supportEquipLanguage": 1,
+      "equipLanguageId": 102316,
+      "equipFeature": [
+        [
+          110416027
+        ]
+      ],
+      "equipFeatureMod": [],
+      "BaseRate": 1000,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 50103,
+      "descId": 4050103,
+      "affixParams": [
+        {
+          "type": 2,
+          "wids": 100001,
+          "widt": 140023
+        }
+      ],
+      "groupPriority": 0,
+      "supportEquipFeature": 0,
+      "supportEquipLanguage": 0,
+      "equipLanguageId": 0,
+      "equipFeature": [],
+      "equipFeatureMod": [],
+      "BaseRate": 1101,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 50203,
+      "descId": 4050203,
+      "affixParams": [
+        {
+          "type": 1,
+          "id": 140024
+        }
+      ],
+      "groupPriority": 0,
+      "supportEquipFeature": 0,
+      "supportEquipLanguage": 0,
+      "equipLanguageId": 0,
+      "equipFeature": [],
+      "equipFeatureMod": [],
+      "BaseRate": 1000,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 50301,
+      "descId": 4010001,
+      "affixParams": [],
+      "groupPriority": 0,
+      "supportEquipFeature": 1,
+      "supportEquipLanguage": 0,
+      "equipLanguageId": 0,
+      "equipFeature": [
+        [
+          14511011
+        ]
+      ],
+      "equipFeatureMod": [],
+      "BaseRate": 1000,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 50302,
+      "descId": 4010002,
+      "affixParams": [],
+      "groupPriority": 0,
+      "supportEquipFeature": 1,
+      "supportEquipLanguage": 0,
+      "equipLanguageId": 0,
+      "equipFeature": [
+        [
+          14511021
+        ]
+      ],
+      "equipFeatureMod": [],
+      "BaseRate": 1000,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 50303,
+      "descId": 4050303,
+      "affixParams": [
+        {
+          "type": 2,
+          "wids": 100007,
+          "widt": 140025
+        }
+      ],
+      "groupPriority": 0,
+      "supportEquipFeature": 1,
+      "supportEquipLanguage": 0,
+      "equipLanguageId": 0,
+      "equipFeature": [
+        [
+          14511031
+        ]
+      ],
+      "equipFeatureMod": [],
+      "BaseRate": 1000,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 50403,
+      "descId": 4050403,
+      "affixParams": [
+        {
+          "type": 2,
+          "wids": 100009,
+          "widt": 140027
+        }
+      ],
+      "groupPriority": 0,
+      "supportEquipFeature": 0,
+      "supportEquipLanguage": 0,
+      "equipLanguageId": 0,
+      "equipFeature": [],
+      "equipFeatureMod": [],
+      "BaseRate": 1000,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 50503,
+      "descId": 4050503,
+      "affixParams": [
+        {
+          "type": 1,
+          "id": 140029
+        }
+      ],
+      "groupPriority": 0,
+      "supportEquipFeature": 0,
+      "supportEquipLanguage": 0,
+      "equipLanguageId": 0,
+      "equipFeature": [],
+      "equipFeatureMod": [],
+      "BaseRate": 1000,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 51101,
+      "descId": 4051101,
+      "affixParams": [
+        {
+          "type": 1,
+          "id": 140030
+        }
+      ],
+      "groupPriority": 0,
+      "supportEquipFeature": 1,
+      "supportEquipLanguage": 0,
+      "equipLanguageId": 101006,
+      "equipFeature": [
+        [
+          11511011
+        ]
+      ],
+      "equipFeatureMod": [],
+      "BaseRate": 1000,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 51102,
+      "descId": 4010002,
+      "affixParams": [
+        {
+          "type": 5,
+          "ApRateBase": 1045154765
+        }
+      ],
+      "groupPriority": 0,
+      "supportEquipFeature": 1,
+      "supportEquipLanguage": 0,
+      "equipLanguageId": 101007,
+      "equipFeature": [
+        [
+          11511021
+        ]
+      ],
+      "equipFeatureMod": [],
+      "BaseRate": 1000,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 51103,
+      "descId": 4051103,
+      "affixParams": [
+        {
+          "type": 2,
+          "wids": 110051,
+          "widt": 110052
+        }
+      ],
+      "groupPriority": 0,
+      "supportEquipFeature": 1,
+      "supportEquipLanguage": 0,
+      "equipLanguageId": 101008,
+      "equipFeature": [],
+      "equipFeatureMod": [
+        [
+          11511031
+        ]
+      ],
+      "BaseRate": 1000,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 51201,
+      "descId": 4051201,
+      "affixParams": [
+        {
+          "type": 2,
+          "wids": 120052,
+          "widt": 120053
+        }
+      ],
+      "groupPriority": 0,
+      "supportEquipFeature": 1,
+      "supportEquipLanguage": 0,
+      "equipLanguageId": 0,
+      "equipFeature": [],
+      "equipFeatureMod": [
+        [
+          12511011
+        ]
+      ],
+      "BaseRate": 1000,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 51202,
+      "descId": 4010002,
+      "affixParams": [
+        {
+          "type": 5,
+          "ApRateBase": 1049497293
+        }
+      ],
+      "groupPriority": 0,
+      "supportEquipFeature": 1,
+      "supportEquipLanguage": 0,
+      "equipLanguageId": 0,
+      "equipFeature": [
+        [
+          12511021
+        ]
+      ],
+      "equipFeatureMod": [],
+      "BaseRate": 1000,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 51203,
+      "descId": 4051203,
+      "affixParams": [
+        {
+          "type": 2,
+          "wids": 120052,
+          "widt": 120054
+        }
+      ],
+      "groupPriority": 1,
+      "supportEquipFeature": 1,
+      "supportEquipLanguage": 0,
+      "equipLanguageId": 0,
+      "equipFeature": [
+        [
+          12511031
+        ]
+      ],
+      "equipFeatureMod": [
+        [
+          12511032
+        ]
+      ],
+      "BaseRate": 1100,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 51301,
+      "descId": 4051301,
+      "affixParams": [
+        {
+          "type": 2,
+          "wids": 120353,
+          "widt": 120354
+        }
+      ],
+      "groupPriority": 0,
+      "supportEquipFeature": 1,
+      "supportEquipLanguage": 1,
+      "equipLanguageId": 101906,
+      "equipFeature": [],
+      "equipFeatureMod": [
+        [
+          15011011
+        ]
+      ],
+      "BaseRate": 1000,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 51302,
+      "descId": 4010002,
+      "affixParams": [],
+      "groupPriority": 0,
+      "supportEquipFeature": 1,
+      "supportEquipLanguage": 1,
+      "equipLanguageId": 101907,
+      "equipFeature": [
+        [
+          15011021
+        ]
+      ],
+      "equipFeatureMod": [],
+      "BaseRate": 0,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 51303,
+      "descId": 4051303,
+      "affixParams": [
+        {
+          "type": 2,
+          "wids": 120353,
+          "widt": 120355
+        }
+      ],
+      "groupPriority": 1,
+      "supportEquipFeature": 1,
+      "supportEquipLanguage": 1,
+      "equipLanguageId": 101908,
+      "equipFeature": [],
+      "equipFeatureMod": [
+        [
+          15011031
+        ]
+      ],
+      "BaseRate": 1000,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 51401,
+      "descId": 4051401,
+      "affixParams": [],
+      "groupPriority": 0,
+      "supportEquipFeature": 1,
+      "supportEquipLanguage": 0,
+      "equipLanguageId": 0,
+      "equipFeature": [
+        [
+          110420008
+        ]
+      ],
+      "equipFeatureMod": [],
+      "BaseRate": 1200,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 30,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 51402,
+      "descId": 4051402,
+      "affixParams": [],
+      "groupPriority": 0,
+      "supportEquipFeature": 1,
+      "supportEquipLanguage": 0,
+      "equipLanguageId": 0,
+      "equipFeature": [
+        [
+          110420009
+        ]
+      ],
+      "equipFeatureMod": [],
+      "BaseRate": 1000,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 51403,
+      "descId": 4051403,
+      "affixParams": [],
+      "groupPriority": 0,
+      "supportEquipFeature": 1,
+      "supportEquipLanguage": 0,
+      "equipLanguageId": 0,
+      "equipFeature": [
+        [
+          110420010
+        ]
+      ],
+      "equipFeatureMod": [],
+      "BaseRate": 1000,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 30,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 51404,
+      "descId": 4051404,
+      "affixParams": [],
+      "groupPriority": 0,
+      "supportEquipFeature": 1,
+      "supportEquipLanguage": 0,
+      "equipLanguageId": 0,
+      "equipFeature": [
+        [
+          110420011
+        ]
+      ],
+      "equipFeatureMod": [],
+      "BaseRate": 1000,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 51405,
+      "descId": 4051405,
+      "affixParams": [],
+      "groupPriority": 0,
+      "supportEquipFeature": 1,
+      "supportEquipLanguage": 0,
+      "equipLanguageId": 0,
+      "equipFeature": [
+        [
+          110420012
+        ]
+      ],
+      "equipFeatureMod": [],
+      "BaseRate": 1000,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 100,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 51406,
+      "descId": 4051406,
+      "affixParams": [],
+      "groupPriority": 0,
+      "supportEquipFeature": 1,
+      "supportEquipLanguage": 0,
+      "equipLanguageId": 0,
+      "equipFeature": [
+        [
+          110420013
+        ]
+      ],
+      "equipFeatureMod": [],
+      "BaseRate": 1000,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 51407,
+      "descId": 4051407,
+      "affixParams": [],
+      "groupPriority": 0,
+      "supportEquipFeature": 1,
+      "supportEquipLanguage": 0,
+      "equipLanguageId": 0,
+      "equipFeature": [
+        [
+          110420015
+        ],
+        [
+          110420014
+        ]
+      ],
+      "equipFeatureMod": [],
+      "BaseRate": 1000,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 10,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 51408,
+      "descId": 4051408,
+      "affixParams": [],
+      "groupPriority": 0,
+      "supportEquipFeature": 1,
+      "supportEquipLanguage": 0,
+      "equipLanguageId": 0,
+      "equipFeature": [
+        [
+          110420016
+        ]
+      ],
+      "equipFeatureMod": [],
+      "BaseRate": 1000,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 51409,
+      "descId": 4051409,
+      "affixParams": [],
+      "groupPriority": 0,
+      "supportEquipFeature": 1,
+      "supportEquipLanguage": 0,
+      "equipLanguageId": 0,
+      "equipFeature": [
+        [
+          110420017
+        ]
+      ],
+      "equipFeatureMod": [],
+      "BaseRate": 1200,
+      "VulnerableDmage": 0,
+      "CriticalRate": 20,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 51410,
+      "descId": 4051410,
+      "affixParams": [],
+      "groupPriority": 0,
+      "supportEquipFeature": 1,
+      "supportEquipLanguage": 0,
+      "equipLanguageId": 0,
+      "equipFeature": [
+        [
+          110420018
+        ]
+      ],
+      "equipFeatureMod": [],
+      "BaseRate": 1000,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 60103,
+      "descId": 4060103,
+      "affixParams": [
+        {
+          "type": 2,
+          "wids": 100018,
+          "widt": 140010
+        }
+      ],
+      "groupPriority": 0,
+      "supportEquipFeature": 0,
+      "supportEquipLanguage": 0,
+      "equipLanguageId": 0,
+      "equipFeature": [],
+      "equipFeatureMod": [],
+      "BaseRate": 1000,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 60203,
+      "descId": 4060203,
+      "affixParams": [
+        {
+          "type": 2,
+          "wids": 100020,
+          "widt": 140011
+        }
+      ],
+      "groupPriority": 0,
+      "supportEquipFeature": 0,
+      "supportEquipLanguage": 0,
+      "equipLanguageId": 0,
+      "equipFeature": [],
+      "equipFeatureMod": [],
+      "BaseRate": 1000,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 60301,
+      "descId": 4010011,
+      "affixParams": [],
+      "groupPriority": 0,
+      "supportEquipFeature": 1,
+      "supportEquipLanguage": 0,
+      "equipLanguageId": 0,
+      "equipFeature": [
+        [
+          14611011
+        ]
+      ],
+      "equipFeatureMod": [],
+      "BaseRate": 1000,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 60302,
+      "descId": 4010012,
+      "affixParams": [],
+      "groupPriority": 0,
+      "supportEquipFeature": 1,
+      "supportEquipLanguage": 0,
+      "equipLanguageId": 0,
+      "equipFeature": [
+        [
+          14611021
+        ]
+      ],
+      "equipFeatureMod": [],
+      "BaseRate": 1000,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 60303,
+      "descId": 4060303,
+      "affixParams": [
+        {
+          "type": 2,
+          "wids": 100034,
+          "widt": 140013
+        }
+      ],
+      "groupPriority": 0,
+      "supportEquipFeature": 1,
+      "supportEquipLanguage": 0,
+      "equipLanguageId": 0,
+      "equipFeature": [
+        [
+          14611031
+        ]
+      ],
+      "equipFeatureMod": [],
+      "BaseRate": 1000,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 60403,
+      "descId": 4060403,
+      "affixParams": [
+        {
+          "type": 2,
+          "wids": 100032,
+          "widt": 140014
+        }
+      ],
+      "groupPriority": 0,
+      "supportEquipFeature": 0,
+      "supportEquipLanguage": 0,
+      "equipLanguageId": 0,
+      "equipFeature": [],
+      "equipFeatureMod": [],
+      "BaseRate": 1000,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 60503,
+      "descId": 4060503,
+      "affixParams": [
+        {
+          "type": 2,
+          "wids": 100030,
+          "widt": 140015
+        }
+      ],
+      "groupPriority": 0,
+      "supportEquipFeature": 0,
+      "supportEquipLanguage": 0,
+      "equipLanguageId": 0,
+      "equipFeature": [],
+      "equipFeatureMod": [],
+      "BaseRate": 1000,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 61101,
+      "descId": 4061101,
+      "affixParams": [
+        {
+          "type": 2,
+          "wids": 110062,
+          "widt": 110063
+        }
+      ],
+      "groupPriority": 0,
+      "supportEquipFeature": 1,
+      "supportEquipLanguage": 0,
+      "equipLanguageId": 102122,
+      "equipFeature": [],
+      "equipFeatureMod": [
+        [
+          11611011
+        ]
+      ],
+      "BaseRate": 1000,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 61102,
+      "descId": 4010012,
+      "affixParams": [],
+      "groupPriority": 0,
+      "supportEquipFeature": 1,
+      "supportEquipLanguage": 0,
+      "equipLanguageId": 102123,
+      "equipFeature": [
+        [
+          11611021
+        ]
+      ],
+      "equipFeatureMod": [],
+      "BaseRate": 1000,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 61103,
+      "descId": 4061103,
+      "affixParams": [
+        {
+          "type": 2,
+          "wids": 110062,
+          "widt": 110064
+        }
+      ],
+      "groupPriority": 1,
+      "supportEquipFeature": 1,
+      "supportEquipLanguage": 0,
+      "equipLanguageId": 102124,
+      "equipFeature": [],
+      "equipFeatureMod": [
+        [
+          11611031
+        ]
+      ],
+      "BaseRate": 1000,
+      "VulnerableDmage": 20,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 61201,
+      "descId": 4061201,
+      "affixParams": [
+        {
+          "type": 2,
+          "wids": 120062,
+          "widt": 120063
+        }
+      ],
+      "groupPriority": 0,
+      "supportEquipFeature": 1,
+      "supportEquipLanguage": 0,
+      "equipLanguageId": 101206,
+      "equipFeature": [],
+      "equipFeatureMod": [
+        [
+          12611011
+        ]
+      ],
+      "BaseRate": 1000,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 61202,
+      "descId": 4010002,
+      "affixParams": [
+        {
+          "type": 5,
+          "ApRateBase": 1053971149
+        }
+      ],
+      "groupPriority": 0,
+      "supportEquipFeature": 1,
+      "supportEquipLanguage": 0,
+      "equipLanguageId": 101207,
+      "equipFeature": [
+        [
+          12611021
+        ]
+      ],
+      "equipFeatureMod": [],
+      "BaseRate": 1000,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 61203,
+      "descId": 4061203,
+      "affixParams": [
+        {
+          "type": 2,
+          "wids": 120062,
+          "widt": 120064
+        }
+      ],
+      "groupPriority": 1,
+      "supportEquipFeature": 1,
+      "supportEquipLanguage": 0,
+      "equipLanguageId": 101208,
+      "equipFeature": [],
+      "equipFeatureMod": [
+        [
+          12611031
+        ]
+      ],
+      "BaseRate": 1000,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 61301,
+      "descId": 4061301,
+      "affixParams": [
+        {
+          "type": 2,
+          "wids": 120362,
+          "widt": 120363
+        }
+      ],
+      "groupPriority": 0,
+      "supportEquipFeature": 1,
+      "supportEquipLanguage": 0,
+      "equipLanguageId": 0,
+      "equipFeature": [],
+      "equipFeatureMod": [
+        [
+          13611011
+        ]
+      ],
+      "BaseRate": 1000,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 61302,
+      "descId": 4010012,
+      "affixParams": [],
+      "groupPriority": 0,
+      "supportEquipFeature": 1,
+      "supportEquipLanguage": 0,
+      "equipLanguageId": 0,
+      "equipFeature": [
+        [
+          13611021
+        ]
+      ],
+      "equipFeatureMod": [],
+      "BaseRate": 1000,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 61303,
+      "descId": 4061303,
+      "affixParams": [
+        {
+          "type": 2,
+          "wids": 120362,
+          "widt": 120364
+        }
+      ],
+      "groupPriority": 1,
+      "supportEquipFeature": 1,
+      "supportEquipLanguage": 0,
+      "equipLanguageId": 0,
+      "equipFeature": [],
+      "equipFeatureMod": [
+        [
+          13611031
+        ]
+      ],
+      "BaseRate": 1000,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 61401,
+      "descId": 4061401,
+      "affixParams": [],
+      "groupPriority": 0,
+      "supportEquipFeature": 1,
+      "supportEquipLanguage": 0,
+      "equipLanguageId": 0,
+      "equipFeature": [
+        [
+          110616011
+        ]
+      ],
+      "equipFeatureMod": [],
+      "BaseRate": 1000,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 20,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 61402,
+      "descId": 4061402,
+      "affixParams": [],
+      "groupPriority": 0,
+      "supportEquipFeature": 1,
+      "supportEquipLanguage": 0,
+      "equipLanguageId": 0,
+      "equipFeature": [
+        [
+          110616012
+        ]
+      ],
+      "equipFeatureMod": [],
+      "BaseRate": 1000,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 61403,
+      "descId": 4061403,
+      "affixParams": [],
+      "groupPriority": 0,
+      "supportEquipFeature": 1,
+      "supportEquipLanguage": 0,
+      "equipLanguageId": 0,
+      "equipFeature": [
+        [
+          110616013
+        ],
+        [
+          110616014
+        ]
+      ],
+      "equipFeatureMod": [],
+      "BaseRate": 1000,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 21,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 61404,
+      "descId": 4061404,
+      "affixParams": [],
+      "groupPriority": 0,
+      "supportEquipFeature": 1,
+      "supportEquipLanguage": 0,
+      "equipLanguageId": 0,
+      "equipFeature": [
+        [
+          110616015
+        ]
+      ],
+      "equipFeatureMod": [],
+      "BaseRate": 1000,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 61405,
+      "descId": 4061405,
+      "affixParams": [],
+      "groupPriority": 0,
+      "supportEquipFeature": 1,
+      "supportEquipLanguage": 0,
+      "equipLanguageId": 0,
+      "equipFeature": [
+        [
+          110616016
+        ]
+      ],
+      "equipFeatureMod": [],
+      "BaseRate": 1147,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 4,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 61406,
+      "descId": 4061406,
+      "affixParams": [],
+      "groupPriority": 0,
+      "supportEquipFeature": 1,
+      "supportEquipLanguage": 0,
+      "equipLanguageId": 0,
+      "equipFeature": [
+        [
+          110616017
+        ]
+      ],
+      "equipFeatureMod": [],
+      "BaseRate": 1000,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 61407,
+      "descId": 4061407,
+      "affixParams": [],
+      "groupPriority": 0,
+      "supportEquipFeature": 1,
+      "supportEquipLanguage": 0,
+      "equipLanguageId": 0,
+      "equipFeature": [
+        [
+          110616018
+        ]
+      ],
+      "equipFeatureMod": [],
+      "BaseRate": 1000,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 20,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 61408,
+      "descId": 4061408,
+      "affixParams": [],
+      "groupPriority": 0,
+      "supportEquipFeature": 1,
+      "supportEquipLanguage": 0,
+      "equipLanguageId": 0,
+      "equipFeature": [
+        [
+          110616019
+        ]
+      ],
+      "equipFeatureMod": [],
+      "BaseRate": 1000,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 61409,
+      "descId": 4061409,
+      "affixParams": [],
+      "groupPriority": 0,
+      "supportEquipFeature": 1,
+      "supportEquipLanguage": 0,
+      "equipLanguageId": 0,
+      "equipFeature": [
+        [
+          110616020
+        ],
+        [
+          110616021
+        ]
+      ],
+      "equipFeatureMod": [],
+      "BaseRate": 1000,
+      "VulnerableDmage": 10,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 20,
+      "BaseDamage": 0
+    }
+  },
+  {
+    "EquipGodforgedAffixRow": {
+      "id": 61410,
+      "descId": 4061410,
+      "affixParams": [],
+      "groupPriority": 0,
+      "supportEquipFeature": 1,
+      "supportEquipLanguage": 0,
+      "equipLanguageId": 0,
+      "equipFeature": [
+        [
+          110616022
+        ]
+      ],
+      "equipFeatureMod": [],
+      "BaseRate": 1000,
+      "VulnerableDmage": 0,
+      "CriticalRate": 0,
+      "CriticalDamage": 0,
+      "SkillDamage": 0,
+      "SheildDamage": 0,
+      "DebuffDamage": 0,
+      "BaseDamage": 0
+    }
+  }
+]

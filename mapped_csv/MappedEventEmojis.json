@@ -1,0 +1,1616 @@
+{
+  "1_renleijiyintupu": {
+    "name": "人类基因图谱",
+    "atlasId": "CollectionIcon",
+    "iconId": "1_renleijiyintupu",
+    "emoji": "<:1_renleijiyintupu:1328901372682440726>"
+  },
+  "1_SCPsuipian": {
+    "name": "人类基因图谱碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "1_SCPsuipian",
+    "emoji": "<:1_SCPsuipian:1328901375333240863>"
+  },
+  "Star_Normal": {
+    "name": "Star_Normal",
+    "atlasId": "UICommonReal",
+    "iconId": "Star_Normal",
+    "emoji": "<:Star_Normal:1328901374561222658>"
+  },
+  "Star_Enhance_BG": {
+    "name": "Star_Enhance_BG",
+    "atlasId": "UICommonReal",
+    "iconId": "Star_Enhance_BG",
+    "emoji": "<:Star_Enhance_BG:1328901374108369010>"
+  },
+  "Star_Enhance": {
+    "name": "Star_Enhance",
+    "atlasId": "UICommonReal",
+    "iconId": "Star_Enhance",
+    "emoji": "<:Star_Enhance:1328901373621702686>"
+  },
+  "2_yuanguzhihuizhishu": {
+    "name": "远古智慧之书",
+    "atlasId": "CollectionIcon",
+    "iconId": "2_yuanguzhihuizhishu",
+    "emoji": "<:2_yuanguzhihuizhishu:1328901374058041384>"
+  },
+  "2_SCPsuipian": {
+    "name": "远古智慧之书碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "2_SCPsuipian",
+    "emoji": "<:2_SCPsuipian:1328901386233974915>"
+  },
+  "3_huangjincanju": {
+    "name": "黄金餐具",
+    "atlasId": "CollectionIcon",
+    "iconId": "3_huangjincanju",
+    "emoji": "<:3_huangjincanju:1328901379430940782>"
+  },
+  "3_SCPsuipian": {
+    "name": "黄金餐具碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "3_SCPsuipian",
+    "emoji": "<:3_SCPsuipian:1328901383025332286>"
+  },
+  "4_gulaodeyixueshuji": {
+    "name": "古老的医学书籍",
+    "atlasId": "CollectionIcon",
+    "iconId": "4_gulaodeyixueshuji",
+    "emoji": "<:4_gulaodeyixueshuji:1328901373084827839>"
+  },
+  "4_SCPsuipian": {
+    "name": "古老的医学书籍碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "4_SCPsuipian",
+    "emoji": "<:4_SCPsuipian:1328901379783131176>"
+  },
+  "5_jiushizhudeyiwu": {
+    "name": "救世主的遗物",
+    "atlasId": "CollectionIcon",
+    "iconId": "5_jiushizhudeyiwu",
+    "emoji": "<:5_jiushizhudeyiwu:1328901380261412864>"
+  },
+  "5_SCPsuipian": {
+    "name": "救世主的遗物碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "5_SCPsuipian",
+    "emoji": "<:5_SCPsuipian:1328901376427950110>"
+  },
+  "6_cangshenzhisuodeditu": {
+    "name": "藏身之所的地图",
+    "atlasId": "CollectionIcon",
+    "iconId": "6_cangshenzhisuodeditu",
+    "emoji": "<:6_cangshenzhisuodeditu:1328901385223409785>"
+  },
+  "6_SCPsuipian": {
+    "name": "藏身之所的地图碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "6_SCPsuipian",
+    "emoji": "<:6_SCPsuipian:1328901375970508883>"
+  },
+  "7_juebanmanhua": {
+    "name": "绝版漫画",
+    "atlasId": "CollectionIcon",
+    "iconId": "7_juebanmanhua",
+    "emoji": "<:7_juebanmanhua:1328901376771756134>"
+  },
+  "7_SCPsuipian": {
+    "name": "绝版漫画碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "7_SCPsuipian",
+    "emoji": "<:7_SCPsuipian:1328901380865261589>"
+  },
+  "8_guantoushipin": {
+    "name": "罐头食品",
+    "atlasId": "CollectionIcon",
+    "iconId": "8_guantoushipin",
+    "emoji": "<:8_guantoushipin:1328901381695864902>"
+  },
+  "8_SCPsuipian": {
+    "name": "罐头食品碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "8_SCPsuipian",
+    "emoji": "<:8_SCPsuipian:1328901382631325707>"
+  },
+  "9_huifuhuanjingdezhongzi": {
+    "name": "恢复环境的种子",
+    "atlasId": "CollectionIcon",
+    "iconId": "9_huifuhuanjingdezhongzi",
+    "emoji": "<:9_huifuhuanjingdezhongzi:1328901380576116738>"
+  },
+  "9_SCPsuipian": {
+    "name": "恢复环境的种子碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "9_SCPsuipian",
+    "emoji": "<:9_SCPsuipian:1328901382153175124>"
+  },
+  "10_yishidehuwaiyongpin": {
+    "name": "遗失的户外用品",
+    "atlasId": "CollectionIcon",
+    "iconId": "10_yishidehuwaiyongpin",
+    "emoji": "<:10_yishidehuwaiyongpin:1328901384451391611>"
+  },
+  "10_SCPsuipian": {
+    "name": "遗失的户外用品碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "10_SCPsuipian",
+    "emoji": "<:10_SCPsuipian:1328901384665301024>"
+  },
+  "11_qiangguangshoudiantong": {
+    "name": "强光手电筒",
+    "atlasId": "CollectionIcon",
+    "iconId": "11_qiangguangshoudiantong",
+    "emoji": "<:11_qiangguangshoudiantong:1328901390403375125>"
+  },
+  "11_SCPsuipian": {
+    "name": "强光手电筒碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "11_SCPsuipian",
+    "emoji": "<:11_SCPsuipian:1328901384032227379>"
+  },
+  "12_shijiemoribaozhi": {
+    "name": "世界末日报纸",
+    "atlasId": "CollectionIcon",
+    "iconId": "12_shijiemoribaozhi",
+    "emoji": "<:12_shijiemoribaozhi:1328901387819417651>"
+  },
+  "12_SCPsuipian": {
+    "name": "世界末日报纸碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "12_SCPsuipian",
+    "emoji": "<:12_SCPsuipian:1328901383205687440>"
+  },
+  "13_beikunxingcunzhedexinjian": {
+    "name": "被困幸存者的信件",
+    "atlasId": "CollectionIcon",
+    "iconId": "13_beikunxingcunzhedexinjian",
+    "emoji": "<:13_beikunxingcunzhedexinjian:1328901385798029332>"
+  },
+  "13_SCPsuipian": {
+    "name": "被困幸存者的信件碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "13_SCPsuipian",
+    "emoji": "<:13_SCPsuipian:1328901386791817328>"
+  },
+  "14_yichuanmiyaoka": {
+    "name": "遗传密钥卡",
+    "atlasId": "CollectionIcon",
+    "iconId": "14_yichuanmiyaoka",
+    "emoji": "<:14_yichuanmiyaoka:1328901388435984506>"
+  },
+  "14_SCPsuipian": {
+    "name": "遗传密钥卡碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "14_SCPsuipian",
+    "emoji": "<:14_SCPsuipian:1328901390839578674>"
+  },
+  "15_xingcunzhexiaoshuo": {
+    "name": "幸存者小说",
+    "atlasId": "CollectionIcon",
+    "iconId": "15_xingcunzhexiaoshuo",
+    "emoji": "<:15_xingcunzhexiaoshuo:1328901386720772168>"
+  },
+  "15_SCPsuipian": {
+    "name": "幸存者小说碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "15_SCPsuipian",
+    "emoji": "<:15_SCPsuipian:1328901388188651582>"
+  },
+  "16_yinliaopinggai": {
+    "name": "饮料瓶盖",
+    "atlasId": "CollectionIcon",
+    "iconId": "16_yinliaopinggai",
+    "emoji": "<:16_yinliaopinggai:1328901389904117822>"
+  },
+  "16_SCPsuipian": {
+    "name": "饮料瓶盖碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "16_SCPsuipian",
+    "emoji": "<:16_SCPsuipian:1328901387433672794>"
+  },
+  "17_fangdumianju": {
+    "name": "防毒面具",
+    "atlasId": "CollectionIcon",
+    "iconId": "17_fangdumianju",
+    "emoji": "<:17_fangdumianju:1328901392231829625>"
+  },
+  "17_SCPsuipian": {
+    "name": "防毒面具碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "17_SCPsuipian",
+    "emoji": "<:17_SCPsuipian:1328901389216251948>"
+  },
+  "18_moriyuyanluyin": {
+    "name": "末日预言录音",
+    "atlasId": "CollectionIcon",
+    "iconId": "18_moriyuyanluyin",
+    "emoji": "<:18_moriyuyanluyin:1328901388683706441>"
+  },
+  "18_SCPsuipian": {
+    "name": "末日预言录音碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "18_SCPsuipian",
+    "emoji": "<:18_SCPsuipian:1328901398615556117>"
+  },
+  "19_shouyinji": {
+    "name": "收音机",
+    "atlasId": "CollectionIcon",
+    "iconId": "19_shouyinji",
+    "emoji": "<:19_shouyinji:1328901391304888332>"
+  },
+  "19_SCPsuipian": {
+    "name": "收音机碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "19_SCPsuipian",
+    "emoji": "<:19_SCPsuipian:1328901391132921938>"
+  },
+  "20_shouyinjidianchi": {
+    "name": "收音机电池",
+    "atlasId": "CollectionIcon",
+    "iconId": "20_shouyinjidianchi",
+    "emoji": "<:20_shouyinjidianchi:1328901393905352736>"
+  },
+  "20_SCPsuipian": {
+    "name": "收音机电池碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "20_SCPsuipian",
+    "emoji": "<:20_SCPsuipian:1328901391883702282>"
+  },
+  "21_gangbiyumoshuiping": {
+    "name": "钢笔与墨水瓶",
+    "atlasId": "CollectionIcon",
+    "iconId": "21_gangbiyumoshuiping",
+    "emoji": "<:21_gangbiyumoshuiping:1328901393003577386>"
+  },
+  "21_SCPsuipian": {
+    "name": "钢笔与墨水瓶碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "21_SCPsuipian",
+    "emoji": "<:21_SCPsuipian:1328901397118451876>"
+  },
+  "22_shuijinghuashebei": {
+    "name": "水净化设备",
+    "atlasId": "CollectionIcon",
+    "iconId": "22_shuijinghuashebei",
+    "emoji": "<:22_shuijinghuashebei:1328901392647327866>"
+  },
+  "22_SCPsuipian": {
+    "name": "水净化设备碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "22_SCPsuipian",
+    "emoji": "<:22_SCPsuipian:1328901393574268938>"
+  },
+  "23_qianglixinhaoqiang": {
+    "name": "强力信号枪",
+    "atlasId": "CollectionIcon",
+    "iconId": "23_qianglixinhaoqiang",
+    "emoji": "<:23_qianglixinhaoqiang:1328901394966646815>"
+  },
+  "23_SCPsuipian": {
+    "name": "强力信号枪碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "23_SCPsuipian",
+    "emoji": "<:23_SCPsuipian:1328901394584965201>"
+  },
+  "24_yiliaoxiang": {
+    "name": "医疗箱",
+    "atlasId": "CollectionIcon",
+    "iconId": "24_yiliaoxiang",
+    "emoji": "<:24_yiliaoxiang:1328901402986283019>"
+  },
+  "24_SCPsuipian": {
+    "name": "医疗箱碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "24_SCPsuipian",
+    "emoji": "<:24_SCPsuipian:1328901397969899611>"
+  },
+  "25_bianyishengwubiaoben": {
+    "name": "变异生物标本",
+    "atlasId": "CollectionIcon",
+    "iconId": "25_bianyishengwubiaoben",
+    "emoji": "<:25_bianyishengwubiaoben:1328901394278649886>"
+  },
+  "25_SCPsuipian": {
+    "name": "变异生物标本碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "25_SCPsuipian",
+    "emoji": "<:25_SCPsuipian:1328901406555508776>"
+  },
+  "26_fushejishuqi": {
+    "name": "辐射计数器",
+    "atlasId": "CollectionIcon",
+    "iconId": "26_fushejishuqi",
+    "emoji": "<:26_fushejishuqi:1328901395314642944>"
+  },
+  "26_SCPsuipian": {
+    "name": "辐射计数器碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "26_SCPsuipian",
+    "emoji": "<:26_SCPsuipian:1328901395386208371>"
+  },
+  "27_gudongzhinanzhen": {
+    "name": "古董指南针",
+    "atlasId": "CollectionIcon",
+    "iconId": "27_gudongzhinanzhen",
+    "emoji": "<:27_gudongzhinanzhen:1328901395969216595>"
+  },
+  "27_SCPsuipian": {
+    "name": "古董指南针碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "27_SCPsuipian",
+    "emoji": "<:27_SCPsuipian:1328901398284468335>"
+  },
+  "28_shengmingtanceyi": {
+    "name": "生命探测仪",
+    "atlasId": "CollectionIcon",
+    "iconId": "28_shengmingtanceyi",
+    "emoji": "<:28_shengmingtanceyi:1328901396493369456>"
+  },
+  "28_SCPsuipian": {
+    "name": "生命探测仪碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "28_SCPsuipian",
+    "emoji": "<:28_SCPsuipian:1328901397533556796>"
+  },
+  "29_shouhuirili": {
+    "name": "手绘日历",
+    "atlasId": "CollectionIcon",
+    "iconId": "29_shouhuirili",
+    "emoji": "<:29_shouhuirili:1328901400264048732>"
+  },
+  "29_SCPsuipian": {
+    "name": "手绘日历碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "29_SCPsuipian",
+    "emoji": "<:29_SCPsuipian:1328901401677529099>"
+  },
+  "30_binanzhemingdan": {
+    "name": "避难者名单",
+    "atlasId": "CollectionIcon",
+    "iconId": "30_binanzhemingdan",
+    "emoji": "<:30_binanzhemingdan:1328901399890890752>"
+  },
+  "30_SCPsuipian": {
+    "name": "避难者名单碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "30_SCPsuipian",
+    "emoji": "<:30_SCPsuipian:1328901398917677057>"
+  },
+  "31_buxiudexingyunyingbi": {
+    "name": "不朽的幸运硬币",
+    "atlasId": "CollectionIcon",
+    "iconId": "31_buxiudexingyunyingbi",
+    "emoji": "<:31_buxiudexingyunyingbi:1328901400347938898>"
+  },
+  "31_SCPsuipian": {
+    "name": "不朽的幸运硬币碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "31_SCPsuipian",
+    "emoji": "<:31_SCPsuipian:1328901399588638730>"
+  },
+  "32_xingjiyueqianjuzhentuzhi": {
+    "name": "星际跃迁矩阵图纸",
+    "atlasId": "CollectionIcon",
+    "iconId": "32_xingjiyueqianjuzhentuzhi",
+    "emoji": "<:32_xingjiyueqianjuzhentuzhi:1328901404391116851>"
+  },
+  "32_SCPsuipian": {
+    "name": "星际跃迁矩阵图纸碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "32_SCPsuipian",
+    "emoji": "<:32_SCPsuipian:1328901401216159755>"
+  },
+  "33_xingyunhushenfu": {
+    "name": "幸运护身符",
+    "atlasId": "CollectionIcon",
+    "iconId": "33_xingyunhushenfu",
+    "emoji": "<:33_xingyunhushenfu:1328901416051539969>"
+  },
+  "33_SCPsuipian": {
+    "name": "幸运护身符碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "33_SCPsuipian",
+    "emoji": "<:33_SCPsuipian:1328901402663325828>"
+  },
+  "34_shenmixing": {
+    "name": "神秘星",
+    "atlasId": "CollectionIcon",
+    "iconId": "34_shenmixing",
+    "emoji": "<:34_shenmixing:1328901406668755096>"
+  },
+  "34_SCPsuipian": {
+    "name": "神秘星碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "34_SCPsuipian",
+    "emoji": "<:34_SCPsuipian:1328901401769676802>"
+  },
+  "35_dingjiankexuejiadebiji": {
+    "name": "顶尖科学家的笔记",
+    "atlasId": "CollectionIcon",
+    "iconId": "35_dingjiankexuejiadebiji",
+    "emoji": "<:35_dingjiankexuejiadebiji:1328901405326442496>"
+  },
+  "35_SCPsuipian": {
+    "name": "顶尖科学家的笔记碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "35_SCPsuipian",
+    "emoji": "<:35_SCPsuipian:1328901403506380810>"
+  },
+  "36_chaojidianluban": {
+    "name": "超级电路板",
+    "atlasId": "CollectionIcon",
+    "iconId": "36_chaojidianluban",
+    "emoji": "<:36_chaojidianluban:1328901404500299890>"
+  },
+  "36_SCPsuipian": {
+    "name": "超级电路板碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "36_SCPsuipian",
+    "emoji": "<:36_SCPsuipian:1328901403812298773>"
+  },
+  "37_xingyunsiyecaoshouchuan": {
+    "name": "幸运四叶草手串",
+    "atlasId": "CollectionIcon",
+    "iconId": "37_xingyunsiyecaoshouchuan",
+    "emoji": "<:37_xingyunsiyecaoshouchuan:1328901412939104256>"
+  },
+  "37_SCPsuipian": {
+    "name": "幸运四叶草手串碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "37_SCPsuipian",
+    "emoji": "<:37_SCPsuipian:1328901408740872242>"
+  },
+  "38_shixiaodeweixinglingjian": {
+    "name": "失效的卫星零件",
+    "atlasId": "CollectionIcon",
+    "iconId": "38_shixiaodeweixinglingjian",
+    "emoji": "<:38_shixiaodeweixinglingjian:1328901405939073097>"
+  },
+  "38_SCPsuipian": {
+    "name": "失效的卫星零件碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "38_SCPsuipian",
+    "emoji": "<:38_SCPsuipian:1328901405414654046>"
+  },
+  "39_laoshixiangji": {
+    "name": "老式相机",
+    "atlasId": "CollectionIcon",
+    "iconId": "39_laoshixiangji",
+    "emoji": "<:39_laoshixiangji:1328901410149896192>"
+  },
+  "39_SCPsuipian": {
+    "name": "老式相机碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "39_SCPsuipian",
+    "emoji": "<:39_SCPsuipian:1328901412029075547>"
+  },
+  "40_yiliuderijiben": {
+    "name": "遗留的日记本",
+    "atlasId": "CollectionIcon",
+    "iconId": "40_yiliuderijiben",
+    "emoji": "<:40_yiliuderijiben:1328901407524520008>"
+  },
+  "40_SCPsuipian": {
+    "name": "遗留的日记本碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "40_SCPsuipian",
+    "emoji": "<:40_SCPsuipian:1328901408321306716>"
+  },
+  "41_shijiudejindan": {
+    "name": "狮鹫的金蛋",
+    "atlasId": "CollectionIcon",
+    "iconId": "41_shijiudejindan",
+    "emoji": "<:41_shijiudejindan:1328901410661728307>"
+  },
+  "41_SCPsuipian": {
+    "name": "狮鹫的金蛋碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "41_SCPsuipian",
+    "emoji": "<:41_SCPsuipian:1328901407964790845>"
+  },
+  "42_jiebaideyuyi": {
+    "name": "洁白的羽翼",
+    "atlasId": "CollectionIcon",
+    "iconId": "42_jiebaideyuyi",
+    "emoji": "<:42_jiebaideyuyi:1328901409286131755>"
+  },
+  "42_SCPsuipian": {
+    "name": "洁白的羽翼碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "42_SCPsuipian",
+    "emoji": "<:42_SCPsuipian:1328901409063698443>"
+  },
+  "43_jiatingheyingzhaopian": {
+    "name": "家庭合影照片",
+    "atlasId": "CollectionIcon",
+    "iconId": "43_jiatingheyingzhaopian",
+    "emoji": "<:43_jiatingheyingzhaopian:1328901413203480637>"
+  },
+  "43_SCPsuipian": {
+    "name": "家庭合影照片碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "43_SCPsuipian",
+    "emoji": "<:43_SCPsuipian:1328901411106459689>"
+  },
+  "44_pojiudemaikefeng": {
+    "name": "破旧的麦克风",
+    "atlasId": "CollectionIcon",
+    "iconId": "44_pojiudemaikefeng",
+    "emoji": "<:44_pojiudemaikefeng:1328901411571896412>"
+  },
+  "44_SCPsuipian": {
+    "name": "破旧的麦克风碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "44_SCPsuipian",
+    "emoji": "<:44_SCPsuipian:1328901412217950250>"
+  },
+  "45_banguanshenshangxiansu": {
+    "name": "半管肾上腺素",
+    "atlasId": "CollectionIcon",
+    "iconId": "45_banguanshenshangxiansu",
+    "emoji": "<:45_banguanshenshangxiansu:1328901415267078154>"
+  },
+  "45_SCPsuipian": {
+    "name": "半管肾上腺素碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "45_SCPsuipian",
+    "emoji": "<:45_SCPsuipian:1328901416928149514>"
+  },
+  "46_gulaodelaiyaqin": {
+    "name": "古老的莱雅琴",
+    "atlasId": "CollectionIcon",
+    "iconId": "46_gulaodelaiyaqin",
+    "emoji": "<:46_gulaodelaiyaqin:1328901414260310016>"
+  },
+  "46_SCPsuipian": {
+    "name": "古老的莱雅琴碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "46_SCPsuipian",
+    "emoji": "<:46_SCPsuipian:1328901415598555216>"
+  },
+  "47_toujiangcaipiao": {
+    "name": "头奖彩票",
+    "atlasId": "CollectionIcon",
+    "iconId": "47_toujiangcaipiao",
+    "emoji": "<:47_toujiangcaipiao:1328901418240970773>"
+  },
+  "47_SCPsuipian": {
+    "name": "头奖彩票碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "47_SCPsuipian",
+    "emoji": "<:47_SCPsuipian:1328901413539151884>"
+  },
+  "48_shenmiguanghuan": {
+    "name": "神秘光环",
+    "atlasId": "CollectionIcon",
+    "iconId": "48_shenmiguanghuan",
+    "emoji": "<:48_shenmiguanghuan:1328901417435398165>"
+  },
+  "48_SCPsuipian": {
+    "name": "神秘光环碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "48_SCPsuipian",
+    "emoji": "<:48_SCPsuipian:1328901414776340542>"
+  },
+  "49_shengshiyanhuo": {
+    "name": "盛世烟火",
+    "atlasId": "CollectionIcon",
+    "iconId": "49_shengshiyanhuo",
+    "emoji": "<:49_shengshiyanhuo:1328901419217981470>"
+  },
+  "49_SCPsuipian": {
+    "name": "盛世烟火碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "49_SCPsuipian",
+    "emoji": "<:49_SCPsuipian:1328901422871220335>"
+  },
+  "50_qingxinzuanjie": {
+    "name": "倾心钻戒",
+    "atlasId": "CollectionIcon",
+    "iconId": "50_qingxinzuanjie",
+    "emoji": "<:50_qingxinzuanjie:1328901416450002954>"
+  },
+  "50_SCPsuipian": {
+    "name": "倾心钻戒碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "50_SCPsuipian",
+    "emoji": "<:50_SCPsuipian:1328901420669210706>"
+  },
+  "51_tianshizhileishuijing": {
+    "name": "天使之泪水晶",
+    "atlasId": "CollectionIcon",
+    "iconId": "51_tianshizhileishuijing",
+    "emoji": "<:51_tianshizhileishuijing:1328901423173341296>"
+  },
+  "51_SCPsuipian": {
+    "name": "天使之泪水晶碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "51_SCPsuipian",
+    "emoji": "<:51_SCPsuipian:1328901417548779621>"
+  },
+  "52_dujiaoshoudejiao": {
+    "name": "独角兽的角",
+    "atlasId": "CollectionIcon",
+    "iconId": "52_dujiaoshoudejiao",
+    "emoji": "<:52_dujiaoshoudejiao:1328901418844946502>"
+  },
+  "52_SCPsuipian": {
+    "name": "独角兽的角碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "52_SCPsuipian",
+    "emoji": "<:52_SCPsuipian:1328901423592902676>"
+  },
+  "53_shishiniban": {
+    "name": "史诗泥板",
+    "atlasId": "CollectionIcon",
+    "iconId": "53_shishiniban",
+    "emoji": "<:53_shishiniban:1328901419448664140>"
+  },
+  "53_SCPsuipian": {
+    "name": "史诗泥板碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "53_SCPsuipian",
+    "emoji": "<:53_SCPsuipian:1328901428609024061>"
+  },
+  "54_honghuangzhangu": {
+    "name": "洪荒战鼓",
+    "atlasId": "CollectionIcon",
+    "iconId": "54_honghuangzhangu",
+    "emoji": "<:54_honghuangzhangu:1328901428126945383>"
+  },
+  "54_SCPsuipian": {
+    "name": "洪荒战鼓碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "54_SCPsuipian",
+    "emoji": "<:54_SCPsuipian:1328901419776086017>"
+  },
+  "55_lieyanhongyu": {
+    "name": "烈焰红羽",
+    "atlasId": "CollectionIcon",
+    "iconId": "55_lieyanhongyu",
+    "emoji": "<:55_lieyanhongyu:1328901420149248074>"
+  },
+  "55_SCPsuipian": {
+    "name": "烈焰红羽碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "55_SCPsuipian",
+    "emoji": "<:55_SCPsuipian:1328901421751336980>"
+  },
+  "56_xianjingyulu": {
+    "name": "仙境玉露",
+    "atlasId": "CollectionIcon",
+    "iconId": "56_xianjingyulu",
+    "emoji": "<:56_xianjingyulu:1328901421353009233>"
+  },
+  "56_SCPsuipian": {
+    "name": "仙境玉露碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "56_SCPsuipian",
+    "emoji": "<:56_SCPsuipian:1328901422183485472>"
+  },
+  "57_dahongdenglong": {
+    "name": "大红灯笼",
+    "atlasId": "CollectionIcon",
+    "iconId": "57_dahongdenglong",
+    "emoji": "<:57_dahongdenglong:1328901422258851871>"
+  },
+  "57_SCPsuipian": {
+    "name": "大红灯笼碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "57_SCPsuipian",
+    "emoji": "<:57_SCPsuipian:1328901426683838474>"
+  },
+  "58_xueshuqikan": {
+    "name": "学术期刊",
+    "atlasId": "CollectionIcon",
+    "iconId": "58_xueshuqikan",
+    "emoji": "<:58_xueshuqikan:1328901424712781876>"
+  },
+  "58_SCPsuipian": {
+    "name": "学术期刊碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "58_SCPsuipian",
+    "emoji": "<:58_SCPsuipian:1328901425362767952>"
+  },
+  "59_zhuangshixinglinpian": {
+    "name": "装饰性鳞片",
+    "atlasId": "CollectionIcon",
+    "iconId": "59_zhuangshixinglinpian",
+    "emoji": "<:59_zhuangshixinglinpian:1328901424385359952>"
+  },
+  "59_SCPsuipian": {
+    "name": "装饰性鳞片碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "59_SCPsuipian",
+    "emoji": "<:59_SCPsuipian:1328901423823585351>"
+  },
+  "60_xuancaihuachemoxing": {
+    "name": "炫彩花车模型",
+    "atlasId": "CollectionIcon",
+    "iconId": "60_xuancaihuachemoxing",
+    "emoji": "<:60_xuancaihuachemoxing:1328901425446785068>"
+  },
+  "60_SCPsuipian": {
+    "name": "炫彩花车模型碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "60_SCPsuipian",
+    "emoji": "<:60_SCPsuipian:1328901436456571022>"
+  },
+  "61_hanjiandemogu": {
+    "name": "罕见的蘑菇",
+    "atlasId": "CollectionIcon",
+    "iconId": "61_hanjiandemogu",
+    "emoji": "<:61_hanjiandemogu:1328901427678023711>"
+  },
+  "61_SCPsuipian": {
+    "name": "罕见的蘑菇碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "61_SCPsuipian",
+    "emoji": "<:61_SCPsuipian:1328901426881237056>"
+  },
+  "62_lingmindeshouhuiban": {
+    "name": "灵敏的手绘板",
+    "atlasId": "CollectionIcon",
+    "iconId": "62_lingmindeshouhuiban",
+    "emoji": "<:62_lingmindeshouhuiban:1328901432438689833>"
+  },
+  "62_SCPsuipian": {
+    "name": "灵敏的手绘板碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "62_SCPsuipian",
+    "emoji": "<:62_SCPsuipian:1328901425929130066>"
+  },
+  "63_quanxidiqiuyi": {
+    "name": "全息地球仪",
+    "atlasId": "CollectionIcon",
+    "iconId": "63_quanxidiqiuyi",
+    "emoji": "<:63_quanxidiqiuyi:1328901429137637397>"
+  },
+  "63_SCPsuipian": {
+    "name": "全息地球仪碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "63_SCPsuipian",
+    "emoji": "<:63_SCPsuipian:1328901430215446570>"
+  },
+  "64_fushezhiliaoyi": {
+    "name": "辐射治疗仪",
+    "atlasId": "CollectionIcon",
+    "iconId": "64_fushezhiliaoyi",
+    "emoji": "<:64_fushezhiliaoyi:1328901429661929512>"
+  },
+  "64_SCPsuipian": {
+    "name": "辐射治疗仪碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "64_SCPsuipian",
+    "emoji": "<:64_SCPsuipian:1328901435840135274>"
+  },
+  "65_youhuayiji": {
+    "name": "油画遗迹",
+    "atlasId": "CollectionIcon",
+    "iconId": "65_youhuayiji",
+    "emoji": "<:65_youhuayiji:1328901431809278003>"
+  },
+  "65_SCPsuipian": {
+    "name": "油画遗迹碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "65_SCPsuipian",
+    "emoji": "<:65_SCPsuipian:1328901433533136987>"
+  },
+  "66_nihongdengzhaopai": {
+    "name": "霓虹灯招牌",
+    "atlasId": "CollectionIcon",
+    "iconId": "66_nihongdengzhaopai",
+    "emoji": "<:66_nihongdengzhaopai:1328901430630940682>"
+  },
+  "66_SCPsuipian": {
+    "name": "霓虹灯招牌碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "66_SCPsuipian",
+    "emoji": "<:66_SCPsuipian:1328901431121678437>"
+  },
+  "67_mofaguoshi": {
+    "name": "魔法果实",
+    "atlasId": "CollectionIcon",
+    "iconId": "67_mofaguoshi",
+    "emoji": "<:67_mofaguoshi:1328901432824565762>"
+  },
+  "67_SCPsuipian": {
+    "name": "魔法果实碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "67_SCPsuipian",
+    "emoji": "<:67_SCPsuipian:1328901431616606310>"
+  },
+  "68_laiziwaixingdetenglei": {
+    "name": "来自外星的藤类",
+    "atlasId": "CollectionIcon",
+    "iconId": "68_laiziwaixingdetenglei",
+    "emoji": "<:68_laiziwaixingdetenglei:1328901434888159242>"
+  },
+  "68_SCPsuipian": {
+    "name": "来自外星的藤类碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "68_SCPsuipian",
+    "emoji": "<:68_SCPsuipian:1328901438109384746>"
+  },
+  "69_hanbingsongta": {
+    "name": "寒冰松塔",
+    "atlasId": "CollectionIcon",
+    "iconId": "69_hanbingsongta",
+    "emoji": "<:69_hanbingsongta:1328901433923207262>"
+  },
+  "69_SCPsuipian": {
+    "name": "寒冰松塔碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "69_SCPsuipian",
+    "emoji": "<:69_SCPsuipian:1328901437731639336>"
+  },
+  "70_menghuanzhixindangao": {
+    "name": "梦幻之心蛋糕",
+    "atlasId": "CollectionIcon",
+    "iconId": "70_menghuanzhixindangao",
+    "emoji": "<:70_menghuanzhixindangao:1328901435705917513>"
+  },
+  "70_SCPsuipian": {
+    "name": "梦幻之心蛋糕碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "70_SCPsuipian",
+    "emoji": "<:70_SCPsuipian:1328901438855708732>"
+  },
+  "71_xianliangkuancaidan": {
+    "name": "限量款彩蛋",
+    "atlasId": "CollectionIcon",
+    "iconId": "71_xianliangkuancaidan",
+    "emoji": "<:71_xianliangkuancaidan:1328901434275790850>"
+  },
+  "71_SCPsuipian": {
+    "name": "限量款彩蛋碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "71_SCPsuipian",
+    "emoji": "<:71_SCPsuipian:1328901435349274684>"
+  },
+  "72_huolizhongzi": {
+    "name": "活力种子",
+    "atlasId": "CollectionIcon",
+    "iconId": "72_huolizhongzi",
+    "emoji": "<:72_huolizhongzi:1328901438138748928>"
+  },
+  "72_SCPsuipian": {
+    "name": "活力种子碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "72_SCPsuipian",
+    "emoji": "<:72_SCPsuipian:1328901443091955825>"
+  },
+  "73_duyiwuerdeyezi": {
+    "name": "独一无二的叶子",
+    "atlasId": "CollectionIcon",
+    "iconId": "73_duyiwuerdeyezi",
+    "emoji": "<:73_duyiwuerdeyezi:1328901439673860196>"
+  },
+  "73_SCPsuipian": {
+    "name": "独一无二的叶子碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "73_SCPsuipian",
+    "emoji": "<:73_SCPsuipian:1328901437115338843>"
+  },
+  "74_qiyidejingshi": {
+    "name": "奇异的晶石",
+    "atlasId": "CollectionIcon",
+    "iconId": "74_qiyidejingshi",
+    "emoji": "<:74_qiyidejingshi:1328901440881692673>"
+  },
+  "74_SCPsuipian": {
+    "name": "奇异的晶石碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "74_SCPsuipian",
+    "emoji": "<:74_SCPsuipian:1328901439753289813>"
+  },
+  "75_yijieqiyao": {
+    "name": "异界奇钥",
+    "atlasId": "CollectionIcon",
+    "iconId": "75_yijieqiyao",
+    "emoji": "<:75_yijieqiyao:1328901443754918019>"
+  },
+  "75_SCPsuipian": {
+    "name": "异界奇钥碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "75_SCPsuipian",
+    "emoji": "<:75_SCPsuipian:1328901439350898688>"
+  },
+  "76_xinghebaozuan": {
+    "name": "星核宝钻",
+    "atlasId": "CollectionIcon",
+    "iconId": "76_xinghebaozuan",
+    "emoji": "<:76_xinghebaozuan:1328901448934883410>"
+  },
+  "76_SCPsuipian": {
+    "name": "星核宝钻碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "76_SCPsuipian",
+    "emoji": "<:76_SCPsuipian:1328901441506639935>"
+  },
+  "77_kongqijiaoshuihu": {
+    "name": "空气浇水壶",
+    "atlasId": "CollectionIcon",
+    "iconId": "77_kongqijiaoshuihu",
+    "emoji": "<:77_kongqijiaoshuihu:1328901442018213951>"
+  },
+  "77_SCPsuipian": {
+    "name": "空气浇水壶碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "77_SCPsuipian",
+    "emoji": "<:77_SCPsuipian:1328901440466456677>"
+  },
+  "78_mohuanyuer": {
+    "name": "魔幻鱼饵",
+    "atlasId": "CollectionIcon",
+    "iconId": "78_mohuanyuer",
+    "emoji": "<:78_mohuanyuer:1328901453363806268>"
+  },
+  "78_SCPsuipian": {
+    "name": "魔幻鱼饵碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "78_SCPsuipian",
+    "emoji": "<:78_SCPsuipian:1328901455431598151>"
+  },
+  "79_gaoweidunengliangmofang": {
+    "name": "高纬度能量魔方",
+    "atlasId": "CollectionIcon",
+    "iconId": "79_gaoweidunengliangmofang",
+    "emoji": "<:79_gaoweidunengliangmofang:1328901442727182387>"
+  },
+  "79_SCPsuipian": {
+    "name": "高纬度能量魔方碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "79_SCPsuipian",
+    "emoji": "<:79_SCPsuipian:1328901442307620937>"
+  },
+  "80_xukongzhihua": {
+    "name": "虚空之花",
+    "atlasId": "CollectionIcon",
+    "iconId": "80_xukongzhihua",
+    "emoji": "<:80_xukongzhihua:1328901444425875518>"
+  },
+  "80_SCPsuipian": {
+    "name": "虚空之花碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "80_SCPsuipian",
+    "emoji": "<:80_SCPsuipian:1328901445445095525>"
+  },
+  "81_zhenshizhiyan": {
+    "name": "真视之眼",
+    "atlasId": "CollectionIcon",
+    "iconId": "81_zhenshizhiyan",
+    "emoji": "<:81_zhenshizhiyan:1328901448787824703>"
+  },
+  "81_SCPsuipian": {
+    "name": "真视之眼碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "81_SCPsuipian",
+    "emoji": "<:81_SCPsuipian:1328901444199387136>"
+  },
+  "82_shengmingshalou": {
+    "name": "生命沙漏",
+    "atlasId": "CollectionIcon",
+    "iconId": "82_shengmingshalou",
+    "emoji": "<:82_shengmingshalou:1328901445042438297>"
+  },
+  "82_SCPsuipian": {
+    "name": "生命沙漏碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "82_SCPsuipian",
+    "emoji": "<:82_SCPsuipian:1328901446737072199>"
+  },
+  "83_henengdianchi": {
+    "name": "核能电池",
+    "atlasId": "CollectionIcon",
+    "iconId": "83_henengdianchi",
+    "emoji": "<:83_henengdianchi:1328901446363648083>"
+  },
+  "83_SCPsuipian": {
+    "name": "核能电池碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "83_SCPsuipian",
+    "emoji": "<:83_SCPsuipian:1328901445944086630>"
+  },
+  "84_denglizijian": {
+    "name": "等离子剑",
+    "atlasId": "CollectionIcon",
+    "iconId": "84_denglizijian",
+    "emoji": "<:84_denglizijian:1328901449798778881>"
+  },
+  "84_SCPsuipian": {
+    "name": "等离子剑碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "84_SCPsuipian",
+    "emoji": "<:84_SCPsuipian:1328901447290589255>"
+  },
+  "85_huangjinhaojiao": {
+    "name": "黄金号角",
+    "atlasId": "CollectionIcon",
+    "iconId": "85_huangjinhaojiao",
+    "emoji": "<:85_huangjinhaojiao:1328901450537111623>"
+  },
+  "85_SCPsuipian": {
+    "name": "黄金号角碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "85_SCPsuipian",
+    "emoji": "<:85_SCPsuipian:1328901448045559899>"
+  },
+  "86_yuansuzhihuan": {
+    "name": "元素指环",
+    "atlasId": "CollectionIcon",
+    "iconId": "86_yuansuzhihuan",
+    "emoji": "<:86_yuansuzhihuan:1328901448393560166>"
+  },
+  "86_SCPsuipian": {
+    "name": "元素指环碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "86_SCPsuipian",
+    "emoji": "<:86_SCPsuipian:1328901452030017618>"
+  },
+  "87_zenqiangxianshidoupeng": {
+    "name": "增强现实斗篷",
+    "atlasId": "CollectionIcon",
+    "iconId": "87_zenqiangxianshidoupeng",
+    "emoji": "<:87_zenqiangxianshidoupeng:1328901449375023106>"
+  },
+  "87_SCPsuipian": {
+    "name": "增强现实斗篷碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "87_SCPsuipian",
+    "emoji": "<:87_SCPsuipian:1328901453724651584>"
+  },
+  "88_kuangbaomianju": {
+    "name": "狂暴面具",
+    "atlasId": "CollectionIcon",
+    "iconId": "88_kuangbaomianju",
+    "emoji": "<:88_kuangbaomianju:1328901451484889088>"
+  },
+  "88_SCPsuipian": {
+    "name": "狂暴面具碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "88_SCPsuipian",
+    "emoji": "<:88_SCPsuipian:1328901463392518235>"
+  },
+  "89_jisuchangxue": {
+    "name": "疾速长靴",
+    "atlasId": "CollectionIcon",
+    "iconId": "89_jisuchangxue",
+    "emoji": "<:89_jisuchangxue:1328901450981707786>"
+  },
+  "89_SCPsuipian": {
+    "name": "疾速长靴碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "89_SCPsuipian",
+    "emoji": "<:89_SCPsuipian:1328901453779046453>"
+  },
+  "90_zhuiyinggongjian": {
+    "name": "追影弓箭",
+    "atlasId": "CollectionIcon",
+    "iconId": "90_zhuiyinggongjian",
+    "emoji": "<:90_zhuiyinggongjian:1328901452935987261>"
+  },
+  "90_SCPsuipian": {
+    "name": "追影弓箭碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "90_SCPsuipian",
+    "emoji": "<:90_SCPsuipian:1328901452537794560>"
+  },
+  "91_wuzhichangbaotu": {
+    "name": "雾之藏宝图",
+    "atlasId": "CollectionIcon",
+    "iconId": "91_wuzhichangbaotu",
+    "emoji": "<:91_wuzhichangbaotu:1328901456530505780>"
+  },
+  "91_SCPsuipian": {
+    "name": "雾之藏宝图碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "91_SCPsuipian",
+    "emoji": "<:91_SCPsuipian:1328901459496145007>"
+  },
+  "92_chiyanjita": {
+    "name": "赤焰吉他",
+    "atlasId": "CollectionIcon",
+    "iconId": "92_chiyanjita",
+    "emoji": "<:92_chiyanjita:1328901454722891888>"
+  },
+  "92_SCPsuipian": {
+    "name": "赤焰吉他碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "92_SCPsuipian",
+    "emoji": "<:92_SCPsuipian:1328901454437683351>"
+  },
+  "93_jininabanmenpiao": {
+    "name": "纪念版门票",
+    "atlasId": "CollectionIcon",
+    "iconId": "93_jininabanmenpiao",
+    "emoji": "<:93_jininabanmenpiao:1328901462016917587>"
+  },
+  "93_SCPsuipian": {
+    "name": "纪念版门票碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "93_SCPsuipian",
+    "emoji": "<:93_SCPsuipian:1328901455113093150>"
+  },
+  "94_cinengshoutao": {
+    "name": "磁能手套",
+    "atlasId": "CollectionIcon",
+    "iconId": "94_cinengshoutao",
+    "emoji": "<:94_cinengshoutao:1328901457079959657>"
+  },
+  "94_SCPsuipian": {
+    "name": "磁能手套碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "94_SCPsuipian",
+    "emoji": "<:94_SCPsuipian:1328901455914074133>"
+  },
+  "95_sandiyanjing": {
+    "name": "3D眼镜",
+    "atlasId": "CollectionIcon",
+    "iconId": "95_sandiyanjing",
+    "emoji": "<:95_sandiyanjing:1328901458170482708>"
+  },
+  "95_SCPsuipian": {
+    "name": "3D眼镜碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "95_SCPsuipian",
+    "emoji": "<:95_SCPsuipian:1328901456383705179>"
+  },
+  "96_shiyanshigongpai": {
+    "name": "实验室工牌",
+    "atlasId": "CollectionIcon",
+    "iconId": "96_shiyanshigongpai",
+    "emoji": "<:96_shiyanshigongpai:1328901463837245440>"
+  },
+  "96_SCPsuipian": {
+    "name": "实验室工牌碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "96_SCPsuipian",
+    "emoji": "<:96_SCPsuipian:1328901462922756218>"
+  },
+  "97_hongwaiwangyuanjing": {
+    "name": "红外望远镜",
+    "atlasId": "CollectionIcon",
+    "iconId": "97_hongwaiwangyuanjing",
+    "emoji": "<:97_hongwaiwangyuanjing:1328901457587605524>"
+  },
+  "97_SCPsuipian": {
+    "name": "红外望远镜碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "97_SCPsuipian",
+    "emoji": "<:97_SCPsuipian:1328901467364393011>"
+  },
+  "98_qiaokelibaomihua": {
+    "name": "巧克力爆米花",
+    "atlasId": "CollectionIcon",
+    "iconId": "98_qiaokelibaomihua",
+    "emoji": "<:98_qiaokelibaomihua:1328901458661347400>"
+  },
+  "98_SCPsuipian": {
+    "name": "巧克力爆米花碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "98_SCPsuipian",
+    "emoji": "<:98_SCPsuipian:1328901459550539867>"
+  },
+  "99_laoshihumujing": {
+    "name": "老式护目镜",
+    "atlasId": "CollectionIcon",
+    "iconId": "99_laoshihumujing",
+    "emoji": "<:99_laoshihumujing:1328901460406173756>"
+  },
+  "99_SCPsuipian": {
+    "name": "老式护目镜碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "99_SCPsuipian",
+    "emoji": "<:99_SCPsuipian:1328901460859027518>"
+  },
+  "100_wuxianheika": {
+    "name": "无限黑卡",
+    "atlasId": "CollectionIcon",
+    "iconId": "100_wuxianheika",
+    "emoji": "<:100_wuxianheika:1328901464311070720>"
+  },
+  "100_SCPsuipian": {
+    "name": "无限黑卡碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "100_SCPsuipian",
+    "emoji": "<:100_SCPsuipian:1328901466907217961>"
+  },
+  "101_shijianzantingqi": {
+    "name": "时间暂停器",
+    "atlasId": "CollectionIcon",
+    "iconId": "101_shijianzantingqi",
+    "emoji": "<:101_shijianzantingqi:1328901461526057135>"
+  },
+  "101_SCPsuipian": {
+    "name": "时间暂停器碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "101_SCPsuipian",
+    "emoji": "<:101_SCPsuipian:1328901467792347149>"
+  },
+  "102_mengxiangchengzhenbiji": {
+    "name": "梦想成真笔记",
+    "atlasId": "CollectionIcon",
+    "iconId": "102_mengxiangchengzhenbiji",
+    "emoji": "<:102_mengxiangchengzhenbiji:1328901462109061142>"
+  },
+  "102_SCPsuipian": {
+    "name": "梦想成真笔记碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "102_SCPsuipian",
+    "emoji": "<:102_SCPsuipian:1328901476533145671>"
+  },
+  "103_zidongdaqitong": {
+    "name": "自动打气筒",
+    "atlasId": "CollectionIcon",
+    "iconId": "103_zidongdaqitong",
+    "emoji": "<:103_zidongdaqitong:1328901465112055882>"
+  },
+  "103_SCPsuipian": {
+    "name": "自动打气筒碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "103_SCPsuipian",
+    "emoji": "<:103_SCPsuipian:1328901465649188925>"
+  },
+  "104_yundonghuijiangpai": {
+    "name": "运动会奖牌",
+    "atlasId": "CollectionIcon",
+    "iconId": "104_yundonghuijiangpai",
+    "emoji": "<:104_yundonghuijiangpai:1328901464604676268>"
+  },
+  "104_SCPsuipian": {
+    "name": "运动会奖牌碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "104_SCPsuipian",
+    "emoji": "<:104_SCPsuipian:1328901464776642614>"
+  },
+  "105_shijieshushuyebiaoben": {
+    "name": "世界树树叶标本",
+    "atlasId": "CollectionIcon",
+    "iconId": "105_shijieshushuyebiaoben",
+    "emoji": "<:105_shijieshushuyebiaoben:1328901466374668328>"
+  },
+  "105_SCPsuipian": {
+    "name": "世界树树叶标本碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "105_SCPsuipian",
+    "emoji": "<:105_SCPsuipian:1328901468719157278>"
+  },
+  "106_daxiangwanou": {
+    "name": "大象玩偶",
+    "atlasId": "CollectionIcon",
+    "iconId": "106_daxiangwanou",
+    "emoji": "<:106_daxiangwanou:1328901479565623346>"
+  },
+  "106_SCPsuipian": {
+    "name": "大象玩偶碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "106_SCPsuipian",
+    "emoji": "<:106_SCPsuipian:1328901482095050864>"
+  },
+  "107_shengrihuangguan": {
+    "name": "生日皇冠",
+    "atlasId": "CollectionIcon",
+    "iconId": "107_shengrihuangguan",
+    "emoji": "<:107_shengrihuangguan:1328901472309612677>"
+  },
+  "107_SCPsuipian": {
+    "name": "生日皇冠碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "107_SCPsuipian",
+    "emoji": "<:107_SCPsuipian:1328901469419606158>"
+  },
+  "108_shuiguozhazhiji": {
+    "name": "水果榨汁机",
+    "atlasId": "CollectionIcon",
+    "iconId": "108_shuiguozhazhiji",
+    "emoji": "<:108_shuiguozhazhiji:1328901468148858901>"
+  },
+  "108_SCPsuipian": {
+    "name": "水果榨汁机碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "108_SCPsuipian",
+    "emoji": "<:108_SCPsuipian:1328901469033725965>"
+  },
+  "109_mofashuijingqiu": {
+    "name": "魔法水晶球",
+    "atlasId": "CollectionIcon",
+    "iconId": "109_mofashuijingqiu",
+    "emoji": "<:109_mofashuijingqiu:1328901471114231818>"
+  },
+  "109_SCPsuipian": {
+    "name": "魔法水晶球碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "109_SCPsuipian",
+    "emoji": "<:109_SCPsuipian:1328901470581555312>"
+  },
+  "111_naminitaimianju": {
+    "name": "纳米拟态面具",
+    "atlasId": "CollectionIcon",
+    "iconId": "111_naminitaimianju",
+    "emoji": "<:111_naminitaimianju:1328901469914534042>"
+  },
+  "111_SCPsuipian": {
+    "name": "纳米拟态面具碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "111_SCPsuipian",
+    "emoji": "<:111_SCPsuipian:1328901473295405150>"
+  },
+  "112_mingyunduomiantou": {
+    "name": "命运多面骰",
+    "atlasId": "CollectionIcon",
+    "iconId": "112_mingyunduomiantou",
+    "emoji": "<:112_mingyunduomiantou:1328901474410827836>"
+  },
+  "112_SCPsuipian": {
+    "name": "命运多面骰碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "112_SCPsuipian",
+    "emoji": "<:112_SCPsuipian:1328901471198117919>"
+  },
+  "113_weidubo": {
+    "name": "维度箔",
+    "atlasId": "CollectionIcon",
+    "iconId": "113_weidubo",
+    "emoji": "<:113_weidubo:1328901472859062372>"
+  },
+  "113_SCPsuipian": {
+    "name": "维度箔碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "113_SCPsuipian",
+    "emoji": "<:113_SCPsuipian:1328901473886535781>"
+  },
+  "114_yishitongbutoukui": {
+    "name": "意识同步头盔",
+    "atlasId": "CollectionIcon",
+    "iconId": "114_yishitongbutoukui",
+    "emoji": "<:114_yishitongbutoukui:1328901475749068893>"
+  },
+  "114_SCPsuipian": {
+    "name": "意识同步头盔碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "114_SCPsuipian",
+    "emoji": "<:114_SCPsuipian:1328901476185149461>"
+  },
+  "115_fanzhonglizhuangzhi": {
+    "name": "反重力装置",
+    "atlasId": "CollectionIcon",
+    "iconId": "115_fanzhonglizhuangzhi",
+    "emoji": "<:115_fanzhonglizhuangzhi:1328901475362934874>"
+  },
+  "115_SCPsuipian": {
+    "name": "反重力装置碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "115_SCPsuipian",
+    "emoji": "<:115_SCPsuipian:1328901482459828241>"
+  },
+  "116_shuidongtuilijiaopu": {
+    "name": "水力推动脚蹼",
+    "atlasId": "CollectionIcon",
+    "iconId": "116_shuidongtuilijiaopu",
+    "emoji": "<:116_shuidongtuilijiaopu:1328901481318977547>"
+  },
+  "116_SCPsuipian": {
+    "name": "水力推动脚蹼碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "116_SCPsuipian",
+    "emoji": "<:116_SCPsuipian:1328901478005346358>"
+  },
+  "117_chaorenleiyaopian": {
+    "name": "超人类药片",
+    "atlasId": "CollectionIcon",
+    "iconId": "117_chaorenleiyaopian",
+    "emoji": "<:117_chaorenleiyaopian:1328901483089100880>"
+  },
+  "117_SCPsuipian": {
+    "name": "超人类药片碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "117_SCPsuipian",
+    "emoji": "<:117_SCPsuipian:1328901478999523432>"
+  },
+  "118_tongxunhailuo": {
+    "name": "通讯海螺",
+    "atlasId": "CollectionIcon",
+    "iconId": "118_tongxunhailuo",
+    "emoji": "<:118_tongxunhailuo:1328901477573464115>"
+  },
+  "118_SCPsuipian": {
+    "name": "通讯海螺碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "118_SCPsuipian",
+    "emoji": "<:118_SCPsuipian:1328901480522059816>"
+  },
+  "119_naojizhiruqi": {
+    "name": "脑机植入器",
+    "atlasId": "CollectionIcon",
+    "iconId": "119_naojizhiruqi",
+    "emoji": "<:119_naojizhiruqi:1328901486335496317>"
+  },
+  "119_SCPsuipian": {
+    "name": "脑机植入器碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "119_SCPsuipian",
+    "emoji": "<:119_SCPsuipian:1328901484506648687>"
+  },
+  "120_jinjiyuezhang": {
+    "name": "禁忌乐章",
+    "atlasId": "CollectionIcon",
+    "iconId": "120_jinjiyuezhang",
+    "emoji": "<:120_jinjiyuezhang:1328901480173928592>"
+  },
+  "120_SCPsuipian": {
+    "name": "禁忌乐章碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "120_SCPsuipian",
+    "emoji": "<:120_SCPsuipian:1328901480995885096>"
+  },
+  "121_shenhaiyangqiping": {
+    "name": "深海制氧瓶",
+    "atlasId": "CollectionIcon",
+    "iconId": "121_shenhaiyangqiping",
+    "emoji": "<:121_shenhaiyangqiping:1328901481298001971>"
+  },
+  "121_SCPsuipian": {
+    "name": "深海制氧瓶碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "121_SCPsuipian",
+    "emoji": "<:121_SCPsuipian:1328901483688759367>"
+  },
+  "122_haigoutanzhaodeng": {
+    "name": "海沟探照灯",
+    "atlasId": "CollectionIcon",
+    "iconId": "122_haigoutanzhaodeng",
+    "emoji": "<:122_haigoutanzhaodeng:1328901495458107474>"
+  },
+  "122_SCPsuipian": {
+    "name": "海沟探照灯碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "122_SCPsuipian",
+    "emoji": "<:122_SCPsuipian:1328901489032429598>"
+  },
+  "123_fangshuidahuoji": {
+    "name": "防水打火机",
+    "atlasId": "CollectionIcon",
+    "iconId": "123_fangshuidahuoji",
+    "emoji": "<:123_fangshuidahuoji:1328901485156892762>"
+  },
+  "123_SCPsuipian": {
+    "name": "防水打火机碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "123_SCPsuipian",
+    "emoji": "<:123_SCPsuipian:1328901484154322974>"
+  },
+  "124_haidibaoxianxiang": {
+    "name": "海底保险箱",
+    "atlasId": "CollectionIcon",
+    "iconId": "124_haidibaoxianxiang",
+    "emoji": "<:124_haidibaoxianxiang:1328901487010516993>"
+  },
+  "124_SCPsuipian": {
+    "name": "海底保险箱碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "124_SCPsuipian",
+    "emoji": "<:124_SCPsuipian:1328901488520597544>"
+  },
+  "125_fangshengjiqihaitun": {
+    "name": "仿生机器海豚",
+    "atlasId": "CollectionIcon",
+    "iconId": "125_fangshengjiqihaitun",
+    "emoji": "<:125_fangshengjiqihaitun:1328901485882507364>"
+  },
+  "125_SCPsuipian": {
+    "name": "仿生机器海豚碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "125_SCPsuipian",
+    "emoji": "<:125_SCPsuipian:1328901486679425046>"
+  },
+  "126_jiaozhu": {
+    "name": "鲛珠",
+    "atlasId": "CollectionIcon",
+    "iconId": "126_jiaozhu",
+    "emoji": "<:126_jiaozhu:1328901487715291186>"
+  },
+  "126_SCPsuipian": {
+    "name": "鲛珠碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "126_SCPsuipian",
+    "emoji": "<:126_SCPsuipian:1328901486192623626>"
+  },
+  "127_jixiefeixingyi": {
+    "name": "机械飞行翼",
+    "atlasId": "CollectionIcon",
+    "iconId": "127_jixiefeixingyi",
+    "emoji": "<:127_jixiefeixingyi:1328901496779051028>"
+  },
+  "127_SCPsuipian": {
+    "name": "机械飞行翼碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "127_SCPsuipian",
+    "emoji": "<:127_SCPsuipian:1328901488088584354>"
+  },
+  "128_chenchuandingweiqi": {
+    "name": "沉船定位器",
+    "atlasId": "CollectionIcon",
+    "iconId": "128_chenchuandingweiqi",
+    "emoji": "<:128_chenchuandingweiqi:1328901491448348702>"
+  },
+  "128_SCPsuipian": {
+    "name": "沉船定位器碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "128_SCPsuipian",
+    "emoji": "<:128_SCPsuipian:1328901493431992381>"
+  },
+  "129_wufaximiedehuochai": {
+    "name": "无法熄灭的火柴",
+    "atlasId": "CollectionIcon",
+    "iconId": "129_wufaximiedehuochai",
+    "emoji": "<:129_wufaximiedehuochai:1328901491934629999>"
+  },
+  "129_SCPsuipian": {
+    "name": "无法熄灭的火柴碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "129_SCPsuipian",
+    "emoji": "<:129_SCPsuipian:1328901489510580295>"
+  },
+  "130_haidixunzhang": {
+    "name": "海底勋章",
+    "atlasId": "CollectionIcon",
+    "iconId": "130_haidixunzhang",
+    "emoji": "<:130_haidixunzhang:1328901490575671430>"
+  },
+  "130_SCPsuipian": {
+    "name": "海底勋章碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "130_SCPsuipian",
+    "emoji": "<:130_SCPsuipian:1328901489892130827>"
+  },
+  "131_shuitong": {
+    "name": "特制水桶",
+    "atlasId": "CollectionIcon",
+    "iconId": "131_shuitong",
+    "emoji": "<:131_shuitong:1328901491024728097>"
+  },
+  "131_SCPsuipian": {
+    "name": "特制水桶碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "131_SCPsuipian",
+    "emoji": "<:131_SCPsuipian:1328901492421169213>"
+  },
+  "132_heijiaochangpian": {
+    "name": "黑胶唱片",
+    "atlasId": "CollectionIcon",
+    "iconId": "132_heijiaochangpian",
+    "emoji": "<:132_heijiaochangpian:1328901493105102868>"
+  },
+  "132_SCPsuipian": {
+    "name": "黑胶唱片碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "132_SCPsuipian",
+    "emoji": "<:132_SCPsuipian:1328901494401138740>"
+  },
+  "133_suishenting": {
+    "name": "随身听",
+    "atlasId": "CollectionIcon",
+    "iconId": "133_suishenting",
+    "emoji": "<:133_suishenting:1328901492135956565>"
+  },
+  "133_SCPsuipian": {
+    "name": "随身听碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "133_SCPsuipian",
+    "emoji": "<:133_SCPsuipian:1328901496024338495>"
+  },
+  "134_jieshideluxiangji": {
+    "name": "结实的录像机",
+    "atlasId": "CollectionIcon",
+    "iconId": "134_jieshideluxiangji",
+    "emoji": "<:134_jieshideluxiangji:1328901495038677095>"
+  },
+  "134_SCPsuipian": {
+    "name": "结实的录像机碎片",
+    "atlasId": "CollectionPiece",
+    "iconId": "134_SCPsuipian",
+    "emoji": "<:134_SCPsuipian:1328901493650227301>"
+  }
+}

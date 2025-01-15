@@ -1,0 +1,262 @@
+{
+  "String <Path>k__BackingField": "CsvData/DynamicCsv/guildBossRankpro.bytes",
+  "ObscuredDictionaryInt<guildBossRankproRow> _dict": {
+    "Int32 _key": 1104568224,
+    "Int32 _rndIdx": 589,
+    "Dictionary<System.Int32,guildBossRankproRow> _dict": {
+      "Int32[] _buckets": [
+        1,
+        11,
+        12,
+        13,
+        14,
+        15,
+        7,
+        8,
+        9,
+        10,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "Entry<System.Int32,guildBossRankproRow>[] _entries": [
+        {
+          "Int32 hashCode": 1104332002,
+          "Int32 next": -1,
+          "Int32 key": 1104332002,
+          "guildBossRankproRow value": {
+            "Int32 <ID>k__BackingField": 201,
+            "Int32 <CurDiff>k__BackingField": 2,
+            "Int32 <Rank>k__BackingField": 1,
+            "Single <RankPro>k__BackingField": 1.0
+          }
+        },
+        {
+          "Int32 hashCode": 1104332003,
+          "Int32 next": -1,
+          "Int32 key": 1104332003,
+          "guildBossRankproRow value": {
+            "Int32 <ID>k__BackingField": 202,
+            "Int32 <CurDiff>k__BackingField": 2,
+            "Int32 <Rank>k__BackingField": 2,
+            "Single <RankPro>k__BackingField": 0.8999999761581421
+          }
+        },
+        {
+          "Int32 hashCode": 1104332004,
+          "Int32 next": -1,
+          "Int32 key": 1104332004,
+          "guildBossRankproRow value": {
+            "Int32 <ID>k__BackingField": 203,
+            "Int32 <CurDiff>k__BackingField": 2,
+            "Int32 <Rank>k__BackingField": 3,
+            "Single <RankPro>k__BackingField": 0.8999999761581421
+          }
+        },
+        {
+          "Int32 hashCode": 1104332005,
+          "Int32 next": -1,
+          "Int32 key": 1104332005,
+          "guildBossRankproRow value": {
+            "Int32 <ID>k__BackingField": 204,
+            "Int32 <CurDiff>k__BackingField": 2,
+            "Int32 <Rank>k__BackingField": 4,
+            "Single <RankPro>k__BackingField": 0.800000011920929
+          }
+        },
+        {
+          "Int32 hashCode": 1104332006,
+          "Int32 next": -1,
+          "Int32 key": 1104332006,
+          "guildBossRankproRow value": {
+            "Int32 <ID>k__BackingField": 205,
+            "Int32 <CurDiff>k__BackingField": 2,
+            "Int32 <Rank>k__BackingField": 5,
+            "Single <RankPro>k__BackingField": 0.800000011920929
+          }
+        },
+        {
+          "Int32 hashCode": 1104332007,
+          "Int32 next": -1,
+          "Int32 key": 1104332007,
+          "guildBossRankproRow value": {
+            "Int32 <ID>k__BackingField": 206,
+            "Int32 <CurDiff>k__BackingField": 2,
+            "Int32 <Rank>k__BackingField": 6,
+            "Single <RankPro>k__BackingField": 0.699999988079071
+          }
+        },
+        {
+          "Int32 hashCode": 1104332008,
+          "Int32 next": -1,
+          "Int32 key": 1104332008,
+          "guildBossRankproRow value": {
+            "Int32 <ID>k__BackingField": 207,
+            "Int32 <CurDiff>k__BackingField": 2,
+            "Int32 <Rank>k__BackingField": 7,
+            "Single <RankPro>k__BackingField": 0.699999988079071
+          }
+        },
+        {
+          "Int32 hashCode": 1104332009,
+          "Int32 next": -1,
+          "Int32 key": 1104332009,
+          "guildBossRankproRow value": {
+            "Int32 <ID>k__BackingField": 208,
+            "Int32 <CurDiff>k__BackingField": 2,
+            "Int32 <Rank>k__BackingField": 8,
+            "Single <RankPro>k__BackingField": 0.6000000238418579
+          }
+        },
+        {
+          "Int32 hashCode": 1104332010,
+          "Int32 next": -1,
+          "Int32 key": 1104332010,
+          "guildBossRankproRow value": {
+            "Int32 <ID>k__BackingField": 209,
+            "Int32 <CurDiff>k__BackingField": 2,
+            "Int32 <Rank>k__BackingField": 9,
+            "Single <RankPro>k__BackingField": 0.6000000238418579
+          }
+        },
+        {
+          "Int32 hashCode": 1104332011,
+          "Int32 next": -1,
+          "Int32 key": 1104332011,
+          "guildBossRankproRow value": {
+            "Int32 <ID>k__BackingField": 210,
+            "Int32 <CurDiff>k__BackingField": 2,
+            "Int32 <Rank>k__BackingField": 10,
+            "Single <RankPro>k__BackingField": 0.6000000238418579
+          }
+        },
+        {
+          "Int32 hashCode": 1104331782,
+          "Int32 next": 1,
+          "Int32 key": 1104331782,
+          "guildBossRankproRow value": {
+            "Int32 <ID>k__BackingField": 301,
+            "Int32 <CurDiff>k__BackingField": 3,
+            "Int32 <Rank>k__BackingField": 1,
+            "Single <RankPro>k__BackingField": 1.0
+          }
+        },
+        {
+          "Int32 hashCode": 1104331783,
+          "Int32 next": 2,
+          "Int32 key": 1104331783,
+          "guildBossRankproRow value": {
+            "Int32 <ID>k__BackingField": 302,
+            "Int32 <CurDiff>k__BackingField": 3,
+            "Int32 <Rank>k__BackingField": 2,
+            "Single <RankPro>k__BackingField": 0.8999999761581421
+          }
+        },
+        {
+          "Int32 hashCode": 1104331784,
+          "Int32 next": 3,
+          "Int32 key": 1104331784,
+          "guildBossRankproRow value": {
+            "Int32 <ID>k__BackingField": 303,
+            "Int32 <CurDiff>k__BackingField": 3,
+            "Int32 <Rank>k__BackingField": 3,
+            "Single <RankPro>k__BackingField": 0.800000011920929
+          }
+        },
+        {
+          "Int32 hashCode": 1104331785,
+          "Int32 next": 4,
+          "Int32 key": 1104331785,
+          "guildBossRankproRow value": {
+            "Int32 <ID>k__BackingField": 304,
+            "Int32 <CurDiff>k__BackingField": 3,
+            "Int32 <Rank>k__BackingField": 4,
+            "Single <RankPro>k__BackingField": 0.699999988079071
+          }
+        },
+        {
+          "Int32 hashCode": 1104331786,
+          "Int32 next": 5,
+          "Int32 key": 1104331786,
+          "guildBossRankproRow value": {
+            "Int32 <ID>k__BackingField": 305,
+            "Int32 <CurDiff>k__BackingField": 3,
+            "Int32 <Rank>k__BackingField": 5,
+            "Single <RankPro>k__BackingField": 0.6000000238418579
+          }
+        },
+        {
+          "Int32 hashCode": 0,
+          "Int32 next": 0,
+          "Int32 key": 0,
+          "guildBossRankproRow value": "(null-object)"
+        },
+        {
+          "Int32 hashCode": 0,
+          "Int32 next": 0,
+          "Int32 key": 0,
+          "guildBossRankproRow value": "(null-object)"
+        }
+      ],
+      "Int32 _count": 15,
+      "Int32 _freeList": -1,
+      "Int32 _freeCount": 0,
+      "Int32 _version": 15,
+      "IEqualityComparer<System.Int32> _comparer": "(null-object)",
+      "KeyCollection<System.Int32,guildBossRankproRow> _keys": "(null-object)",
+      "ValueCollection<System.Int32,guildBossRankproRow> _values": "(null-object)",
+      "Object _syncRoot": "(null-object)"
+    }
+  },
+  "List<guildBossRankproRow> _all": [
+    {
+      "guildBossRankproRow": "(circular-reference (0x7A6DA696EFC0))"
+    },
+    {
+      "guildBossRankproRow": "(circular-reference (0x7A6DA696EDB0))"
+    },
+    {
+      "guildBossRankproRow": "(circular-reference (0x7A6DA696EC30))"
+    },
+    {
+      "guildBossRankproRow": "(circular-reference (0x7A6DA696EAB0))"
+    },
+    {
+      "guildBossRankproRow": "(circular-reference (0x7A6DA696E930))"
+    },
+    {
+      "guildBossRankproRow": "(circular-reference (0x7A6DA696E780))"
+    },
+    {
+      "guildBossRankproRow": "(circular-reference (0x7A6DA696E600))"
+    },
+    {
+      "guildBossRankproRow": "(circular-reference (0x7A6DA696E4B0))"
+    },
+    {
+      "guildBossRankproRow": "(circular-reference (0x7A6DA696E2D0))"
+    },
+    {
+      "guildBossRankproRow": "(circular-reference (0x7A6DA696E150))"
+    },
+    {
+      "guildBossRankproRow": "(circular-reference (0x7A6DA696E060))"
+    },
+    {
+      "guildBossRankproRow": "(circular-reference (0x7A6DA6979E40))"
+    },
+    {
+      "guildBossRankproRow": "(circular-reference (0x7A6DA6979B70))"
+    },
+    {
+      "guildBossRankproRow": "(circular-reference (0x7A6DA6979870))"
+    },
+    {
+      "guildBossRankproRow": "(circular-reference (0x7A6DA6979660))"
+    }
+  ]
+}

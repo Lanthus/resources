@@ -1,0 +1,250 @@
+{
+  "String <Path>k__BackingField": "CsvData/DynamicCsv/AccessoryBoxRule.bytes",
+  "ObscuredDictionaryInt<AccessoryBoxRuleRow> _dict": {
+    "Int32 _key": 1080441172,
+    "Int32 _rndIdx": 526,
+    "Dictionary<System.Int32,AccessoryBoxRuleRow> _dict": {
+      "Int32[] _buckets": [
+        0,
+        0,
+        0,
+        5,
+        3,
+        4,
+        0,
+        0,
+        10,
+        11,
+        12,
+        0,
+        0,
+        6,
+        7,
+        8,
+        9
+      ],
+      "Entry<System.Int32,AccessoryBoxRuleRow>[] _entries": [
+        {
+          "Int32 hashCode": 1080148135,
+          "Int32 next": -1,
+          "Int32 key": 1080148135,
+          "AccessoryBoxRuleRow value": {
+            "Int32 <ID>k__BackingField": 12001,
+            "Int32 <TypeId>k__BackingField": 1,
+            "Int32 <MinCount>k__BackingField": 0,
+            "Int32 <MaxCount>k__BackingField": 1,
+            "Int32 <DropId>k__BackingField": 43
+          }
+        },
+        {
+          "Int32 hashCode": 1080148128,
+          "Int32 next": -1,
+          "Int32 key": 1080148128,
+          "AccessoryBoxRuleRow value": {
+            "Int32 <ID>k__BackingField": 12002,
+            "Int32 <TypeId>k__BackingField": 1,
+            "Int32 <MinCount>k__BackingField": 2,
+            "Int32 <MaxCount>k__BackingField": 4,
+            "Int32 <DropId>k__BackingField": 43
+          }
+        },
+        {
+          "Int32 hashCode": 1080148129,
+          "Int32 next": -1,
+          "Int32 key": 1080148129,
+          "AccessoryBoxRuleRow value": {
+            "Int32 <ID>k__BackingField": 12003,
+            "Int32 <TypeId>k__BackingField": 1,
+            "Int32 <MinCount>k__BackingField": 5,
+            "Int32 <MaxCount>k__BackingField": 5,
+            "Int32 <DropId>k__BackingField": 43
+          }
+        },
+        {
+          "Int32 hashCode": 1080148130,
+          "Int32 next": -1,
+          "Int32 key": 1080148130,
+          "AccessoryBoxRuleRow value": {
+            "Int32 <ID>k__BackingField": 12004,
+            "Int32 <TypeId>k__BackingField": 1,
+            "Int32 <MinCount>k__BackingField": 6,
+            "Int32 <MaxCount>k__BackingField": -1,
+            "Int32 <DropId>k__BackingField": 43
+          }
+        },
+        {
+          "Int32 hashCode": 1080959079,
+          "Int32 next": 1,
+          "Int32 key": 1080959079,
+          "AccessoryBoxRuleRow value": {
+            "Int32 <ID>k__BackingField": 20001,
+            "Int32 <TypeId>k__BackingField": 2,
+            "Int32 <MinCount>k__BackingField": 0,
+            "Int32 <MaxCount>k__BackingField": -1,
+            "Int32 <DropId>k__BackingField": 46
+          }
+        },
+        {
+          "Int32 hashCode": 1080959072,
+          "Int32 next": -1,
+          "Int32 key": 1080959072,
+          "AccessoryBoxRuleRow value": {
+            "Int32 <ID>k__BackingField": 20002,
+            "Int32 <TypeId>k__BackingField": 3,
+            "Int32 <MinCount>k__BackingField": 0,
+            "Int32 <MaxCount>k__BackingField": -1,
+            "Int32 <DropId>k__BackingField": 47
+          }
+        },
+        {
+          "Int32 hashCode": 1080959073,
+          "Int32 next": -1,
+          "Int32 key": 1080959073,
+          "AccessoryBoxRuleRow value": {
+            "Int32 <ID>k__BackingField": 20003,
+            "Int32 <TypeId>k__BackingField": 4,
+            "Int32 <MinCount>k__BackingField": 0,
+            "Int32 <MaxCount>k__BackingField": -1,
+            "Int32 <DropId>k__BackingField": 48
+          }
+        },
+        {
+          "Int32 hashCode": 1080959074,
+          "Int32 next": -1,
+          "Int32 key": 1080959074,
+          "AccessoryBoxRuleRow value": {
+            "Int32 <ID>k__BackingField": 20004,
+            "Int32 <TypeId>k__BackingField": 5,
+            "Int32 <MinCount>k__BackingField": 0,
+            "Int32 <MaxCount>k__BackingField": -1,
+            "Int32 <DropId>k__BackingField": 49
+          }
+        },
+        {
+          "Int32 hashCode": 1080959075,
+          "Int32 next": -1,
+          "Int32 key": 1080959075,
+          "AccessoryBoxRuleRow value": {
+            "Int32 <ID>k__BackingField": 20005,
+            "Int32 <TypeId>k__BackingField": 6,
+            "Int32 <MinCount>k__BackingField": 0,
+            "Int32 <MaxCount>k__BackingField": -1,
+            "Int32 <DropId>k__BackingField": 50
+          }
+        },
+        {
+          "Int32 hashCode": 1080959084,
+          "Int32 next": -1,
+          "Int32 key": 1080959084,
+          "AccessoryBoxRuleRow value": {
+            "Int32 <ID>k__BackingField": 20006,
+            "Int32 <TypeId>k__BackingField": 7,
+            "Int32 <MinCount>k__BackingField": 0,
+            "Int32 <MaxCount>k__BackingField": -1,
+            "Int32 <DropId>k__BackingField": 59
+          }
+        },
+        {
+          "Int32 hashCode": 1080959085,
+          "Int32 next": -1,
+          "Int32 key": 1080959085,
+          "AccessoryBoxRuleRow value": {
+            "Int32 <ID>k__BackingField": 20007,
+            "Int32 <TypeId>k__BackingField": 8,
+            "Int32 <MinCount>k__BackingField": 0,
+            "Int32 <MaxCount>k__BackingField": -1,
+            "Int32 <DropId>k__BackingField": 60
+          }
+        },
+        {
+          "Int32 hashCode": 1080959086,
+          "Int32 next": 0,
+          "Int32 key": 1080959086,
+          "AccessoryBoxRuleRow value": {
+            "Int32 <ID>k__BackingField": 20008,
+            "Int32 <TypeId>k__BackingField": 9,
+            "Int32 <MinCount>k__BackingField": 0,
+            "Int32 <MaxCount>k__BackingField": -1,
+            "Int32 <DropId>k__BackingField": 67
+          }
+        },
+        {
+          "Int32 hashCode": 0,
+          "Int32 next": 0,
+          "Int32 key": 0,
+          "AccessoryBoxRuleRow value": "(null-object)"
+        },
+        {
+          "Int32 hashCode": 0,
+          "Int32 next": 0,
+          "Int32 key": 0,
+          "AccessoryBoxRuleRow value": "(null-object)"
+        },
+        {
+          "Int32 hashCode": 0,
+          "Int32 next": 0,
+          "Int32 key": 0,
+          "AccessoryBoxRuleRow value": "(null-object)"
+        },
+        {
+          "Int32 hashCode": 0,
+          "Int32 next": 0,
+          "Int32 key": 0,
+          "AccessoryBoxRuleRow value": "(null-object)"
+        },
+        {
+          "Int32 hashCode": 0,
+          "Int32 next": 0,
+          "Int32 key": 0,
+          "AccessoryBoxRuleRow value": "(null-object)"
+        }
+      ],
+      "Int32 _count": 12,
+      "Int32 _freeList": -1,
+      "Int32 _freeCount": 0,
+      "Int32 _version": 12,
+      "IEqualityComparer<System.Int32> _comparer": "(null-object)",
+      "KeyCollection<System.Int32,AccessoryBoxRuleRow> _keys": "(null-object)",
+      "ValueCollection<System.Int32,AccessoryBoxRuleRow> _values": "(null-object)",
+      "Object _syncRoot": "(null-object)"
+    }
+  },
+  "List<AccessoryBoxRuleRow> _all": [
+    {
+      "AccessoryBoxRuleRow": "(circular-reference (0x76D26F1983F0))"
+    },
+    {
+      "AccessoryBoxRuleRow": "(circular-reference (0x76D26F198060))"
+    },
+    {
+      "AccessoryBoxRuleRow": "(circular-reference (0x76D26F1A0CC0))"
+    },
+    {
+      "AccessoryBoxRuleRow": "(circular-reference (0x76D26F1A0990))"
+    },
+    {
+      "AccessoryBoxRuleRow": "(circular-reference (0x76D26F1A0600))"
+    },
+    {
+      "AccessoryBoxRuleRow": "(circular-reference (0x76D26F1A02D0))"
+    },
+    {
+      "AccessoryBoxRuleRow": "(circular-reference (0x76D26F1A4F30))"
+    },
+    {
+      "AccessoryBoxRuleRow": "(circular-reference (0x76D26F1A4BA0))"
+    },
+    {
+      "AccessoryBoxRuleRow": "(circular-reference (0x76D26F1A4810))"
+    },
+    {
+      "AccessoryBoxRuleRow": "(circular-reference (0x76D26F1A44E0))"
+    },
+    {
+      "AccessoryBoxRuleRow": "(circular-reference (0x76D26F1A4150))"
+    },
+    {
+      "AccessoryBoxRuleRow": "(circular-reference (0x76D26F1A4090))"
+    }
+  ]
+}

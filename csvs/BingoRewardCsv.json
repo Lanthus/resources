@@ -1,0 +1,2114 @@
+[
+  {
+    "BingoRewardRow": {
+      "ID": 1,
+      "ConnectActivityId": 20221201,
+      "Reward": [
+        250104,
+        1
+      ],
+      "Weight": 1,
+      "Counts": [
+        64,
+        1
+      ],
+      "DropLimit": 64,
+      "Reward2": [],
+      "Weight2": 0,
+      "Counts2": [],
+      "DropLimit2": 0
+    }
+  },
+  {
+    "BingoRewardRow": {
+      "ID": 2,
+      "ConnectActivityId": 20221201,
+      "Reward": [
+        260104,
+        1
+      ],
+      "Weight": 1,
+      "Counts": [
+        64,
+        1
+      ],
+      "DropLimit": 64,
+      "Reward2": [],
+      "Weight2": 0,
+      "Counts2": [],
+      "DropLimit2": 0
+    }
+  },
+  {
+    "BingoRewardRow": {
+      "ID": 3,
+      "ConnectActivityId": 20221201,
+      "Reward": [
+        30054,
+        1
+      ],
+      "Weight": 3,
+      "Counts": [
+        1,
+        1
+      ],
+      "DropLimit": 0,
+      "Reward2": [],
+      "Weight2": 0,
+      "Counts2": [],
+      "DropLimit2": 0
+    }
+  },
+  {
+    "BingoRewardRow": {
+      "ID": 4,
+      "ConnectActivityId": 20221201,
+      "Reward": [
+        30064,
+        1
+      ],
+      "Weight": 3,
+      "Counts": [
+        1,
+        1
+      ],
+      "DropLimit": 0,
+      "Reward2": [],
+      "Weight2": 0,
+      "Counts2": [],
+      "DropLimit2": 0
+    }
+  },
+  {
+    "BingoRewardRow": {
+      "ID": 5,
+      "ConnectActivityId": 20221201,
+      "Reward": [
+        30304,
+        1
+      ],
+      "Weight": 6,
+      "Counts": [
+        1,
+        1
+      ],
+      "DropLimit": 0,
+      "Reward2": [],
+      "Weight2": 0,
+      "Counts2": [],
+      "DropLimit2": 0
+    }
+  },
+  {
+    "BingoRewardRow": {
+      "ID": 6,
+      "ConnectActivityId": 20221201,
+      "Reward": [
+        30304,
+        2
+      ],
+      "Weight": 3,
+      "Counts": [
+        1,
+        1
+      ],
+      "DropLimit": 0,
+      "Reward2": [],
+      "Weight2": 0,
+      "Counts2": [],
+      "DropLimit2": 0
+    }
+  },
+  {
+    "BingoRewardRow": {
+      "ID": 7,
+      "ConnectActivityId": 20221201,
+      "Reward": [
+        1,
+        500
+      ],
+      "Weight": 15,
+      "Counts": [
+        1,
+        1
+      ],
+      "DropLimit": 0,
+      "Reward2": [],
+      "Weight2": 0,
+      "Counts2": [],
+      "DropLimit2": 0
+    }
+  },
+  {
+    "BingoRewardRow": {
+      "ID": 8,
+      "ConnectActivityId": 20221201,
+      "Reward": [
+        1,
+        2000
+      ],
+      "Weight": 2,
+      "Counts": [
+        1,
+        1
+      ],
+      "DropLimit": 0,
+      "Reward2": [],
+      "Weight2": 0,
+      "Counts2": [],
+      "DropLimit2": 0
+    }
+  },
+  {
+    "BingoRewardRow": {
+      "ID": 9,
+      "ConnectActivityId": 20221201,
+      "Reward": [
+        2,
+        10000
+      ],
+      "Weight": 15,
+      "Counts": [
+        1,
+        1
+      ],
+      "DropLimit": 0,
+      "Reward2": [],
+      "Weight2": 0,
+      "Counts2": [],
+      "DropLimit2": 0
+    }
+  },
+  {
+    "BingoRewardRow": {
+      "ID": 10,
+      "ConnectActivityId": 20221201,
+      "Reward": [
+        2,
+        30000
+      ],
+      "Weight": 10,
+      "Counts": [
+        1,
+        1
+      ],
+      "DropLimit": 0,
+      "Reward2": [],
+      "Weight2": 0,
+      "Counts2": [],
+      "DropLimit2": 0
+    }
+  },
+  {
+    "BingoRewardRow": {
+      "ID": 11,
+      "ConnectActivityId": 20221201,
+      "Reward": [
+        2,
+        60000
+      ],
+      "Weight": 5,
+      "Counts": [
+        1,
+        1
+      ],
+      "DropLimit": 0,
+      "Reward2": [],
+      "Weight2": 0,
+      "Counts2": [],
+      "DropLimit2": 0
+    }
+  },
+  {
+    "BingoRewardRow": {
+      "ID": 12,
+      "ConnectActivityId": 20230204,
+      "Reward": [
+        220104,
+        1
+      ],
+      "Weight": 1,
+      "Counts": [
+        64,
+        1
+      ],
+      "DropLimit": 64,
+      "Reward2": [],
+      "Weight2": 0,
+      "Counts2": [],
+      "DropLimit2": 0
+    }
+  },
+  {
+    "BingoRewardRow": {
+      "ID": 13,
+      "ConnectActivityId": 20230204,
+      "Reward": [
+        240104,
+        1
+      ],
+      "Weight": 1,
+      "Counts": [
+        64,
+        1
+      ],
+      "DropLimit": 64,
+      "Reward2": [],
+      "Weight2": 0,
+      "Counts2": [],
+      "DropLimit2": 0
+    }
+  },
+  {
+    "BingoRewardRow": {
+      "ID": 14,
+      "ConnectActivityId": 20230204,
+      "Reward": [
+        30054,
+        1
+      ],
+      "Weight": 3,
+      "Counts": [
+        1,
+        1
+      ],
+      "DropLimit": 0,
+      "Reward2": [],
+      "Weight2": 0,
+      "Counts2": [],
+      "DropLimit2": 0
+    }
+  },
+  {
+    "BingoRewardRow": {
+      "ID": 15,
+      "ConnectActivityId": 20230204,
+      "Reward": [
+        30064,
+        1
+      ],
+      "Weight": 3,
+      "Counts": [
+        1,
+        1
+      ],
+      "DropLimit": 0,
+      "Reward2": [],
+      "Weight2": 0,
+      "Counts2": [],
+      "DropLimit2": 0
+    }
+  },
+  {
+    "BingoRewardRow": {
+      "ID": 16,
+      "ConnectActivityId": 20230204,
+      "Reward": [
+        30304,
+        1
+      ],
+      "Weight": 6,
+      "Counts": [
+        1,
+        1
+      ],
+      "DropLimit": 0,
+      "Reward2": [],
+      "Weight2": 0,
+      "Counts2": [],
+      "DropLimit2": 0
+    }
+  },
+  {
+    "BingoRewardRow": {
+      "ID": 17,
+      "ConnectActivityId": 20230204,
+      "Reward": [
+        30304,
+        2
+      ],
+      "Weight": 3,
+      "Counts": [
+        1,
+        1
+      ],
+      "DropLimit": 0,
+      "Reward2": [],
+      "Weight2": 0,
+      "Counts2": [],
+      "DropLimit2": 0
+    }
+  },
+  {
+    "BingoRewardRow": {
+      "ID": 18,
+      "ConnectActivityId": 20230204,
+      "Reward": [
+        1,
+        300
+      ],
+      "Weight": 15,
+      "Counts": [
+        1,
+        1
+      ],
+      "DropLimit": 0,
+      "Reward2": [],
+      "Weight2": 0,
+      "Counts2": [],
+      "DropLimit2": 0
+    }
+  },
+  {
+    "BingoRewardRow": {
+      "ID": 19,
+      "ConnectActivityId": 20230204,
+      "Reward": [
+        1,
+        2000
+      ],
+      "Weight": 2,
+      "Counts": [
+        1,
+        1
+      ],
+      "DropLimit": 0,
+      "Reward2": [],
+      "Weight2": 0,
+      "Counts2": [],
+      "DropLimit2": 0
+    }
+  },
+  {
+    "BingoRewardRow": {
+      "ID": 20,
+      "ConnectActivityId": 20230204,
+      "Reward": [
+        2,
+        10000
+      ],
+      "Weight": 15,
+      "Counts": [
+        1,
+        1
+      ],
+      "DropLimit": 0,
+      "Reward2": [],
+      "Weight2": 0,
+      "Counts2": [],
+      "DropLimit2": 0
+    }
+  },
+  {
+    "BingoRewardRow": {
+      "ID": 21,
+      "ConnectActivityId": 20230204,
+      "Reward": [
+        2,
+        30000
+      ],
+      "Weight": 10,
+      "Counts": [
+        1,
+        1
+      ],
+      "DropLimit": 0,
+      "Reward2": [],
+      "Weight2": 0,
+      "Counts2": [],
+      "DropLimit2": 0
+    }
+  },
+  {
+    "BingoRewardRow": {
+      "ID": 22,
+      "ConnectActivityId": 20230204,
+      "Reward": [
+        2,
+        60000
+      ],
+      "Weight": 5,
+      "Counts": [
+        1,
+        1
+      ],
+      "DropLimit": 0,
+      "Reward2": [],
+      "Weight2": 0,
+      "Counts2": [],
+      "DropLimit2": 0
+    }
+  },
+  {
+    "BingoRewardRow": {
+      "ID": 23,
+      "ConnectActivityId": 20230508,
+      "Reward": [
+        220204,
+        1
+      ],
+      "Weight": 1,
+      "Counts": [
+        64,
+        1
+      ],
+      "DropLimit": 64,
+      "Reward2": [],
+      "Weight2": 0,
+      "Counts2": [],
+      "DropLimit2": 0
+    }
+  },
+  {
+    "BingoRewardRow": {
+      "ID": 24,
+      "ConnectActivityId": 20230508,
+      "Reward": [
+        240204,
+        1
+      ],
+      "Weight": 1,
+      "Counts": [
+        64,
+        1
+      ],
+      "DropLimit": 64,
+      "Reward2": [],
+      "Weight2": 0,
+      "Counts2": [],
+      "DropLimit2": 0
+    }
+  },
+  {
+    "BingoRewardRow": {
+      "ID": 25,
+      "ConnectActivityId": 20230508,
+      "Reward": [
+        30054,
+        1
+      ],
+      "Weight": 3,
+      "Counts": [
+        1,
+        1
+      ],
+      "DropLimit": 0,
+      "Reward2": [],
+      "Weight2": 0,
+      "Counts2": [],
+      "DropLimit2": 0
+    }
+  },
+  {
+    "BingoRewardRow": {
+      "ID": 26,
+      "ConnectActivityId": 20230508,
+      "Reward": [
+        30064,
+        1
+      ],
+      "Weight": 3,
+      "Counts": [
+        1,
+        1
+      ],
+      "DropLimit": 0,
+      "Reward2": [],
+      "Weight2": 0,
+      "Counts2": [],
+      "DropLimit2": 0
+    }
+  },
+  {
+    "BingoRewardRow": {
+      "ID": 27,
+      "ConnectActivityId": 20230508,
+      "Reward": [
+        30304,
+        1
+      ],
+      "Weight": 6,
+      "Counts": [
+        1,
+        1
+      ],
+      "DropLimit": 0,
+      "Reward2": [],
+      "Weight2": 0,
+      "Counts2": [],
+      "DropLimit2": 0
+    }
+  },
+  {
+    "BingoRewardRow": {
+      "ID": 28,
+      "ConnectActivityId": 20230508,
+      "Reward": [
+        30304,
+        2
+      ],
+      "Weight": 3,
+      "Counts": [
+        1,
+        1
+      ],
+      "DropLimit": 0,
+      "Reward2": [],
+      "Weight2": 0,
+      "Counts2": [],
+      "DropLimit2": 0
+    }
+  },
+  {
+    "BingoRewardRow": {
+      "ID": 29,
+      "ConnectActivityId": 20230508,
+      "Reward": [
+        1,
+        300
+      ],
+      "Weight": 15,
+      "Counts": [
+        1,
+        1
+      ],
+      "DropLimit": 0,
+      "Reward2": [],
+      "Weight2": 0,
+      "Counts2": [],
+      "DropLimit2": 0
+    }
+  },
+  {
+    "BingoRewardRow": {
+      "ID": 30,
+      "ConnectActivityId": 20230508,
+      "Reward": [
+        1,
+        2000
+      ],
+      "Weight": 2,
+      "Counts": [
+        1,
+        1
+      ],
+      "DropLimit": 0,
+      "Reward2": [],
+      "Weight2": 0,
+      "Counts2": [],
+      "DropLimit2": 0
+    }
+  },
+  {
+    "BingoRewardRow": {
+      "ID": 31,
+      "ConnectActivityId": 20230508,
+      "Reward": [
+        2,
+        10000
+      ],
+      "Weight": 15,
+      "Counts": [
+        1,
+        1
+      ],
+      "DropLimit": 0,
+      "Reward2": [],
+      "Weight2": 0,
+      "Counts2": [],
+      "DropLimit2": 0
+    }
+  },
+  {
+    "BingoRewardRow": {
+      "ID": 32,
+      "ConnectActivityId": 20230508,
+      "Reward": [
+        2,
+        30000
+      ],
+      "Weight": 10,
+      "Counts": [
+        1,
+        1
+      ],
+      "DropLimit": 0,
+      "Reward2": [],
+      "Weight2": 0,
+      "Counts2": [],
+      "DropLimit2": 0
+    }
+  },
+  {
+    "BingoRewardRow": {
+      "ID": 33,
+      "ConnectActivityId": 20230508,
+      "Reward": [
+        2,
+        60000
+      ],
+      "Weight": 5,
+      "Counts": [
+        1,
+        1
+      ],
+      "DropLimit": 0,
+      "Reward2": [],
+      "Weight2": 0,
+      "Counts2": [],
+      "DropLimit2": 0
+    }
+  },
+  {
+    "BingoRewardRow": {
+      "ID": 34,
+      "ConnectActivityId": 20230711,
+      "Reward": [
+        384,
+        80
+      ],
+      "Weight": 16,
+      "Counts": [
+        1,
+        1
+      ],
+      "DropLimit": 0,
+      "Reward2": [],
+      "Weight2": 0,
+      "Counts2": [],
+      "DropLimit2": 0
+    }
+  },
+  {
+    "BingoRewardRow": {
+      "ID": 35,
+      "ConnectActivityId": 20230711,
+      "Reward": [
+        384,
+        80
+      ],
+      "Weight": 16,
+      "Counts": [
+        1,
+        1
+      ],
+      "DropLimit": 0,
+      "Reward2": [],
+      "Weight2": 0,
+      "Counts2": [],
+      "DropLimit2": 0
+    }
+  },
+  {
+    "BingoRewardRow": {
+      "ID": 36,
+      "ConnectActivityId": 20230711,
+      "Reward": [
+        384,
+        150
+      ],
+      "Weight": 5,
+      "Counts": [
+        1,
+        1
+      ],
+      "DropLimit": 0,
+      "Reward2": [],
+      "Weight2": 0,
+      "Counts2": [],
+      "DropLimit2": 0
+    }
+  },
+  {
+    "BingoRewardRow": {
+      "ID": 37,
+      "ConnectActivityId": 20230711,
+      "Reward": [
+        384,
+        150
+      ],
+      "Weight": 5,
+      "Counts": [
+        1,
+        1
+      ],
+      "DropLimit": 0,
+      "Reward2": [],
+      "Weight2": 0,
+      "Counts2": [],
+      "DropLimit2": 0
+    }
+  },
+  {
+    "BingoRewardRow": {
+      "ID": 38,
+      "ConnectActivityId": 20230711,
+      "Reward": [
+        384,
+        300
+      ],
+      "Weight": 10,
+      "Counts": [
+        1,
+        1
+      ],
+      "DropLimit": 0,
+      "Reward2": [],
+      "Weight2": 0,
+      "Counts2": [],
+      "DropLimit2": 0
+    }
+  },
+  {
+    "BingoRewardRow": {
+      "ID": 39,
+      "ConnectActivityId": 20230711,
+      "Reward": [
+        385,
+        2
+      ],
+      "Weight": 13,
+      "Counts": [
+        1,
+        1
+      ],
+      "DropLimit": 0,
+      "Reward2": [],
+      "Weight2": 0,
+      "Counts2": [],
+      "DropLimit2": 0
+    }
+  },
+  {
+    "BingoRewardRow": {
+      "ID": 40,
+      "ConnectActivityId": 20230711,
+      "Reward": [
+        385,
+        2
+      ],
+      "Weight": 13,
+      "Counts": [
+        1,
+        1
+      ],
+      "DropLimit": 0,
+      "Reward2": [],
+      "Weight2": 0,
+      "Counts2": [],
+      "DropLimit2": 0
+    }
+  },
+  {
+    "BingoRewardRow": {
+      "ID": 41,
+      "ConnectActivityId": 20230711,
+      "Reward": [
+        385,
+        10
+      ],
+      "Weight": 6,
+      "Counts": [
+        1,
+        1
+      ],
+      "DropLimit": 0,
+      "Reward2": [],
+      "Weight2": 0,
+      "Counts2": [],
+      "DropLimit2": 0
+    }
+  },
+  {
+    "BingoRewardRow": {
+      "ID": 42,
+      "ConnectActivityId": 20230711,
+      "Reward": [
+        1,
+        250
+      ],
+      "Weight": 11,
+      "Counts": [
+        1,
+        1
+      ],
+      "DropLimit": 0,
+      "Reward2": [],
+      "Weight2": 0,
+      "Counts2": [],
+      "DropLimit2": 0
+    }
+  },
+  {
+    "BingoRewardRow": {
+      "ID": 43,
+      "ConnectActivityId": 20230711,
+      "Reward": [
+        1,
+        250
+      ],
+      "Weight": 11,
+      "Counts": [
+        1,
+        1
+      ],
+      "DropLimit": 0,
+      "Reward2": [],
+      "Weight2": 0,
+      "Counts2": [],
+      "DropLimit2": 0
+    }
+  },
+  {
+    "BingoRewardRow": {
+      "ID": 44,
+      "ConnectActivityId": 20230711,
+      "Reward": [
+        1,
+        1000
+      ],
+      "Weight": 10,
+      "Counts": [
+        1,
+        1
+      ],
+      "DropLimit": 0,
+      "Reward2": [],
+      "Weight2": 0,
+      "Counts2": [],
+      "DropLimit2": 0
+    }
+  },
+  {
+    "BingoRewardRow": {
+      "ID": 45,
+      "ConnectActivityId": 20230901,
+      "Reward": [
+        832,
+        30
+      ],
+      "Weight": 5,
+      "Counts": [
+        1,
+        1
+      ],
+      "DropLimit": 0,
+      "Reward2": [],
+      "Weight2": 0,
+      "Counts2": [],
+      "DropLimit2": 0
+    }
+  },
+  {
+    "BingoRewardRow": {
+      "ID": 46,
+      "ConnectActivityId": 20230901,
+      "Reward": [
+        832,
+        30
+      ],
+      "Weight": 5,
+      "Counts": [
+        1,
+        1
+      ],
+      "DropLimit": 0,
+      "Reward2": [],
+      "Weight2": 0,
+      "Counts2": [],
+      "DropLimit2": 0
+    }
+  },
+  {
+    "BingoRewardRow": {
+      "ID": 47,
+      "ConnectActivityId": 20230901,
+      "Reward": [
+        832,
+        50
+      ],
+      "Weight": 2,
+      "Counts": [
+        1,
+        1
+      ],
+      "DropLimit": 0,
+      "Reward2": [],
+      "Weight2": 0,
+      "Counts2": [],
+      "DropLimit2": 0
+    }
+  },
+  {
+    "BingoRewardRow": {
+      "ID": 48,
+      "ConnectActivityId": 20230901,
+      "Reward": [
+        832,
+        50
+      ],
+      "Weight": 2,
+      "Counts": [
+        1,
+        1
+      ],
+      "DropLimit": 0,
+      "Reward2": [],
+      "Weight2": 0,
+      "Counts2": [],
+      "DropLimit2": 0
+    }
+  },
+  {
+    "BingoRewardRow": {
+      "ID": 49,
+      "ConnectActivityId": 20230901,
+      "Reward": [
+        832,
+        80
+      ],
+      "Weight": 1,
+      "Counts": [
+        1,
+        1
+      ],
+      "DropLimit": 0,
+      "Reward2": [],
+      "Weight2": 0,
+      "Counts2": [],
+      "DropLimit2": 0
+    }
+  },
+  {
+    "BingoRewardRow": {
+      "ID": 50,
+      "ConnectActivityId": 20230901,
+      "Reward": [
+        833,
+        1
+      ],
+      "Weight": 3,
+      "Counts": [
+        1,
+        1
+      ],
+      "DropLimit": 0,
+      "Reward2": [],
+      "Weight2": 0,
+      "Counts2": [],
+      "DropLimit2": 0
+    }
+  },
+  {
+    "BingoRewardRow": {
+      "ID": 51,
+      "ConnectActivityId": 20230901,
+      "Reward": [
+        833,
+        1
+      ],
+      "Weight": 3,
+      "Counts": [
+        1,
+        1
+      ],
+      "DropLimit": 0,
+      "Reward2": [],
+      "Weight2": 0,
+      "Counts2": [],
+      "DropLimit2": 0
+    }
+  },
+  {
+    "BingoRewardRow": {
+      "ID": 52,
+      "ConnectActivityId": 20230901,
+      "Reward": [
+        833,
+        1
+      ],
+      "Weight": 3,
+      "Counts": [
+        1,
+        1
+      ],
+      "DropLimit": 0,
+      "Reward2": [],
+      "Weight2": 0,
+      "Counts2": [],
+      "DropLimit2": 0
+    }
+  },
+  {
+    "BingoRewardRow": {
+      "ID": 53,
+      "ConnectActivityId": 20230901,
+      "Reward": [
+        6,
+        1
+      ],
+      "Weight": 3,
+      "Counts": [
+        1,
+        1
+      ],
+      "DropLimit": 0,
+      "Reward2": [],
+      "Weight2": 0,
+      "Counts2": [],
+      "DropLimit2": 0
+    }
+  },
+  {
+    "BingoRewardRow": {
+      "ID": 54,
+      "ConnectActivityId": 20230901,
+      "Reward": [
+        43,
+        1
+      ],
+      "Weight": 3,
+      "Counts": [
+        1,
+        1
+      ],
+      "DropLimit": 0,
+      "Reward2": [],
+      "Weight2": 0,
+      "Counts2": [],
+      "DropLimit2": 0
+    }
+  },
+  {
+    "BingoRewardRow": {
+      "ID": 55,
+      "ConnectActivityId": 20230901,
+      "Reward": [
+        7,
+        1
+      ],
+      "Weight": 2,
+      "Counts": [
+        1,
+        1
+      ],
+      "DropLimit": 0,
+      "Reward2": [],
+      "Weight2": 0,
+      "Counts2": [],
+      "DropLimit2": 0
+    }
+  },
+  {
+    "BingoRewardRow": {
+      "ID": 56,
+      "ConnectActivityId": 20231201,
+      "Reward": [
+        927,
+        30
+      ],
+      "Weight": 5,
+      "Counts": [
+        1,
+        1
+      ],
+      "DropLimit": 0,
+      "Reward2": [],
+      "Weight2": 0,
+      "Counts2": [],
+      "DropLimit2": 0
+    }
+  },
+  {
+    "BingoRewardRow": {
+      "ID": 57,
+      "ConnectActivityId": 20231201,
+      "Reward": [
+        927,
+        30
+      ],
+      "Weight": 5,
+      "Counts": [
+        1,
+        1
+      ],
+      "DropLimit": 0,
+      "Reward2": [],
+      "Weight2": 0,
+      "Counts2": [],
+      "DropLimit2": 0
+    }
+  },
+  {
+    "BingoRewardRow": {
+      "ID": 58,
+      "ConnectActivityId": 20231201,
+      "Reward": [
+        927,
+        50
+      ],
+      "Weight": 2,
+      "Counts": [
+        1,
+        1
+      ],
+      "DropLimit": 0,
+      "Reward2": [],
+      "Weight2": 0,
+      "Counts2": [],
+      "DropLimit2": 0
+    }
+  },
+  {
+    "BingoRewardRow": {
+      "ID": 59,
+      "ConnectActivityId": 20231201,
+      "Reward": [
+        927,
+        50
+      ],
+      "Weight": 2,
+      "Counts": [
+        1,
+        1
+      ],
+      "DropLimit": 0,
+      "Reward2": [],
+      "Weight2": 0,
+      "Counts2": [],
+      "DropLimit2": 0
+    }
+  },
+  {
+    "BingoRewardRow": {
+      "ID": 60,
+      "ConnectActivityId": 20231201,
+      "Reward": [
+        927,
+        80
+      ],
+      "Weight": 1,
+      "Counts": [
+        1,
+        1
+      ],
+      "DropLimit": 0,
+      "Reward2": [],
+      "Weight2": 0,
+      "Counts2": [],
+      "DropLimit2": 0
+    }
+  },
+  {
+    "BingoRewardRow": {
+      "ID": 61,
+      "ConnectActivityId": 20231201,
+      "Reward": [
+        928,
+        1
+      ],
+      "Weight": 3,
+      "Counts": [
+        1,
+        1
+      ],
+      "DropLimit": 0,
+      "Reward2": [],
+      "Weight2": 0,
+      "Counts2": [],
+      "DropLimit2": 0
+    }
+  },
+  {
+    "BingoRewardRow": {
+      "ID": 62,
+      "ConnectActivityId": 20231201,
+      "Reward": [
+        928,
+        1
+      ],
+      "Weight": 3,
+      "Counts": [
+        1,
+        1
+      ],
+      "DropLimit": 0,
+      "Reward2": [],
+      "Weight2": 0,
+      "Counts2": [],
+      "DropLimit2": 0
+    }
+  },
+  {
+    "BingoRewardRow": {
+      "ID": 63,
+      "ConnectActivityId": 20231201,
+      "Reward": [
+        928,
+        1
+      ],
+      "Weight": 3,
+      "Counts": [
+        1,
+        1
+      ],
+      "DropLimit": 0,
+      "Reward2": [],
+      "Weight2": 0,
+      "Counts2": [],
+      "DropLimit2": 0
+    }
+  },
+  {
+    "BingoRewardRow": {
+      "ID": 64,
+      "ConnectActivityId": 20231201,
+      "Reward": [
+        6,
+        1
+      ],
+      "Weight": 3,
+      "Counts": [
+        1,
+        1
+      ],
+      "DropLimit": 0,
+      "Reward2": [],
+      "Weight2": 0,
+      "Counts2": [],
+      "DropLimit2": 0
+    }
+  },
+  {
+    "BingoRewardRow": {
+      "ID": 65,
+      "ConnectActivityId": 20231201,
+      "Reward": [
+        43,
+        1
+      ],
+      "Weight": 3,
+      "Counts": [
+        1,
+        1
+      ],
+      "DropLimit": 0,
+      "Reward2": [],
+      "Weight2": 0,
+      "Counts2": [],
+      "DropLimit2": 0
+    }
+  },
+  {
+    "BingoRewardRow": {
+      "ID": 66,
+      "ConnectActivityId": 20231201,
+      "Reward": [
+        7,
+        1
+      ],
+      "Weight": 2,
+      "Counts": [
+        1,
+        1
+      ],
+      "DropLimit": 0,
+      "Reward2": [],
+      "Weight2": 0,
+      "Counts2": [],
+      "DropLimit2": 0
+    }
+  },
+  {
+    "BingoRewardRow": {
+      "ID": 67,
+      "ConnectActivityId": 20240407,
+      "Reward": [
+        1056,
+        50
+      ],
+      "Weight": 5,
+      "Counts": [
+        1,
+        1
+      ],
+      "DropLimit": 0,
+      "Reward2": [],
+      "Weight2": 0,
+      "Counts2": [],
+      "DropLimit2": 0
+    }
+  },
+  {
+    "BingoRewardRow": {
+      "ID": 68,
+      "ConnectActivityId": 20240407,
+      "Reward": [
+        1056,
+        50
+      ],
+      "Weight": 5,
+      "Counts": [
+        1,
+        1
+      ],
+      "DropLimit": 0,
+      "Reward2": [],
+      "Weight2": 0,
+      "Counts2": [],
+      "DropLimit2": 0
+    }
+  },
+  {
+    "BingoRewardRow": {
+      "ID": 69,
+      "ConnectActivityId": 20240407,
+      "Reward": [
+        1056,
+        80
+      ],
+      "Weight": 2,
+      "Counts": [
+        1,
+        1
+      ],
+      "DropLimit": 0,
+      "Reward2": [],
+      "Weight2": 0,
+      "Counts2": [],
+      "DropLimit2": 0
+    }
+  },
+  {
+    "BingoRewardRow": {
+      "ID": 70,
+      "ConnectActivityId": 20240407,
+      "Reward": [
+        1056,
+        80
+      ],
+      "Weight": 2,
+      "Counts": [
+        1,
+        1
+      ],
+      "DropLimit": 0,
+      "Reward2": [],
+      "Weight2": 0,
+      "Counts2": [],
+      "DropLimit2": 0
+    }
+  },
+  {
+    "BingoRewardRow": {
+      "ID": 71,
+      "ConnectActivityId": 20240407,
+      "Reward": [
+        1056,
+        100
+      ],
+      "Weight": 1,
+      "Counts": [
+        1,
+        1
+      ],
+      "DropLimit": 0,
+      "Reward2": [],
+      "Weight2": 0,
+      "Counts2": [],
+      "DropLimit2": 0
+    }
+  },
+  {
+    "BingoRewardRow": {
+      "ID": 72,
+      "ConnectActivityId": 20240407,
+      "Reward": [
+        1057,
+        1
+      ],
+      "Weight": 3,
+      "Counts": [
+        1,
+        1
+      ],
+      "DropLimit": 0,
+      "Reward2": [],
+      "Weight2": 0,
+      "Counts2": [],
+      "DropLimit2": 0
+    }
+  },
+  {
+    "BingoRewardRow": {
+      "ID": 73,
+      "ConnectActivityId": 20240407,
+      "Reward": [
+        1057,
+        1
+      ],
+      "Weight": 3,
+      "Counts": [
+        1,
+        1
+      ],
+      "DropLimit": 0,
+      "Reward2": [],
+      "Weight2": 0,
+      "Counts2": [],
+      "DropLimit2": 0
+    }
+  },
+  {
+    "BingoRewardRow": {
+      "ID": 74,
+      "ConnectActivityId": 20240407,
+      "Reward": [
+        1057,
+        1
+      ],
+      "Weight": 3,
+      "Counts": [
+        1,
+        1
+      ],
+      "DropLimit": 0,
+      "Reward2": [],
+      "Weight2": 0,
+      "Counts2": [],
+      "DropLimit2": 0
+    }
+  },
+  {
+    "BingoRewardRow": {
+      "ID": 75,
+      "ConnectActivityId": 20240407,
+      "Reward": [
+        6,
+        1
+      ],
+      "Weight": 3,
+      "Counts": [
+        1,
+        1
+      ],
+      "DropLimit": 0,
+      "Reward2": [],
+      "Weight2": 0,
+      "Counts2": [],
+      "DropLimit2": 0
+    }
+  },
+  {
+    "BingoRewardRow": {
+      "ID": 76,
+      "ConnectActivityId": 20240407,
+      "Reward": [
+        63,
+        1
+      ],
+      "Weight": 3,
+      "Counts": [
+        1,
+        1
+      ],
+      "DropLimit": 0,
+      "Reward2": [],
+      "Weight2": 0,
+      "Counts2": [],
+      "DropLimit2": 0
+    }
+  },
+  {
+    "BingoRewardRow": {
+      "ID": 77,
+      "ConnectActivityId": 20240407,
+      "Reward": [
+        65,
+        1
+      ],
+      "Weight": 2,
+      "Counts": [
+        1,
+        1
+      ],
+      "DropLimit": 0,
+      "Reward2": [],
+      "Weight2": 0,
+      "Counts2": [],
+      "DropLimit2": 0
+    }
+  },
+  {
+    "BingoRewardRow": {
+      "ID": 78,
+      "ConnectActivityId": 20240802,
+      "Reward": [
+        1339,
+        1
+      ],
+      "Weight": 3,
+      "Counts": [
+        1,
+        1
+      ],
+      "DropLimit": 0,
+      "Reward2": [
+        1340,
+        1
+      ],
+      "Weight2": 10,
+      "Counts2": [
+        1,
+        1
+      ],
+      "DropLimit2": 0
+    }
+  },
+  {
+    "BingoRewardRow": {
+      "ID": 79,
+      "ConnectActivityId": 20240802,
+      "Reward": [
+        1339,
+        1
+      ],
+      "Weight": 3,
+      "Counts": [
+        1,
+        1
+      ],
+      "DropLimit": 0,
+      "Reward2": [
+        1340,
+        1
+      ],
+      "Weight2": 8,
+      "Counts2": [
+        1,
+        1
+      ],
+      "DropLimit2": 0
+    }
+  },
+  {
+    "BingoRewardRow": {
+      "ID": 80,
+      "ConnectActivityId": 20240802,
+      "Reward": [
+        1339,
+        1
+      ],
+      "Weight": 0,
+      "Counts": [
+        1,
+        1
+      ],
+      "DropLimit": 0,
+      "Reward2": [
+        1341,
+        1
+      ],
+      "Weight2": 6,
+      "Counts2": [
+        1,
+        1
+      ],
+      "DropLimit2": 0
+    }
+  },
+  {
+    "BingoRewardRow": {
+      "ID": 81,
+      "ConnectActivityId": 20240802,
+      "Reward": [
+        1337,
+        30
+      ],
+      "Weight": 5,
+      "Counts": [
+        1,
+        1
+      ],
+      "DropLimit": 0,
+      "Reward2": [
+        31,
+        3
+      ],
+      "Weight2": 10,
+      "Counts2": [
+        1,
+        1
+      ],
+      "DropLimit2": 0
+    }
+  },
+  {
+    "BingoRewardRow": {
+      "ID": 82,
+      "ConnectActivityId": 20240802,
+      "Reward": [
+        1337,
+        50
+      ],
+      "Weight": 2,
+      "Counts": [
+        1,
+        1
+      ],
+      "DropLimit": 0,
+      "Reward2": [
+        31,
+        5
+      ],
+      "Weight2": 10,
+      "Counts2": [
+        1,
+        1
+      ],
+      "DropLimit2": 0
+    }
+  },
+  {
+    "BingoRewardRow": {
+      "ID": 83,
+      "ConnectActivityId": 20240802,
+      "Reward": [
+        1338,
+        1
+      ],
+      "Weight": 3,
+      "Counts": [
+        1,
+        1
+      ],
+      "DropLimit": 0,
+      "Reward2": [
+        63,
+        3
+      ],
+      "Weight2": 15,
+      "Counts2": [
+        1,
+        1
+      ],
+      "DropLimit2": 0
+    }
+  },
+  {
+    "BingoRewardRow": {
+      "ID": 84,
+      "ConnectActivityId": 20240802,
+      "Reward": [
+        1338,
+        1
+      ],
+      "Weight": 3,
+      "Counts": [
+        1,
+        1
+      ],
+      "DropLimit": 0,
+      "Reward2": [
+        63,
+        5
+      ],
+      "Weight2": 15,
+      "Counts2": [
+        1,
+        1
+      ],
+      "DropLimit2": 0
+    }
+  },
+  {
+    "BingoRewardRow": {
+      "ID": 85,
+      "ConnectActivityId": 20240802,
+      "Reward": [
+        1338,
+        1
+      ],
+      "Weight": 3,
+      "Counts": [
+        1,
+        1
+      ],
+      "DropLimit": 0,
+      "Reward2": [
+        6199,
+        3
+      ],
+      "Weight2": 20,
+      "Counts2": [
+        1,
+        1
+      ],
+      "DropLimit2": 0
+    }
+  },
+  {
+    "BingoRewardRow": {
+      "ID": 86,
+      "ConnectActivityId": 20240802,
+      "Reward": [
+        31,
+        1
+      ],
+      "Weight": 3,
+      "Counts": [
+        1,
+        1
+      ],
+      "DropLimit": 0,
+      "Reward2": [
+        6199,
+        5
+      ],
+      "Weight2": 15,
+      "Counts2": [
+        1,
+        1
+      ],
+      "DropLimit2": 0
+    }
+  },
+  {
+    "BingoRewardRow": {
+      "ID": 87,
+      "ConnectActivityId": 20240802,
+      "Reward": [
+        63,
+        1
+      ],
+      "Weight": 3,
+      "Counts": [
+        1,
+        1
+      ],
+      "DropLimit": 0,
+      "Reward2": [
+        6113,
+        3
+      ],
+      "Weight2": 10,
+      "Counts2": [
+        1,
+        1
+      ],
+      "DropLimit2": 0
+    }
+  },
+  {
+    "BingoRewardRow": {
+      "ID": 88,
+      "ConnectActivityId": 20240802,
+      "Reward": [
+        6100,
+        1
+      ],
+      "Weight": 3,
+      "Counts": [
+        1,
+        1
+      ],
+      "DropLimit": 0,
+      "Reward2": [
+        6113,
+        5
+      ],
+      "Weight2": 10,
+      "Counts2": [
+        1,
+        1
+      ],
+      "DropLimit2": 0
+    }
+  },
+  {
+    "BingoRewardRow": {
+      "ID": 89,
+      "ConnectActivityId": 20241110,
+      "Reward": [
+        1339,
+        1
+      ],
+      "Weight": 3,
+      "Counts": [
+        1,
+        1
+      ],
+      "DropLimit": 0,
+      "Reward2": [
+        1340,
+        1
+      ],
+      "Weight2": 10,
+      "Counts2": [
+        1,
+        1
+      ],
+      "DropLimit2": 0
+    }
+  },
+  {
+    "BingoRewardRow": {
+      "ID": 90,
+      "ConnectActivityId": 20241110,
+      "Reward": [
+        1339,
+        1
+      ],
+      "Weight": 3,
+      "Counts": [
+        1,
+        1
+      ],
+      "DropLimit": 0,
+      "Reward2": [
+        1340,
+        1
+      ],
+      "Weight2": 8,
+      "Counts2": [
+        1,
+        1
+      ],
+      "DropLimit2": 0
+    }
+  },
+  {
+    "BingoRewardRow": {
+      "ID": 91,
+      "ConnectActivityId": 20241110,
+      "Reward": [
+        1339,
+        1
+      ],
+      "Weight": 0,
+      "Counts": [
+        1,
+        1
+      ],
+      "DropLimit": 0,
+      "Reward2": [
+        1341,
+        1
+      ],
+      "Weight2": 6,
+      "Counts2": [
+        1,
+        1
+      ],
+      "DropLimit2": 0
+    }
+  },
+  {
+    "BingoRewardRow": {
+      "ID": 92,
+      "ConnectActivityId": 20241110,
+      "Reward": [
+        1337,
+        30
+      ],
+      "Weight": 5,
+      "Counts": [
+        1,
+        1
+      ],
+      "DropLimit": 0,
+      "Reward2": [
+        65,
+        3
+      ],
+      "Weight2": 10,
+      "Counts2": [
+        1,
+        1
+      ],
+      "DropLimit2": 0
+    }
+  },
+  {
+    "BingoRewardRow": {
+      "ID": 93,
+      "ConnectActivityId": 20241110,
+      "Reward": [
+        1337,
+        50
+      ],
+      "Weight": 2,
+      "Counts": [
+        1,
+        1
+      ],
+      "DropLimit": 0,
+      "Reward2": [
+        65,
+        5
+      ],
+      "Weight2": 10,
+      "Counts2": [
+        1,
+        1
+      ],
+      "DropLimit2": 0
+    }
+  },
+  {
+    "BingoRewardRow": {
+      "ID": 94,
+      "ConnectActivityId": 20241110,
+      "Reward": [
+        1338,
+        1
+      ],
+      "Weight": 3,
+      "Counts": [
+        1,
+        1
+      ],
+      "DropLimit": 0,
+      "Reward2": [
+        63,
+        3
+      ],
+      "Weight2": 15,
+      "Counts2": [
+        1,
+        1
+      ],
+      "DropLimit2": 0
+    }
+  },
+  {
+    "BingoRewardRow": {
+      "ID": 95,
+      "ConnectActivityId": 20241110,
+      "Reward": [
+        1338,
+        1
+      ],
+      "Weight": 3,
+      "Counts": [
+        1,
+        1
+      ],
+      "DropLimit": 0,
+      "Reward2": [
+        63,
+        5
+      ],
+      "Weight2": 15,
+      "Counts2": [
+        1,
+        1
+      ],
+      "DropLimit2": 0
+    }
+  },
+  {
+    "BingoRewardRow": {
+      "ID": 96,
+      "ConnectActivityId": 20241110,
+      "Reward": [
+        1338,
+        1
+      ],
+      "Weight": 3,
+      "Counts": [
+        1,
+        1
+      ],
+      "DropLimit": 0,
+      "Reward2": [
+        30310,
+        3
+      ],
+      "Weight2": 20,
+      "Counts2": [
+        1,
+        1
+      ],
+      "DropLimit2": 0
+    }
+  },
+  {
+    "BingoRewardRow": {
+      "ID": 97,
+      "ConnectActivityId": 20241110,
+      "Reward": [
+        65,
+        1
+      ],
+      "Weight": 3,
+      "Counts": [
+        1,
+        1
+      ],
+      "DropLimit": 0,
+      "Reward2": [
+        30310,
+        5
+      ],
+      "Weight2": 15,
+      "Counts2": [
+        1,
+        1
+      ],
+      "DropLimit2": 0
+    }
+  },
+  {
+    "BingoRewardRow": {
+      "ID": 98,
+      "ConnectActivityId": 20241110,
+      "Reward": [
+        63,
+        1
+      ],
+      "Weight": 3,
+      "Counts": [
+        1,
+        1
+      ],
+      "DropLimit": 0,
+      "Reward2": [
+        6113,
+        3
+      ],
+      "Weight2": 10,
+      "Counts2": [
+        1,
+        1
+      ],
+      "DropLimit2": 0
+    }
+  },
+  {
+    "BingoRewardRow": {
+      "ID": 99,
+      "ConnectActivityId": 20241110,
+      "Reward": [
+        6100,
+        1
+      ],
+      "Weight": 3,
+      "Counts": [
+        1,
+        1
+      ],
+      "DropLimit": 0,
+      "Reward2": [
+        6113,
+        5
+      ],
+      "Weight2": 10,
+      "Counts2": [
+        1,
+        1
+      ],
+      "DropLimit2": 0
+    }
+  }
+]

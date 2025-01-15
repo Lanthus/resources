@@ -1,0 +1,72 @@
+[
+  {
+    "EchoBattleGroupingRow": {
+      "ID": 1,
+      "RegisterTime": 1,
+      "RegisterTimeMax": 14
+    }
+  },
+  {
+    "EchoBattleGroupingRow": {
+      "ID": 2,
+      "RegisterTime": 15,
+      "RegisterTimeMax": 21
+    }
+  },
+  {
+    "EchoBattleGroupingRow": {
+      "ID": 3,
+      "RegisterTime": 22,
+      "RegisterTimeMax": 28
+    }
+  },
+  {
+    "EchoBattleGroupingRow": {
+      "ID": 4,
+      "RegisterTime": 29,
+      "RegisterTimeMax": 42
+    }
+  },
+  {
+    "EchoBattleGroupingRow": {
+      "ID": 5,
+      "RegisterTime": 43,
+      "RegisterTimeMax": 56
+    }
+  },
+  {
+    "EchoBattleGroupingRow": {
+      "ID": 6,
+      "RegisterTime": 57,
+      "RegisterTimeMax": 70
+    }
+  },
+  {
+    "EchoBattleGroupingRow": {
+      "ID": 7,
+      "RegisterTime": 71,
+      "RegisterTimeMax": 91
+    }
+  },
+  {
+    "EchoBattleGroupingRow": {
+      "ID": 8,
+      "RegisterTime": 92,
+      "RegisterTimeMax": 112
+    }
+  },
+  {
+    "EchoBattleGroupingRow": {
+      "ID": 9,
+      "RegisterTime": 113,
+      "RegisterTimeMax": 133
+    }
+  },
+  {
+    "EchoBattleGroupingRow": {
+      "ID": 10,
+      "RegisterTime": 134,
+      "RegisterTimeMax": 99999999
+    }
+  }
+]

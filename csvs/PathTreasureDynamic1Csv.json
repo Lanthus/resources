@@ -1,0 +1,2179 @@
+[
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 1,
+      "LayerRange": [
+        15
+      ],
+      "MinReward": 0,
+      "MaxReward": 4600
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 2,
+      "LayerRange": [
+        16,
+        20
+      ],
+      "MinReward": 2530,
+      "MaxReward": 5750
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 3,
+      "LayerRange": [
+        21,
+        25
+      ],
+      "MinReward": 3680,
+      "MaxReward": 6670
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 4,
+      "LayerRange": [
+        26,
+        30
+      ],
+      "MinReward": 5290,
+      "MaxReward": 7590
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 5,
+      "LayerRange": [
+        31,
+        32
+      ],
+      "MinReward": 6670,
+      "MaxReward": 7820
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 6,
+      "LayerRange": [
+        33,
+        34
+      ],
+      "MinReward": 7130,
+      "MaxReward": 8050
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 7,
+      "LayerRange": [
+        35,
+        36
+      ],
+      "MinReward": 7820,
+      "MaxReward": 8510
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 8,
+      "LayerRange": [
+        37,
+        38
+      ],
+      "MinReward": 8280,
+      "MaxReward": 8970
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 9,
+      "LayerRange": [
+        39,
+        40
+      ],
+      "MinReward": 8740,
+      "MaxReward": 9430
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 10,
+      "LayerRange": [
+        41,
+        42
+      ],
+      "MinReward": 9200,
+      "MaxReward": 9890
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 11,
+      "LayerRange": [
+        43,
+        44
+      ],
+      "MinReward": 9660,
+      "MaxReward": 10350
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 12,
+      "LayerRange": [
+        45,
+        46
+      ],
+      "MinReward": 10120,
+      "MaxReward": 10810
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 13,
+      "LayerRange": [
+        47,
+        48
+      ],
+      "MinReward": 10580,
+      "MaxReward": 11270
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 14,
+      "LayerRange": [
+        49,
+        50
+      ],
+      "MinReward": 11040,
+      "MaxReward": 11730
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 15,
+      "LayerRange": [
+        51,
+        54
+      ],
+      "MinReward": 11500,
+      "MaxReward": 12650
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 16,
+      "LayerRange": [
+        55,
+        55
+      ],
+      "MinReward": 12420,
+      "MaxReward": 12880
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 17,
+      "LayerRange": [
+        56,
+        56
+      ],
+      "MinReward": 12650,
+      "MaxReward": 13110
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 18,
+      "LayerRange": [
+        57,
+        57
+      ],
+      "MinReward": 12880,
+      "MaxReward": 13340
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 19,
+      "LayerRange": [
+        58,
+        58
+      ],
+      "MinReward": 13110,
+      "MaxReward": 13570
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 20,
+      "LayerRange": [
+        59,
+        59
+      ],
+      "MinReward": 13340,
+      "MaxReward": 13800
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 21,
+      "LayerRange": [
+        60,
+        60
+      ],
+      "MinReward": 13570,
+      "MaxReward": 14030
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 22,
+      "LayerRange": [
+        61,
+        61
+      ],
+      "MinReward": 13800,
+      "MaxReward": 14260
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 23,
+      "LayerRange": [
+        62,
+        62
+      ],
+      "MinReward": 14030,
+      "MaxReward": 14490
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 24,
+      "LayerRange": [
+        63,
+        63
+      ],
+      "MinReward": 14260,
+      "MaxReward": 14720
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 25,
+      "LayerRange": [
+        64,
+        64
+      ],
+      "MinReward": 14490,
+      "MaxReward": 14950
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 26,
+      "LayerRange": [
+        65,
+        65
+      ],
+      "MinReward": 14720,
+      "MaxReward": 15180
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 27,
+      "LayerRange": [
+        66,
+        66
+      ],
+      "MinReward": 14950,
+      "MaxReward": 15410
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 28,
+      "LayerRange": [
+        67,
+        67
+      ],
+      "MinReward": 15180,
+      "MaxReward": 15640
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 29,
+      "LayerRange": [
+        68,
+        68
+      ],
+      "MinReward": 15410,
+      "MaxReward": 15870
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 30,
+      "LayerRange": [
+        69,
+        69
+      ],
+      "MinReward": 15640,
+      "MaxReward": 16100
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 31,
+      "LayerRange": [
+        70,
+        71
+      ],
+      "MinReward": 15870,
+      "MaxReward": 16560
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 32,
+      "LayerRange": [
+        72,
+        73
+      ],
+      "MinReward": 16330,
+      "MaxReward": 17250
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 33,
+      "LayerRange": [
+        74,
+        75
+      ],
+      "MinReward": 16790,
+      "MaxReward": 17710
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 34,
+      "LayerRange": [
+        76,
+        77
+      ],
+      "MinReward": 17250,
+      "MaxReward": 18170
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 35,
+      "LayerRange": [
+        78,
+        79
+      ],
+      "MinReward": 17710,
+      "MaxReward": 18630
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 36,
+      "LayerRange": [
+        80,
+        81
+      ],
+      "MinReward": 18170,
+      "MaxReward": 19090
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 37,
+      "LayerRange": [
+        82,
+        83
+      ],
+      "MinReward": 18630,
+      "MaxReward": 19550
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 38,
+      "LayerRange": [
+        84,
+        85
+      ],
+      "MinReward": 19090,
+      "MaxReward": 20010
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 39,
+      "LayerRange": [
+        86,
+        87
+      ],
+      "MinReward": 19550,
+      "MaxReward": 20470
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 40,
+      "LayerRange": [
+        88,
+        89
+      ],
+      "MinReward": 20010,
+      "MaxReward": 20930
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 41,
+      "LayerRange": [
+        90,
+        91
+      ],
+      "MinReward": 20470,
+      "MaxReward": 21390
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 42,
+      "LayerRange": [
+        92,
+        93
+      ],
+      "MinReward": 20930,
+      "MaxReward": 21850
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 43,
+      "LayerRange": [
+        94,
+        95
+      ],
+      "MinReward": 21390,
+      "MaxReward": 22310
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 44,
+      "LayerRange": [
+        96,
+        98
+      ],
+      "MinReward": 21850,
+      "MaxReward": 23000
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 45,
+      "LayerRange": [
+        99,
+        101
+      ],
+      "MinReward": 22540,
+      "MaxReward": 23690
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 46,
+      "LayerRange": [
+        102,
+        104
+      ],
+      "MinReward": 23230,
+      "MaxReward": 24380
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 47,
+      "LayerRange": [
+        105,
+        107
+      ],
+      "MinReward": 23920,
+      "MaxReward": 24840
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 48,
+      "LayerRange": [
+        108,
+        110
+      ],
+      "MinReward": 24610,
+      "MaxReward": 25530
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 49,
+      "LayerRange": [
+        111,
+        113
+      ],
+      "MinReward": 25300,
+      "MaxReward": 26220
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 50,
+      "LayerRange": [
+        114,
+        116
+      ],
+      "MinReward": 25990,
+      "MaxReward": 26910
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 51,
+      "LayerRange": [
+        117,
+        119
+      ],
+      "MinReward": 26680,
+      "MaxReward": 27600
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 52,
+      "LayerRange": [
+        120,
+        122
+      ],
+      "MinReward": 27370,
+      "MaxReward": 28290
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 53,
+      "LayerRange": [
+        123,
+        125
+      ],
+      "MinReward": 28060,
+      "MaxReward": 28980
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 54,
+      "LayerRange": [
+        126,
+        128
+      ],
+      "MinReward": 28750,
+      "MaxReward": 29670
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 55,
+      "LayerRange": [
+        129,
+        131
+      ],
+      "MinReward": 29440,
+      "MaxReward": 30360
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 56,
+      "LayerRange": [
+        132,
+        134
+      ],
+      "MinReward": 30130,
+      "MaxReward": 31050
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 57,
+      "LayerRange": [
+        135,
+        137
+      ],
+      "MinReward": 30820,
+      "MaxReward": 31740
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 58,
+      "LayerRange": [
+        138,
+        140
+      ],
+      "MinReward": 31510,
+      "MaxReward": 32430
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 59,
+      "LayerRange": [
+        141,
+        143
+      ],
+      "MinReward": 32200,
+      "MaxReward": 33120
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 60,
+      "LayerRange": [
+        144,
+        146
+      ],
+      "MinReward": 32890,
+      "MaxReward": 33810
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 61,
+      "LayerRange": [
+        147,
+        149
+      ],
+      "MinReward": 33580,
+      "MaxReward": 34500
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 62,
+      "LayerRange": [
+        150,
+        152
+      ],
+      "MinReward": 34270,
+      "MaxReward": 35190
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 63,
+      "LayerRange": [
+        153,
+        155
+      ],
+      "MinReward": 34960,
+      "MaxReward": 35880
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 64,
+      "LayerRange": [
+        156,
+        160
+      ],
+      "MinReward": 35650,
+      "MaxReward": 37030
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 65,
+      "LayerRange": [
+        161,
+        165
+      ],
+      "MinReward": 36800,
+      "MaxReward": 38180
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 66,
+      "LayerRange": [
+        166,
+        170
+      ],
+      "MinReward": 37950,
+      "MaxReward": 39330
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 67,
+      "LayerRange": [
+        171,
+        175
+      ],
+      "MinReward": 39100,
+      "MaxReward": 40480
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 68,
+      "LayerRange": [
+        176,
+        180
+      ],
+      "MinReward": 40250,
+      "MaxReward": 41630
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 69,
+      "LayerRange": [
+        181,
+        185
+      ],
+      "MinReward": 41400,
+      "MaxReward": 42780
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 70,
+      "LayerRange": [
+        186,
+        190
+      ],
+      "MinReward": 42550,
+      "MaxReward": 43930
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 71,
+      "LayerRange": [
+        191,
+        195
+      ],
+      "MinReward": 43700,
+      "MaxReward": 45080
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 72,
+      "LayerRange": [
+        196,
+        200
+      ],
+      "MinReward": 44850,
+      "MaxReward": 46230
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 73,
+      "LayerRange": [
+        201,
+        205
+      ],
+      "MinReward": 46000,
+      "MaxReward": 47380
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 74,
+      "LayerRange": [
+        206,
+        210
+      ],
+      "MinReward": 47150,
+      "MaxReward": 48530
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 75,
+      "LayerRange": [
+        211,
+        215
+      ],
+      "MinReward": 48300,
+      "MaxReward": 49680
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 76,
+      "LayerRange": [
+        216,
+        220
+      ],
+      "MinReward": 49450,
+      "MaxReward": 50830
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 77,
+      "LayerRange": [
+        221,
+        225
+      ],
+      "MinReward": 50600,
+      "MaxReward": 51980
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 78,
+      "LayerRange": [
+        226,
+        230
+      ],
+      "MinReward": 51750,
+      "MaxReward": 53130
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 79,
+      "LayerRange": [
+        231,
+        235
+      ],
+      "MinReward": 52900,
+      "MaxReward": 54280
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 80,
+      "LayerRange": [
+        236,
+        240
+      ],
+      "MinReward": 54050,
+      "MaxReward": 55430
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 81,
+      "LayerRange": [
+        241,
+        245
+      ],
+      "MinReward": 55200,
+      "MaxReward": 56580
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 82,
+      "LayerRange": [
+        246,
+        250
+      ],
+      "MinReward": 56350,
+      "MaxReward": 57730
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 83,
+      "LayerRange": [
+        251,
+        255
+      ],
+      "MinReward": 57500,
+      "MaxReward": 58880
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 84,
+      "LayerRange": [
+        256,
+        260
+      ],
+      "MinReward": 58650,
+      "MaxReward": 60030
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 85,
+      "LayerRange": [
+        261,
+        265
+      ],
+      "MinReward": 59800,
+      "MaxReward": 61180
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 86,
+      "LayerRange": [
+        266,
+        270
+      ],
+      "MinReward": 60950,
+      "MaxReward": 62330
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 87,
+      "LayerRange": [
+        271,
+        275
+      ],
+      "MinReward": 62100,
+      "MaxReward": 63480
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 88,
+      "LayerRange": [
+        276,
+        280
+      ],
+      "MinReward": 63250,
+      "MaxReward": 64630
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 89,
+      "LayerRange": [
+        281,
+        285
+      ],
+      "MinReward": 64400,
+      "MaxReward": 65780
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 90,
+      "LayerRange": [
+        286,
+        290
+      ],
+      "MinReward": 65550,
+      "MaxReward": 66930
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 91,
+      "LayerRange": [
+        291,
+        295
+      ],
+      "MinReward": 66700,
+      "MaxReward": 68080
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 92,
+      "LayerRange": [
+        296,
+        300
+      ],
+      "MinReward": 67850,
+      "MaxReward": 69230
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 93,
+      "LayerRange": [
+        301,
+        305
+      ],
+      "MinReward": 69000,
+      "MaxReward": 70380
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 94,
+      "LayerRange": [
+        306,
+        310
+      ],
+      "MinReward": 70150,
+      "MaxReward": 71530
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 95,
+      "LayerRange": [
+        311,
+        315
+      ],
+      "MinReward": 71300,
+      "MaxReward": 72680
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 96,
+      "LayerRange": [
+        316,
+        320
+      ],
+      "MinReward": 72450,
+      "MaxReward": 73830
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 97,
+      "LayerRange": [
+        321,
+        325
+      ],
+      "MinReward": 73600,
+      "MaxReward": 74980
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 98,
+      "LayerRange": [
+        326,
+        330
+      ],
+      "MinReward": 74750,
+      "MaxReward": 76130
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 99,
+      "LayerRange": [
+        331,
+        335
+      ],
+      "MinReward": 75900,
+      "MaxReward": 77280
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 100,
+      "LayerRange": [
+        336,
+        340
+      ],
+      "MinReward": 77050,
+      "MaxReward": 78430
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 101,
+      "LayerRange": [
+        341,
+        345
+      ],
+      "MinReward": 78200,
+      "MaxReward": 79580
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 102,
+      "LayerRange": [
+        346,
+        350
+      ],
+      "MinReward": 79350,
+      "MaxReward": 80730
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 103,
+      "LayerRange": [
+        351,
+        355
+      ],
+      "MinReward": 80500,
+      "MaxReward": 81880
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 104,
+      "LayerRange": [
+        356,
+        360
+      ],
+      "MinReward": 81650,
+      "MaxReward": 83030
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 105,
+      "LayerRange": [
+        361,
+        365
+      ],
+      "MinReward": 82800,
+      "MaxReward": 84180
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 106,
+      "LayerRange": [
+        366,
+        370
+      ],
+      "MinReward": 83950,
+      "MaxReward": 85330
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 107,
+      "LayerRange": [
+        371,
+        375
+      ],
+      "MinReward": 85100,
+      "MaxReward": 86480
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 108,
+      "LayerRange": [
+        376,
+        380
+      ],
+      "MinReward": 86250,
+      "MaxReward": 87630
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 109,
+      "LayerRange": [
+        381,
+        385
+      ],
+      "MinReward": 87400,
+      "MaxReward": 88780
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 110,
+      "LayerRange": [
+        386,
+        390
+      ],
+      "MinReward": 88550,
+      "MaxReward": 89930
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 111,
+      "LayerRange": [
+        391,
+        395
+      ],
+      "MinReward": 89700,
+      "MaxReward": 91080
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 112,
+      "LayerRange": [
+        396,
+        400
+      ],
+      "MinReward": 90850,
+      "MaxReward": 92230
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 113,
+      "LayerRange": [
+        401,
+        405
+      ],
+      "MinReward": 92000,
+      "MaxReward": 93380
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 114,
+      "LayerRange": [
+        406,
+        410
+      ],
+      "MinReward": 93150,
+      "MaxReward": 94530
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 115,
+      "LayerRange": [
+        411,
+        415
+      ],
+      "MinReward": 94300,
+      "MaxReward": 95680
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 116,
+      "LayerRange": [
+        416,
+        420
+      ],
+      "MinReward": 95450,
+      "MaxReward": 96830
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 117,
+      "LayerRange": [
+        421,
+        425
+      ],
+      "MinReward": 96600,
+      "MaxReward": 97980
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 118,
+      "LayerRange": [
+        426,
+        430
+      ],
+      "MinReward": 97750,
+      "MaxReward": 99130
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 119,
+      "LayerRange": [
+        431,
+        435
+      ],
+      "MinReward": 98900,
+      "MaxReward": 100280
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 120,
+      "LayerRange": [
+        436,
+        440
+      ],
+      "MinReward": 100050,
+      "MaxReward": 101430
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 121,
+      "LayerRange": [
+        441,
+        445
+      ],
+      "MinReward": 101200,
+      "MaxReward": 102580
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 122,
+      "LayerRange": [
+        446,
+        450
+      ],
+      "MinReward": 102350,
+      "MaxReward": 103730
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 123,
+      "LayerRange": [
+        451,
+        455
+      ],
+      "MinReward": 103500,
+      "MaxReward": 104880
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 124,
+      "LayerRange": [
+        456,
+        460
+      ],
+      "MinReward": 104650,
+      "MaxReward": 106030
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 125,
+      "LayerRange": [
+        461,
+        465
+      ],
+      "MinReward": 105800,
+      "MaxReward": 107180
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 126,
+      "LayerRange": [
+        466,
+        470
+      ],
+      "MinReward": 106950,
+      "MaxReward": 108330
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 127,
+      "LayerRange": [
+        471,
+        475
+      ],
+      "MinReward": 108100,
+      "MaxReward": 109480
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 128,
+      "LayerRange": [
+        476,
+        480
+      ],
+      "MinReward": 109250,
+      "MaxReward": 110630
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 129,
+      "LayerRange": [
+        481,
+        485
+      ],
+      "MinReward": 110400,
+      "MaxReward": 111780
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 130,
+      "LayerRange": [
+        486,
+        490
+      ],
+      "MinReward": 111550,
+      "MaxReward": 112930
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 131,
+      "LayerRange": [
+        491,
+        495
+      ],
+      "MinReward": 112700,
+      "MaxReward": 114080
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 132,
+      "LayerRange": [
+        496,
+        500
+      ],
+      "MinReward": 113850,
+      "MaxReward": 115230
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 133,
+      "LayerRange": [
+        501,
+        510
+      ],
+      "MinReward": 115000,
+      "MaxReward": 117530
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 134,
+      "LayerRange": [
+        511,
+        520
+      ],
+      "MinReward": 117300,
+      "MaxReward": 119830
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 135,
+      "LayerRange": [
+        521,
+        530
+      ],
+      "MinReward": 119600,
+      "MaxReward": 122130
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 136,
+      "LayerRange": [
+        531,
+        540
+      ],
+      "MinReward": 121900,
+      "MaxReward": 124430
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 137,
+      "LayerRange": [
+        541,
+        550
+      ],
+      "MinReward": 124200,
+      "MaxReward": 126730
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 138,
+      "LayerRange": [
+        551,
+        560
+      ],
+      "MinReward": 126500,
+      "MaxReward": 129030
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 139,
+      "LayerRange": [
+        561,
+        570
+      ],
+      "MinReward": 128800,
+      "MaxReward": 131330
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 140,
+      "LayerRange": [
+        571,
+        580
+      ],
+      "MinReward": 131100,
+      "MaxReward": 133630
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 141,
+      "LayerRange": [
+        581,
+        590
+      ],
+      "MinReward": 133400,
+      "MaxReward": 135930
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 142,
+      "LayerRange": [
+        591,
+        600
+      ],
+      "MinReward": 135700,
+      "MaxReward": 138230
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 143,
+      "LayerRange": [
+        601,
+        610
+      ],
+      "MinReward": 138000,
+      "MaxReward": 140530
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 144,
+      "LayerRange": [
+        611,
+        620
+      ],
+      "MinReward": 140300,
+      "MaxReward": 142830
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 145,
+      "LayerRange": [
+        621,
+        630
+      ],
+      "MinReward": 142600,
+      "MaxReward": 145130
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 146,
+      "LayerRange": [
+        631,
+        640
+      ],
+      "MinReward": 144900,
+      "MaxReward": 147430
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 147,
+      "LayerRange": [
+        641,
+        650
+      ],
+      "MinReward": 147200,
+      "MaxReward": 149730
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 148,
+      "LayerRange": [
+        651,
+        660
+      ],
+      "MinReward": 149500,
+      "MaxReward": 152030
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 149,
+      "LayerRange": [
+        661,
+        670
+      ],
+      "MinReward": 151800,
+      "MaxReward": 154330
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 150,
+      "LayerRange": [
+        671,
+        680
+      ],
+      "MinReward": 154100,
+      "MaxReward": 156630
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 151,
+      "LayerRange": [
+        681,
+        690
+      ],
+      "MinReward": 156400,
+      "MaxReward": 158930
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 152,
+      "LayerRange": [
+        691,
+        700
+      ],
+      "MinReward": 158700,
+      "MaxReward": 161230
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 153,
+      "LayerRange": [
+        701,
+        710
+      ],
+      "MinReward": 161000,
+      "MaxReward": 163530
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 154,
+      "LayerRange": [
+        711,
+        720
+      ],
+      "MinReward": 163300,
+      "MaxReward": 165830
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 155,
+      "LayerRange": [
+        721,
+        730
+      ],
+      "MinReward": 165600,
+      "MaxReward": 168130
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 156,
+      "LayerRange": [
+        731,
+        740
+      ],
+      "MinReward": 167900,
+      "MaxReward": 170430
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 157,
+      "LayerRange": [
+        741,
+        750
+      ],
+      "MinReward": 170200,
+      "MaxReward": 172730
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 158,
+      "LayerRange": [
+        751,
+        760
+      ],
+      "MinReward": 172500,
+      "MaxReward": 175030
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 159,
+      "LayerRange": [
+        761,
+        770
+      ],
+      "MinReward": 174800,
+      "MaxReward": 177330
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 160,
+      "LayerRange": [
+        771,
+        780
+      ],
+      "MinReward": 177100,
+      "MaxReward": 179630
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 161,
+      "LayerRange": [
+        781,
+        790
+      ],
+      "MinReward": 179400,
+      "MaxReward": 181930
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 162,
+      "LayerRange": [
+        791,
+        800
+      ],
+      "MinReward": 181700,
+      "MaxReward": 184230
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 163,
+      "LayerRange": [
+        801,
+        810
+      ],
+      "MinReward": 184000,
+      "MaxReward": 186530
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 164,
+      "LayerRange": [
+        811,
+        830
+      ],
+      "MinReward": 186300,
+      "MaxReward": 191130
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 165,
+      "LayerRange": [
+        831,
+        850
+      ],
+      "MinReward": 190900,
+      "MaxReward": 195730
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 166,
+      "LayerRange": [
+        851,
+        870
+      ],
+      "MinReward": 195500,
+      "MaxReward": 200330
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 167,
+      "LayerRange": [
+        871,
+        890
+      ],
+      "MinReward": 200100,
+      "MaxReward": 204930
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 168,
+      "LayerRange": [
+        891,
+        910
+      ],
+      "MinReward": 204700,
+      "MaxReward": 209530
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 169,
+      "LayerRange": [
+        911,
+        930
+      ],
+      "MinReward": 209300,
+      "MaxReward": 214130
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 170,
+      "LayerRange": [
+        931,
+        950
+      ],
+      "MinReward": 213900,
+      "MaxReward": 218730
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 171,
+      "LayerRange": [
+        951,
+        970
+      ],
+      "MinReward": 218500,
+      "MaxReward": 223330
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 172,
+      "LayerRange": [
+        971,
+        990
+      ],
+      "MinReward": 223100,
+      "MaxReward": 227930
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 173,
+      "LayerRange": [
+        991,
+        1010
+      ],
+      "MinReward": 227700,
+      "MaxReward": 232530
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 174,
+      "LayerRange": [
+        1011,
+        1030
+      ],
+      "MinReward": 232300,
+      "MaxReward": 237130
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 175,
+      "LayerRange": [
+        1031,
+        1050
+      ],
+      "MinReward": 236900,
+      "MaxReward": 241730
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 176,
+      "LayerRange": [
+        1051,
+        1070
+      ],
+      "MinReward": 241500,
+      "MaxReward": 246330
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 177,
+      "LayerRange": [
+        1071,
+        1090
+      ],
+      "MinReward": 246100,
+      "MaxReward": 250930
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 178,
+      "LayerRange": [
+        1091,
+        1110
+      ],
+      "MinReward": 250700,
+      "MaxReward": 255530
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 179,
+      "LayerRange": [
+        1111,
+        1130
+      ],
+      "MinReward": 255300,
+      "MaxReward": 260130
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 180,
+      "LayerRange": [
+        1131,
+        1150
+      ],
+      "MinReward": 259900,
+      "MaxReward": 264730
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 181,
+      "LayerRange": [
+        1151,
+        1170
+      ],
+      "MinReward": 264500,
+      "MaxReward": 269330
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 182,
+      "LayerRange": [
+        1171,
+        1190
+      ],
+      "MinReward": 269100,
+      "MaxReward": 273930
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 183,
+      "LayerRange": [
+        1191,
+        1210
+      ],
+      "MinReward": 273700,
+      "MaxReward": 278530
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 184,
+      "LayerRange": [
+        1211,
+        1230
+      ],
+      "MinReward": 278300,
+      "MaxReward": 283130
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 185,
+      "LayerRange": [
+        1231,
+        1250
+      ],
+      "MinReward": 282900,
+      "MaxReward": 287730
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 186,
+      "LayerRange": [
+        1251,
+        1270
+      ],
+      "MinReward": 287500,
+      "MaxReward": 292330
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 187,
+      "LayerRange": [
+        1271,
+        1290
+      ],
+      "MinReward": 292100,
+      "MaxReward": 296930
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 188,
+      "LayerRange": [
+        1291,
+        1310
+      ],
+      "MinReward": 296700,
+      "MaxReward": 301530
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 189,
+      "LayerRange": [
+        1311,
+        1330
+      ],
+      "MinReward": 301300,
+      "MaxReward": 306130
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 190,
+      "LayerRange": [
+        1331,
+        1350
+      ],
+      "MinReward": 305900,
+      "MaxReward": 310730
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 191,
+      "LayerRange": [
+        1351,
+        1370
+      ],
+      "MinReward": 310500,
+      "MaxReward": 315330
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 192,
+      "LayerRange": [
+        1371,
+        1390
+      ],
+      "MinReward": 315100,
+      "MaxReward": 319930
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 193,
+      "LayerRange": [
+        1391,
+        1410
+      ],
+      "MinReward": 319700,
+      "MaxReward": 324530
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 194,
+      "LayerRange": [
+        1411,
+        1430
+      ],
+      "MinReward": 324300,
+      "MaxReward": 329130
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 195,
+      "LayerRange": [
+        1431,
+        1450
+      ],
+      "MinReward": 328900,
+      "MaxReward": 333730
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 196,
+      "LayerRange": [
+        1451,
+        1470
+      ],
+      "MinReward": 333500,
+      "MaxReward": 338330
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 197,
+      "LayerRange": [
+        1471,
+        1490
+      ],
+      "MinReward": 338100,
+      "MaxReward": 342930
+    }
+  },
+  {
+    "PathTreasureDynamic1Row": {
+      "ID": 198,
+      "LayerRange": [
+        1491,
+        9999999
+      ],
+      "MinReward": 342700,
+      "MaxReward": 99999999
+    }
+  }
+]
